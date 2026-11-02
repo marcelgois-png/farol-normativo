@@ -210,7 +210,7 @@ class Gerador:
         ]:
             linhas = []
             for n in sorted((x for x in b.normas.values() if x.situacao_chave == chave and not x.federal), key=lambda x: (x.orgao, x.ano, x.numero)):
-                linhas.append([self._link(n.id), html.escape(n.orgao), html.escape(n.ano), html.escape(n.situacao), self._ids_para_links_html(n.situacao_base[:400])])
+                linhas.append([self._link(n.id), html.escape(n.orgao), html.escape(n.ano), html.escape(n.situacao), self._ids_para_links_html(n.situacao_base)])
             blocos.append({"id": chave, "titulo": titulo + " (UFPB)", "texto": texto, "colunas": ["Norma", "Órgão", "Ano", "Situação", "Base"], "linhas": linhas})
         self._render("painel.html", "vigencia/index.html", "../", secao="vigencia", titulo="Quadro de vigência",
                      lead="Situação de cada norma conforme o texto das normas posteriores. As normas federais seguem a anotação do texto compilado do planalto e das notas oficiais do CNE.",
@@ -308,7 +308,7 @@ class Gerador:
         blocos = []
         for g, lst in sorted(grupos.items(), key=lambda kv: -len(kv[1])):
             lst.sort(key=lambda n: -b.grau_entrada(n.id))
-            linhas = [[self._link(n.id), html.escape(n.status_coleta), _br(b.grau_entrada(n.id)), html.escape((n.ementa or n.obs)[:200])] for n in lst]
+            linhas = [[self._link(n.id), html.escape(n.status_coleta), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in lst]
             blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "colunas": ["Norma", "Situação da coleta", "Citada por", "Descrição / observação"], "linhas": linhas})
         resumo = [("citadas, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in sorted(grupos.items(), key=lambda kv: -len(kv[1]))]
         self._render("painel.html", "fila/index.html", "../", secao="fila", titulo="Fila de coleta",
@@ -326,7 +326,7 @@ class Gerador:
 
             for p in sorted(pasta.glob("*.md")):
                 htm = markdown.markdown(self._ids_para_links_html_md(p.read_text(encoding="utf-8")), extensions=["tables"])
-                titulo = re.sub(r"^#\s*", "", p.read_text(encoding="utf-8").split("\n", 1)[0])
+                titulo = re.sub(r"^#\s*(Oraculovski\s*·\s*)?", "", p.read_text(encoding="utf-8").split("\n", 1)[0])
                 rel = f"sobre/{p.stem}.html"
                 self._raiz_rel = "../"
                 self._escrever(rel, self.env.get_template("painel.html").render(raiz="../", meta=self.meta, secao="sobre", titulo=titulo, lead="", resumo=None, blocos=[{"id": "doc", "titulo": "", "html": '<div class="card md">' + htm + "</div>"}]))

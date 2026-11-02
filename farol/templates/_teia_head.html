@@ -4,55 +4,19 @@
 <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../assets/farol.css">
 <style>
-/* Layout: app de uma tela — barra superior fina, painel de controle à esquerda, grafo ao centro, ficha à direita; no celular os painéis viram abas sobrepostas. */
-/* Tokens da identidade UFPB (Manual de Identidade Visual): os mesmos de assets/farol.css. */
-:root{
-  --ufpb-azul:#284f9e; --ufpb-azul-escuro:#1e3766; --ufpb-azul-claro:#92c3eb;
-  --ufpb-amarelo:#ffc636; --ufpb-amarelo-escuro:#ce9c30; --ufpb-laranja:#e76d27; --ufpb-cinza:#bcbcbc;
-  --bg:#f2f4f7; --dot:rgba(40,79,158,.09); --panel:#ffffff; --panel2:#f4f6fa; --line:#d8dde6;
-  --fg:#15223a; --muted:#53627a; --faint:#8692a6;
-  --accent:#284f9e; --accent-dark:#1e3766; --accent-soft:#e4edf8; --ink-title:#1e3766;
-  --vig:#284f9e; --alt:#ce9c30; --rev:#2a2a2a; --nl:#8d8d8d; --nt:#92c3eb; --cf:#e76d27;
-  --eA:#ce9c30; --eR:#e76d27; --eS:#1e3766; --eF:#7b879b; --eM:#bcbcbc;
-  --display:"IBM Plex Sans","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-  --body:"IBM Plex Sans","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-  --cond:"IBM Plex Sans Condensed","IBM Plex Sans","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
-  --shadow:0 1px 2px rgba(30,55,102,.08),0 10px 28px rgba(30,55,102,.10);
-}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#0f1727; --dot:rgba(146,195,235,.07); --panel:#162036; --panel2:#1b2740; --line:#2b3b5c;
-  --fg:#e8edf6; --muted:#a7b4c9; --faint:#74839c;
-  --accent:#92c3eb; --accent-dark:#92c3eb; --accent-soft:#223457; --ink-title:#e8edf6;
-  --vig:#5b8ae0; --alt:#e0b24a; --rev:#b9bec8; --nl:#74839c; --nt:#92c3eb; --cf:#f0894a;
-  --eA:#e0b24a; --eR:#f08a4c; --eS:#92c3eb; --eF:#8593ab; --eM:#3b4b6b;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px rgba(0,0,0,.45); color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#0f1727; --dot:rgba(146,195,235,.07); --panel:#162036; --panel2:#1b2740; --line:#2b3b5c;
-  --fg:#e8edf6; --muted:#a7b4c9; --faint:#74839c;
-  --accent:#92c3eb; --accent-dark:#92c3eb; --accent-soft:#223457; --ink-title:#e8edf6;
-  --vig:#5b8ae0; --alt:#e0b24a; --rev:#b9bec8; --nl:#74839c; --nt:#92c3eb; --cf:#f0894a;
-  --eA:#e0b24a; --eR:#f08a4c; --eS:#92c3eb; --eF:#8593ab; --eM:#3b4b6b;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px rgba(0,0,0,.45); color-scheme:dark}
-
+/* Layout: app de uma tela — barra de título do Farol (assets/farol.css), barra de ferramentas da Teia, painel de controle à esquerda, grafo ao centro, ficha à direita; no celular os painéis viram abas sobrepostas. Tokens de cor e fontes vêm de assets/farol.css. */
 html,body{height:100%}
-body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 var(--body);display:flex;flex-direction:column;min-height:100%}
-*{box-sizing:border-box}
-button,input,select{font:inherit;color:inherit}
-a{color:var(--accent)}
-.app{display:grid;grid-template-rows:auto 1fr;grid-template-columns:minmax(0,1fr);height:100%;min-height:0}
+body{font-size:15px;line-height:1.45;display:flex;flex-direction:column;min-height:100%}
+.app{display:grid;grid-template-rows:auto 1fr;grid-template-columns:minmax(0,1fr);flex:1;min-height:0}
 
-/* barra superior */
-.top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:var(--panel);border-bottom:1px solid var(--line);border-top:4px solid var(--ufpb-azul);padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-.brand{display:flex;align-items:center;gap:10px;min-width:0}
-.brand .marca{display:block;background:#fff;border-radius:8px;padding:3px 6px;flex:none}
-.brand .marca img{display:block;height:30px;width:auto}
-.brand .sep{width:1px;height:28px;background:var(--line);flex:none}
-.brand h1{font:700 21px/1.1 var(--display);margin:0;letter-spacing:-.01em;text-wrap:balance;color:var(--ink-title)}
-.brand .volta{font:600 12px var(--cond);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);text-decoration:none;border:1px solid var(--accent-soft);border-radius:6px;padding:3px 7px}
-.brand small{color:var(--muted);font-size:12.5px}
+/* barra de ferramentas da Teia (abaixo da barra de título do Farol) */
+.barra{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:var(--panel);border-bottom:1px solid var(--line);padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.titulo{display:flex;align-items:baseline;gap:10px;min-width:0}
+.titulo h1{font:700 20px/1.1 var(--display);margin:0;letter-spacing:-.01em;color:var(--ink-title)}
+.titulo small{color:var(--muted);font-size:12.5px}
 .stats{display:flex;gap:6px;flex-wrap:wrap}
 .chip{display:inline-flex;align-items:center;gap:6px;padding:3px 9px;border:1px solid var(--line);border-radius:999px;font-size:12.5px;color:var(--muted);background:var(--panel2);font-variant-numeric:tabular-nums;white-space:nowrap}
 .chip b{color:var(--fg);font-weight:600}
@@ -189,7 +153,7 @@ button.help:hover{border-color:var(--accent)}
 .rel{border-top:1px solid var(--line);padding-top:8px}
 .rel h4{margin:0 0 6px;font:600 12px var(--cond);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .rl{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:5px}
-.rl li{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start;font-size:13px}
+.rl li{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start;font-size:13px;background:none;border:0;border-radius:0;padding:0}
 .rl .k{font:600 11px var(--cond);letter-spacing:.06em;padding:2px 6px;border-radius:5px;background:var(--panel2);border:1px solid var(--line);white-space:nowrap;margin-top:1px}
 .rl .k.A{border-color:var(--eA);color:var(--eA)}.rl .k.R,.rl .k.P{border-color:var(--eR);color:var(--eR)}.rl .k.S{border-color:var(--eS);color:var(--eS)}.rl .k.X{border-color:var(--nt);color:var(--nt)}
 .rl button{background:none;border:0;padding:0;color:var(--accent);cursor:pointer;text-align:left;font-weight:600}
@@ -205,8 +169,7 @@ summary{cursor:pointer;font-weight:600;font-size:13.5px}
 
 @media (max-width:1000px){
   .edge,.panels{display:none}
-  .brand{flex-wrap:wrap}
-  .top{min-width:0}
+  .barra{min-width:0}
   .main{grid-template-columns:1fr}
   .app.noficha .main,.app.noleft .main,.app.noficha.noleft .main{grid-template-columns:1fr}
   .side.left,.stage,.side.right{grid-column:1;grid-row:1}
@@ -219,6 +182,8 @@ summary{cursor:pointer;font-weight:600;font-size:13.5px}
   .tabs{display:flex}
   .legend{display:none}
 }
-@media (max-width:600px){.brand small,.brand .sep{display:none}.brand .marca img{height:26px}}
+@media (max-width:600px){.titulo small,.stats{display:none}.barra{gap:8px}}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .seg button[aria-pressed="true"],:root:not([data-theme="light"]) .tabs button[aria-pressed="true"]{color:#0f1727}}
+:root[data-theme="dark"] .seg button[aria-pressed="true"],:root[data-theme="dark"] .tabs button[aria-pressed="true"]{color:#0f1727}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>

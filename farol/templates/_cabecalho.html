@@ -1,0 +1,18 @@
+{# Barra de título do Farol, presente em todas as páginas (inclusive na Teia): marca UFPB na aplicação preferencial + nome do sistema + seções. #}
+<div class="stripe" aria-hidden="true"></div>
+<header class="top"><div class="in">
+  <a class="brand" href="{{ raiz }}">
+    <span class="marca"><img src="{{ raiz }}assets/ufpb-lockup.png" alt="UFPB — Universidade Federal da Paraíba" width="342" height="180"></span>
+    <span class="sep" aria-hidden="true"></span>
+    <span class="nome"><b>Farol Normativo</b><small>atualizado em {{ meta.data_base_br }}</small></span>
+  </a>
+  <nav class="menu" aria-label="Seções">
+    <a href="{{ raiz }}busca/" {% if secao=='busca' %}class="on"{% endif %}>Busca</a>
+    <a href="{{ raiz }}teia/" {% if secao=='teia' %}class="on"{% endif %}>Teia</a>
+    <a href="{{ raiz }}estrutura/" {% if secao=='estrutura' %}class="on"{% endif %}>Estatuto e regimentos</a>
+    <a href="{{ raiz }}vigencia/" {% if secao=='vigencia' %}class="on"{% endif %}>Vigência</a>
+    <a href="{{ raiz }}divergencias/" {% if secao=='divergencias' %}class="on"{% endif %}>Divergências</a>
+    <a href="{{ raiz }}fila/" {% if secao=='fila' %}class="on"{% endif %}>Fila</a>
+    <a href="{{ raiz }}sobre/" {% if secao=='sobre' %}class="on"{% endif %}>Sobre</a>
+  </nav>
+</div></header>

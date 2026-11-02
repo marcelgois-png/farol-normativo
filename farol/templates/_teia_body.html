@@ -1,11 +1,8 @@
 <div class="app" id="app" data-tab="grafo">
-  <header class="top">
-    <div class="brand">
-      <a class="marca" href="../" title="Início do Farol Normativo"><img src="../assets/ufpb-lockup.png" alt="UFPB — Universidade Federal da Paraíba" width="342" height="180"></a>
-      <span class="sep" aria-hidden="true"></span>
-      <a class="volta" href="../" title="Início do Farol">Farol</a>
+  <div class="barra">
+    <div class="titulo">
       <h1>Teia</h1>
-      <small>Mapa de citações normativas · base da <span id="mRodada"></span></small>
+      <small>Mapa de citações normativas · atualizado em <span id="mData0"></span></small>
     </div>
     <div class="search">
       <div class="sbox">
@@ -34,7 +31,7 @@
       <button id="tabG" aria-pressed="true">Teia</button>
       <button id="tabF" aria-pressed="false">Ficha</button>
     </div>
-  </header>
+  </div>
 
   <div class="main">
     <aside class="side left">
@@ -176,7 +173,7 @@
       </div>
       <div class="sec">
         <h2>Sobre a base</h2>
-        <p class="hint" style="margin:0">Dados da pasta <code>acervo/base</code> do projeto (nós, arestas e citações da <span id="mRodada2"></span>, <span id="mData"></span>). O mapa só exibe o que está no acervo; irmãs e paralelas são sugestões, não relações normativas. O Oraculovski orienta e não substitui parecer da Procuradoria Federal nem a deliberação dos órgãos competentes.</p>
+        <p class="hint" style="margin:0">Dados da base do Farol (nós, arestas e citações, atualizados em <span id="mData"></span>). O mapa só exibe o que está no acervo; irmãs e paralelas são sugestões, não relações normativas. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes.</p>
       </div>
     </aside>
 
@@ -218,7 +215,7 @@ const S={seed:null,dir:'both',depth:1,cit:false,sug:false,labels:true,view:'forc
 const $=id=>document.getElementById(id);
 
 // cabeçalho
-$('mRodada').textContent=D.meta.rodada; $('mRodada2').textContent=D.meta.rodada; $('mData').textContent=pt(D.meta.data_base);
+$('mData0').textContent=pt(D.meta.data_base); $('mData').textContent=pt(D.meta.data_base);
 const m=D.meta;
 $('stats').innerHTML=[`<b>${m.nos.toLocaleString('pt-BR')}</b> normas`,`<b>${m.com_texto.toLocaleString('pt-BR')}</b> com texto`,`<b>${m.fantasmas.toLocaleString('pt-BR')}</b> na fila`,`<b>${m.arestas.toLocaleString('pt-BR')}</b> relações`,`<b>${m.citacoes.toLocaleString('pt-BR')}</b> citações`].map(s=>`<span class="chip">${s}</span>`).join('');
 

@@ -14,23 +14,7 @@
 {% block head %}{% endblock %}
 </head>
 <body>
-<div class="stripe" aria-hidden="true"></div>
-<header class="top"><div class="in">
-  <a class="brand" href="{{ raiz }}">
-    <span class="marca"><img src="{{ raiz }}assets/ufpb-lockup.png" alt="UFPB — Universidade Federal da Paraíba" width="342" height="180"></span>
-    <span class="sep" aria-hidden="true"></span>
-    <span class="nome"><b>Farol Normativo</b><small>base da {{ meta.rodada }} · {{ meta.data_base_br }}</small></span>
-  </a>
-  <nav class="menu" aria-label="Seções">
-    <a href="{{ raiz }}busca/" {% if secao=='busca' %}class="on"{% endif %}>Busca</a>
-    <a href="{{ raiz }}teia/" {% if secao=='teia' %}class="on"{% endif %}>Teia</a>
-    <a href="{{ raiz }}estrutura/" {% if secao=='estrutura' %}class="on"{% endif %}>Estatuto e regimentos</a>
-    <a href="{{ raiz }}vigencia/" {% if secao=='vigencia' %}class="on"{% endif %}>Vigência</a>
-    <a href="{{ raiz }}divergencias/" {% if secao=='divergencias' %}class="on"{% endif %}>Divergências</a>
-    <a href="{{ raiz }}fila/" {% if secao=='fila' %}class="on"{% endif %}>Fila</a>
-    <a href="{{ raiz }}sobre/" {% if secao=='sobre' %}class="on"{% endif %}>Sobre</a>
-  </nav>
-</div></header>
+{% include "_cabecalho.html" %}
 <main>
 {% block conteudo %}{% endblock %}
 </main>
@@ -40,11 +24,12 @@
     <img src="{{ raiz }}assets/ufpb-brasao.png" alt="Brasão da UFPB" width="178" height="240">
     <div>
       <b>Farol Normativo UFPB</b>
-      Universidade Federal da Paraíba · Centro de Tecnologia. Acervo de normas, relações e vigência, construído só a partir de fontes oficiais (SODS, SIGRH, planalto.gov.br, gov.br/mec).
+      <p>Universidade Federal da Paraíba · Centro de Tecnologia. Acervo de normas, relações e vigência, construído só a partir de fontes oficiais (SODS, SIGRH, planalto.gov.br, gov.br/mec).</p>
       <p class="legal">O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes. Em caso de divergência, prevalece o texto oficial publicado.</p>
     </div>
   </div>
 </footer>
+<script src="{{ raiz }}assets/tabelas.js" defer></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>
