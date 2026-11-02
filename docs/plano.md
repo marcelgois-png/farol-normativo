@@ -100,7 +100,7 @@ Tudo isso já aconteceu três vezes à mão (Rodadas 0, 1 e 2). O trabalho é tr
 | Marco | Conteúdo | Prazo |
 |---|---|---|
 | M1 | Repositório criado; base e textos migrados do computador; gerador lendo e validando a base | concluído em 02/11/2026 (repositório local `farol-normativo`, aguardando criação no GitHub) |
-| M2 | Site v0.1 no ar: ficha e texto de cada norma com links, busca, Teia integrada (base completa da Rodada 2: 6.333 normas, 3.277 textos) — gerador já produz o site completo; falta publicar | +3 semanas |
+| M2 | Site v0.1 no ar: ficha e texto de cada norma com links, busca, Teia integrada (base completa da Rodada 2: 6.333 normas, 3.281 textos) | concluído em 02/11/2026 — https://marcelgois-png.github.io/farol-normativo/ (GitHub Pages, repositório público) |
 | M3 | Painéis internos (vigência, divergências, fila, rodadas) e endereços estáveis; revisão de OCR nas normas estruturais | +2 semanas |
 | M4 | Apresentação à SODS com o site no ar; pedido das 148 resoluções; definição das perguntas de referência | dezembro de 2026 |
 | M5 | Rodada 3 (resoluções da SODS, pareceres do CNE, portarias MEC/CAPES) pelo pipeline novo | janeiro de 2027 |
@@ -136,4 +136,4 @@ Repositório criado em `github.com/marcelgois-png/farol-normativo` (privado) com
 
 Projeto cadastrado no Planeja CT em 02/11/2026 como "Implantar o Farol Normativo UFPB: acervo, mapa de citações e consulta das normas da universidade" (690), com oito atividades: cinco concluídas (base, Teia, plano, repositório, textos da SODS) e três previstas — site v0.1 até 20/11/2026, apresentação à SODS até 18/12/2026 e Rodada 3 até 29/01/2027.
 
-Próximo passo (M2): decidir a publicação (repositório público para o GitHub Pages, ou servidor da UFPB) e conferir o site no ar. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.
+Site v0.1 publicado em 02/11/2026 em https://marcelgois-png.github.io/farol-normativo/ (repositório tornado público; publicação automática a cada envio). Próximo passo (M3): revisão de OCR das normas estruturais mais citadas, vista por artigo na Teia e aproveitamento dos links da página do Regimento Geral na fila; em paralelo, pedir à STI o endereço farol.ufpb.br.

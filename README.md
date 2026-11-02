@@ -1,5 +1,7 @@
 # Farol Normativo UFPB
 
+Site publicado: https://marcelgois-png.github.io/farol-normativo/
+
 Consulta ao ecossistema normativo da Universidade Federal da Paraíba: as normas que orientam as decisões da universidade, como elas se citam, alteram e revogam umas às outras, e o que está vigente.
 
 O repositório guarda a **base** (normas e relações, com trecho e fonte de cada uma), os **textos integrais** em Markdown e o **gerador** que transforma tudo em um site estático com:
