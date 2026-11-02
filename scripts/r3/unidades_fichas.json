@@ -1,0 +1,81 @@
+{
+ "UFPB-PRAPE-PORT-09-2019": {
+  "tipo": "Portaria",
+  "orgao": "PRAPE",
+  "numero": "09/2019",
+  "data": "2019-06-18",
+  "ementa": "Apresenta as formas e estabelece os requisitos para o recebimento de apoio da PRAPE à participação de estudantes de graduação em eventos acadêmicos (auxílio passagens, inscrição em eventos e transporte).",
+  "nivel": "N10",
+  "dominio": "prape.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext) nas páginas com texto; OCR (Tesseract, português, 300 dpi) nas páginas digitalizadas (1 a 9)",
+  "epigrafe": "Portaria nº 09/2019 — PRAPE",
+  "url": "https://www.prape.ufpb.br/wp-content/uploads/sites/207/sites/207/2026/03/PORTARIA-09-2019-3.pdf"
+ },
+ "UFPB-PRAPE-PORT-02-2021": {
+  "tipo": "Portaria",
+  "orgao": "PRAPE",
+  "numero": "02/2021",
+  "data": "2021-10-22",
+  "ementa": "Cria o Conselho de Acompanhamento da Assistência Estudantil (CAAE) no âmbito da Pró-Reitoria de Assistência e Promoção ao Estudante.",
+  "nivel": "N10",
+  "dominio": "prape.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext); publicação no Boletim de Serviço nº 52, de 28/10/2021",
+  "epigrafe": "Portaria nº 02/2021-PRAPE, de 22 de outubro de 2021",
+  "url": "https://www.prape.ufpb.br/wp-content/uploads/sites/207/sites/207/2025/04/Portaria-No-02-2021-PRAPE-CAAE-Cria-o-Conselho-de-Acompanhamento-da-Assistencia-Etudantil.pdf"
+ },
+ "UFPB-PRPG-PORT-02-2021": {
+  "tipo": "Portaria",
+  "orgao": "PRPG",
+  "numero": "02/2021",
+  "data": "2021-05-05",
+  "ementa": "Dispõe sobre a regulamentação, em caráter excepcional e temporário, das atividades da Pós-Graduação no período de isolamento social imposto pela pandemia de Coronavírus (Sars-CoV-2).",
+  "nivel": "N10",
+  "dominio": "prpg.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext); documento do SIPAC (protocolo 23074.045159/2021-64)",
+  "epigrafe": "Portaria nº 2/2021 - PRPG, de 5 de maio de 2021"
+ },
+ "UFPB-PRPG-PORT-06-2021": {
+  "tipo": "Portaria",
+  "orgao": "PRPG",
+  "numero": "06/2021",
+  "data": "2021-12-02",
+  "ementa": "Estabelece diretrizes para o retorno gradual das atividades presenciais da Pós-Graduação Stricto e Lato Sensu da Universidade Federal da Paraíba.",
+  "nivel": "N10",
+  "dominio": "prpg.ufpb.br",
+  "metodo": "OCR integral (Tesseract, português, 300 dpi) — PDF digitalizado do SIPAC (protocolo 23074.122931/2021-76)",
+  "epigrafe": "Portaria nº 6/2021 - PRPG - GAB/SEC, de 2 de dezembro de 2021"
+ },
+ "UFPB-PRPG-PORT-08-2021": {
+  "tipo": "Portaria",
+  "orgao": "PRPG",
+  "numero": "08/2021",
+  "data": "2021-12-13",
+  "ementa": "Altera a Portaria 06/2021/PRPG (acrescenta o art. 6-A: defesas e prazos em caráter excepcional em decorrência da pandemia).",
+  "nivel": "N10",
+  "dominio": "prpg.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext); documento do SIPAC (protocolo 23074.126767/2021-03)",
+  "epigrafe": "Portaria nº 8/2021 - PRPG - GAB/SEC, de 13 de dezembro de 2021"
+ },
+ "UFPB-PRPG-PORT-09-2021": {
+  "tipo": "Portaria",
+  "orgao": "PRPG",
+  "numero": "09/2021",
+  "data": "2021-12-16",
+  "ementa": "Retifica a Portaria nº 08/2021/PRPG/UFPB (§ 4º: prazo máximo de curso finalizado até fevereiro de 2020, onde se lia dezembro de 2021).",
+  "nivel": "N10",
+  "dominio": "prpg.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext); documento do SIPAC nº 9/2021",
+  "epigrafe": "Portaria nº 09/2021 - PRPG - GAB/SEC, de 16 de dezembro de 2021 (retificação da Portaria 08/2021)"
+ },
+ "UFPB-PRPG-PORT-02-2022": {
+  "tipo": "Portaria",
+  "orgao": "PRPG",
+  "numero": "02/2022",
+  "data": "2022-05-24",
+  "ementa": "Revoga a Portaria nº 06/2021-PRPG/UFPB, alterada pela Portaria nº 08/2021-PRPG/UFPB, que estabelece diretrizes para o retorno gradual das atividades presenciais da Pós-Graduação.",
+  "nivel": "N10",
+  "dominio": "prpg.ufpb.br",
+  "metodo": "camada de texto do PDF oficial (pdftotext)",
+  "epigrafe": "Portaria nº 02/2022 - PRPG, de 24 de maio de 2022"
+ }
+}

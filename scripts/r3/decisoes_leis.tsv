@@ -1,0 +1,70 @@
+id_citado	decisao	id_correto	fundamento
+BR-DL-875-1953	fora do escopo federal	—	Decreto-Lei/Lei estadual (PB) nº 875/1953, criação da Escola de Auxiliares de Enfermagem da Paraíba; não existe DL federal 875/1953 (DLs federais cessaram em 1946 e recomeçaram em 1965). Fonte oficial: ALPB. Fundir com BR-LEI-875-1953.
+BR-LEI-875-1953	fora do escopo federal	—	Lei estadual (PB) nº 875, de 21/01/1953 (mesma norma do item anterior)
+BR-LEI-1366-1955	fora do escopo federal	—	Lei estadual (PB) nº 1.366, de 02/12/1955, cria a Universidade da Paraíba; não consta do LexML. Fonte: ALPB
+BR-LEI-6908-1996	fora do escopo federal	—	Lei estadual (PB) nº 6.908/1996, Política Estadual de Recursos Hídricos
+BR-LEI-6306-?	fora do escopo federal	—	Lei estadual (PB) de fev/1991 que cria o Hemocentro; não é a Lei federal 6.306/1975 (descartada)
+BR-LEI-170-2012	fora do escopo federal	—	Lei municipal
+BR-LEI-68-2012	fora do escopo federal	—	Lei municipal
+BR-LEI-1863-2017	fora do escopo federal	—	Lei municipal (Santa Rita)
+BR-LEI-1068-2019	fora do escopo federal	—	Lei municipal
+BR-LEI-487-1987	fora do escopo federal	—	Lei municipal (Rio Tinto)
+BR-LEI-795-2011	fora do escopo federal	—	Lei municipal
+BR-LEI-8805-1999	fora do escopo federal	—	Lei Ordinária municipal de João Pessoa (feriado); não é lei federal
+BR-DEC-1633-2022	fora do escopo federal	—	Decreto municipal (Mamanguape)
+BR-LEI-1445-1976	fora do escopo federal	—	provável lei municipal/estadual (citada com art. 16 na Res. CONSUNI 33/2010); não consta do LexML federal
+BR-LEI-2140-1984	fora do escopo federal	—	idem (Res. CONSUNI 33/2010)
+BR-LEI-155-2013	não é norma	—	PEC/projeto (federalização da educação, Cristovam Buarque); não é lei
+BR-LEI-12-2017	não é norma	—	"Coletânea de Legislação Arquivística Brasileira, 12/2017" — referência bibliográfica
+BR-LEI-425-?	não é norma	—	Projeto de Lei do Senado nº 425/2003 (Gastronomia); Lei 425/1948 descartada
+BR-LEI-12085-?	não resolvida	—	trecho de OCR ilegível na Portaria Interministerial 1077/2009; Lei 12.085/2009 (UFOPA) descartada
+BR-LEI-1044-1969	reidentificar	BR-DL-1044-1969	Decreto-Lei 1.044/1969 (já no acervo)
+BR-LEI-1044-?	reidentificar	BR-DL-1044-1969	idem
+BR-DEC-200-1966	reidentificar	BR-DL-200-1967	Decreto-Lei 200, de 25/02/1967 (já no acervo)
+BR-LEI-200-?	reidentificar	BR-DL-200-1967	idem
+BR-LEI-5962-1971	reidentificar	BR-LEI-5692-1971	Lei 5.692, de 11/08/1971 (data coincide; dígitos trocados); já no acervo
+BR-LEI-10630-2003	reidentificar	BR-LEI-10639-2003	Lei 10.639, de 09/01/2003 (data coincide); já no acervo
+BR-LEI-10257-2012	reidentificar	BR-LEI-10257-2001	Estatuto da Cidade (ano errado); já no acervo
+BR-LEI-9892-2000	reidentificar (provável)	BR-LEI-9985-2000	Lei do SNUC (contexto: unidades de conservação); já no acervo
+BR-DEC-5285-2011	reidentificar (provável)	BR-DEC-5825-2006	Diretrizes do plano de desenvolvimento dos integrantes do PCCTAE (contexto: plano de capacitação); já no acervo
+BR-DEC-53358-1964	reidentificar	BR-DEC-53558-1964	Decreto 53.558, de 13/02/1964 (data coincide): altera denominação de escolas agrícolas. Baixado da Câmara
+BR-DEC-80467-1984	reidentificar	BR-DEC-89467-1984	Decreto 89.467, de 21/03/1984 (data coincide): altera regulamento do estágio. Baixado da Câmara
+BR-DEC-87497-1992	reidentificar	BR-DEC-87497-1982	Decreto 87.497, de 18/08/1982 (regulamento da Lei 6.494/77); ano errado na citação. Baixado
+BR-DEC-79239-?	reidentificar	BR-DEC-79329-1977	Decreto 79.329, de 02/03/1977 (data coincide; transfere curso do Arquivo Nacional à FEFIERJ). Baixado
+BR-DEC-15596-1911	reidentificar	BR-DEC-15596-1922	Decreto 15.596, de 02/08/1922 (Museu Histórico Nacional); 1911 é erro de data. Baixado
+BR-DEC-620-1969	reidentificar	BR-DL-620-1969	Decreto-Lei 620, de 10/06/1969. Baixado
+BR-LEI-2848-?	reidentificar	BR-DL-2848-1940	Código Penal (já no acervo)
+BR-LEI-8079-?	reidentificar	BR-DL-8079-1945	Decreto-Lei 8.079/1945 (citado pela CLT). Baixado; Lei 8.079/1990 descartada
+BR-LEI-9500-?	reidentificar	BR-DL-9500-1946	Decreto-Lei 9.500/1946, Lei do Serviço Militar (citado pela Lei 4.375/64). Baixado; Lei 9.500/1997 descartada
+BR-DEC-5691-?	reidentificar	BR-DEC-5691-2006	citado pela Lei 11.196/2005. Baixado
+BR-DEC-5713-?	reidentificar	BR-DEC-5713-2006	citado pela Lei 11.196/2005. Baixado
+BR-LEI-5337-?	reidentificar	BR-LEI-5337-1967	citado pelo Código Eleitoral. Baixado
+BR-DEC-30236-?	reidentificar	BR-DEC-30236-1951	reconhecimento do curso de Ciências Econômicas da Paraíba (Lei 3.835/60). Baixado
+BR-DEC-38146-?	reidentificar	BR-DEC-38146-1955	já no acervo
+BR-DEC-4895-?	reidentificar	BR-DEC-4895-2003	já no acervo
+BR-DEC-5622-?	reidentificar	BR-DEC-5622-2005	já no acervo
+BR-DEC-5707-?	reidentificar	BR-DEC-5707-2006	já no acervo
+BR-DEC-7508-?	reidentificar	BR-DEC-7508-2011	já no acervo
+BR-DEC-7602-?	reidentificar	BR-DEC-7602-2011	já no acervo
+BR-DEC-7611-?	reidentificar	BR-DEC-7611-2011	já no acervo
+BR-DEC-7612-?	reidentificar	BR-DEC-7612-2011	já no acervo
+BR-LEI-11784-?	reidentificar	BR-LEI-11784-2008	já no acervo
+BR-LEI-11907-?	reidentificar	BR-LEI-11907-2009	já no acervo
+BR-LEI-12305-?	reidentificar	BR-LEI-12305-2010	já no acervo
+BR-LEI-12651-?	reidentificar	BR-LEI-12651-2012	já no acervo
+BR-LEI-12772-?	reidentificar	BR-LEI-12772-2012	já no acervo
+BR-LEI-1283-?	reidentificar	BR-LEI-1283-1950	já no acervo
+BR-LEI-13105-?	reidentificar	BR-LEI-13105-2015	já no acervo
+BR-LEI-14300-?	reidentificar	BR-LEI-14300-2022	já no acervo
+BR-LEI-4024-?	reidentificar	BR-LEI-4024-1961	já no acervo
+BR-LEI-4119-?	reidentificar	BR-LEI-4119-1962	já no acervo
+BR-LEI-5540-?	reidentificar	BR-LEI-5540-1968	já no acervo
+BR-LEI-7596-?	reidentificar	BR-LEI-7596-1987	já no acervo
+BR-LEI-8080-?	reidentificar	BR-LEI-8080-1990	já no acervo
+BR-LEI-9131-?	reidentificar	BR-LEI-9131-1995	já no acervo
+BR-LEI-9394-?	reidentificar	BR-LEI-9394-1996	já no acervo
+BR-LEI-9394-1995	reidentificar	BR-LEI-9394-1996	ano errado
+BR-LEI-6229-?	reidentificar	BR-LEI-6229-1975	baixado da Câmara
+BR-LEI-9366-?	reidentificar	BR-LEI-9366-1996	baixado da Câmara
+BR-LEI-9469-?	reidentificar	BR-LEI-9469-1997	baixado da Câmara
+UFPB-PRPG-RES-79-2013	reidentificar	UFPB-CONSEPE-RES-79-2013	a 'Resolução PRPG 79/2013' citada é a Res. CONSEPE 79/2013 (Regulamento Geral da Pós-Graduação), republicada no site da PRPG; já no acervo

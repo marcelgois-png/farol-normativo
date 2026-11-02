@@ -1,0 +1,172 @@
+{
+ "PRA": {
+  "res": "UFPB-CONSUNI-RES-08-2024",
+  "rotulo": "Res. CONSUNI 08/2024",
+  "nota": "Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf)."
+ },
+ "PROGEP": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-28-2010",
+  "nota": "O site da PROGEP (progep.ufpb.br/legislacao-2) não publica regimento próprio; a criação e a estrutura da pró-reitoria constam da Res. CONSUNI 28/2010."
+ },
+ "PRG": {
+  "res": "UFPB-CONSUNI-RES-20-2019",
+  "rotulo": "Res. CONSUNI 20/2019",
+  "nota": ""
+ },
+ "PRPG": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-01-2017",
+  "nota": "Regimento próprio não localizado no site da PRPG; a estrutura da pró-reitoria é o Título IX do Regimento da Reitoria (arts. 99 a 133), na redação da Res. CONSUNI 01/2017."
+ },
+ "PROPLAN": {
+  "res": "UFPB-CONSUNI-RES-16-2017",
+  "rotulo": "Res. CONSUNI 16/2017",
+  "nota": ""
+ },
+ "PROPESQ": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-01-2017",
+  "nota": "Regimento próprio não localizado no site da PROPESQ; a estrutura da pró-reitoria é o Título IX-A do Regimento da Reitoria, na redação da Res. CONSUNI 01/2017."
+ },
+ "PRAPE": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-29-2010",
+  "nota": "O site da PRAPE (legislação por ano) não publica regimento próprio; a criação e a estrutura constam da Res. CONSUNI 29/2010."
+ },
+ "PROEX": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site da PROEX (páginas de portarias e resoluções); a estrutura da pró-reitoria é a do Regimento da Reitoria (Res. CONSUNI 257/79, com alterações)."
+ },
+ "SCS": {
+  "res": "UFPB-CONSUNI-RES-33-2025",
+  "rotulo": "Res. CONSUNI 33/2025",
+  "nota": ""
+ },
+ "STI": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-40-2013",
+  "nota": "O site da STI publica um 'Regimento STI' (sti.ufpb.br, PDF de nov/2024) sem indicar o ato de aprovação; a criação da superintendência é a Res. CONSUNI 40/2013. PDF a coletar e conferir o ato de aprovação."
+ },
+ "SEBTT": {
+  "res": "UFPB-CONSUNI-RES-35-2018",
+  "rotulo": "Res. CONSUNI 35/2018",
+  "nota": "O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf)."
+ },
+ "SOF": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-42-2018",
+  "nota": "Regimento próprio não localizado no site da SOF; a criação e a estrutura constam da Res. CONSUNI 42/2018."
+ },
+ "SINFRA": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-03-2019",
+  "nota": "Regimento próprio não localizado no site da SINFRA (há apenas regimento de gerência); a criação e a estrutura constam da Res. CONSUNI 03/2019."
+ },
+ "SULT": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-41-2018",
+  "nota": "Regimento próprio não localizado no site da SULT; a criação e a estrutura constam da Res. CONSUNI 41/2018."
+ },
+ "SSG": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-39-2018",
+  "nota": "Regimento próprio não localizado no site da SSG; a criação e a estrutura constam da Res. CONSUNI 39/2018."
+ },
+ "SSI": {
+  "res": null,
+  "estrutura": "UFPB-CONSUNI-RES-40-2018",
+  "nota": "Regimento próprio não localizado no site da SSI; a criação e a estrutura constam da Res. CONSUNI 40/2018."
+ },
+ "SEAD": {
+  "res": "UFPB-CONSUNI-RES-24-2019",
+  "rotulo": "Res. CONSUNI 24/2019",
+  "nota": "A resolução cria a SEAD e regulamenta o seu regimento."
+ },
+ "CCEN": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CCEN nem entre as resoluções do CONSUNI/CONSEPE no SIGRH (ementas com 'regimento')."
+ },
+ "CCHLA": {
+  "res": "UFPB-CONSUNI-RES-07-2025",
+  "rotulo": "Res. CONSUNI 07/2025",
+  "nota": ""
+ },
+ "CCM": {
+  "res": "UFPB-CONSUNI-RES-11-2009",
+  "rotulo": "Res. CONSUNI 11/2009",
+  "nota": "O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf)."
+ },
+ "CE": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CE nem entre as resoluções dos conselhos superiores no SIGRH."
+ },
+ "CCSA": {
+  "res": "UFPB-CONSUNI-RES-01-2025",
+  "rotulo": "Res. CONSUNI 01/2025",
+  "nota": "O site do CCSA publica o regimento de 2025 e o anterior, de 1980."
+ },
+ "CT": {
+  "res": "UFPB-CONSUNI-RES-14-2014",
+  "rotulo": "Res. CONSUNI 14/2014",
+  "nota": "Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73)."
+ },
+ "CCS": {
+  "res": "UFPB-CONSUNI-RES-25-2025",
+  "rotulo": "Res. CONSUNI 25/2025",
+  "nota": ""
+ },
+ "CCJ": {
+  "res": "UFPB-CONSUNI-RES-02-2015",
+  "rotulo": "Res. CONSUNI 02/2015",
+  "nota": ""
+ },
+ "CBIOTEC": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CBIOTEC nem entre as resoluções dos conselhos superiores no SIGRH."
+ },
+ "CCTA": {
+  "res": "UFPB-CONSUNI-RES-04-2024",
+  "rotulo": "Res. CONSUNI 04/2024",
+  "nota": ""
+ },
+ "CEAR": {
+  "res": "UFPB-CONSUNI-RES-28-2012",
+  "rotulo": "Res. CONSUNI 28/2012",
+  "nota": "O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012."
+ },
+ "CI": {
+  "res": "UFPB-CONSUNI-RES-22-2014",
+  "rotulo": "Res. CONSUNI 22/2014",
+  "nota": ""
+ },
+ "CTDR": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CTDR nem entre as resoluções dos conselhos superiores no SIGRH."
+ },
+ "CPT-ETS": {
+  "res": "UFPB-CONSUNI-RES-14-2024",
+  "rotulo": "Res. CONSUNI 14/2024",
+  "nota": "Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013."
+ },
+ "CCA": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CCA nem entre as resoluções dos conselhos superiores no SIGRH."
+ },
+ "CCHSA": {
+  "res": null,
+  "estrutura": null,
+  "nota": "Regimento próprio não localizado no site do CCHSA (página 'Normas' sem regimento) nem entre as resoluções dos conselhos superiores no SIGRH."
+ },
+ "CCAE": {
+  "res": "UFPB-CONSUNI-RES-02-2026",
+  "rotulo": "Res. CONSUNI 02/2026",
+  "nota": "Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026."
+ }
+}

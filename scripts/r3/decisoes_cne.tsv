@@ -1,0 +1,46 @@
+id_citado	decisao	id_correto	fundamento
+BR-CNE-RES-1-2012	reidentificar	BR-CNE-CP-RES-1-2012	Res. CNE/CP 1, de 30/05/2012 (DCN Educação em Direitos Humanos); contexto cita a data; já no acervo
+BR-CNE-RES-2-2012	reidentificar	BR-CNE-CP-RES-2-2012	Res. CNE/CP 2, de 15/06/2012 (DCN Educação Ambiental); já no acervo
+BR-CNE-CES-RES-1-2012	reidentificar	BR-CNE-CP-RES-1-2012	citação com câmara errada (CES); o ato sobre Direitos Humanos é do Conselho Pleno
+BR-CNE-CES-RES-2-2012	reidentificar	BR-CNE-CP-RES-2-2012	citação com câmara errada (CES); DCN Educação Ambiental é CNE/CP 2/2012
+BR-CNE-RES-2-2019	reidentificar	BR-CNE-CES-RES-2-2019	"CNE/CNS" é erro por CNE/CES; DCN de Engenharia; já no acervo
+BR-CNE-RES-1-2021	reidentificar	BR-CNE-CES-RES-1-2021	"CNE/CNS 1/2021" = CNE/CES 1/2021 (altera DCN de Engenharia); já no acervo
+BR-CNE-RES-1-2018	reidentificar (provável)	BR-CNE-CES-RES-1-2018	"CNE/CSE" = CNE/CES; art. 2º trata de credenciamento (pós-graduação lato sensu); já no acervo
+BR-CNE-RES-1-2023	reidentificar (provável)	BR-CNE-CES-RES-1-2023	contexto: curso de Psicologia (DCN Psicologia = Res. CNE/CES 1/2023); já no acervo
+BR-CNE-RES-3-1999	reidentificar (provável)	BR-CNE-CES-RES-3-1999	contexto: pós-graduação lato sensu (CES 3/99 fixa condições de validade dos certificados de especialização); já no acervo
+BR-CNE-RES-2-1997	reidentificar	BR-CNE-CP-RES-2-1997	citada pela Res. CNE/CP 1/1999 sobre programas especiais de formação pedagógica (CP 2/97); já no acervo
+BR-CNE-RES-3-1997	reidentificar	BR-CNE-CP-RES-3-1997	nota da Res. CNE/CP 1/1997: revogação dos arts. 19 e 20 pela Res. CNE 3/97 (Pleno); já no acervo
+BR-CNE-RES-1-2002	sem citação ativa	—	nó sem arestas; manter como ambíguo (CES 1/2002 ou CP 1/2002, ambos no acervo)
+BR-CNE-RES-3-2016	sem citação ativa	—	nó sem arestas; ambíguo (CES/CEB), ambos no acervo
+BR-CNE-PAR-16-1999	reidentificar	BR-CNE-CEB-PAR-16-1999	citado como CNE/CEB 16/1999 (educação profissional). Baixado
+BR-CNE-PAR-18-2005	reidentificar	BR-CNE-CEB-PAR-18-2005	citado como CEB/CNE (ensino fundamental de 9 anos). Baixado
+BR-CNE-PAR-2-2005	reidentificar	BR-CNE-CEB-PAR-2-2005	citado como CNE/CEB. Baixado
+BR-CNE-PAR-20-2009	reidentificar	BR-CNE-CEB-PAR-20-2009	citado como CNE/CEB. Baixado
+BR-CNE-PAR-22-2009	reidentificar	BR-CNE-CEB-PAR-22-2009	citado como CNE/CEB. Baixado
+BR-CNE-PAR-4-1998	reidentificar	BR-CNE-CEB-PAR-4-1998	citado como CNE/CEB 4/98. Baixado
+BR-CNE-PAR-5-2007	reidentificar	BR-CNE-CEB-PAR-5-2007	citado como CEB/CNE. Baixado
+BR-CNE-PAR-7-2007	reidentificar	BR-CNE-CEB-PAR-7-2007	citado como CEB/CNE. Baixado
+BR-CNE-PAR-102-2004	reidentificar	BR-CNE-CES-PAR-102-2004	só existe na CES em 2004. Baixado
+BR-CNE-PAR-583-2001	reidentificar	BR-CNE-CES-PAR-583-2001	citado como CES/CNE 583/2001. Baixado
+BR-CNE-PAR-67-2003	reidentificar	BR-CNE-CES-PAR-67-2003	Baixado
+BR-CNE-PAR-776-1997	reidentificar	BR-CNE-CES-PAR-776-1997	Parecer CES 776/97 (orientação para DCN); índice do MEC de 1997 não lista o 776 — a localizar (pedir ao CNE ou DOU)
+BR-CNE-RES-5-2021	reidentificar	BR-CNE-CES-RES-5-2021	já no acervo
+BR-CNE-RES-7-2018	reidentificar	BR-CNE-CES-RES-7-2018	Res. CNE/CES 7/2018 (extensão); já no acervo
+BR-CNE-RES-2-2015	reidentificar	BR-CNE-CP-RES-2-2015	"MEC/CNE 02/2015" = CNE/CP 2/2015 (formação de professores); já no acervo
+BR-CNE-CES-RES-2-2015	reidentificar	BR-CNE-CP-RES-2-2015	citação "CNE/CES nº 2, de 2015 — formação inicial em nível superior (Licenciatura)" é a Res. CNE/CP 2, de 1º/07/2015; câmara errada; já no acervo
+BR-CNE-CP-RES-4-1999	reidentificar	BR-CNE-CEB-RES-4-1999	DCN da Educação Profissional de nível técnico é a Res. CNE/CEB 4/99; câmara errada; já no acervo
+BR-CNE-RES-4-1999	reidentificar	BR-CNE-CEB-RES-4-1999	"CNE/CEE" = CNE/CEB; já no acervo
+BR-CNE-RES-6-2012	reidentificar	BR-CNE-CEB-RES-6-2012	já no acervo
+BR-CNE-RES-9-2004	reidentificar	BR-CNE-CES-RES-9-2004	já no acervo
+BR-CNE-RES-1-2004	reidentificar	BR-CNE-CES-RES-1-2004	já no acervo
+BR-CNE-RES-2-2007	reidentificar	BR-CNE-CES-RES-2-2007	já no acervo
+BR-CNE-RES-8-2008	reidentificar	BR-CNE-CES-RES-8-2008	já no acervo
+BR-CNE-RES-3-1998	reidentificar	BR-CNE-CES-RES-3-1998	já no acervo
+BR-CNE-CES-RES-214-2008	não localizada	—	não existe Res. CNE/CES 214/2008 (a CES editou 8 resoluções em 2008); provável confusão com Parecer CNE/CES 213/2008 (também citado). Registrar como citação a conferir
+BR-CNE-CP-RES-266-2010	não localizada	—	não existe Res. CNE/CP 266/2010; DCN de Administração Pública é a Res. CNE/CES 1/2014 (Parecer CNE/CES 266/2010 é o parecer que a fundamenta). Reidentificar (provável) para BR-CNE-CES-PAR-266-2010 — a coletar
+BR-CNE-CES-RES-4-1998	não localizada no índice do MEC	—	Res. CNE/CES 4, de 14/08/1998 (prorroga prazo da Res. 2/97); ausente do índice de 1998 do gov.br/mec; tentar URL direta
+BR-CNE-CES-PAR-617-1999	não localizada	—	Parecer CES 617/99 — índice de 1999 do gov.br/mec não lista; a localizar
+BR-CNE-CES-PAR-908-1998	não localizada	—	Parecer CES 908/98 — índice de 1998 não lista; a localizar
+BR-CNE-CES-PAR-776-1997	não localizada	—	Parecer CES 776/97 — índice de 1997 não lista (lista parcial); a localizar (citado por 22 atos do CNE)
+BR-CONAES-RES-1-2010	não localizada em fonte oficial alcançável	—	Resolução CONAES 1/2010 (NDE) — não está no gov.br/mec/cne; fonte: portal do INEP/CONAES; a localizar
+BR-CFE-*	fonte oficial não acessível	—	atos do extinto Conselho Federal de Educação (até 1994) não estão publicados no gov.br/mec; fonte: Documenta (CFE) / DOU; pedir à SODS/biblioteca
