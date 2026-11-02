@@ -8,8 +8,10 @@ O repositório guarda a **base** (normas e relações, com trecho e fonte de cad
 
 - **Busca** por número, ano, órgão, nível, tema, situação e palavras da ementa;
 - **Teia**: mapa interativo de citações, com norma de partida, vigência, máquina do tempo e filtros;
-- **Ficha e texto** de cada norma, com as citações em link para a norma citada e âncora por artigo;
-- **Quadro de vigência**, **registro de divergências** e **fila de coleta**.
+- **Ficha e texto** de cada norma, com as citações em link para a norma citada, âncora por artigo e, sob cada artigo alterado, revogado ou superado, a anotação com link para a norma que o alcança;
+- **Estatuto e regimentos** (as normas estruturais), **quadro de vigência**, **registro de divergências** e **fila de coleta**.
+
+Identidade visual conforme o Manual de Identidade Visual da UFPB (paleta oficial, IBM Plex, brasão e marca "UFPB" na aplicação preferencial).
 
 Base atual: Rodada 2 (20/10/2026), com 6.333 normas, 3.277 textos integrais e 23.798 relações.
 

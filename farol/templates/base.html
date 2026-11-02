@@ -5,17 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{% block title %}Farol Normativo UFPB{% endblock %}</title>
 {% if descricao %}<meta name="description" content="{{ descricao }}">{% endif %}
+<meta name="theme-color" content="#1e3766">
+<link rel="icon" type="image/svg+xml" href="{{ raiz }}assets/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="{{ raiz }}assets/farol.css">
 {% block head %}{% endblock %}
 </head>
 <body>
+<div class="stripe" aria-hidden="true"></div>
 <header class="top"><div class="in">
-  <a class="brand" href="{{ raiz }}"><b>Farol Normativo UFPB</b><small>base da {{ meta.rodada }} · {{ meta.data_base_br }}</small></a>
-  <nav class="menu">
+  <a class="brand" href="{{ raiz }}">
+    <span class="marca"><img src="{{ raiz }}assets/ufpb-lockup.png" alt="UFPB — Universidade Federal da Paraíba" width="342" height="180"></span>
+    <span class="sep" aria-hidden="true"></span>
+    <span class="nome"><b>Farol Normativo</b><small>base da {{ meta.rodada }} · {{ meta.data_base_br }}</small></span>
+  </a>
+  <nav class="menu" aria-label="Seções">
     <a href="{{ raiz }}busca/" {% if secao=='busca' %}class="on"{% endif %}>Busca</a>
     <a href="{{ raiz }}teia/" {% if secao=='teia' %}class="on"{% endif %}>Teia</a>
+    <a href="{{ raiz }}estrutura/" {% if secao=='estrutura' %}class="on"{% endif %}>Estatuto e regimentos</a>
     <a href="{{ raiz }}vigencia/" {% if secao=='vigencia' %}class="on"{% endif %}>Vigência</a>
     <a href="{{ raiz }}divergencias/" {% if secao=='divergencias' %}class="on"{% endif %}>Divergências</a>
     <a href="{{ raiz }}fila/" {% if secao=='fila' %}class="on"{% endif %}>Fila</a>
@@ -25,7 +34,17 @@
 <main>
 {% block conteudo %}{% endblock %}
 </main>
-<footer>Farol Normativo UFPB · Projeto Oraculovski. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes. Em caso de divergência, prevalece o texto oficial publicado.</footer>
+<footer>
+  <svg class="ondas" viewBox="0 0 1200 34" preserveAspectRatio="none" aria-hidden="true"><path d="M0 14 C150 30 300 -2 450 14 S750 30 900 14 S1150 -2 1200 10 V34 H0 Z" fill="#92c3eb" opacity=".55"/><path d="M0 22 C160 36 320 8 480 22 S800 36 960 22 S1140 10 1200 20 V34 H0 Z" fill="#284f9e" opacity=".8"/><path d="M0 30 C200 40 400 20 600 30 S1000 40 1200 30 V34 H0 Z" fill="#1e3766"/></svg>
+  <div class="in">
+    <img src="{{ raiz }}assets/ufpb-brasao.png" alt="Brasão da UFPB" width="178" height="240">
+    <div>
+      <b>Farol Normativo UFPB</b>
+      Universidade Federal da Paraíba · Centro de Tecnologia. Acervo de normas, relações e vigência, construído só a partir de fontes oficiais (SODS, SIGRH, planalto.gov.br, gov.br/mec).
+      <p class="legal">O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes. Em caso de divergência, prevalece o texto oficial publicado.</p>
+    </div>
+  </div>
+</footer>
 {% block scripts %}{% endblock %}
 </body>
 </html>

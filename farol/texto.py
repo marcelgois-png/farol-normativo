@@ -183,16 +183,37 @@ class Ligador:
         return saida
 
 
+_RE_ART_SUFIXO = re.compile(
+    r"^\s*(?:~~)?(?:\(\*+\)\s*)*Art(?:igo|\.)?\s*\.?\s*\d+[ºo°]?-([A-Z])\b"  # "Art. 7º-A" (sem espaço antes do hífen; "Art. 3º - A presente…" não é sufixo)
+)
+_RE_DISP_ART = re.compile(r"^\s*art(?:igos?|s)?\.?\s*(\d+)[ºo°]?(?:-([A-Za-z])\b)?", re.I)
+
+
+def _chave_artigo(p: str) -> str:
+    """Número do artigo com o sufixo de letra, quando houver: "7" ou "7-A"."""
+    num = _RE_ART.match(p).group(1)
+    ms = _RE_ART_SUFIXO.match(p)
+    return f"{num}-{ms.group(1)}" if ms else num
+
+
 def _ancora_dispositivo(disp: str) -> str:
-    m = re.match(r"^\s*art(?:igo|\.)?\s*\.?\s*(\d+)", disp or "", re.I)
-    return f"#art-{m.group(1)}" if m else ""
+    m = _RE_DISP_ART.match(disp or "")
+    if not m:
+        return ""
+    return f"#art-{m.group(1)}" + (f"-{m.group(2).upper()}" if m.group(2) else "")
 
 
-def render_html(t: Texto, ligador: Ligador | None = None) -> tuple[str, dict]:
-    """HTML do texto e um índice de artigos (número → âncora)."""
+def render_html(t: Texto, ligador: Ligador | None = None, notas: dict[str, str] | None = None) -> tuple[str, dict]:
+    """HTML do texto e um índice de artigos (número → âncora).
+
+    ``notas`` mapeia o artigo ("12", "7-A") a um bloco HTML já pronto, inserido
+    logo após o caput da primeira ocorrência do artigo (anotações de vigência:
+    quem o altera, revoga ou supera). O texto em si não é alterado.
+    """
     partes: list[str] = []
     vistos: dict[str, int] = {}
     indice: dict[str, str] = {}
+    notas = notas or {}
     for p in t.paragrafos:
         cl = _classe(p)
         rev = p.lstrip().startswith("~~")  # redação tachada no texto consolidado: não recebe âncora
@@ -212,11 +233,13 @@ def render_html(t: Texto, ligador: Ligador | None = None) -> tuple[str, dict]:
         elif cl == "cab2":
             partes.append(f'<p class="cab2">{s}</p>')
         elif cl == "art":
-            num = _RE_ART.match(p).group(1)
+            num = _chave_artigo(p)
             vistos[num] = vistos.get(num, 0) + 1
             anc = f"art-{num}" if vistos[num] == 1 else f"art-{num}-{vistos[num]}"
             indice.setdefault(num, anc)
             partes.append(f'<p class="art" id="{anc}"><a class="anc" href="#{anc}" aria-label="Link para o artigo {num}">¶</a>{s}</p>')
+            if vistos[num] == 1 and num in notas:
+                partes.append(notas[num])
         else:
             partes.append(f'<p class="{cl}">{s}</p>')
     return "\n".join(partes), indice

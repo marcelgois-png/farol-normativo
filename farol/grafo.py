@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from collections import Counter
 
 from .base import Base, Norma, Relacao
@@ -66,8 +67,6 @@ def dados_fichas(b: Base) -> dict:
 
 
 def _data_norm(d: str) -> str:
-    import re
-
     d = (d or "").strip()
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d):
         return d
@@ -109,8 +108,6 @@ def por_dispositivo(b: Base, id_: str) -> list[tuple[str, list[tuple[str, Relaca
 
 
 def _ordem_disp(d: str) -> tuple:
-    import re
-
     m = re.match(r"^\s*art(?:igo|\.)?\s*\.?\s*(\d+)", d, re.I)
     if m:
         return (0, int(m.group(1)), d)
@@ -133,3 +130,63 @@ def citacoes_para_links(b: Base, n: Norma) -> dict[str, tuple[str, str]]:
     for c in ambiguas:
         cit.pop(c, None)
     return cit
+
+
+# ---- anotações de vigência por artigo ---------------------------------------
+TIPOS_VIGENCIA = ("ALTERA", "REVOGA (total)", "REVOGA (parcial)", "SUPERA")
+_RE_ART_LISTA = re.compile(r"\bart(?:igo)?s?\.?\s*", re.I)
+_RE_NUM = re.compile(r"(\d+)\s*[ºo°]?(?:-([A-Za-z])\b)?")
+_RE_SEP = re.compile(r"\s*(?:,|;|\be\b|\bou\b|\ba\b|\baté\b)\s*", re.I)
+
+
+def artigos_do_dispositivo(disp: str) -> list[str]:
+    """Artigos citados num dispositivo da base, na ordem, sem repetição.
+
+    "art. 5º" → ["5"]; "arts. 139 e 172 (COPERT → CPPD)" → ["139", "172"];
+    "artigos 27 e 39 do Anexo I" → ["27", "39"]; "art. 7º-A; art. 18" → ["7-A", "18"];
+    "arts. 232 a 235" → ["232", "233", "234", "235"]; "§ 2º do art. 5º" → ["5"].
+    Faixas ("a", "até") só são expandidas quando têm até 30 artigos.
+    """
+    disp = disp or ""
+    vistos: list[str] = []
+
+    def junta(a: str) -> None:
+        if a not in vistos:
+            vistos.append(a)
+
+    for m in _RE_ART_LISTA.finditer(disp):
+        pos = m.end()
+        anterior: int | None = None
+        faixa = False
+        while True:
+            mn = _RE_NUM.match(disp, pos)
+            if not mn:
+                break
+            num = int(mn.group(1))
+            chave = mn.group(1) + ("-" + mn.group(2).upper() if mn.group(2) else "")
+            if faixa and anterior is not None and not mn.group(2) and 0 < num - anterior <= 30:
+                for k in range(anterior + 1, num):
+                    junta(str(k))
+            junta(chave)
+            anterior = None if mn.group(2) else num
+            ms = _RE_SEP.match(disp, mn.end())
+            if not ms:
+                break
+            faixa = ms.group(0).strip().lower() in ("a", "até")
+            pos = ms.end()
+    return vistos
+
+
+def notas_por_artigo(b: Base, id_: str) -> dict[str, list[Relacao]]:
+    """Para cada artigo desta norma, as relações de alteração, revogação ou
+    superação registradas na base que o alcançam (sugestões ficam de fora),
+    em ordem cronológica de efeito."""
+    notas: dict[str, list[Relacao]] = {}
+    for r in b.entrada.get(id_, []):
+        if r.tipo not in TIPOS_VIGENCIA or r.sugestao:
+            continue
+        for a in artigos_do_dispositivo(r.disp_destino):
+            notas.setdefault(a, []).append(r)
+    for lst in notas.values():
+        lst.sort(key=lambda r: (_data_norm(r.inicio_efeito) or "9999", r.origem))
+    return notas

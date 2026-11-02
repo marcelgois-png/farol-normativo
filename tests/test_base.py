@@ -42,3 +42,13 @@ def test_relacao_conhecida(base):
     # CNE/CES 11/2002 revogada pela CNE/CES 2/2019
     rev = [r for r in base.entrada["BR-CNE-CES-RES-11-2002"] if r.tipo == "REVOGA (total)"]
     assert any(r.origem == "BR-CNE-CES-RES-2-2019" for r in rev)
+
+
+def test_notas_por_artigo_regimento_geral(base):
+    from farol.grafo import notas_por_artigo
+
+    notas = notas_por_artigo(base, "UFPB-REGIMENTO-GERAL")
+    # D-casos: a Res. CONSUNI 21/2020 altera o art. 202 do Regimento Geral
+    assert any(r.origem == "UFPB-CONSUNI-RES-21-2020" and r.tipo == "ALTERA" for r in notas.get("202", []))
+    # sugestões nunca entram nas anotações
+    assert not any(r.sugestao for lst in notas.values() for r in lst)

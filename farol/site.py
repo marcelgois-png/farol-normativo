@@ -23,6 +23,7 @@ DESTAQUES = [
     "BR-LEI-8112-1990", "UFPB-NT-MINUTA-ESTATUTO-2019",
 ]
 _RE_ID = re.compile(r"\b((?:UFPB|BR|PB|OUTRO)-[A-Z0-9?\-]+-[0-9A-Z]+-(?:\d{4}|\?))\b")
+_RE_DISP_RESTO = re.compile(r"\bart(?:igo)?s?\.?\s*|\d+\s*[ºo°]?(?:-[A-Za-z]\b)?|\b(?:e|a|ou|até)\b|[;,]", re.I)
 
 
 def _br(v) -> str:
@@ -100,6 +101,7 @@ class Gerador:
         self._normas(limite_textos)
         self._teia()
         self._busca()
+        self._estrutura()
         self._vigencia()
         self._divergencias()
         self._fila()
@@ -119,25 +121,54 @@ class Gerador:
         m = dict(self.meta_teia)
         self._render("index.html", "index.html", "./", secao="inicio", meta={**self.meta, **m}, destaques=dest)
 
+    def _nota_artigo(self, art: str, rels: list) -> str:
+        """Bloco HTML inserido sob o caput do artigo: quem o altera, revoga ou supera."""
+        b = self.base
+        itens = []
+        for r in rels:
+            n = b.normas.get(r.origem)
+            rot = html.escape(n.rotulo if n else fn_rotulo(r.origem))
+            anc = (mod_texto._ancora_dispositivo(r.disp_origem) or "#texto") if (n and n.texto_path) else ""
+            link = f'<a class="n" href="../../norma/{slug(r.origem)}/{anc}">{rot}</a>' if n else rot
+            det = []
+            if r.disp_origem and r.disp_origem != "norma inteira":
+                det.append(f"na outra: {html.escape(r.disp_origem)}")
+            if _RE_DISP_RESTO.sub("", r.disp_destino or "").strip(" ;,.-–()"):  # há mais que a lista de artigos
+                det.append(f"alcança: {html.escape(r.disp_destino[:140])}")
+            if r.inicio_efeito:
+                det.append(f"efeito desde {_data_br(r.inicio_efeito)}")
+            if r.ressalva:
+                det.append(html.escape(r.ressalva))
+            det.append(f"fonte: {html.escape(r.base or '—')}" + (f" · confiança {html.escape(r.confianca)}" if r.confianca else ""))
+            q = f'<span class="q">“{html.escape(r.trecho[:240])}{"…" if len(r.trecho) > 240 else ""}”</span>' if r.trecho else ""
+            itens.append(f'<div class="it"><span class="k {r.chave}">{html.escape(r.tipo)}</span>{link}<span class="d">{" · ".join(det)}</span>{q}</div>')
+        chaves = {r.chave for r in rels}
+        classe = "R" if "R" in chaves else "P" if "P" in chaves else "S" if "S" in chaves and "A" not in chaves else "A"
+        return (f'<div class="nota-art {classe}" role="note"><span class="t">Vigência deste artigo · registrado na base</span>'
+                + "".join(itens) + "</div>")
+
     def _normas(self, limite_textos):
         b = self.base
         decisoes = {d["norma"]: d for d in b.decisoes.get("situacao", [])}
         feitos_texto = 0
         for n in b.normas.values():
             texto_html = ""
-            n_links = n_arts = 0
+            n_links = n_arts = n_notas = 0
             versao = ""
             if n.texto_path is not None and (limite_textos is None or feitos_texto < limite_textos):
                 try:
                     t = mod_texto.ler(n.texto_path)
                     lig = mod_texto.Ligador(grafo.citacoes_para_links(b, n), prefixo="../../norma/")
-                    texto_html, indice = mod_texto.render_html(t, lig)
+                    notas = {a: self._nota_artigo(a, rels) for a, rels in grafo.notas_por_artigo(b, n.id).items()}
+                    texto_html, indice = mod_texto.render_html(t, lig, notas)
                     n_links, n_arts = lig.contagem, len(indice)
+                    n_notas = sum(1 for a in notas if a in indice)
                     versao = str(t.cabecalho.get("versao") or "")
                     feitos_texto += 1
                     self.contadores["textos"] += 1
                     self.contadores["links_em_textos"] += n_links
                     self.contadores["artigos_ancorados"] += n_arts
+                    self.contadores["artigos_anotados"] += n_notas
                 except Exception as e:  # noqa: BLE001 — um texto ruim não derruba o site
                     self.contadores["textos_com_erro"] += 1
                     texto_html = f'<p class="hint">Não foi possível renderizar o texto: {html.escape(str(e))}</p>'
@@ -150,7 +181,7 @@ class Gerador:
                 "norma.html", f"norma/{slug(n.id)}/index.html", "../../",
                 secao="norma", n=n, entrada=entrada, saida=saida,
                 dispositivos=grafo.por_dispositivo(b, n.id), irmas=irmas, paralelas=paralelas,
-                decisao=decisoes.get(n.id), texto_html=texto_html, n_links=n_links, n_arts=n_arts, versao=versao,
+                decisao=decisoes.get(n.id), texto_html=texto_html, n_links=n_links, n_arts=n_arts, n_notas=n_notas, versao=versao,
                 descricao=(n.ementa or n.ementa_sigrh)[:160],
             )
             self.contadores["paginas_norma"] += 1
@@ -185,6 +216,38 @@ class Gerador:
                      lead="Situação de cada norma conforme o texto das normas posteriores. As normas federais seguem a anotação do texto compilado do planalto e das notas oficiais do CNE.",
                      resumo=resumo, blocos=blocos)
 
+    def _estrutura(self):
+        """Estatuto, regimentos comuns e minuta em tramitação: a espinha dorsal do acervo."""
+        b = self.base
+        descr = {
+            "UFPB-CONSUNI-RES-07-2002": "Norma máxima da universidade (N5), homologada pela Portaria MEC 3.198/2002. Define fins, estrutura, órgãos e competências; é a base de todos os regimentos.",
+            "UFPB-REGIMENTO-GERAL": "Disciplina a organização e o funcionamento comuns aos órgãos e serviços da UFPB (art. 107 do Estatuto). Texto consolidado pela SODS, com as redações revogadas tachadas.",
+            "UFPB-CONSUNI-RES-279-1978": "Regimento dos Órgãos Deliberativos da Administração Superior: funcionamento do CONSUNI, do CONSEPE e do Conselho Curador, sessões, pedidos de reconsideração e recursos.",
+            "UFPB-CONSUNI-RES-257-1979": "Regimento da Reitoria: estrutura e atribuições dos órgãos executivos da administração superior.",
+            "UFPB-ESTATUTO-ANTERIOR-2002": "Estatuto substituído pela Res. CONSUNI 07/2002; citado por normas antigas e ainda sem texto no acervo.",
+            "UFPB-NT-MINUTA-ESTATUTO-2019": "Minuta do novo Estatuto aprovada no CONSEPE (16/03/2020) e em análise no CONSUNI. Sem força normativa: serve só para sinalizar a mudança em discussão.",
+        }
+        def bloco(titulo, texto, niveis):
+            linhas = []
+            for n in sorted((x for x in b.normas.values() if x.nivel in niveis), key=lambda x: (NIVEIS.index(x.nivel), x.ano)):
+                alt = [r for r in b.entrada.get(n.id, []) if r.tipo in grafo.TIPOS_VIGENCIA and not r.sugestao]
+                arts = {a for r in alt for a in grafo.artigos_do_dispositivo(r.disp_destino)}
+                situ = f'<span class="pill {n.situacao_chave}">{html.escape(NOME_SITUACAO.get(n.situacao_chave, n.situacao_chave))}</span>'
+                texto_col = (f'<a href="../norma/{slug(n.id)}/#texto">texto integral</a><br><span class="hint">{html.escape(n.metodo_texto or "")}</span>'
+                             if n.texto_path else '<span class="hint">sem texto no acervo</span>')
+                vig = (f"{len(alt)} relação(ões) de alteração, revogação ou superação; {len(arts)} artigo(s) alcançado(s)" if alt else "nenhuma registrada")
+                linhas.append([self._link(n.id) + f'<br><span class="hint">{html.escape(descr.get(n.id, n.ementa or n.ementa_sigrh)[:300])}</span>',
+                               f'<span class="pill lvl">{n.nivel}</span>', situ, html.escape(vig), texto_col])
+            return {"id": niveis[0].lower(), "titulo": titulo, "texto": texto, "colunas": ["Norma", "Nível", "Situação", "Vigência registrada", "Texto"], "linhas": linhas}
+        blocos = [
+            bloco("Estatuto (N5)", "Res. CONSUNI 07/2002. Cada alteração anotada no texto consolidado foi conferida com a resolução alteradora.", ["N5"]),
+            bloco("Regimentos comuns (N6)", "Previstos no art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).", ["N6"]),
+            bloco("Em tramitação (NT)", "Sem força normativa. O Farol mostra o que a minuta prevê e deixa claro que ainda não vigora.", ["NT"]),
+        ]
+        self._render("painel.html", "estrutura/index.html", "../", secao="estrutura", titulo="Estatuto e regimentos",
+                     lead="As normas estruturais da UFPB, de onde partem as demais: o Estatuto, os três regimentos comuns e a minuta do novo Estatuto. No texto integral de cada uma, os artigos alterados, revogados ou superados trazem a anotação e o link para a norma que os alcança.",
+                     resumo=None, blocos=blocos)
+
     def _ids_para_links_html(self, s: str) -> str:
         def sub(m):
             i = m.group(1)
@@ -210,7 +273,7 @@ class Gerador:
             import markdown
 
             md = p.read_text(encoding="utf-8")
-            blocos.append({"id": "registro", "titulo": "Registro de divergências (Rodadas 0 e 1)", "html": '<div class="card" style="max-width:none">' + markdown.markdown(self._ids_para_links_html_md(md), extensions=["tables"]) + "</div>"})
+            blocos.append({"id": "registro", "titulo": "Registro de divergências (Rodadas 0 e 1)", "html": '<div class="card md">' + markdown.markdown(self._ids_para_links_html_md(md), extensions=["tables"]) + "</div>"})
         self._render("painel.html", "divergencias/index.html", "../", secao="divergencias", titulo="Divergências e decisões",
                      lead="Conflitos de vigência, fundamentos em norma revogada, números citados que não correspondem ao assunto e decisões tomadas pela leitura direta dos textos. Nada aqui resolve o conflito: registra e explica.",
                      resumo=None, blocos=blocos)
@@ -266,6 +329,6 @@ class Gerador:
                 titulo = re.sub(r"^#\s*", "", p.read_text(encoding="utf-8").split("\n", 1)[0])
                 rel = f"sobre/{p.stem}.html"
                 self._raiz_rel = "../"
-                self._escrever(rel, self.env.get_template("painel.html").render(raiz="../", meta=self.meta, secao="sobre", titulo=titulo, lead="", resumo=None, blocos=[{"id": "doc", "titulo": "", "html": '<div class="card" style="max-width:none">' + htm + "</div>"}]))
+                self._escrever(rel, self.env.get_template("painel.html").render(raiz="../", meta=self.meta, secao="sobre", titulo=titulo, lead="", resumo=None, blocos=[{"id": "doc", "titulo": "", "html": '<div class="card md">' + htm + "</div>"}]))
                 rodadas.append({"arquivo": f"{p.stem}.html", "titulo": titulo})
         self._render("sobre.html", "sobre/index.html", "../", secao="sobre", niveis=niveis, rodadas=rodadas)

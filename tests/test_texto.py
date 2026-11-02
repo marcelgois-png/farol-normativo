@@ -37,3 +37,22 @@ def test_ligador_ignora_citacoes_curtas_e_sobreposicao():
     out = lig.aplicar("conforme a Lei nº 9.394/1996 e a Lei.")
     assert out.count("<a ") == 1
     assert "BR-LEI-9394-1996" in out
+
+
+def test_artigo_com_sufixo_de_letra_e_notas():
+    from farol.texto import Texto, _ancora_dispositivo
+
+    t = Texto(id="X", cabecalho={}, corpo="")
+    t.paragrafos = [
+        "Art. 7º Texto do sete.",
+        "Art. 7º-A Texto do sete-A.",
+        "Art. 3º - A presente resolução não tem sufixo.",
+        "~~Art. 8º Redação revogada.~~",
+    ]
+    html, indice = render_html(t, None, {"7-A": '<div class="nota-art A">nota</div>', "8": "<div>não entra</div>"})
+    assert indice == {"7": "art-7", "7-A": "art-7-A", "3": "art-3"}
+    assert 'id="art-7-A"' in html and html.index('id="art-7-A"') < html.index('<div class="nota-art A">nota</div>')
+    assert "não entra" not in html  # artigo tachado não recebe âncora nem nota
+    assert _ancora_dispositivo("art. 7º-A") == "#art-7-A"
+    assert _ancora_dispositivo("arts. 139 e 172") == "#art-139"
+    assert _ancora_dispositivo("ementa") == ""

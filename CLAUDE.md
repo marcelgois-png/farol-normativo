@@ -8,7 +8,7 @@ Leia `docs/plano.md` antes de propor mudanças de rumo. Este arquivo tem as regr
 
 - `base/` — a base do acervo. `nos.csv` (uma linha por norma), `arestas.csv` (uma linha por relação, com trecho e citação literal), `decisoes_vigencia.json`, `fila_coleta.md`, `quadro_vigencia.*`, `manifesto_originais.tsv` (SHA-256 dos originais), `divergencias/` e `controles/` (resultados das conferências e correções de identificação das rodadas), `sods/` (extrações de texto das páginas da SODS com hash conferido, o extrator usado e `extracoes.json`).
 - `textos/` — um Markdown por norma com texto integral, em `textos/<ÓRGÃO>/<ano>/<ID>.md` (UFPB), `textos/<GRUPO>/<ID>.md` (federais, CNE, outros) ou `textos/SODS/<ID>.md` (textos consolidados das páginas da SODS, gerados por `python -m farol sods` a partir de `base/sods/`). Cabeçalho YAML com id, datas, nível, situação, fonte oficial, método de extração e aviso de OCR; depois um resumo e a seção `## Texto integral` (ou `## Texto`).
-- `farol/` — o gerador (Python). `base.py` lê e valida; `texto.py` converte o Markdown em HTML com âncoras e links; `grafo.py` deriva dados da Teia, sugestões e dispositivos; `site.py` monta as páginas; `templates/` e `static/`.
+- `farol/` — o gerador (Python). `base.py` lê e valida; `texto.py` converte o Markdown em HTML com âncoras e links; `grafo.py` deriva dados da Teia, sugestões, dispositivos e as anotações de vigência por artigo (`notas_por_artigo`); `site.py` monta as páginas; `templates/` e `static/` (CSS com os tokens da identidade UFPB, marca `ufpb-lockup.png`, brasão `ufpb-brasao.png`, `favicon.svg`).
 - `site/` — saída gerada; não é versionada. Publicada no GitHub Pages pela ação em `.github/workflows/`.
 - `docs/` — plano, relatórios das rodadas e material para a SODS.
 - `tests/` — testes do gerador (pytest).
@@ -41,7 +41,9 @@ python -m http.server 8000 --directory site   # para abrir o site localmente
 
 - Python 3.10+, sem framework web; dependências em `requirements.txt` (Jinja2, Markdown, PyYAML, pytest).
 - Nomes em português, como no acervo. Comentários curtos. Funções puras onde der; o estado fica em `Base`.
-- O site é estático: nada no `site/` depende de servidor. JavaScript só o necessário (busca e Teia). Bibliotecas externas apenas de CDN com versão fixa (hoje só d3 7.9.0 na Teia).
+- O site é estático: nada no `site/` depende de servidor. JavaScript só o necessário (busca e Teia). Bibliotecas externas apenas de CDN com versão fixa (hoje só d3 7.9.0 na Teia); fontes do Google Fonts (IBM Plex).
+- Identidade visual: a do Manual de Identidade Visual da UFPB. Cores só da paleta oficial (azul #284f9e, azul escuro #1e3766, azul claro #92c3eb, amarelo #ffc636, amarelo escuro #ce9c30, laranja #e76d27, cinza #bcbcbc, preto, branco) e seus gradientes; tipografia IBM Plex Sans (oficial), com IBM Plex Serif no texto das normas e Condensed em rótulos; a marca "UFPB" (aplicação preferencial: brasão + "UFPB") fica sempre ao lado do nome do sistema, separada por filete, e não se recorta nem se recolore. Os tokens estão em `farol/static/farol.css` e repetidos em `templates/_teia_head.html`; mudar um exige mudar o outro.
+- Anotações de vigência por artigo: vêm só das relações ALTERA, REVOGA e SUPERA da base (sem sugestões) cujo `disp_destino` cita artigo; aparecem sob o caput e nunca alteram o texto. A redação nova fica na norma alteradora (texto compilado é entrega do estágio 3).
 - Mudança em template ou CSS: gerar com `--limite-textos 20`, abrir no navegador, só então gerar o site inteiro.
 - Textos de OCR podem ter números trocados; links de citação no texto vêm da coluna `citacao` da base e só são criados quando a citação aponta para uma única norma.
 

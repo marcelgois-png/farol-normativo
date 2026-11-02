@@ -1,22 +1,77 @@
 {% extends "base.html" %}
 {% block title %}Farol Normativo UFPB{% endblock %}
 {% block conteudo %}
-<p class="eyebrow">Ecossistema normativo da Universidade Federal da Paraíba</p>
-<h1>Como isso é regido na UFPB?</h1>
-<p class="lead">O Farol reúne as normas que orientam as decisões da universidade, mostra como elas se citam, alteram e revogam umas às outras, e diz o que está vigente. Começa pela busca: um número, um assunto, um órgão.</p>
+<section class="hero" aria-labelledby="titulo">
+  <svg class="flor" viewBox="0 0 100 120" aria-hidden="true"><g fill="#ffc636"><path d="M50 0 C40 16 36 36 40 58 L50 62 L60 58 C64 36 60 16 50 0 Z"/><path d="M37 60 C30 34 10 26 4 42 C0 54 14 66 32 64 L37 63 Z"/><path d="M63 60 C70 34 90 26 96 42 C100 54 86 66 68 64 L63 63 Z"/><rect x="28" y="64" width="44" height="9" rx="2.5"/><path d="M44 75 L56 75 L54 98 L50 104 L46 98 Z"/><path d="M42 76 C40 92 30 104 14 108 C30 112 44 104 48 92 Z"/><path d="M58 76 C60 92 70 104 86 108 C70 112 56 104 52 92 Z"/></g></svg>
+  <svg class="ondas" viewBox="0 0 1200 56" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C150 50 300 10 450 30 S750 50 900 30 S1150 10 1200 24 V56 H0 Z" fill="#92c3eb" opacity=".28"/><path d="M0 42 C160 58 320 26 480 42 S800 58 960 42 S1140 30 1200 40 V56 H0 Z" fill="#92c3eb" opacity=".22"/></svg>
+  <p class="eyebrow">Ecossistema normativo da Universidade Federal da Paraíba</p>
+  <h1 id="titulo">Como isso é regido na UFPB?</h1>
+  <p class="lead">O Farol reúne as normas que orientam as decisões da universidade, mostra como elas se citam, alteram e revogam umas às outras, e diz o que está vigente. Comece pela busca: um número, um assunto, um órgão.</p>
+  <form class="sbox" action="{{ raiz }}busca/" method="get" role="search">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input type="search" name="q" placeholder="Buscar: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019" aria-label="Buscar norma">
+    <button class="btn primary" type="submit">Buscar</button>
+  </form>
+  <div class="chips">
+    <span class="chip"><b>{{ meta.nos|br }}</b> normas no acervo</span>
+    <span class="chip"><b>{{ meta.com_texto|br }}</b> com texto integral</span>
+    <span class="chip"><b>{{ meta.fantasmas|br }}</b> citadas, ainda sem texto</span>
+    <span class="chip"><b>{{ meta.arestas|br }}</b> relações normativas</span>
+    <span class="chip"><b>{{ meta.citacoes|br }}</b> citações simples</span>
+  </div>
+</section>
 
-<form class="sbox" action="{{ raiz }}busca/" method="get" role="search">
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-  <input type="search" name="q" placeholder="Buscar: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019" aria-label="Buscar norma">
-  <button class="btn primary" type="submit">Buscar</button>
-</form>
-
-<div class="chips">
-  <span class="chip"><b>{{ meta.nos|br }}</b> normas no acervo</span>
-  <span class="chip"><b>{{ meta.com_texto|br }}</b> com texto integral</span>
-  <span class="chip"><b>{{ meta.fantasmas|br }}</b> citadas, ainda sem texto</span>
-  <span class="chip"><b>{{ meta.arestas|br }}</b> relações normativas</span>
-  <span class="chip"><b>{{ meta.citacoes|br }}</b> citações simples</span>
+<h2>O que o Farol faz</h2>
+<div class="fn-grid">
+  <a class="fn" href="{{ raiz }}busca/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></span>
+    <h3>Buscar normas</h3>
+    <p>Por número, ano, órgão, nível, tema, situação ou palavras da ementa. Cada resultado abre a ficha e o texto integral.</p>
+    <span class="go">Abrir a busca →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}teia/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.2"/><circle cx="19" cy="6" r="2.2"/><circle cx="12" cy="18" r="2.2"/><circle cx="12" cy="10" r="2.2"/><path d="M7 6.8 9.9 9M17 6.8 14.1 9M12 12.2v3.6"/></svg></span>
+    <h3>Teia de citações</h3>
+    <p>O mapa interativo: escolha uma norma de partida e veja quem a altera, revoga, supera ou se funda nela, com máquina do tempo.</p>
+    <span class="go">Abrir a Teia →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}estrutura/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4z"/><path d="M20 4h-6a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h7z"/></svg></span>
+    <h3>Estatuto e regimentos</h3>
+    <p>As normas estruturais da UFPB: Estatuto, Regimento Geral, regimentos comuns e a minuta do novo Estatuto em tramitação.</p>
+    <span class="go">Ver as normas estruturais →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}vigencia/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span>
+    <h3>Quadro de vigência</h3>
+    <p>O que está vigente, alterado ou revogado, e com base em quê. Conferido no texto das normas posteriores, não só no registro do SIGRH.</p>
+    <span class="go">Ver o quadro →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}divergencias/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 7h14M5 7l-3 7a3.5 3.5 0 0 0 6 0zM19 7l-3 7a3.5 3.5 0 0 0 6 0zM8 21h8"/></svg></span>
+    <h3>Divergências e decisões</h3>
+    <p>Conflitos de vigência, fundamentos em norma revogada, números citados errados e as decisões fundamentadas. Registra e explica; não resolve.</p>
+    <span class="go">Ver o registro →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}fila/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 13V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8M4 13h4l2 3h4l2-3h4M4 13v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6"/></svg></span>
+    <h3>Fila de coleta</h3>
+    <p>Normas citadas por outras e ainda sem texto no acervo, entre elas as resoluções pedidas à SODS. Aparecem tracejadas na Teia.</p>
+    <span class="go">Ver a fila →</span>
+  </a>
+  <a class="fn" href="{{ raiz }}sobre/">
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v5M12 8h.01"/></svg></span>
+    <h3>Método e rodadas</h3>
+    <p>Como o acervo é construído, a hierarquia, os tipos de relação, as regras de vigência e os relatórios de cada rodada de coleta.</p>
+    <span class="go">Sobre o Farol →</span>
+  </a>
+  <div class="fn soon" aria-label="Oráculo, em breve">
+    <span class="tag">em breve</span>
+    <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-7l-4 4v-4H6a2 2 0 0 1-2-2z"/><path d="M8 9h8M8 12h5"/></svg></span>
+    <h3>Oráculo</h3>
+    <p>Pergunte como um assunto é regido e receba a resposta com base normativa, cadeia de normas, instância competente e pontos de atenção. Etapa 2 do plano.</p>
+    <span class="go">Em desenvolvimento</span>
+  </div>
 </div>
 
 <h2>Comece por aqui</h2>
@@ -26,15 +81,5 @@
   <p><span class="pill {{ n.situacao_chave }}">{{ n.situacao_chave|nome_situacao }}</span> <span class="pill lvl">{{ n.nivel }}</span></p>
   <p style="margin-top:8px">{{ n.ementa|truncate(160) }}</p></div>
 {% endfor %}
-</div>
-
-<h2>As faces do Farol</h2>
-<div class="grid">
-  <div class="card"><h3>Busca</h3><p>Por número, ano, órgão, nível, tema, situação ou palavras da ementa. Cada resultado abre a ficha e o texto.</p><a class="go" href="{{ raiz }}busca/">Buscar normas →</a></div>
-  <div class="card"><h3>Teia</h3><p>O mapa de citações: escolha uma norma de partida e veja quem a altera, revoga ou se funda nela, com máquina do tempo.</p><a class="go" href="{{ raiz }}teia/">Abrir a Teia →</a></div>
-  <div class="card"><h3>Ficha e texto</h3><p>Cada norma tem ficha com situação de vigência e sua base, relações por dispositivo e o texto integral com as citações em link.</p><a class="go" href="{{ raiz }}norma/UFPB-CONSUNI-RES-07-2002/">Ver o Estatuto →</a></div>
-  <div class="card"><h3>Vigência</h3><p>O que está vigente, alterado ou revogado, e com base em quê. Conferido no texto das normas posteriores, não só no SIGRH.</p><a class="go" href="{{ raiz }}vigencia/">Quadro de vigência →</a></div>
-  <div class="card"><h3>Divergências</h3><p>Conflitos de vigência, fundamentos em norma revogada, números citados errados e decisões fundamentadas.</p><a class="go" href="{{ raiz }}divergencias/">Ver registro →</a></div>
-  <div class="card"><h3>Fila de coleta</h3><p>Normas citadas e ainda sem texto no acervo, entre elas as resoluções pedidas à SODS.</p><a class="go" href="{{ raiz }}fila/">Ver a fila →</a></div>
 </div>
 {% endblock %}
