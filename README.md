@@ -13,7 +13,7 @@ O repositório guarda a **base** (normas e relações, com trecho e fonte de cad
 
 Identidade visual conforme o Manual de Identidade Visual da UFPB (paleta oficial, IBM Plex, brasão e marca "UFPB" na aplicação preferencial).
 
-Base atual: Rodada 2 (20/10/2026), com 6.333 normas, 3.277 textos integrais e 23.798 relações.
+Base atual: Rodada 2 (20/10/2026), com 6.333 normas, 3.281 textos integrais e 23.798 relações, mais 34 regimentos de unidades postos na fila em 02/11/2026.
 
 ## Como gerar o site
 

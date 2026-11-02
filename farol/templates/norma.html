@@ -8,8 +8,8 @@
 <div class="chips">
   <span class="pill {{ n.situacao_chave }}">{{ n.situacao_chave|nome_situacao }}</span>
   {% if n.fantasma %}<span class="pill nao_localizada">citada, sem texto no acervo</span>{% endif %}
-  {% if n.aviso_texto %}<span class="pill ocr" title="{{ n.aviso_texto }}">texto por OCR</span>{% endif %}
-  <a class="btn" href="{{ raiz }}teia/#{{ n.id }}">Ver na Teia</a>
+  {% if n.aviso_texto or 'OCR' in (n.metodo_texto or '') %}<span class="pill ocr tip" tabindex="0" data-tip="{{ OCR_EXPLICACAO }}{% if n.aviso_texto %} {{ n.aviso_texto }}{% endif %}">texto por OCR ⓘ</span>{% endif %}
+  <a class="btn" href="{{ raiz }}teia/#{{ n.id }}" target="_blank" rel="noopener">Ver na Teia</a>
   {% if texto_html %}<a class="btn" href="#texto">Ir ao texto integral</a>{% endif %}
 </div>
 
@@ -29,7 +29,7 @@
       <h4>Por dispositivo desta norma</h4>
       <ul class="rl">
         {% for disp, itens in dispositivos %}
-        <li class="disp"><span class="k">{{ disp }}</span><div>{% for seta, r, outro in itens %}<span class="d">{{ seta }} {{ r.tipo }} <a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>{% if r.sugestao %} <em>(sugestão)</em>{% endif %}</span>{% endfor %}</div></li>
+        <li class="disp"><span class="k">{{ disp }}</span><div>{% for seta, r, outro in itens %}<span class="d">{{ seta }} {{ r.tipo }} <a class="n" href="{{ raiz }}norma/{{ outro|slug }}/" target="_blank" rel="noopener">{{ outro|rotulo }}</a>{% if r.sugestao %} <em>(sugestão)</em>{% endif %}</span>{% endfor %}</div></li>
         {% endfor %}
       </ul>
       {% endif %}
@@ -37,8 +37,8 @@
       <h4>Normas irmãs e paralelas · sugestão</h4>
       <p class="sugnote">Irmãs são citadas pelas mesmas normas que citam esta; paralelas citam as mesmas bases que esta sem se citarem. Não é relação normativa.</p>
       <ul class="rl">
-        {% for id_, c in irmas %}<li><span class="k sug">irmã · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/">{{ id_|rotulo }}</a></li>{% endfor %}
-        {% for id_, c in paralelas %}<li><span class="k sug">paralela · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/">{{ id_|rotulo }}</a></li>{% endfor %}
+        {% for id_, c in irmas %}<li><span class="k sug">irmã · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/" target="_blank" rel="noopener">{{ id_|rotulo }}</a></li>{% endfor %}
+        {% for id_, c in paralelas %}<li><span class="k sug">paralela · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/" target="_blank" rel="noopener">{{ id_|rotulo }}</a></li>{% endfor %}
       </ul>
       {% endif %}
     </div>
@@ -54,7 +54,7 @@
       <dt>Temas</dt><dd>{{ n.temas|join('; ') or '—' }}</dd>
       <dt>Situação</dt><dd>{{ n.situacao or 'não registrada' }}</dd>
       <dt>Coleta</dt><dd>{{ n.status_coleta }}{% if n.data_coleta %} · {{ n.data_coleta|data_br }}{% endif %}</dd>
-      {% if n.metodo_texto %}<dt>Texto</dt><dd>{{ n.metodo_texto }}</dd>{% endif %}
+      {% if n.metodo_texto %}<dt>Texto</dt><dd>{{ n.metodo_texto|abbr_ocr }}</dd>{% endif %}
       <dt>Fonte</dt><dd>{% if n.fonte %}<a href="{{ n.fonte }}" target="_blank" rel="noopener">texto oficial ↗</a>{% else %}sem link no acervo{% endif %}{% if n.fonte_arquivo and n.fonte_arquivo != n.fonte %} · <a href="{{ n.fonte_arquivo }}" target="_blank" rel="noopener">arquivo ↗</a>{% endif %}</dd>
       <dt>Ligações</dt><dd>{{ entrada|length }} apontam para ela · ela aponta para {{ saida|length }}</dd>
     </dl>
@@ -65,10 +65,10 @@
 <section class="texto" id="texto">
   <div class="texto-bar">
     <h2 style="margin:0">Texto integral</h2>
-    <span class="hint">{{ n.metodo_texto or 'texto do acervo' }}{% if versao %} · {{ versao }}{% endif %}</span>
+    <span class="hint">{{ (n.metodo_texto or 'texto do acervo')|abbr_ocr }}{% if versao %} · {{ versao }}{% endif %}</span>
     <label class="hint" style="margin-left:auto">Ir ao art. <input type="number" id="irArt" min="1" aria-label="Número do artigo"></label>
   </div>
-  {% if n.aviso_texto %}<div class="aviso">{{ n.aviso_texto }}</div>{% endif %}
+  {% if n.aviso_texto %}<div class="aviso">{{ n.aviso_texto|abbr_ocr }}</div>{% endif %}
   {% if n.situacao_chave == 'revogada' %}<div class="aviso rev"><b>Norma revogada.</b> {{ n.situacao_base|ids_para_links }} O texto abaixo é a redação publicada, mantida para consulta histórica.</div>
   {% elif n_notas %}<div class="aviso"><b>{{ n_notas }} artigo(s) com anotação de vigência.</b> Logo abaixo do caput, a anotação diz qual norma altera, revoga ou supera o artigo, com link para o texto dela.
     {% if 'compilad' in versao or 'consolidad' in versao %}Este texto já é a versão {{ versao }}: a redação revogada ou substituída aparece tachada e a vigente, em seguida.{% else %}Este texto é a redação originalmente publicada: a redação nova está na norma alteradora, não aqui.{% endif %}</div>

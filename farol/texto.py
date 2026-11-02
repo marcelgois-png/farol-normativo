@@ -173,7 +173,7 @@ class Ligador:
                     pos = j
                     continue
                 anc = _ancora_dispositivo(disp)
-                link = f'<a class="cit" href="{self.prefixo}{slug(dest)}/{anc}" title="{html.escape(dest)}">{cit}</a>'
+                link = f'<a class="cit" href="{self.prefixo}{slug(dest)}/{anc}" title="{html.escape(dest)}" target="_blank" rel="noopener">{cit}</a>'
                 saida = saida[:i] + link + saida[j:]
                 desloc = len(link) - len(cit)
                 ocupado = [(a + desloc, b + desloc) if a >= i else (a, b) for a, b in ocupado]

@@ -14,7 +14,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import grafo, texto as mod_texto
 from .base import Base, Norma
-from .rotulos import NIVEIS, NOME_NIVEL, NOME_SITUACAO, rotulo as fn_rotulo, slug
+from .rotulos import CHAVE_RELACAO, NIVEIS, NOME_NIVEL, NOME_SITUACAO, rotulo as fn_rotulo, slug
 
 AQUI = Path(__file__).parent
 DESTAQUES = [
@@ -60,6 +60,8 @@ class Gerador:
         self.env.filters["nome_nivel"] = lambda k: NOME_NIVEL.get(k, k)
         self.env.filters["rotulo"] = lambda i: b.normas[i].rotulo if i in b.normas else fn_rotulo(i)
         self.env.filters["ids_para_links"] = self._ids_para_links
+        self.env.filters["abbr_ocr"] = self._abbr_ocr
+        self.env.globals["OCR_EXPLICACAO"] = self._OCR
         self.meta = {"rodada": "Rodada 2", "data_base": "2026-10-20", "data_base_br": "20/10/2026"}
         self.contadores: Counter = Counter()
 
@@ -70,10 +72,19 @@ class Gerador:
         def sub(m):
             i = m.group(1)
             if i in self.base.normas:
-                return f'<a href="{self._raiz_rel}norma/{slug(i)}/">{html.escape(self.base.normas[i].rotulo)}</a>'
+                return f'<a href="{self._raiz_rel}norma/{slug(i)}/" target="_blank" rel="noopener">{html.escape(self.base.normas[i].rotulo)}</a>'
             return html.escape(i)
 
         return Markup(_RE_ID.sub(sub, html.escape(s or "")))
+
+    _OCR = ("OCR (reconhecimento óptico de caracteres): o texto foi lido automaticamente da imagem do PDF digitalizado, "
+            "sem camada de texto; números e letras podem ter sido trocados. Confira no PDF oficial antes de citar.")
+
+    def _abbr_ocr(self, s: str):
+        """Marca a sigla OCR com a explicação (aparece ao passar o mouse)."""
+        from markupsafe import Markup
+
+        return Markup(html.escape(s or "").replace("OCR", f'<abbr class="tip" tabindex="0" data-tip="{html.escape(self._OCR)}">OCR</abbr>'))
 
     _raiz_rel = "../../"
 
@@ -129,7 +140,7 @@ class Gerador:
             n = b.normas.get(r.origem)
             rot = html.escape(n.rotulo if n else fn_rotulo(r.origem))
             anc = (mod_texto._ancora_dispositivo(r.disp_origem) or "#texto") if (n and n.texto_path) else ""
-            link = f'<a class="n" href="../../norma/{slug(r.origem)}/{anc}">{rot}</a>' if n else rot
+            link = f'<a class="n" href="../../norma/{slug(r.origem)}/{anc}" target="_blank" rel="noopener">{rot}</a>' if n else rot
             det = []
             if r.disp_origem and r.disp_origem != "norma inteira":
                 det.append(f"na outra: {html.escape(r.disp_origem)}")
@@ -229,7 +240,7 @@ class Gerador:
         }
         def bloco(titulo, texto, niveis):
             linhas = []
-            for n in sorted((x for x in b.normas.values() if x.nivel in niveis), key=lambda x: (NIVEIS.index(x.nivel), x.ano)):
+            for n in sorted((x for x in b.normas.values() if x.nivel in niveis), key=lambda x: (NIVEIS.index(x.nivel), x.ano, x.orgao)):
                 alt = [r for r in b.entrada.get(n.id, []) if r.tipo in grafo.TIPOS_VIGENCIA and not r.sugestao]
                 arts = {a for r in alt for a in grafo.artigos_do_dispositivo(r.disp_destino)}
                 situ = f'<span class="pill {n.situacao_chave}">{html.escape(NOME_SITUACAO.get(n.situacao_chave, n.situacao_chave))}</span>'
@@ -243,6 +254,7 @@ class Gerador:
             bloco("Estatuto (N5)", "Res. CONSUNI 07/2002. Cada alteração anotada no texto consolidado foi conferida com a resolução alteradora.", ["N5"]),
             bloco("Regimentos comuns (N6)", "Previstos no art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).", ["N6"]),
             bloco("Em tramitação (NT)", "Sem força normativa. O Farol mostra o que a minuta prevê e deixa claro que ainda não vigora.", ["NT"]),
+            bloco("Regimentos de unidades (N8)", "Regimentos internos das pró-reitorias, superintendências e centros de ensino. Estão na fila de coleta: ainda sem texto, número ou data no acervo.", ["N8"]),
         ]
         self._render("painel.html", "estrutura/index.html", "../", secao="estrutura", titulo="Estatuto e regimentos",
                      lead="As normas estruturais da UFPB, de onde partem as demais: o Estatuto, os três regimentos comuns e a minuta do novo Estatuto. No texto integral de cada uma, os artigos alterados, revogados ou superados trazem a anotação e o link para a norma que os alcança.",
@@ -294,6 +306,8 @@ class Gerador:
                 continue
             if n.id.startswith("UFPB-CONS") or n.id.startswith("UFPB-CURADOR"):
                 g = "Resoluções dos conselhos superiores (pedido à SODS)"
+            elif n.id.startswith("UFPB-REGIMENTO-"):
+                g = "Regimentos de unidades: pró-reitorias, superintendências e centros (pedido da coordenação)"
             elif n.id.startswith("UFPB-"):
                 g = "Normas de unidades, pró-reitorias e reitoria da UFPB"
             elif n.id.startswith("BR-CNE") or n.id.startswith("BR-CFE") or n.id.startswith("BR-MEC") or n.id.startswith("BR-CAPES") or n.id.startswith("BR-SERES") or n.id.startswith("BR-INEP"):
@@ -306,14 +320,42 @@ class Gerador:
                 g = "Outros órgãos federais, conselhos profissionais e estaduais"
             grupos.setdefault(g, []).append(n)
         blocos = []
-        for g, lst in sorted(grupos.items(), key=lambda kv: -len(kv[1])):
-            lst.sort(key=lambda n: -b.grau_entrada(n.id))
-            linhas = [[self._link(n.id), html.escape(n.status_coleta), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in lst]
-            blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "colunas": ["Norma", "Situação da coleta", "Citada por", "Descrição / observação"], "linhas": linhas})
-        resumo = [("citadas, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in sorted(grupos.items(), key=lambda kv: -len(kv[1]))]
+        ordem = sorted(grupos.items(), key=lambda kv: (0 if "coordenação" in kv[0] else 1, -len(kv[1])))
+        for g, lst in ordem:
+            if "coordenação" in g:
+                lst.sort(key=lambda n: (0 if "Pró-Reitoria" in n.ementa else 1 if "Superintendência" in n.ementa else 2, n.orgao))
+                texto = "Regimentos internos das unidades listadas no site oficial da UFPB, postos na fila em 02/11/2026 a pedido da coordenação do Farol (não entraram por citação). Número, data e ato de aprovação só depois de localizar o texto no site da unidade, na SODS ou no SIGRH."
+            else:
+                lst.sort(key=lambda n: -b.grau_entrada(n.id))
+                texto = ""
+            linhas = [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)),
+                       html.escape(n.ementa or n.obs) + (f' · <a href="{html.escape(n.fonte)}" target="_blank" rel="noopener">site da unidade ↗</a>' if n.id.startswith("UFPB-REGIMENTO-") and n.fonte else "")] for n in lst]
+            blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "texto": texto, "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"], "linhas": linhas})
+        resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem]
         self._render("painel.html", "fila/index.html", "../", secao="fila", titulo="Fila de coleta",
-                     lead="Normas citadas por outras normas do acervo e ainda sem texto. Aparecem tracejadas na Teia. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",
+                     lead="Normas ainda sem texto no acervo: as citadas por outras normas (aparecem tracejadas na Teia) e os regimentos de unidades pedidos pela coordenação. A coluna de vigência mostra o que as normas já lidas dizem sobre cada uma; nada aqui afirma que uma norma não lida está em vigor. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",
                      resumo=resumo, blocos=blocos)
+
+    def _vigencia_registrada(self, n: Norma) -> str:
+        """O que as normas já lidas dizem sobre uma norma sem texto: revogação, alteração ou superação registradas na base."""
+        b = self.base
+        rels = [r for r in b.entrada.get(n.id, []) if r.tipo in grafo.TIPOS_VIGENCIA and not r.sugestao]
+        partes = []
+        if n.situacao_chave not in ("nao_localizada", "desconhecida"):
+            partes.append(f'<span class="pill {n.situacao_chave}">{html.escape(NOME_SITUACAO.get(n.situacao_chave, n.situacao_chave))}</span>')
+        if not rels:
+            partes.append('<span class="hint">nenhuma alteração ou revogação registrada</span>')
+            return " ".join(partes)
+        rotulo_tipo = {"REVOGA (total)": "revogada por", "REVOGA (parcial)": "revogada em parte por", "ALTERA": "alterada por", "SUPERA": "superada por"}
+        por_tipo: dict[str, list[str]] = {}
+        for r in sorted(rels, key=lambda r: (grafo._data_norm(r.inicio_efeito) or "9999", r.origem)):
+            lk = self._link(r.origem) + (f' <span class="hint">({html.escape(r.disp_destino)})</span>' if r.disp_destino and r.disp_destino != "norma inteira" else "")
+            if lk not in por_tipo.setdefault(r.tipo, []):
+                por_tipo[r.tipo].append(lk)
+        for t in ("REVOGA (total)", "REVOGA (parcial)", "SUPERA", "ALTERA"):
+            if t in por_tipo:
+                partes.append(f'<span class="k {CHAVE_RELACAO[t]}">{html.escape(t)}</span> {rotulo_tipo[t]} ' + ", ".join(por_tipo[t]))
+        return "<br>".join(partes)
 
     def _sobre(self):
         b = self.base

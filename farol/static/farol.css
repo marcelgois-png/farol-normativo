@@ -49,7 +49,8 @@ code,.mono{font-family:var(--mono);font-size:.9em}
 
 /* cabeçalho: marca UFPB (aplicação preferencial) + nome do sistema, separados por filete */
 .stripe{height:4px;background:linear-gradient(90deg,var(--ufpb-azul-escuro),var(--ufpb-azul) 55%,var(--ufpb-azul-claro))}
-.top{background:var(--panel);border-bottom:1px solid var(--line)}
+.top{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50;box-shadow:0 1px 0 var(--line),0 6px 18px rgba(30,55,102,.06)}
+:target,[id]{scroll-margin-top:84px}
 .top .in{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .brand{display:flex;align-items:center;gap:14px;text-decoration:none;color:var(--fg);min-width:0}
 .brand .marca{display:block;background:#fff;border-radius:10px;padding:4px 8px;flex:none}
@@ -78,7 +79,12 @@ h3{font:600 17px/1.25 var(--display);margin:18px 0 8px}
 .pill.nao_localizada,.pill.desconhecida{background:var(--panel2);color:var(--muted);border:1px dashed var(--nl)}
 .pill.tramitacao{background:var(--nt);color:#0f1727}.pill.conflito,.pill.verificar{background:var(--cf);color:#1a0d00}
 .pill.lvl{background:var(--accent-soft);color:var(--fg)}
-.pill.ocr{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
+.pill.ocr{background:var(--panel2);color:var(--muted);border:1px solid var(--line);cursor:help}
+abbr{text-decoration:underline dotted;text-underline-offset:3px;cursor:help}
+/* dica ao passar o mouse (ou tocar/focar): texto em data-tip */
+.tip{position:relative;cursor:help}
+.tip:hover::after,.tip:focus::after,.tip:focus-visible::after{content:attr(data-tip);position:absolute;left:0;top:calc(100% + 6px);z-index:60;width:min(380px,80vw);white-space:normal;background:var(--ufpb-azul-escuro);color:#fff;font:400 13px/1.45 var(--body);letter-spacing:0;text-transform:none;padding:8px 11px;border-radius:8px;box-shadow:var(--shadow);text-align:left;overflow-wrap:normal}
+.kv .tip:hover::after,.kv .tip:focus::after{left:auto;right:0}
 :root[data-theme="dark"] .pill.revogada{color:#0f1727}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .pill.revogada{color:#0f1727}}
 
@@ -103,7 +109,10 @@ h3{font:600 17px/1.25 var(--display);margin:18px 0 8px}
 .hero .eyebrow{color:var(--ufpb-amarelo)}
 .hero h1{color:#fff;font-size:clamp(28px,4.2vw,44px);max-width:22ch}
 .hero .lead{color:rgba(255,255,255,.86);max-width:62ch;font-size:17.5px}
-.hero .sbox{background:#fff;border-color:transparent;box-shadow:0 10px 30px rgba(0,0,0,.25);color:#15223a}
+.hero .sbox{background:#fff;border-color:transparent;box-shadow:0 10px 30px rgba(0,0,0,.25);color:#15223a;flex-wrap:wrap;row-gap:6px;padding-block:4px}
+.hero .sbox input{flex:1 1 220px}
+.hero .btn.avancada{background:#fff;color:var(--ufpb-azul);border:1px solid var(--ufpb-azul);white-space:nowrap}
+.hero .btn.avancada:hover{background:var(--accent-soft)}
 .hero .sbox input{color:#15223a}
 .hero .sbox input::placeholder{color:#7a8597}
 .hero .sbox svg{color:#53627a}

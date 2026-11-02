@@ -9,7 +9,7 @@
 <ul class="rl">
 {% for r, outro in estruturais %}
   <li><span class="k {{ r.chave }}{% if r.sugestao %} sug{% endif %}">{{ r.tipo }}{% if r.sugestao %} · sugestão{% endif %}</span>
-    <div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+    <div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/" target="_blank" rel="noopener">{{ outro|rotulo }}</a>
       {% set disp_aqui = r.disp_origem if como_origem else r.disp_destino %}{% set disp_la = r.disp_destino if como_origem else r.disp_origem %}
       {% if disp_aqui or disp_la %}<span class="d">{% if disp_aqui %}nesta norma: {{ disp_aqui }}{% endif %}{% if disp_aqui and disp_la %} → {% endif %}{% if disp_la %}na outra: {{ disp_la }}{% endif %}</span>{% endif %}
       {% if r.inicio_efeito %}<span class="d">efeito desde {{ r.inicio_efeito|data_br }}{% if r.fim_efeito %} até {{ r.fim_efeito|data_br }}{% endif %}{% if r.ressalva %} · {{ r.ressalva }}{% endif %}</span>{% endif %}
@@ -24,7 +24,7 @@
 <details><summary>{{ fundamentos|length }} norma(s) que se fundamentam nesta (FUNDAMENTA-SE EM)</summary>
 <ul class="rl" style="margin-top:6px">
 {% for r, outro in fundamentos %}
-  <li><span class="k F">FUNDAMENTA-SE EM</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+  <li><span class="k F">FUNDAMENTA-SE EM</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/" target="_blank" rel="noopener">{{ outro|rotulo }}</a>
     {% set disp_la = r.disp_destino if como_origem else r.disp_origem %}{% if disp_la and disp_la != 'norma inteira' %}<span class="d">em: {{ disp_la }}</span>{% endif %}
     {% if r.trecho %}<span class="q">“{{ r.trecho|truncate(200) }}”</span>{% endif %}</div></li>
 {% endfor %}
@@ -34,7 +34,7 @@
 <details><summary>{{ citacoes|length }} citação(ões) simples (REMETE A)</summary>
 <ul class="rl" style="margin-top:6px">
 {% for r, outro in citacoes %}
-  <li><span class="k M">cita</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+  <li><span class="k M">cita</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/" target="_blank" rel="noopener">{{ outro|rotulo }}</a>
     {% set disp_aqui = r.disp_origem if como_origem else r.disp_destino %}{% if disp_aqui and disp_aqui != 'norma inteira' %}<span class="d">em: {{ disp_aqui }}</span>{% endif %}
     {% if r.trecho %}<span class="q">“{{ r.trecho|truncate(200) }}”</span>{% endif %}</div></li>
 {% endfor %}

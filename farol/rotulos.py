@@ -108,6 +108,10 @@ _ROTULOS_FIXOS = {
 }
 
 
+# Centros de ensino da UFPB (site oficial, página "Centros de Ensino", lida em 02/11/2026).
+CENTROS = {"CCEN", "CCHLA", "CCM", "CE", "CCSA", "CT", "CCS", "CCJ", "CBIOTEC", "CCTA", "CEAR", "CI", "CTDR", "CPT-ETS", "CCA", "CCHSA", "CCAE"}
+
+
 def _fmt_numero(num: str) -> str:
     if re.fullmatch(r"\d{4,}", num):
         return f"{int(num):,}".replace(",", ".")
@@ -118,6 +122,9 @@ def rotulo(id_: str, orgao: str = "") -> str:
     """Nome curto e legível de uma norma a partir do ID (e do órgão da ficha)."""
     if id_ in _ROTULOS_FIXOS:
         return _ROTULOS_FIXOS[id_]
+    if id_.startswith("UFPB-REGIMENTO-"):  # regimento de unidade: UFPB-REGIMENTO-<SIGLA>
+        sigla = id_[len("UFPB-REGIMENTO-"):]
+        return f"Regimento {'do' if sigla in CENTROS else 'da'} {sigla}"
     partes = id_.split("-")
     if len(partes) >= 3 and re.fullmatch(r"[\d?]{4}", partes[-1]):
         num, ano = partes[-2], partes[-1]

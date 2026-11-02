@@ -308,3 +308,42 @@ Atualizada em 20/10/2026. Normas citadas no acervo e ainda sem texto, ordenadas 
 - BR-DEC-83103-1979 — citada por 1 resolução(ões) da UFPB
 - BR-DEC-80467-1984 — citada por 1 resolução(ões) da UFPB
 - … e mais 18 citadas
+
+## Regimentos de unidades (34; pedido da coordenação em 02/11/2026)
+
+Regimentos internos das pró-reitorias, superintendências e centros de ensino listados no site oficial da UFPB. Não entraram por citação: foram pedidos pela coordenação do Farol. Número, data e ato de aprovação só depois de localizar o texto (site da unidade, SODS ou SIGRH).
+
+- UFPB-REGIMENTO-PRA — Regimento interno da Pró-Reitoria Administrativa (PRA) — https://www.pra.ufpb.br/
+- UFPB-REGIMENTO-PROGEP — Regimento interno da Pró-Reitoria de Gestão de Pessoas (PROGEP) — https://www.progep.ufpb.br/
+- UFPB-REGIMENTO-PRG — Regimento interno da Pró-Reitoria de Graduação (PRG) — https://www.prg.ufpb.br/
+- UFPB-REGIMENTO-PRPG — Regimento interno da Pró-Reitoria de Pós-Graduação (PRPG) — https://www.prpg.ufpb.br/
+- UFPB-REGIMENTO-PROPLAN — Regimento interno da Pró-Reitoria de Planejamento e Desenvolvimento (PROPLAN) — http://www.proplan.ufpb.br/
+- UFPB-REGIMENTO-PROPESQ — Regimento interno da Pró-Reitoria de Pesquisa (PROPESQ) — http://www.propesq.ufpb.br/
+- UFPB-REGIMENTO-PRAPE — Regimento interno da Pró-Reitoria de Assistência e Promoção ao Estudante (PRAPE) — http://www.prape.ufpb.br
+- UFPB-REGIMENTO-PROEX — Regimento interno da Pró-Reitoria de Extensão (PROEX) — http://www.proex.ufpb.br/
+- UFPB-REGIMENTO-SCS — Regimento interno da Superintendência de Comunicação Social (SCS) — https://scs.ufpb.br/
+- UFPB-REGIMENTO-STI — Regimento interno da Superintendência de Tecnologia da Informação (STI) — http://www.sti.ufpb.br/
+- UFPB-REGIMENTO-SEBTT — Regimento interno da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT) — https://www.ufpb.br/sebtt
+- UFPB-REGIMENTO-SOF — Regimento interno da Superintendência de Orçamento e Finanças (SOF) — http://www.ufpb.br/sof
+- UFPB-REGIMENTO-SINFRA — Regimento interno da Superintendência de Infraestrutura (SINFRA) — https://www.ufpb.br/sinfra
+- UFPB-REGIMENTO-SULT — Regimento interno da Superintendência de Logística e Transportes (SULT) — http://www.ufpb.br/sult
+- UFPB-REGIMENTO-SSG — Regimento interno da Superintendência de Serviços Gerais (SSG) — https://www.ufpb.br/ssg
+- UFPB-REGIMENTO-SSI — Regimento interno da Superintendência de Segurança Institucional (SSI) — https://www.ssi.ufpb.br/
+- UFPB-REGIMENTO-SEAD — Regimento interno da Superintendência de Educação a Distância (SEAD) — http://www.sead.ufpb.br/
+- UFPB-REGIMENTO-CCEN — Regimento interno do Centro de Ciências Exatas e da Natureza (CCEN) — https://www.ccen.ufpb.br/
+- UFPB-REGIMENTO-CCHLA — Regimento interno do Centro de Ciências Humanas, Letras e Artes (CCHLA) — https://www.cchla.ufpb.br/
+- UFPB-REGIMENTO-CCM — Regimento interno do Centro de Ciências Médicas (CCM) — https://www.ccm.ufpb.br/
+- UFPB-REGIMENTO-CE — Regimento interno do Centro de Educação (CE) — https://www.ce.ufpb.br/
+- UFPB-REGIMENTO-CCSA — Regimento interno do Centro de Ciências Sociais Aplicadas (CCSA) — https://www.ccsa.ufpb.br/
+- UFPB-REGIMENTO-CT — Regimento interno do Centro de Tecnologia (CT) — https://www.ct.ufpb.br/
+- UFPB-REGIMENTO-CCS — Regimento interno do Centro de Ciências da Saúde (CCS) — https://www.ccs.ufpb.br/
+- UFPB-REGIMENTO-CCJ — Regimento interno do Centro de Ciências Jurídicas (CCJ) — https://www.ccj.ufpb.br/
+- UFPB-REGIMENTO-CBIOTEC — Regimento interno do Centro de Biotecnologia (CBIOTEC) — https://www.cbiotec.ufpb.br/
+- UFPB-REGIMENTO-CCTA — Regimento interno do Centro de Comunicação, Turismo e Artes (CCTA) — https://www.ccta.ufpb.br/
+- UFPB-REGIMENTO-CEAR — Regimento interno do Centro de Energias Alternativas e Renováveis (CEAR) — https://www.cear.ufpb.br/
+- UFPB-REGIMENTO-CI — Regimento interno do Centro de Informática (CI) — https://www.ci.ufpb.br/
+- UFPB-REGIMENTO-CTDR — Regimento interno do Centro de Tecnologia e Desenvolvimento Regional (CTDR) — https://www.ctdr.ufpb.br/
+- UFPB-REGIMENTO-CPT-ETS — Regimento interno do Centro Profissional e Tecnológico – Escola Técnica de Saúde (CPT-ETS) — https://www.ets.ufpb.br/
+- UFPB-REGIMENTO-CCA — Regimento interno do Centro de Ciências Agrárias (CCA) — https://www.cca.ufpb.br/
+- UFPB-REGIMENTO-CCHSA — Regimento interno do Centro de Ciências Humanas, Sociais e Agrárias (CCHSA) — https://www.cchsa.ufpb.br/
+- UFPB-REGIMENTO-CCAE — Regimento interno do Centro de Ciências Aplicadas e Educação (CCAE) — https://www.ccae.ufpb.br/
