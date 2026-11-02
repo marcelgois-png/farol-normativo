@@ -134,4 +134,6 @@ M1 concluído: a base completa da Rodada 2 (6.333 normas, 23.798 relações) e o
 
 Repositório criado em `github.com/marcelgois-png/farol-normativo` (privado) com a ação de testes/validação/geração rodando a cada envio; os quatro textos da Rodada 0 foram recoletados do HTML oficial da SODS em 02/11/2026 (`base/sods/`, `textos/SODS/`), com redações revogadas tachadas e numeração de listas restaurada.
 
+Projeto cadastrado no Planeja CT em 02/11/2026 como "Implantar o Farol Normativo UFPB: acervo, mapa de citações e consulta das normas da universidade" (690), com oito atividades: cinco concluídas (base, Teia, plano, repositório, textos da SODS) e três previstas — site v0.1 até 20/11/2026, apresentação à SODS até 18/12/2026 e Rodada 3 até 29/01/2027.
+
 Próximo passo (M2): decidir a publicação (repositório público para o GitHub Pages, ou servidor da UFPB) e conferir o site no ar. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.
