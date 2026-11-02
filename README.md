@@ -13,7 +13,7 @@ O repositório guarda a **base** (normas e relações, com trecho e fonte de cad
 
 Identidade visual conforme o Manual de Identidade Visual da UFPB (paleta oficial, IBM Plex, brasão e marca "UFPB" na aplicação preferencial).
 
-Base atual: Rodada 3 (02/11/2026), com 6.414 normas, 3.385 textos integrais e 24.582 relações; 17 dos 34 regimentos de unidades já têm texto (anexos de resoluções do CONSUNI).
+Base atual: Rodada 4 (02/11/2026), com 6.401 normas, 3.437 textos integrais e 24.855 relações; 17 dos 34 regimentos de unidades já têm texto (anexos de resoluções do CONSUNI); atos do MEC e da CAPES publicados no DOU desde 2013 e leis da Paraíba (SAPL/ALPB) em `textos/FEDERAL` e `textos/PB`.
 
 ## Como gerar o site
 

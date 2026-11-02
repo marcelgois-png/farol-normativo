@@ -1,0 +1,13 @@
+{
+ "arestas com destino reidentificado": 153,
+ "arestas descartadas (citação não é norma)": 4,
+ "nós removidos (citação reidentificada ou descartada)": 147,
+ "nós marcados como fora do escopo federal ou não localizados": 118,
+ "nós novos com texto (não estavam na base)": 1,
+ "normas com texto integral incorporadas": 52,
+ "citações corrigidas à mão (leis estaduais)": 4,
+ "relações novas tiradas dos textos da Rodada 4": 276,
+ "situações atualizadas por revogação lida na Rodada 4": 8,
+ "situações complementadas por alteração lida na Rodada 4": 1,
+ "situações atualizadas por alteração lida na Rodada 4": 7
+}

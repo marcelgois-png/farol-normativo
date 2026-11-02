@@ -62,7 +62,7 @@ class Gerador:
         self.env.filters["ids_para_links"] = self._ids_para_links
         self.env.filters["abbr_ocr"] = self._abbr_ocr
         self.env.globals["OCR_EXPLICACAO"] = self._OCR
-        self.meta = {"rodada": "Rodada 3", "data_base": "2026-11-02", "data_base_br": "02/11/2026"}
+        self.meta = {"rodada": "Rodada 4", "data_base": "2026-11-02", "data_base_br": "02/11/2026"}
         self.contadores: Counter = Counter()
 
     # ---- utilidades ----------------------------------------------------
