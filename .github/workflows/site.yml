@@ -30,6 +30,10 @@ jobs:
         with:
           path: site
   deploy:
+    # O GitHub Pages do plano gratuito só existe em repositório público.
+    # Enquanto o repositório for privado, só o job "build" roda (testes,
+    # validação e geração); o site gerado fica disponível como artefato da execução.
+    if: ${{ github.event.repository.private == false }}
     needs: build
     runs-on: ubuntu-latest
     environment:
