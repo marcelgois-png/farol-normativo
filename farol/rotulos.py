@@ -94,6 +94,7 @@ _TIPO_NOME = {
     "PORTINTER": "Port. Interministerial",
     "PORTNORMINTER": "Port. Norm. Intermin.",
     "DLG": "Decreto Legislativo",
+    "LDEL": "Lei Delegada",
     "CF": "Constituição",
 }
 
@@ -135,7 +136,7 @@ def rotulo(id_: str, orgao: str = "") -> str:
             if partes[0] == "PB":
                 org = ["PB"] + org
             num = _fmt_numero(num)
-            if partes[0] == "BR" and not org and tk in ("LEI", "DEC", "DL", "LC", "EC", "MP"):
+            if partes[0] == "BR" and not org and tk in ("LEI", "DEC", "DL", "LC", "EC", "MP", "LDEL", "DLG"):
                 return f"{_TIPO_NOME[tk]} {num}/{ano}"
             o = "/".join(org) if org else (orgao or "?")
             return f"{_TIPO_NOME[tk]} {o} {num}/{ano}"

@@ -1,0 +1,21 @@
+{
+ "arestas com destino reidentificado": 29,
+ "arestas descartadas (autocitação após correção)": 1,
+ "nós removidos (citação reidentificada)": 11,
+ "nós marcados fora do escopo federal ou não localizados": 3,
+ "normas com texto integral incorporadas": 291,
+ "relações novas: REMETE A": 3305,
+ "relações novas: REVOGA (parcial)": 619,
+ "relações novas: REVOGA (total)": 87,
+ "relações novas: ALTERA": 1310,
+ "relações novas: REGULAMENTA": 6,
+ "relações novas tiradas dos textos da Rodada 5": 5327,
+ "relações já existentes na base (não duplicadas)": 134,
+ "nós novos: citados por atos da Rodada 5 (entram na fila)": 975,
+ "nós novos: alteradoras anotadas (fora da fila, D90)": 409,
+ "alteradoras anotadas que passaram a ser citadas (voltam à fila)": 83,
+ "situações: revogação lida na Rodada 5": 69,
+ "situações: alteração anotada no texto compilado": 169,
+ "situações: revogação programada (efeito futuro), não aplicada": 73,
+ "linhas acrescentadas ao manifesto": 390
+}

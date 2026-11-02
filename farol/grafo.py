@@ -49,7 +49,7 @@ def dados_teia(b: Base) -> dict:
         "nos": res["normas"], "arestas": len(edges), "citacoes": len(cit),
         "com_texto": res["com_texto"], "fantasmas": res["fantasmas"],
         "por_nivel": res["por_nivel"], "por_situacao": res["por_situacao"],
-        "por_tipo": Counter(e["k"] for e in edges), "data_base": "2026-11-02", "rodada": "Rodada 4",
+        "por_tipo": Counter(e["k"] for e in edges), "data_base": "2026-11-02", "rodada": "Rodada 5",
     }
     return {"meta": meta, "nodes": nodes, "edges": edges, "cit": cit}
 
