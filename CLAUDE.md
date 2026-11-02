@@ -56,5 +56,5 @@ python -m http.server 8000 --directory site   # para abrir o site localmente
 - A Res. CONSUNI 279/78 consolidada da página da SODS não foi convertida em texto (o acervo usa o HTML do SIGRH em `textos/CONSUNI/1978/`); a extração completa da página está em `base/sods/extracoes/regimento-da-sods.txt`.
 - 148 resoluções dos conselhos superiores citadas e ausentes do SIGRH: pedido à SODS em `docs/rodadas/pedido_sods_resolucoes_nao_localizadas.md`.
 - Pareceres do CNE (`BR-CNE-*-PAR-*`) não têm efeito normativo próprio: relações ALTERA/REVOGA encontradas em seus projetos de resolução anexos ficam como REMETE A (D78).
-- Rodada 3 (02/11/2026): relatório em `docs/rodadas/relatorio_rodada3.md`; scripts da coleta e da integração em `scripts/r3/`. Pendentes: 'Regimento STI' (PDF no site da STI, sem ato de aprovação), atos do CFE e portarias GR/PRG/PROGEP sem fonte on-line.
+- Rodada 3 (02/11/2026): relatório em `docs/rodadas/relatorio_rodada3.md`; scripts da coleta e da integração em `scripts/r3/`. Pendentes: regimento da STI (o PDF do site é arquivo errado, D79), atos do CFE e portarias GR/PRG/PROGEP sem fonte on-line.
 - O Oráculo (estágio 2 do plano) exige serviço no servidor; não faz parte do site estático.

@@ -37,7 +37,7 @@
 ## 3. Regimentos de unidades (34)
 
 - **17 localizados como anexo de resolução do CONSUNI já coletada no SIGRH**: PRA (08/2024), PRG (20/2019), PROPLAN (16/2017), SCS (33/2025), SEBTT (35/2018), SEAD (24/2019), CCM (11/2009), CCSA (01/2025), CT (14/2014), CCS (25/2025), CCJ (02/2015), CCTA (04/2024), CEAR (28/2012), CI (22/2014), CPT-ETS (14/2024), CCHLA (07/2025), CCAE (02/2026). Cada regimento tem nó N8 com número, data e situação herdados do ato de aprovação, relação FUNDAMENTA-SE EM com a resolução e Markdown gerado a partir do mesmo original (`textos/REGIMENTOS/`). O texto inclui a resolução inteira (preâmbulo, art. 1º e anexo), não só o anexo.
-- **17 sem regimento próprio localizado** nos sites das unidades nem nas ementas do SIGRH. Para 10 deles a ficha aponta, como sugestão, o ato de criação ou estrutura que vale enquanto o regimento não aparece: PROGEP (CONSUNI 28/2010), PRAPE (29/2010), PRPG e PROPESQ (Títulos IX e IX-A do Regimento da Reitoria, redação da CONSUNI 01/2017), STI (40/2013; o site publica um "Regimento STI" de 2024 sem ato de aprovação — a coletar), SOF (42/2018), SINFRA (03/2019), SULT (41/2018), SSG (39/2018), SSI (40/2018). Sem nenhum ato localizado: PROEX, CCEN, CE, CBIOTEC, CTDR, CCA, CCHSA — perguntar às direções.
+- **17 sem regimento próprio localizado** nos sites das unidades nem nas ementas do SIGRH. Para 10 deles a ficha aponta, como sugestão, o ato de criação ou estrutura que vale enquanto o regimento não aparece: PROGEP (CONSUNI 28/2010), PRAPE (29/2010), PRPG e PROPESQ (Títulos IX e IX-A do Regimento da Reitoria, redação da CONSUNI 01/2017), STI (40/2013; o link "Regimento STI" do site aponta para um arquivo errado — impressão de página de curso do CCAE, D79), SOF (42/2018), SINFRA (03/2019), SULT (41/2018), SSG (39/2018), SSI (40/2018). Sem nenhum ato localizado: PROEX, CCEN, CE, CBIOTEC, CTDR, CCA, CCHSA — perguntar às direções.
 
 ## 4. Normas de unidades, pró-reitorias e reitoria (52)
 
@@ -57,4 +57,4 @@ Um agente que não participou da coleta conferiu 30 itens lendo só a base e os 
 
 ## Divergências novas
 
-Registradas em `base/divergencias/registro_divergencias.md` (D74 a D78): "Pareceres CNE/CP 2/2020" citado por três resoluções do CONSEPE sobre a pandemia, quando o Parecer CNE/CP 2/2020 publicado trata de recurso de credenciamento; "Resolução CNE/CES 214/2008" e "CNE/CP 266/2010" inexistentes; data do Decreto 53.558/64 citada como a de publicação; decretos que aprovam estatutos sem o texto do estatuto no portal.
+Registradas em `base/divergencias/registro_divergencias.md` (D74 a D79): "Pareceres CNE/CP 2/2020" citado por três resoluções do CONSEPE sobre a pandemia, quando o Parecer CNE/CP 2/2020 publicado trata de recurso de credenciamento; "Resolução CNE/CES 214/2008" e "CNE/CP 266/2010" inexistentes; data do Decreto 53.558/64 citada como a de publicação; decretos que aprovam estatutos sem o texto do estatuto no portal; arquivo errado sob o nome "Regimento STI" no site da STI.
