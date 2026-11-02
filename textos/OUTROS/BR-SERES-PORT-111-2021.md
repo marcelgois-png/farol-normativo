@@ -1,0 +1,22494 @@
+---
+id: BR-SERES-PORT-111-2021
+tipo: ""
+orgao: ""
+numero: ""
+data: ""
+nivel: N4
+situacao: "sem alteração ou revogação registrada"
+situacao_base: ""
+ementa: "[descrição não oficial, a conferir] Portaria de renovação de reconhecimento de curso da UFPB, provavelmente da SERES/MEC (ato regulatório de efeito concreto)."
+fonte_oficial: https://www.in.gov.br/web/dou/-/portaria-n-111-de-4-de-fevereiro-de-2021-302558145
+arquivo_local: "originais_r2/outros/dou/BR-SERES-PORT-111-2021.html"
+metodo_texto: "página oficial (HTML) convertida em texto"
+versao: original publicado (as alterações posteriores não estão incorporadas ao texto, salvo notas da própria fonte)
+data_coleta: 2026-10-20
+---
+
+# BR-SERES-PORT-111-2021
+
+**Ementa:** [descrição não oficial, a conferir] Portaria de renovação de reconhecimento de curso da UFPB, provavelmente da SERES/MEC (ato regulatório de efeito concreto).
+
+**Situação no acervo:** sem alteração ou revogação registrada
+
+**Fonte oficial:** https://www.in.gov.br/web/dou/-/portaria-n-111-de-4-de-fevereiro-de-2021-302558145
+
+**Resoluções da UFPB que a citam (1):** UFPB-CONSEPE-RES-05-2026
+
+**Fundamenta-se em:** BR-DEC-9235-2017
+
+> Transcrição para consulta. Não substitui a publicação oficial (link acima).
+
+---
+
+## Texto integral
+
+PORTARIA Nº 111, DE 4 DE FEVEREIRO DE 2021
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 10.195, de 30 de dezembro de 2019, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas nº 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto nos processos e-MEC listados na tabela do anexo, resolve:
+
+Art. 1º Fica renovado o reconhecimento dos cursos superiores de graduação constantes da tabela do anexo desta Portaria, com as vagas totais anuais nele estabelecidas, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+Art. 2º A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+Art. 3º A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte, nos termos do art. 10, § 3º do Decreto nº 9.235, de 2017 e dos artigos 37 a 42 da Portaria MEC nº 23, de 2017.
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+DANILO DUPAS RIBEIRO
+
+ANEXO
+
+(Renovação de Reconhecimento de Cursos)
+
+Nº de ordem
+
+Registro e-MEC Nº
+
+Curso (Grau)
+
+Nº vagas totais anuais
+
+Mantida(Código)
+
+Mantenedora
+
+Endereço de funcionamento do curso
+
+1
+
+202104598
+
+FONOAUDIOLOGIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE DO VALE DO ITAJAÍ(83)
+
+FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI
+
+Rua Uruguai Centro UNIVALI - Universidade do Vale do Itajaí, 458, Itajaí, SC
+
+2
+
+202104599
+
+NUTRIÇÃO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE DO VALE DO ITAJAÍ(83)
+
+FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI
+
+Rua Uruguai Centro UNIVALI - Universidade do Vale do Itajaí, 458, Itajaí, SC
+
+3
+
+202104600
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE DO VALE DO ITAJAÍ(83)
+
+FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI
+
+Rua Uruguai Centro UNIVALI - Universidade do Vale do Itajaí, 458, Itajaí, SC
+
+4
+
+202104601
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+5
+
+202104602
+
+BIOMEDICINA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+6
+
+202104603
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+7
+
+202104604
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+8
+
+202104605
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+9
+
+202104606
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+10
+
+202104607
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+11
+
+202104608
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+12
+
+202104609
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+13
+
+202104610
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE DO VALE DO PARAÍBA(275)
+
+FUNDACAO VALEPARAIBANA DE ENSINO
+
+Av. Shishima Hifumi, nº 2911, Bairro Urbanova Urbanova , 2911, São José dos Campos, SP
+
+14
+
+202104611
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+15
+
+202104612
+
+BIOMEDICINA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+16
+
+202104613
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+17
+
+202104615
+
+ENFERMAGEM (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Rua Luiz Manoel Gonzaga Três Figueiras , 744, Porto Alegre, RS
+
+18
+
+202104614
+
+ENFERMAGEM (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+19
+
+202104616
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+20
+
+202104617
+
+ENGENHARIA CIVIL (Bacharelado)
+
+390 (trezentas e noventa)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+21
+
+202104618
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+22
+
+202104619
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+23
+
+202104620
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+24
+
+202104621
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+25
+
+202104622
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+26
+
+202104623
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+27
+
+202104624
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+28
+
+202104625
+
+FARMÁCIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+29
+
+202104626
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+30
+
+202104627
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+90 (noventa)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+31
+
+202104629
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Rua Luiz Manoel Gonzaga Três Figueiras , 744, Porto Alegre, RS
+
+32
+
+202104628
+
+NUTRIÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE DO VALE DO RIO DOS SINOS(14)
+
+ASSOCIACAO ANTONIO VIEIRA
+
+Avenida Unisinos Cristo Rei , 950, São Leopoldo, RS
+
+33
+
+202104630
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO SAPUCAÍ(1586)
+
+FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI
+
+Avenida Prefeito Tuany Toledo Fátima , 470, Pouso Alegre, MG
+
+34
+
+202104631
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE DO VALE DO SAPUCAÍ(1586)
+
+FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI
+
+Avenida Prefeito Tuany Toledo Fátima , 470, Pouso Alegre, MG
+
+35
+
+202104632
+
+FARMÁCIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO SAPUCAÍ(1586)
+
+FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI
+
+Avenida Coronel Alfredo Custódio Paula Alfredo Custódio de Paula , 320, Pouso Alegre, MG
+
+36
+
+202104633
+
+FISIOTERAPIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE DO VALE DO SAPUCAÍ(1586)
+
+FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI
+
+Avenida Coronel Alfredo Custódio Paula Alfredo Custódio de Paula , 320, Pouso Alegre, MG
+
+37
+
+202104634
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+38
+
+202104635
+
+BIOMEDICINA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+39
+
+202104636
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+40
+
+202104637
+
+ENFERMAGEM (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+41
+
+202104638
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+42
+
+202104639
+
+ENGENHARIA CIVIL (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+43
+
+202104640
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+44
+
+202104641
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+45
+
+202104642
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+46
+
+202104643
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+47
+
+202104644
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+48
+
+202104645
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+70 (setenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+49
+
+202104646
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+50
+
+202104647
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+51
+
+202104648
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE DO VALE DO TAQUARI(1041)
+
+FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES
+
+Rua Avelino Talini Universitário , 171, Lajeado, RS
+
+52
+
+202104650
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua da Conceição Centro 2º ao 14º andar, lojas 101 e 102 , 131, Niterói, RJ
+
+53
+
+202104649
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+480 (quatrocentas e oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. das Américas Barra da Tijuca BARRA I -TOM JOBIM, 4.200, Rio de Janeiro, RJ
+
+54
+
+202104651
+
+BIOMEDICINA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bispo, nº 83, Bairro Rio Comprido Rio Comprido , 83, Rio de Janeiro, RJ
+
+55
+
+202104652
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bispo, nº 83, Bairro Rio Comprido Rio Comprido , 83, Rio de Janeiro, RJ
+
+56
+
+202104653
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Estrada do Galeão Jardim Carioca , 1900, Rio de Janeiro, RJ
+
+57
+
+202104654
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua André Rocha Taquara , 838, Rio de Janeiro, RJ
+
+58
+
+202104656
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rod. Gal. Alfredo Bruno Gomes Martins, S/N Braga , 19, Cabo Frio, RJ
+
+59
+
+202104655
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Jardim Sans Souci Braunes , s/nº, Nova Friburgo, RJ
+
+60
+
+202104657
+
+ENFERMAGEM (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Luis Carlos de Almeida Granja dos Cavaleiros , 113, Macaé, RJ
+
+61
+
+202104658
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Luis Carlos de Almeida Granja dos Cavaleiros , 113, Macaé, RJ
+
+62
+
+202104660
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+63
+
+202104661
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Jardim Sans Souci Braunes , s/nº, Nova Friburgo, RJ
+
+64
+
+202104659
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+220 (duzentas e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+65
+
+202104664
+
+ENGENHARIA CIVIL (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+66
+
+202104665
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Luis Carlos de Almeida Granja dos Cavaleiros , 113, Macaé, RJ
+
+67
+
+202104663
+
+ENGENHARIA CIVIL (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+68
+
+202104662
+
+ENGENHARIA CIVIL (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. das Américas Barra da Tijuca BARRA I -TOM JOBIM, 4.200, Rio de Janeiro, RJ
+
+69
+
+202104666
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. Presidente Vargas Cidade Nova 2560 - lado par, 1306 ao fim, Rio de Janeiro, RJ
+
+70
+
+202104669
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+220 (duzentas e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+71
+
+202104667
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. Presidente Vargas Cidade Nova 2560 - lado par, 1306 ao fim, Rio de Janeiro, RJ
+
+72
+
+202104670
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+190 (cento e noventa)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Jardim Sans Souci Braunes , s/nº, Nova Friburgo, RJ
+
+73
+
+202104671
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Zenaide Vilela Jardim Brasília , s/nº, Resende, RJ
+
+74
+
+202104668
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+75
+
+202104674
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+76
+
+202104673
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+77
+
+202104672
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. Presidente Vargas Cidade Nova 2560 - lado par, 1306 ao fim, Rio de Janeiro, RJ
+
+78
+
+202104675
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+580 (quinhentas e oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. Presidente Vargas Cidade Nova 2560 - lado par, 1306 ao fim, Rio de Janeiro, RJ
+
+79
+
+202104676
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+440 (quatrocentas e quarenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+80
+
+202104677
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Luis Carlos de Almeida Granja dos Cavaleiros , 113, Macaé, RJ
+
+81
+
+202104678
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bispo, nº 83, Bairro Rio Comprido Rio Comprido , 83, Rio de Janeiro, RJ
+
+82
+
+202104680
+
+FARMÁCIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Jardim Sans Souci Braunes , s/nº, Nova Friburgo, RJ
+
+83
+
+202104679
+
+FARMÁCIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua André Rocha Taquara , 838, Rio de Janeiro, RJ
+
+84
+
+202104681
+
+FARMÁCIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bingen Bingen PETRÓPOLIS, 50, Petrópolis, RJ
+
+85
+
+202104686
+
+FISIOTERAPIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua André Rocha Taquara , 838, Rio de Janeiro, RJ
+
+86
+
+202104688
+
+FISIOTERAPIA (Bacharelado)
+
+112 (cento e doze)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rod. Gal. Alfredo Bruno Gomes Martins, S/N Braga , 19, Cabo Frio, RJ
+
+87
+
+202104689
+
+FISIOTERAPIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Av. Dom Hélder Câmara Pilares NORTE SHOPPING, 4740-5840, Rio de Janeiro, RJ
+
+88
+
+202104682
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bispo, nº 83, Bairro Rio Comprido Rio Comprido , 83, Rio de Janeiro, RJ
+
+89
+
+202104683
+
+FISIOTERAPIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Jardim Sans Souci Braunes , s/nº, Nova Friburgo, RJ
+
+90
+
+202104684
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+91
+
+202104685
+
+FISIOTERAPIA (Bacharelado)
+
+96 (noventa e seis)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Eduardo Luiz Gomes Centro , 134, Niterói, RJ
+
+92
+
+202104687
+
+FISIOTERAPIA (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Oscar Soares Centro , 1466, Nova Iguaçu, RJ
+
+93
+
+202104690
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Estrada Boca do Mato Vargem Pequena , 850, Rio de Janeiro, RJ
+
+94
+
+202104693
+
+NUTRIÇÃO (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Avenida 28 de Março, 423 - Centro Centro , 423, Campos dos Goytacazes, RJ
+
+95
+
+202104691
+
+NUTRIÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Bispo, nº 83, Bairro Rio Comprido Rio Comprido , 83, Rio de Janeiro, RJ
+
+96
+
+202104692
+
+NUTRIÇÃO (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua André Rocha Taquara , 838, Rio de Janeiro, RJ
+
+97
+
+202104694
+
+RADIOLOGIA (Tecnológico)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE ESTÁCIO DE SÁ(163)
+
+SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+
+Rua Oscar Soares Centro , 1466, Nova Iguaçu, RJ
+
+98
+
+202104695
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA CAETANO MOURA FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 121, Salvador, BA
+
+99
+
+202104696
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA CAETANO MOURA FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 121, Salvador, BA
+
+100
+
+202104698
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+Rua Rio de Contas nº 58 - Quadra 17 Lote 58 Candeias Instituto Multidisciplinar em Saúde , S/N, Vitória da Conquista, BA
+
+101
+
+202104697
+
+ENFERMAGEM (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA BASILIO DA GAMA CANELA CAMPUS UNIVERSITARIO CANELA, S/N, Salvador, BA
+
+102
+
+202104699
+
+ENGENHARIA CIVIL (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+103
+
+202104700
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+104
+
+202104701
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO DE PROCESSOS (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+105
+
+202104702
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+106
+
+202104703
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+107
+
+202104704
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+108
+
+202104705
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+109
+
+202104706
+
+ENGENHARIA SANITARIA E AMBIENTAL (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA PROF. ARISTIDES NOVIS FEDERACAO CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 02, Salvador, BA
+
+110
+
+202104708
+
+FARMÁCIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+Rua Rio de Contas nº 58 - Quadra 17 Lote 58 Candeias Instituto Multidisciplinar em Saúde , S/N, Vitória da Conquista, BA
+
+111
+
+202104707
+
+FARMÁCIA (Bacharelado)
+
+185 (cento e oitenta e cinco)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA BARÃO DE JEREMOABO ONDINA CAMPUS UNIVERSITÁRIO - FEDERAÇÃO, s/n, Salvador, BA
+
+112
+
+202104709
+
+FISIOTERAPIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+AVENIDA REITOR MIGUEL CALMON CANELA CAMPUS UNIVERSITÁRIO CANELA, S\N, Salvador, BA
+
+113
+
+202104710
+
+FONOAUDIOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+AVENIDA REITOR MIGUEL CALMON CANELA CAMPUS UNIVERSITÁRIO CANELA, S\N, Salvador, BA
+
+114
+
+202104711
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+AV. ADEMAR DE BARROS ONDINA CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 500, Salvador, BA
+
+115
+
+202104713
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+Rua Rio de Contas nº 58 - Quadra 17 Lote 58 Candeias Instituto Multidisciplinar em Saúde , S/N, Vitória da Conquista, BA
+
+116
+
+202104712
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+RUA ARAUJO PINHO CANELA CAMPUS UNIVERSITARIO CANELA, 32, Salvador, BA
+
+117
+
+202104714
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+AV. ARAUJO PINHO CANELA CAMPUS UNIVERSITARIO CANELA, 62, Salvador, BA
+
+118
+
+202104715
+
+ZOOTECNIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA BAHIA(578)
+
+UNIVERSIDADE FEDERAL DA BAHIA
+
+AV. ADEMAR DE BARROS ONDINA CAMPUS UNIVERSITARIO FEDERACAO/ONDINA, 500, Salvador, BA
+
+119
+
+202104717
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Avenida Jacob Reinaldo Haupenthal Centro , 1580, Cerro Largo, RS
+
+120
+
+202104718
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia ERS 135, Km 72 Zona Rural , 200, Erechim, RS
+
+121
+
+202104719
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia BR 158, KM 405 Área Rural , s/n, Laranjeiras do Sul, PR
+
+122
+
+202104716
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia SC 484, Km 2 Fronteira Sul , S/N, Chapecó, SC
+
+123
+
+202104720
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia ERS 135, Km 72 Zona Rural , 200, Erechim, RS
+
+124
+
+202104721
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia SC 484, Km 2 Fronteira Sul , S/N, Chapecó, SC
+
+125
+
+202104723
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Avenida Jacob Reinaldo Haupenthal Centro , 1580, Cerro Largo, RS
+
+126
+
+202104722
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia ERS 135, Km 72 Zona Rural , 200, Erechim, RS
+
+127
+
+202104724
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia SC 484, Km 2 Fronteira Sul , S/N, Chapecó, SC
+
+128
+
+202104725
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Rodovia BR 158, KM 405 Área Rural , s/n, Laranjeiras do Sul, PR
+
+129
+
+202104726
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Avenida Edmundo Gaievski Rodovia Estadual , 1000, Realeza, PR
+
+130
+
+202104727
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL(15121)
+
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL - UFFS
+
+Avenida Edmundo Gaievski Rodovia Estadual , 1000, Realeza, PR
+
+131
+
+202104728
+
+ENGENHARIA CIVIL DE INFRAESTRUTURA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINO-AMERICANA(15001)
+
+UNIVERSIDADE FEDERAL DA INTEGRACAO LATINO-AMERICANA
+
+Av. Tancredo Neves Itaipu , 6.731, Foz do Iguaçu, PR
+
+132
+
+202104729
+
+AGRONOMIA (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Centro de Ciências Agrárias Cidade Universitária Campus Universitário II, S/N, Areia, PB
+
+133
+
+202104730
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+134
+
+202104731
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+135
+
+202104732
+
+ENFERMAGEM (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+136
+
+202104733
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+137
+
+202104734
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+138
+
+202104735
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+139
+
+202104736
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Avenida dos Escoteiros Mangabeira , s/n, João Pessoa, PB
+
+140
+
+202104737
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+141
+
+202104738
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+142
+
+202104739
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+143
+
+202104740
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+144
+
+202104741
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+145
+
+202104742
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+146
+
+202104743
+
+FISIOTERAPIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+147
+
+202104744
+
+FONOAUDIOLOGIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+148
+
+202104745
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Centro de Ciências Agrárias Cidade Universitária Campus Universitário II, S/N, Areia, PB
+
+149
+
+202104746
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+150
+
+202104747
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Cidade Universitária Castelo Branco Campus I, s/n, João Pessoa, PB
+
+151
+
+202104748
+
+ZOOTECNIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DA PARAÍBA(579)
+
+UNIVERSIDADE FEDERAL DA PARAIBA
+
+Centro de Ciências Agrárias Cidade Universitária Campus Universitário II, S/N, Areia, PB
+
+152
+
+202104749
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+BR 104 - NORTE, KM 85 - , S/Nº, Rio Largo, AL
+
+153
+
+202104750
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Avenida Manoel Severino Barbosa Bom Sucesso , S/N, Arapiraca, AL
+
+154
+
+202104752
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Avenida Manoel Severino Barbosa Bom Sucesso , S/N, Arapiraca, AL
+
+155
+
+202104751
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+156
+
+202104753
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+157
+
+202104754
+
+ENFERMAGEM (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+158
+
+202104755
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Avenida Manoel Severino Barbosa Bom Sucesso , S/N, Arapiraca, AL
+
+159
+
+202104756
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+160
+
+202104758
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Rodovia AL 145, Km3 Cidade Universitária , S/N, Delmiro Gouveia, AL
+
+161
+
+202104757
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+162
+
+202104759
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+163
+
+202104760
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Rodovia AL 145, Km3 Cidade Universitária , S/N, Delmiro Gouveia, AL
+
+164
+
+202104761
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+55 (cinquenta e cinco)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+BR 104 - NORTE, KM 85 - , S/Nº, Rio Largo, AL
+
+165
+
+202104762
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+166
+
+202104763
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+167
+
+202104764
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Firmino Maia Centro Fazenda São Luiz, s/n, Viçosa, AL
+
+168
+
+202104765
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Av. Lourival de Melo Mota TABULEIRO DO MARTINS CAMPUS A. C. SIMÕES - Cidade Universitária, s/n, Maceió, AL
+
+169
+
+202104766
+
+ZOOTECNIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+BR 104 - NORTE, KM 85 - , S/Nº, Rio Largo, AL
+
+170
+
+202104767
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS(577)
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+Avenida Manoel Severino Barbosa Bom Sucesso , S/N, Arapiraca, AL
+
+171
+
+202104768
+
+BIOMEDICINA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+172
+
+202104769
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+173
+
+202104770
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rodovia José Aurélio Vilela - BR 267 Cidade Universitária Cidade Universitária, 11999, Poços de Caldas, MG
+
+174
+
+202104771
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rodovia José Aurélio Vilela - BR 267 Cidade Universitária Cidade Universitária, 11999, Poços de Caldas, MG
+
+175
+
+202104772
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+176
+
+202104773
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+177
+
+202104774
+
+NUTRIÇÃO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+178
+
+202104775
+
+ODONTOLOGIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE ALFENAS(595)
+
+UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG
+
+Rua Gabriel Monteiro da Silva Centro , 700, Alfenas, MG
+
+179
+
+202104776
+
+AGRONOMIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Cel. João Leite Centro , 517, Pombal, PB
+
+180
+
+202104777
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+181
+
+202104778
+
+ENFERMAGEM (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Olho D' Água da Bica Centro , s/n, Cuité, PB
+
+182
+
+202104779
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Cel. João Leite Centro , 517, Pombal, PB
+
+183
+
+202104781
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Cel. João Leite Centro , 517, Pombal, PB
+
+184
+
+202104780
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+185
+
+202104783
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+186
+
+202104782
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Cel. João Leite Centro , 517, Pombal, PB
+
+187
+
+202104785
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Luiz Grande Frei Damião , S/N, Sumé, PB
+
+188
+
+202104784
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+189
+
+202104786
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+225 (duzentas e vinte e cinco)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+190
+
+202104787
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rodovia Patos Teixeira Km 01 Jatobá , S/N, Patos, PB
+
+191
+
+202104788
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+192
+
+202104789
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rua Aprígio Veloso Bodocongó , 882, Campina Grande, PB
+
+193
+
+202104790
+
+FARMÁCIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Olho D' Água da Bica Centro , s/n, Cuité, PB
+
+194
+
+202104791
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rodovia Patos Teixeira Km 01 Jatobá , S/N, Patos, PB
+
+195
+
+202104792
+
+NUTRIÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Olho D' Água da Bica Centro , s/n, Cuité, PB
+
+196
+
+202104793
+
+ODONTOLOGIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE(2564)
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+
+Rodovia Patos Teixeira Km 01 Jatobá , S/N, Patos, PB
+
+197
+
+202104794
+
+AGRONOMIA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+198
+
+202104795
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+199
+
+202104796
+
+BIOMEDICINA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+200
+
+202104797
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+201
+
+202104798
+
+ENFERMAGEM (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+202
+
+202104799
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+203
+
+202104800
+
+ENGENHARIA CIVIL (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+204
+
+202104801
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+205
+
+202104802
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+206
+
+202104803
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+207
+
+202104804
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+208
+
+202104805
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+209
+
+202104806
+
+FARMÁCIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+210
+
+202104807
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+102 (cento e duas)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+211
+
+202104808
+
+NUTRIÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+212
+
+202104809
+
+ODONTOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+PRAÇA UNIVERSITÁRIA SETOR UNIVERSITÁRIO , S/N, Goiânia, GO
+
+213
+
+202104810
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE GOIÁS(584)
+
+UNIVERSIDADE FEDERAL DE GOIAS
+
+RODOVIA GOIÂNIA NERÓPOLIS Campus Samambaia Prédio da Reitoria, KM 12, Goiânia, GO
+
+214
+
+202104811
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+215
+
+202104812
+
+ENGENHARIA CIVIL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+216
+
+202104813
+
+ENGENHARIA DE BIOPROCESSOS (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+217
+
+202104814
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+218
+
+202104815
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Rua Irmã Ivone Drummond Distrito Industrial II Campus Unifei, 200, Itabira, MG
+
+219
+
+202104817
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Rua Irmã Ivone Drummond Distrito Industrial II Campus Unifei, 200, Itabira, MG
+
+220
+
+202104816
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+221
+
+202104818
+
+ENGENHARIA DE ENERGIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+222
+
+202104819
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+223
+
+202104820
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+85 (oitenta e cinco)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+224
+
+202104821
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Rua Irmã Ivone Drummond Distrito Industrial II Campus Unifei, 200, Itabira, MG
+
+225
+
+202104822
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+226
+
+202104823
+
+ENGENHARIA HÍDRICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+227
+
+202104825
+
+ENGENHARIA MECÂNICA AERONÁUTICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+228
+
+202104824
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+229
+
+202104826
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI(598)
+
+MINISTERIO DA EDUCACAO
+
+Avenida BPS Pinheirinho Campus Professor José Rodrigues Seabra, 1303, Itajubá, MG
+
+230
+
+202104827
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+231
+
+202104828
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+232
+
+202104829
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+233
+
+202104830
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+234
+
+202104831
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+235
+
+202104833
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+31 (trinta e uma)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+236
+
+202104832
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+237
+
+202104834
+
+ENGENHARIA ELÉTRICA - ENERGIA (Bacharelado)
+
+54 (cinquenta e quatro)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+238
+
+202104835
+
+ENGENHARIA ELÉTRICA - ROBÓTICA E AUTOMAÇÃO INDUSTRIAL (Bacharelado)
+
+54 (cinquenta e quatro)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+239
+
+202104836
+
+ENGENHARIA ELÉTRICA - SISTEMAS DE POTÊNCIA (Bacharelado)
+
+54 (cinquenta e quatro)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+240
+
+202104837
+
+ENGENHARIA ELÉTRICA - SISTEMAS ELETRÔNICOS (Bacharelado)
+
+54 (cinquenta e quatro)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+241
+
+202104838
+
+ENGENHARIA ELÉTRICA - TELECOMUNICAÇÕES (Bacharelado)
+
+54 (cinquenta e quatro)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+242
+
+202104839
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+243
+
+202104840
+
+FISIOTERAPIA (Bacharelado)
+
+42 (quarenta e duas)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+244
+
+202104841
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+245
+
+202104842
+
+ODONTOLOGIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA(576)
+
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA UFJF
+
+Campus Universitário São Pedro UFJF, s/n, Juiz de Fora, MG
+
+246
+
+202104843
+
+AGRONOMIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+247
+
+202104844
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+248
+
+202104845
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+249
+
+202104846
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+250
+
+202104847
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+251
+
+202104848
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+252
+
+202104849
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+253
+
+202104850
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+254
+
+202104851
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+255
+
+202104852
+
+ZOOTECNIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE LAVRAS(592)
+
+UNIVERSIDADE FEDERAL DE LAVRAS
+
+Praça Prof. Edmir Sá Santos Campus Universitário , S/N, Lavras, MG
+
+256
+
+202104854
+
+AGRONOMIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+257
+
+202104853
+
+AGRONOMIA (Bacharelado)
+
+86 (oitenta e seis)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+258
+
+202104855
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+63 (sessenta e três)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+259
+
+202104856
+
+BIOMEDICINA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Senador Valdon Varjão Drurys , 6390, Barra do Garças, MT
+
+260
+
+202104857
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+56 (cinquenta e seis)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+261
+
+202104858
+
+ENFERMAGEM (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+262
+
+202104859
+
+ENFERMAGEM (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Universitária Parque Universitário , 3500, Pontal do Araguaia, MT
+
+263
+
+202104860
+
+ENGENHARIA AGRÍCOLA E AMBIENTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+264
+
+202104862
+
+ENGENHARIA CIVIL (Bacharelado)
+
+65 (sessenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Senador Valdon Varjão Drurys , 6390, Barra do Garças, MT
+
+265
+
+202104861
+
+ENGENHARIA CIVIL (Bacharelado)
+
+55 (cinquenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+266
+
+202104863
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Universitária Parque Universitário , 3500, Pontal do Araguaia, MT
+
+267
+
+202104864
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+84 (oitenta e quatro)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+268
+
+202104866
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+269
+
+202104865
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+86 (oitenta e seis)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+270
+
+202104867
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+63 (sessenta e três)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Av. Projetada A Chapéu do Sol , s/n, Várzea Grande, MT
+
+271
+
+202104868
+
+ENGENHARIA SANITARIA E AMBIENTAL (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+272
+
+202104870
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+273
+
+202104869
+
+FARMÁCIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Universitária Parque Universitário , 3500, Pontal do Araguaia, MT
+
+274
+
+202104872
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+275
+
+202104871
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+276
+
+202104873
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+277
+
+202104875
+
+ZOOTECNIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Fernando Correa da Costa Boa Esperança Cidade Universitária, 2367, Cuiabá, MT
+
+278
+
+202104874
+
+ZOOTECNIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO(1)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO
+
+Avenida Alexandre Ferronato Distrito Industrial , 1200, Sinop, MT
+
+279
+
+202104876
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Rodovia MS 306 KM 105 Zona Rural Entrada da Fazenda Campo Bom, S/N, Chapadão do Sul, MS
+
+280
+
+202104877
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+281
+
+202104878
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+282
+
+202104879
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+283
+
+202104880
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+284
+
+202104881
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+285
+
+202104883
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+286
+
+202104882
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Avenida Ranulpho Marques Leal - 3370/3371 fim Distrito Undustrial II Câmpus de Três Lagoas - CPTL II, 3484, Três Lagoas, MS
+
+287
+
+202104884
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+288
+
+202104885
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Rodovia MS 306 KM 105 Zona Rural Entrada da Fazenda Campo Bom, S/N, Chapadão do Sul, MS
+
+289
+
+202104886
+
+FARMÁCIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+290
+
+202104887
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+291
+
+202104888
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+292
+
+202104889
+
+ODONTOLOGIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+293
+
+202104890
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL(694)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+
+Av. Costa e Silva Cidade Universitária , s/n, Campo Grande, MS
+
+294
+
+202104891
+
+AGRONOMIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Universitária JK , 1000, Montes Claros, MG
+
+295
+
+202104892
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Rua Paraíba Funcionários , 697, Belo Horizonte, MG
+
+296
+
+202104893
+
+BIOMEDICINA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+297
+
+202104894
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+298
+
+202104895
+
+ENFERMAGEM (Bacharelado)
+
+96 (noventa e seis)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Prof. Alfredo Balena Centro , 190, Belo Horizonte, MG
+
+299
+
+202104896
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+300
+
+202104897
+
+ENGENHARIA CIVIL (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+301
+
+202104899
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Universitária JK , 1000, Montes Claros, MG
+
+302
+
+202104900
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+303
+
+202104901
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+304
+
+202104902
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+305
+
+202104903
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Universitária JK , 1000, Montes Claros, MG
+
+306
+
+202104904
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+307
+
+202104905
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+308
+
+202104906
+
+FARMÁCIA (Bacharelado)
+
+212 (duzentas e doze)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+309
+
+202104907
+
+FISIOTERAPIA (Bacharelado)
+
+75 (setenta e cinco)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+310
+
+202104908
+
+FONOAUDIOLOGIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Prof. Alfredo Balena Centro , 190, Belo Horizonte, MG
+
+311
+
+202104909
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+312
+
+202104910
+
+NUTRIÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Prof. Alfredo Balena Centro , 190, Belo Horizonte, MG
+
+313
+
+202104911
+
+ODONTOLOGIA (Bacharelado)
+
+144 (cento e quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Antonio Carlos Pampulha , 6627, Belo Horizonte, MG
+
+314
+
+202104912
+
+RADIOLOGIA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Prof. Alfredo Balena Centro , 190, Belo Horizonte, MG
+
+315
+
+202104913
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS(575)
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+Avenida Universitária JK , 1000, Montes Claros, MG
+
+316
+
+202104914
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+317
+
+202104915
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+318
+
+202104916
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+36 (trinta e seis)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+319
+
+202104917
+
+ENGENHARIA CIVIL (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+320
+
+202104918
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua 37 Loanda , 115, João Monlevade, MG
+
+321
+
+202104919
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+322
+
+202104920
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+323
+
+202104921
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua 37 Loanda , 115, João Monlevade, MG
+
+324
+
+202104922
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua 37 Loanda , 115, João Monlevade, MG
+
+325
+
+202104923
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+326
+
+202104924
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+327
+
+202104925
+
+NUTRIÇÃO (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO(6)
+
+UNIVERSIDADE FEDERAL DE OURO PRETO
+
+Rua Paulo Magalhães Gomes Bauxita , s/n, Ouro Preto, MG
+
+328
+
+202104926
+
+AGRONOMIA (Bacharelado)
+
+194 (cento e noventa e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Campus Universitário - , s/n, Capão do Leão, RS
+
+329
+
+202104927
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Benjamin Constant Centro , 1359, Pelotas, RS
+
+330
+
+202104928
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+55 (cinquenta e cinco)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Luiz de Camoes Tres Vendas , 741, Pelotas, RS
+
+331
+
+202104929
+
+ENFERMAGEM (Bacharelado)
+
+103 (cento e três)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Gomes Carneiro Centro , 1, Pelotas, RS
+
+332
+
+202104930
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Benjamin Constant Centro Unidade Dispersa - COTADA, 989, Pelotas, RS
+
+333
+
+202104931
+
+ENGENHARIA CIVIL (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Benjamin Constant Centro Unidade Dispersa - COTADA, 989, Pelotas, RS
+
+334
+
+202104932
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Gomes Carneiro Centro , 1, Pelotas, RS
+
+335
+
+202104933
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Benjamin Constant Centro Unidade Dispersa - COTADA, 989, Pelotas, RS
+
+336
+
+202104934
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+55 (cinquenta e cinco)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Benjamin Constant Centro Unidade Dispersa - COTADA, 989, Pelotas, RS
+
+337
+
+202104935
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Benjamin Constant Centro Unidade Dispersa - COTADA, 989, Pelotas, RS
+
+338
+
+202104936
+
+ENGENHARIA HÍDRICA (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Gomes Carneiro Centro , 1, Pelotas, RS
+
+339
+
+202104937
+
+FARMÁCIA (Bacharelado)
+
+55 (cinquenta e cinco)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Campus Universitário - , s/n, Capão do Leão, RS
+
+340
+
+202104938
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+132 (cento e trinta e duas)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Campus Universitário - , s/n, Capão do Leão, RS
+
+341
+
+202104939
+
+NUTRIÇÃO (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Rua Gomes Carneiro Centro , 1, Pelotas, RS
+
+342
+
+202104940
+
+ZOOTECNIA (Bacharelado)
+
+77 (setenta e sete)
+
+UNIVERSIDADE FEDERAL DE PELOTAS(634)
+
+UNIVERSIDADE FEDERAL DE PELOTAS
+
+Campus Universitário - , s/n, Capão do Leão, RS
+
+343
+
+202104941
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+344
+
+202104942
+
+BIOMEDICINA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+345
+
+202104944
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Rua Do Alto do Reservatório Bela Vista , s/n, Vitória de Santo Antão, PE
+
+346
+
+202104943
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+347
+
+202104946
+
+ENFERMAGEM (Bacharelado)
+
+65 (sessenta e cinco)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Rua Do Alto do Reservatório Bela Vista , s/n, Vitória de Santo Antão, PE
+
+348
+
+202104945
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+349
+
+202104948
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Rodovia BR-104 - até km 65,001 - lado ímpar Divinópolis Br 104, km 59. Localidade Varzea da Picada, S/N, Caruaru, PE
+
+350
+
+202104947
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+351
+
+202104949
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+352
+
+202104950
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+353
+
+202104951
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+354
+
+202104952
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+355
+
+202104953
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Rodovia BR-104 - até km 65,001 - lado ímpar Divinópolis Br 104, km 59. Localidade Varzea da Picada, S/N, Caruaru, PE
+
+356
+
+202104954
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+357
+
+202104955
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+358
+
+202104956
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+359
+
+202104957
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+360
+
+202104958
+
+FARMÁCIA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+361
+
+202104959
+
+FISIOTERAPIA (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+362
+
+202104960
+
+FONOAUDIOLOGIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+363
+
+202104961
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+364
+
+202104962
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Rua Do Alto do Reservatório Bela Vista , s/n, Vitória de Santo Antão, PE
+
+365
+
+202104963
+
+ODONTOLOGIA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO(580)
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+Av. Prof. Moraes Rego Cidade Universitária , 1.235, Recife, PE
+
+366
+
+202104964
+
+AGRONOMIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+BR-174 Monte Cristo , S/N, Boa Vista, RR
+
+367
+
+202104965
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+Avenida Capitão Ene Garcez Aeroporto , 2413, Boa Vista, RR
+
+368
+
+202104966
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+Avenida Capitão Ene Garcez Aeroporto , 2413, Boa Vista, RR
+
+369
+
+202104967
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+Avenida Capitão Ene Garcez Aeroporto , 2413, Boa Vista, RR
+
+370
+
+202104968
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+38 (trinta e oito)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+Avenida Capitão Ene Garcez Aeroporto , 2413, Boa Vista, RR
+
+371
+
+202104969
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+BR-174 Monte Cristo , S/N, Boa Vista, RR
+
+372
+
+202104970
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE RORAIMA(789)
+
+UNIVERSIDADE FEDERAL DE RORAIMA
+
+BR-174 Monte Cristo , S/N, Boa Vista, RR
+
+373
+
+202104971
+
+AGRONOMIA (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+374
+
+202104972
+
+AGRONOMIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Rodovia Ulisses Gaboardi - km 3 Fazenda Pessegueirinho , S/N, Curitibanos, SC
+
+375
+
+202104973
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+376
+
+202104974
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+377
+
+202104975
+
+ENGENHARIA CIVIL (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+378
+
+202104976
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+379
+
+202104977
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+380
+
+202104978
+
+ENGENHARIA DE PRODUÇÃO CIVIL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+381
+
+202104979
+
+ENGENHARIA DE PRODUÇÃO ELÉTRICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+382
+
+202104980
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+383
+
+202104981
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+384
+
+202104982
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+385
+
+202104983
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Rodovia Ulisses Gaboardi - km 3 Fazenda Pessegueirinho , S/N, Curitibanos, SC
+
+386
+
+202104984
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+387
+
+202104985
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+388
+
+202104986
+
+ENGENHARIA SANITARIA E AMBIENTAL (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+389
+
+202104987
+
+FARMÁCIA (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+390
+
+202104988
+
+FONOAUDIOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+391
+
+202104989
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Rodovia Ulisses Gaboardi - km 3 Fazenda Pessegueirinho , S/N, Curitibanos, SC
+
+392
+
+202104990
+
+NUTRIÇÃO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+393
+
+202104991
+
+ODONTOLOGIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+394
+
+202104992
+
+ZOOTECNIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA(585)
+
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Campus Universitário Trindade , s/n, Florianópolis, SC
+
+395
+
+202104993
+
+AGRONEGÓCIO (Tecnológico)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+396
+
+202104995
+
+AGRONOMIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Linha 7 de Setembro centro BR386 Km 40, S/N, Frederico Westphalen, RS
+
+397
+
+202104994
+
+AGRONOMIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+398
+
+202104996
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+399
+
+202104997
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+400
+
+202104999
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Avenida Independência Vista Alegre , 3751, Palmeira das Missões, RS
+
+401
+
+202104998
+
+ENFERMAGEM (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+402
+
+202105001
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Linha 7 de Setembro centro BR386 Km 40, S/N, Frederico Westphalen, RS
+
+403
+
+202105000
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+404
+
+202105002
+
+ENGENHARIA CIVIL (Bacharelado)
+
+77 (setenta e sete)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+405
+
+202105003
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+406
+
+202105004
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+407
+
+202105005
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+408
+
+202105006
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+409
+
+202105008
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Linha 7 de Setembro centro BR386 Km 40, S/N, Frederico Westphalen, RS
+
+410
+
+202105007
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+411
+
+202105009
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+412
+
+202105010
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+413
+
+202105011
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+414
+
+202105012
+
+FISIOTERAPIA (Bacharelado)
+
+48 (quarenta e oito)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+415
+
+202105013
+
+FONOAUDIOLOGIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+416
+
+202105014
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+417
+
+202105015
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+94 (noventa e quatro)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+418
+
+202105016
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Avenida Independência Vista Alegre , 3751, Palmeira das Missões, RS
+
+419
+
+202105017
+
+ODONTOLOGIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+420
+
+202105019
+
+ZOOTECNIA (Bacharelado)
+
+56 (cinquenta e seis)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Avenida Independência Vista Alegre , 3751, Palmeira das Missões, RS
+
+421
+
+202105018
+
+ZOOTECNIA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA(582)
+
+UNIVERSIDADE FEDERAL DE SANTA MARIA
+
+Cidade Universitária Prof. José Mariano da Rocha Filho, Avenida Roraima Camobi CAMPUS - SANTA MARIA - CAMOBI, 1000, Santa Maria, RS
+
+422
+
+202105020
+
+AGROECOLOGIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+ROD. ANHANGUERA s/n , KM 174, Araras, SP
+
+423
+
+202105021
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+424
+
+202105022
+
+ENFERMAGEM (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+425
+
+202105023
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+ROD. ANHANGUERA s/n , KM 174, Araras, SP
+
+426
+
+202105024
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Rodovia Lauri Simões de Barros , km 12 Araraçú , , Buri, SP
+
+427
+
+202105025
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Rodovia Lauri Simões de Barros , km 12 Araraçú , , Buri, SP
+
+428
+
+202105026
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+429
+
+202105027
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Rodovia Lauri Simões de Barros , km 12 Araraçú , , Buri, SP
+
+430
+
+202105028
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+431
+
+202105029
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+432
+
+202105030
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Rodovia João Leme dos Santos, Km 110 Bairro do Itinga SP-264, s/n, Sorocaba, SP
+
+433
+
+202105031
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+434
+
+202105032
+
+ENGENHARIA FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+435
+
+202105033
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Rodovia João Leme dos Santos, Km 110 Bairro do Itinga SP-264, s/n, Sorocaba, SP
+
+436
+
+202105034
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+437
+
+202105035
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+438
+
+202105036
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO CARLOS(7)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS
+
+Via Washington Luis Monjolinho S/Nº, Km 235, São Carlos, SP
+
+439
+
+202105037
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Av. Visconde do Rio Preto Colônia do Bengo CTAN, ---, São João del Rei, MG
+
+440
+
+202105038
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rua Sebastião Gonçalves Coelho Chanadour , 400, Divinópolis, MG
+
+441
+
+202105039
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rodovia MG 424 Área rural , Km 47, Sete Lagoas, MG
+
+442
+
+202105040
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rodovia MG 443, Km 07 Não Fazenda do Cadete, s/n, Ouro Branco, MG
+
+443
+
+202105041
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rodovia MG 424 Área rural , Km 47, Sete Lagoas, MG
+
+444
+
+202105042
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Praça Frei Orlando Centro , 170, São João del Rei, MG
+
+445
+
+202105043
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Praça Frei Orlando Centro , 170, São João del Rei, MG
+
+446
+
+202105044
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rodovia MG 424 Área rural , Km 47, Sete Lagoas, MG
+
+447
+
+202105045
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Praça Frei Orlando Centro , 170, São João del Rei, MG
+
+448
+
+202105046
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rodovia MG 443, Km 07 Não Fazenda do Cadete, s/n, Ouro Branco, MG
+
+449
+
+202105047
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Rua Sebastião Gonçalves Coelho Chanadour , 400, Divinópolis, MG
+
+450
+
+202105048
+
+ZOOTECNIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI(107)
+
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI
+
+Av. Visconde do Rio Preto Colônia do Bengo CTAN, ---, São João del Rei, MG
+
+451
+
+202105049
+
+BIOMEDICINA (Bacharelado)
+
+33 (trinta e três)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Botucatú Vila Clementino Edif. Octávio de Carvalho, 740, São Paulo, SP
+
+452
+
+202105050
+
+ENFERMAGEM (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Botucatú Vila Clementino Edif. Octávio de Carvalho, 740, São Paulo, SP
+
+453
+
+202105051
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Doutor Carvalho de Mendonça Vila Belmiro , 144, Santos, SP
+
+454
+
+202105052
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+25 (vinte e cinco)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Avenida Cesare Mansueto Giulio Lattes Eugênio de Mello Parque Tecnológico, 1201, São José dos Campos, SP
+
+455
+
+202105053
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Professor Arthur Riedel Eldorado (Vl Hellas), 275, Diadema, SP
+
+456
+
+202105054
+
+FARMÁCIA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Professor Arthur Riedel Eldorado (Vl Hellas), 275, Diadema, SP
+
+457
+
+202105055
+
+FONOAUDIOLOGIA (Bacharelado)
+
+36 (trinta e seis)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Botucatú Vila Clementino Edif. Octávio de Carvalho, 740, São Paulo, SP
+
+458
+
+202105056
+
+RADIOLOGIA (Tecnológico)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO(591)
+
+UNIVERSIDADE FEDERAL DE SAO PAULO
+
+Rua Botucatú Vila Clementino Edif. Octávio de Carvalho, 740, São Paulo, SP
+
+459
+
+202105057
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+CAIC Cel. José Sizinho da Rocha Centro CAIC - Coronel José Fizino da Rocha, s/n, Laranjeiras, SE
+
+460
+
+202105058
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+461
+
+202105059
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+462
+
+202105060
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+463
+
+202105061
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+464
+
+202105062
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+465
+
+202105063
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+466
+
+202105064
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+467
+
+202105065
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+468
+
+202105066
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+469
+
+202105067
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+470
+
+202105068
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+471
+
+202105069
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+472
+
+202105070
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+473
+
+202105071
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Rua Cláudio Batista Sanatório , s/n, Aracaju, SE
+
+474
+
+202105072
+
+FONOAUDIOLOGIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Rua Cláudio Batista Sanatório , s/n, Aracaju, SE
+
+475
+
+202105073
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+476
+
+202105074
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+477
+
+202105075
+
+ODONTOLOGIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Rua Cláudio Batista Sanatório , s/n, Aracaju, SE
+
+478
+
+202105076
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE SERGIPE(3)
+
+FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE
+
+Avenida Marechal Rondon Jardim Rosa Elze , s/n, São Cristóvão, SE
+
+479
+
+202105077
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+480
+
+202105078
+
+BIOMEDICINA (Bacharelado)
+
+25 (vinte e cinco)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+AV. PARÁ UMUARAMA , 1720, Uberlândia, MG
+
+481
+
+202105079
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida Benjamin Constant Aparecida , 1286, Uberlândia, MG
+
+482
+
+202105080
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+AV. PARÁ UMUARAMA , 1720, Uberlândia, MG
+
+483
+
+202105081
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+484
+
+202105082
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida Getúlio Vargas Centro Secretaria Municipal de Educação, 230, Patos de Minas, MG
+
+485
+
+202105083
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+486
+
+202105084
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+487
+
+202105085
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Rua Vinte Tupã , 1600, Ituiutaba, MG
+
+488
+
+202105086
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+489
+
+202105087
+
+ENGENHARIA ELETRÔNICA E DE TELECOMUNICAÇÕES (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida Getúlio Vargas Centro Secretaria Municipal de Educação, 230, Patos de Minas, MG
+
+490
+
+202105088
+
+ENGENHARIA ELETRÔNICA E DE TELECOMUNICAÇÕES (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+491
+
+202105089
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida João Naves de Ávila Santa Mônica , 2121, Uberlândia, MG
+
+492
+
+202105090
+
+FISIOTERAPIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+Avenida Benjamin Constant Aparecida , 1286, Uberlândia, MG
+
+493
+
+202105091
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+AV. PARÁ UMUARAMA , 1720, Uberlândia, MG
+
+494
+
+202105092
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+AV. PARÁ UMUARAMA , 1720, Uberlândia, MG
+
+495
+
+202105093
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA(17)
+
+UNIVERSIDADE FEDERAL DE UBERLANDIA
+
+AV. PARÁ UMUARAMA , 1720, Uberlândia, MG
+
+496
+
+202105095
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Campus Universitário - Rodovia BR 354 - Km 310 Centro , s/n, Rio Paranaíba, MG
+
+497
+
+202105094
+
+AGRONOMIA (Bacharelado)
+
+210 (duzentas e dez)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+498
+
+202105096
+
+AGRONOMIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Rodovia MG - Km 6 Campus , 318, Florestal, MG
+
+499
+
+202105097
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+500
+
+202105098
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+501
+
+202105099
+
+ENFERMAGEM (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+502
+
+202105100
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+503
+
+202105101
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+504
+
+202105102
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Campus Universitário - Rodovia BR 354 - Km 310 Centro , s/n, Rio Paranaíba, MG
+
+505
+
+202105103
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+506
+
+202105104
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Rodovia MG - Km 6 Campus , 318, Florestal, MG
+
+507
+
+202105105
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+508
+
+202105106
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Campus Universitário - Rodovia BR 354 - Km 310 Centro , s/n, Rio Paranaíba, MG
+
+509
+
+202105107
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+510
+
+202105108
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+511
+
+202105109
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+512
+
+202105110
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+513
+
+202105111
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Rodovia MG - Km 6 Campus , 318, Florestal, MG
+
+514
+
+202105112
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+515
+
+202105113
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+516
+
+202105114
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Campus Universitário - Rodovia BR 354 - Km 310 Centro , s/n, Rio Paranaíba, MG
+
+517
+
+202105115
+
+ZOOTECNIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DE VIÇOSA(8)
+
+UNIVERSIDADE FEDERAL DE VICOSA
+
+Av. P.H. Rolfs Campus Universitário Campus Universitário, s/n, Viçosa, MG
+
+518
+
+202105116
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+519
+
+202105117
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+520
+
+202105118
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Estrada do Canela Fina Km 12, Gleba Formoso lote 245 colonia Sao Francisco Campus Universitário , S/N, Cruzeiro do Sul, AC
+
+521
+
+202105119
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+522
+
+202105120
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+523
+
+202105122
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Estrada do Canela Fina Km 12, Gleba Formoso lote 245 colonia Sao Francisco Campus Universitário , S/N, Cruzeiro do Sul, AC
+
+524
+
+202105121
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+525
+
+202105123
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+526
+
+202105124
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ACRE(549)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO ACRE
+
+Campus Universitário Distrito Industrial BR 364, km 04, 6637, Rio Branco, AC
+
+527
+
+202105125
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAPÁ(830)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO AMAPA
+
+Rodovia Juscelino Kubitschek Zerão KM 2, S/N, Macapá, AP
+
+528
+
+202105126
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAPÁ(830)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO AMAPA
+
+Rodovia Juscelino Kubitschek Zerão KM 2, S/N, Macapá, AP
+
+529
+
+202105127
+
+FARMÁCIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAPÁ(830)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO AMAPA
+
+Rodovia Juscelino Kubitschek Zerão KM 2, S/N, Macapá, AP
+
+530
+
+202105128
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAPÁ(830)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO AMAPA
+
+Rodovia Juscelino Kubitschek Zerão KM 2, S/N, Macapá, AP
+
+531
+
+202105129
+
+AGRONOMIA (Bacharelado)
+
+46 (quarenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+532
+
+202105130
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua 29 de Agosto Centro Campus Universitário, 786, Humaitá, AM
+
+533
+
+202105131
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+534
+
+202105132
+
+EDUCAÇÃO FÍSICA - PROMOÇÃO EM SAÚDE E LAZER (Bacharelado)
+
+26 (vinte e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+535
+
+202105133
+
+EDUCAÇÃO FÍSICA - TREINAMENTO ESPORTIVO (Bacharelado)
+
+26 (vinte e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+536
+
+202105134
+
+ENFERMAGEM (Bacharelado)
+
+56 (cinquenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua Terezina Adrianópolis , 495, Manaus, AM
+
+537
+
+202105135
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua 29 de Agosto Centro Campus Universitário, 786, Humaitá, AM
+
+538
+
+202105136
+
+ENGENHARIA CIVIL (Bacharelado)
+
+56 (cinquenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+539
+
+202105137
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+56 (cinquenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+540
+
+202105138
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+541
+
+202105139
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua Nossa Senhora do Rosário São Jorge Campus Universitário, 3863, Itacoatiara, AM
+
+542
+
+202105140
+
+ENGENHARIA ELÉTRICA - ELETRÔNICA (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+543
+
+202105141
+
+ENGENHARIA ELÉTRICA - ELETROTÉCNICA (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+544
+
+202105142
+
+ENGENHARIA ELÉTRICA - TELECOMUNICAÇÕES (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+545
+
+202105143
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+46 (quarenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+546
+
+202105144
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+46 (quarenta e seis)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+547
+
+202105145
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+548
+
+202105147
+
+FARMÁCIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua Nossa Senhora do Rosário São Jorge Campus Universitário, 3863, Itacoatiara, AM
+
+549
+
+202105146
+
+FARMÁCIA (Bacharelado)
+
+42 (quarenta e duas)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua Comendador Alexandre Amorim Aparecida , 330, Manaus, AM
+
+550
+
+202105148
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Estrada Coari / Mamiá Espirito Santo Campus Universi, 305, Coari, AM
+
+551
+
+202105149
+
+FISIOTERAPIA (Bacharelado)
+
+42 (quarenta e duas)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+552
+
+202105150
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Estrada Coari / Mamiá Espirito Santo Campus Universi, 305, Coari, AM
+
+553
+
+202105151
+
+ODONTOLOGIA (Bacharelado)
+
+42 (quarenta e duas)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+AV. AYRÃO PRAÇA 14 DE JANEIRO , 1033, Manaus, AM
+
+554
+
+202105153
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Rua Paraíba Palmares Campus Universitário, 2186, Parintins, AM
+
+555
+
+202105152
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO AMAZONAS(4)
+
+FUNDACAO UNIVERSIDADE DO AMAZONAS
+
+Av. Rodrigo Otávio Coroado II Campus Universitário, 6200, Manaus, AM
+
+556
+
+202105154
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO CARIRI(18759)
+
+UNIVERSIDADE FEDERAL DO CARIRI-UFCA
+
+Rua Ícaro de Sousa Moreira Muriti , 126, Crato, CE
+
+557
+
+202105155
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CARIRI(18759)
+
+UNIVERSIDADE FEDERAL DO CARIRI-UFCA
+
+Av. Tenente Raimundo Rocha Cidade Universitária , 1639, Juazeiro do Norte, CE
+
+558
+
+202105156
+
+ENGENHARIA DE MATERIAIS (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CARIRI(18759)
+
+UNIVERSIDADE FEDERAL DO CARIRI-UFCA
+
+Av. Tenente Raimundo Rocha Cidade Universitária , 1639, Juazeiro do Norte, CE
+
+559
+
+202105157
+
+AGRONOMIA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+560
+
+202105158
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+64 (sessenta e quatro)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Avenida da Universidade Benfica , 2799/2800, Fortaleza, CE
+
+561
+
+202105159
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+562
+
+202105160
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+563
+
+202105161
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Alexandre Baraúna Rodolfo Teófilo , 949, Fortaleza, CE
+
+564
+
+202105162
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+565
+
+202105163
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+566
+
+202105164
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+567
+
+202105166
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+568
+
+202105165
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Estanislau Frota Centro CAMPUS DA UFC EM SOBRAL, s/n, Sobral, CE
+
+569
+
+202105168
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Estanislau Frota Centro CAMPUS DA UFC EM SOBRAL, s/n, Sobral, CE
+
+570
+
+202105167
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+571
+
+202105169
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+572
+
+202105170
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+573
+
+202105171
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Alexandre Baraúna Rodolfo Teófilo , 949, Fortaleza, CE
+
+574
+
+202105172
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Alexandre Baraúna Rodolfo Teófilo , 949, Fortaleza, CE
+
+575
+
+202105174
+
+ODONTOLOGIA (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Anahid Andrade Centro praça Senador Figueira, 471, Sobral, CE
+
+576
+
+202105173
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Alexandre Baraúna Rodolfo Teófilo , 949, Fortaleza, CE
+
+577
+
+202105175
+
+ZOOTECNIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO CEARÁ(583)
+
+UNIVERSIDADE FEDERAL DO CEARA
+
+Rua Campus do Pici Pici , s/n, Fortaleza, CE
+
+578
+
+202105177
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Rodovia BR 101 Norte, Km 60 Litorâneo , S/N, São Mateus, ES
+
+579
+
+202105176
+
+AGRONOMIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+580
+
+202105178
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+581
+
+202105179
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+582
+
+202105180
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+583
+
+202105181
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+584
+
+202105182
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+585
+
+202105183
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Rodovia BR 101 Norte, Km 60 Litorâneo , S/N, São Mateus, ES
+
+586
+
+202105184
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+587
+
+202105185
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+588
+
+202105186
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Rodovia BR 101 Norte, Km 60 Litorâneo , S/N, São Mateus, ES
+
+589
+
+202105187
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+590
+
+202105188
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+591
+
+202105189
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Av. Fernando Ferrari, 514, Goiabeiras. Goiabeiras Campus Universitário, 514, Vitória, ES
+
+592
+
+202105190
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Rodovia BR 101 Norte, Km 60 Litorâneo , S/N, São Mateus, ES
+
+593
+
+202105191
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+594
+
+202105192
+
+FARMÁCIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Avenida Marechal Campos Maruípe Campus Tomaz Tomazzi (Centro de Ciências da Saúde), 1.468, Vitória, ES
+
+595
+
+202105193
+
+FARMÁCIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Rodovia BR 101 Norte, Km 60 Litorâneo , S/N, São Mateus, ES
+
+596
+
+202105194
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Avenida Marechal Campos Maruípe Campus Tomaz Tomazzi (Centro de Ciências da Saúde), 1.468, Vitória, ES
+
+597
+
+202105195
+
+FONOAUDIOLOGIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Avenida Marechal Campos Maruípe Campus Tomaz Tomazzi (Centro de Ciências da Saúde), 1.468, Vitória, ES
+
+598
+
+202105196
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+599
+
+202105197
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+600
+
+202105198
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Avenida Marechal Campos Maruípe Campus Tomaz Tomazzi (Centro de Ciências da Saúde), 1.468, Vitória, ES
+
+601
+
+202105199
+
+ODONTOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Avenida Marechal Campos Maruípe Campus Tomaz Tomazzi (Centro de Ciências da Saúde), 1.468, Vitória, ES
+
+602
+
+202105200
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO(573)
+
+UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+
+Centro de Ciências Agrárias, s/n, Alto Universitário. Guararema , s/n, Alegre, ES
+
+603
+
+202105201
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO(693)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO
+
+Avenida Pasteur Urca Campus Pasteur 458, 458, Rio de Janeiro, RJ
+
+604
+
+202105202
+
+NUTRIÇÃO (Bacharelado)
+
+114 (cento e quatorze)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO(693)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO
+
+Avenida Pasteur Urca , 296, Rio de Janeiro, RJ
+
+605
+
+202105203
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO(693)
+
+UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO
+
+Avenida Pasteur Urca , 296, Rio de Janeiro, RJ
+
+606
+
+202105204
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+BR -222 KM 04 Boa Vista , S/N, Chapadinha, MA
+
+607
+
+202105205
+
+ENFERMAGEM (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+608
+
+202105206
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+609
+
+202105208
+
+ENGENHARIA CIVIL (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Rua José Leão Centro , 484, Balsas, MA
+
+610
+
+202105207
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+611
+
+202105209
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+612
+
+202105210
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+613
+
+202105211
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+614
+
+202105212
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+615
+
+202105213
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+616
+
+202105214
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+617
+
+202105215
+
+ODONTOLOGIA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+Avenida dos Portugueses Vila Bacanga , 1966, São Luís, MA
+
+618
+
+202105216
+
+ZOOTECNIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO MARANHÃO(548)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO
+
+BR -222 KM 04 Boa Vista , S/N, Chapadinha, MA
+
+619
+
+202105217
+
+AGRONOMIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA(18506)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA
+
+AVENIDA 23 DE AGOSTO CENTRO , 860, Barra, BA
+
+620
+
+202105218
+
+ENGENHARIA CIVIL (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA(18506)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA
+
+Rua da Prainha Morada Nobre , 1326, Barreiras, BA
+
+621
+
+202105219
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA(18506)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA
+
+Rua Itabuna Cidade Santa Cruz , s/n, Luís Eduardo Magalhães, BA
+
+622
+
+202105220
+
+ENGENHARIA SANITARIA E AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA(18506)
+
+UNIVERSIDADE FEDERAL DO OESTE DA BAHIA
+
+Rua da Prainha Morada Nobre , 1326, Barreiras, BA
+
+623
+
+202105221
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARÁ(15059)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARA
+
+Avenida Vera Paz Salé Unidade Tapajós, s/n, Santarém, PA
+
+624
+
+202105222
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARÁ(15059)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARA
+
+Avenida Vera Paz Salé Unidade Tapajós, s/n, Santarém, PA
+
+625
+
+202105223
+
+FARMÁCIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARÁ(15059)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARA
+
+Avenida Vera Paz Salé Unidade Tapajós, s/n, Santarém, PA
+
+626
+
+202105224
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARÁ(15059)
+
+UNIVERSIDADE FEDERAL DO OESTE DO PARA
+
+Avenida Vera Paz Salé Unidade Tapajós, s/n, Santarém, PA
+
+627
+
+202105225
+
+AGRONOMIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+Rua Padre Antônio Franco Matinha , 2417, Cametá, PA
+
+628
+
+202105226
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+629
+
+202105228
+
+ENGENHARIA CIVIL (Bacharelado)
+
+48 (quarenta e oito)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA ITAIPU VILA PERMANENTE VILA PERMANENTE, 36, Tucuruí, PA
+
+630
+
+202105227
+
+ENGENHARIA CIVIL (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+631
+
+202105229
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+632
+
+202105230
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+36 (trinta e seis)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+633
+
+202105231
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+48 (quarenta e oito)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA ITAIPU VILA PERMANENTE VILA PERMANENTE, 36, Tucuruí, PA
+
+634
+
+202105232
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+AVENIDA UNIVERSITARIA, S/N JADERLANDIA CAMPUS UNIVERSITÁRIO DE CASTANHAL, 00, Castanhal, PA
+
+635
+
+202105233
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+Rua Manoel de Abreu Multirão , S/Nº, Abaetetuba, PA
+
+636
+
+202105234
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+637
+
+202105235
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+48 (quarenta e oito)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA ITAIPU VILA PERMANENTE VILA PERMANENTE, 36, Tucuruí, PA
+
+638
+
+202105236
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+Rua Coronel José Porfírio São Sebastião Campus Universitario de Altamira, 2515, Altamira, PA
+
+639
+
+202105237
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+640
+
+202105238
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA ITAIPU VILA PERMANENTE VILA PERMANENTE, 36, Tucuruí, PA
+
+641
+
+202105239
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+642
+
+202105240
+
+ENGENHARIA SANITARIA E AMBIENTAL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+643
+
+202105241
+
+ENGENHARIA SANITÁRIA E AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA ITAIPU VILA PERMANENTE VILA PERMANENTE, 36, Tucuruí, PA
+
+644
+
+202105242
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+645
+
+202105243
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+AVENIDA UNIVERSITARIA, S/N JADERLANDIA CAMPUS UNIVERSITÁRIO DE CASTANHAL, 00, Castanhal, PA
+
+646
+
+202105244
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARÁ(569)
+
+UNIVERSIDADE FEDERAL DO PARA
+
+RUA AUGUSTO CORREA GUAMÁ CIDADE UNIVERSITARIA JOSÉ DA SILVEIRA NETTO, 01, Belém, PA
+
+647
+
+202105245
+
+AGRONOMIA (Bacharelado)
+
+132 (cento e trinta e duas)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+RUA DOS FUNCIONÁRIOS JUVEVÊ , 1540, Curitiba, PR
+
+648
+
+202105246
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Pioneiro Jardim Dallas , 2153, Palotina, PR
+
+649
+
+202105247
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+650
+
+202105248
+
+BIOMEDICINA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+651
+
+202105249
+
+ENFERMAGEM (Bacharelado)
+
+28 (vinte e oito)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Prefeito Lothário Meissner Jardim Botânico , 632, Curitiba, PR
+
+652
+
+202105250
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+653
+
+202105251
+
+ENGENHARIA CIVIL (Bacharelado)
+
+166 (cento e sessenta e seis)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+654
+
+202105252
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Dr. João maximiano centro FAFIJAN, 426, Jandaia do Sul, PR
+
+655
+
+202105253
+
+ENGENHARIA DE BIOPROCESSOS E BIOTECNOLOGIA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+656
+
+202105255
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Dr. João maximiano centro FAFIJAN, 426, Jandaia do Sul, PR
+
+657
+
+202105254
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+658
+
+202105256
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+659
+
+202105257
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Prefeito Lothário Meissner Jardim Botânico , 632, Curitiba, PR
+
+660
+
+202105258
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+198 (cento e noventa e oito)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+661
+
+202105259
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+108 (cento e oito)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+662
+
+202105260
+
+FARMÁCIA (Bacharelado)
+
+108 (cento e oito)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Prefeito Lothário Meissner Jardim Botânico , 632, Curitiba, PR
+
+663
+
+202105261
+
+FISIOTERAPIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Avenida Coronel Francisco Heráclito dos Santos Jardim das Américas CAMPUS CENTRO POLITÉCNICO, 210, Curitiba, PR
+
+664
+
+202105262
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+RUA DOS FUNCIONÁRIOS JUVEVÊ , 1540, Curitiba, PR
+
+665
+
+202105263
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Pioneiro Jardim Dallas , 2153, Palotina, PR
+
+666
+
+202105264
+
+NUTRIÇÃO (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+Rua Prefeito Lothário Meissner Jardim Botânico , 632, Curitiba, PR
+
+667
+
+202105265
+
+ZOOTECNIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PARANÁ(571)
+
+UNIVERSIDADE FEDERAL DO PARANA
+
+RUA DOS FUNCIONÁRIOS JUVEVÊ , 1540, Curitiba, PR
+
+668
+
+202105266
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+669
+
+202105268
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+BR 343 KM 3,5 Meladão , S/N, Floriano, PI
+
+670
+
+202105267
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+671
+
+202105269
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+672
+
+202105270
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Planalto Horizonte Centro , S/N, Bom Jesus, PI
+
+673
+
+202105271
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+674
+
+202105272
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+675
+
+202105273
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+676
+
+202105274
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Planalto Horizonte Centro , S/N, Bom Jesus, PI
+
+677
+
+202105275
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+678
+
+202105276
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+679
+
+202105277
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+680
+
+202105278
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Planalto Horizonte Centro , S/N, Bom Jesus, PI
+
+681
+
+202105279
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+682
+
+202105280
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+R. CÍCERO DUARTE JUNCO , 905, Picos, PI
+
+683
+
+202105281
+
+ODONTOLOGIA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Campus Universitário Ministro Petrônio Portela Ininga SG - 07, s/n, Teresina, PI
+
+684
+
+202105282
+
+ZOOTECNIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO PIAUÍ(5)
+
+FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI
+
+Planalto Horizonte Centro , S/N, Bom Jesus, PI
+
+685
+
+202105283
+
+AGRONOMIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+686
+
+202105284
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+687
+
+202105285
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+688
+
+202105286
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+689
+
+202105287
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+690
+
+202105288
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+691
+
+202105289
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+692
+
+202105290
+
+NUTRIÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Avenida Carlos Amaral (Antigo Campus do Governo) Cajueiro Campus Santo Antonio de Jesus, 1015, Santo Antônio de Jesus, BA
+
+693
+
+202105291
+
+ZOOTECNIA (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA(4503)
+
+UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB
+
+Rua Rui Barbosa Centro Sede da UFRB, 710, Cruz das Almas, BA
+
+694
+
+202105292
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+695
+
+202105293
+
+CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA (Bacharelado)
+
+84 (oitenta e quatro)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+696
+
+202105294
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+697
+
+202105295
+
+ENFERMAGEM E OBSTETRÍCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+698
+
+202105296
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+699
+
+202105298
+
+ENGENHARIA CIVIL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+700
+
+202105297
+
+ENGENHARIA CIVIL (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+701
+
+202105299
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+702
+
+202105300
+
+ENGENHARIA DE COMPUTAÇÃO E INFORMAÇÃO (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+703
+
+202105301
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+704
+
+202105303
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+705
+
+202105302
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+706
+
+202105304
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+707
+
+202105305
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+708
+
+202105306
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+709
+
+202105307
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+176 (cento e setenta e seis)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+710
+
+202105309
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+711
+
+202105308
+
+FARMÁCIA (Bacharelado)
+
+320 (trezentas e vinte)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+712
+
+202105310
+
+FISIOTERAPIA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+713
+
+202105311
+
+FONOAUDIOLOGIA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+714
+
+202105312
+
+NUTRIÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+715
+
+202105313
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Rua Aloisio da Silva Gomes Granja dos Cavaleiros , 50, Macaé, RJ
+
+716
+
+202105314
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO(586)
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+
+Avenida Brigadeiro Trompowsky Ilha do Fundão Cidade Universitária, s/n, Rio de Janeiro, RJ
+
+717
+
+202105315
+
+ENFERMAGEM (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+RUA GENERAL OSÓRIO CENTRO ÁREA ACADÊMICA, S/N, Rio Grande, RS
+
+718
+
+202105316
+
+ENGENHARIA AGROINDUSTRIAL INDÚSTRIAS ALIMENTÍCIAS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+RUA BARÃO DO CAHY Cidade Alta , 125, Santo Antônio da Patrulha, RS
+
+719
+
+202105317
+
+ENGENHARIA CIVIL (Bacharelado)
+
+75 (setenta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+720
+
+202105318
+
+ENGENHARIA CIVIL COSTEIRA E PORTUÁRIA (Bacharelado)
+
+25 (vinte e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+721
+
+202105319
+
+ENGENHARIA CIVIL EMPRESARIAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+722
+
+202105320
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+723
+
+202105321
+
+ENGENHARIA DE AUTOMAÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+724
+
+202105322
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+725
+
+202105323
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+75 (setenta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+726
+
+202105324
+
+ENGENHARIA MECÂNICA EMPRESARIAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+727
+
+202105325
+
+ENGENHARIA MECÂNICA NAVAL (Bacharelado)
+
+25 (vinte e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+728
+
+202105326
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+729
+
+202105327
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+Av. Itália Carreiros KM - 8, S/N, Rio Grande, RS
+
+730
+
+202105328
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE(12)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+R. Marechal Floriano Peixoto Centro , 2236, São Lourenço do Sul, RS
+
+731
+
+202105329
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+42 (quarenta e duas)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+732
+
+202105330
+
+BIOMEDICINA (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+733
+
+202105331
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+45 (quarenta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+734
+
+202105332
+
+ENFERMAGEM (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+735
+
+202105333
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+RN 160, Km 03 Distrito Jundiaí Escola Agrícola de Jundiaí - EAJ, 00, Macaíba, RN
+
+736
+
+202105334
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+737
+
+202105335
+
+ENGENHARIA CIVIL (Bacharelado)
+
+104 (cento e quatro)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+738
+
+202105336
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+739
+
+202105337
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+740
+
+202105338
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+741
+
+202105339
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+92 (noventa e duas)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+742
+
+202105340
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+RN 160, Km 03 Distrito Jundiaí Escola Agrícola de Jundiaí - EAJ, 00, Macaíba, RN
+
+743
+
+202105341
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+744
+
+202105342
+
+ENGENHARIA MECATRÔNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+745
+
+202105343
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+74 (setenta e quatro)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+746
+
+202105344
+
+FARMÁCIA (Bacharelado)
+
+182 (cento e oitenta e duas)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Rua General Cordeiro de Farias Petrópolis CAMPUS UNIVERSITÁRIO, s/n, Natal, RN
+
+747
+
+202105346
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+RUA SANTO ANDRÉ C. CÔNEGO MONTE , S/N, Santa Cruz, RN
+
+748
+
+202105345
+
+FISIOTERAPIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+749
+
+202105347
+
+FONOAUDIOLOGIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+750
+
+202105348
+
+GESTÃO HOSPITALAR (Tecnológico)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+751
+
+202105349
+
+NUTRIÇÃO (Bacharelado)
+
+83 (oitenta e três)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+752
+
+202105350
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+RUA SANTO ANDRÉ C. CÔNEGO MONTE , S/N, Santa Cruz, RN
+
+753
+
+202105351
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+Avenida Senador Salgado Filho Lagoa Nova Campus Universitário, 3000, Natal, RN
+
+754
+
+202105352
+
+ZOOTECNIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE(570)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+RN 160, Km 03 Distrito Jundiaí Escola Agrícola de Jundiaí - EAJ, 00, Macaíba, RN
+
+755
+
+202105353
+
+AGRONOMIA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia Prédio 41301, 7712, Porto Alegre, RS
+
+756
+
+202105354
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Rua Sarmento Leite Centro , 320, Porto Alegre, RS
+
+757
+
+202105355
+
+BIOMEDICINA (Bacharelado)
+
+36 (trinta e seis)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Sarmento Leite Centro Prédio 12101, 500, Porto Alegre, RS
+
+758
+
+202105356
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Rua Felizardo Jardim Botânico Prédio 31102, 750, Porto Alegre, RS
+
+759
+
+202105357
+
+ENFERMAGEM (Bacharelado)
+
+104 (cento e quatro)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Rua São Manoel Rio Branco Prédio 21103, 963, Porto Alegre, RS
+
+760
+
+202105358
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia , 9500, Porto Alegre, RS
+
+761
+
+202105359
+
+ENGENHARIA CIVIL (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+762
+
+202105360
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+33 (trinta e três)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia , 9500, Porto Alegre, RS
+
+763
+
+202105361
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia , 9500, Porto Alegre, RS
+
+764
+
+202105362
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+33 (trinta e três)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+765
+
+202105363
+
+ENGENHARIA DE ENERGIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+766
+
+202105364
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+72 (setenta e duas)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+767
+
+202105365
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+768
+
+202105366
+
+ENGENHARIA HÍDRICA (Bacharelado)
+
+25 (vinte e cinco)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia , 9500, Porto Alegre, RS
+
+769
+
+202105367
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Sarmento Leite Centro Prédio 11107, 425, Porto Alegre, RS
+
+770
+
+202105368
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+av. Oswaldo Aranha Centro Prédio 11105, 99, Porto Alegre, RS
+
+771
+
+202105369
+
+FARMÁCIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Ipiranga Azenha Prédio 21106, 2752, Porto Alegre, RS
+
+772
+
+202105370
+
+FISIOTERAPIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Rua Felizardo Jardim Botânico Prédio 31102, 750, Porto Alegre, RS
+
+773
+
+202105371
+
+FONOAUDIOLOGIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Ramiro Barcelos Santana Prédio 21108, 2492, Porto Alegre, RS
+
+774
+
+202105372
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+96 (noventa e seis)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia Prédio 42602, 9090, Porto Alegre, RS
+
+775
+
+202105373
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Ramiro Barcelos Santana Prédio 21112, 2400, Porto Alegre, RS
+
+776
+
+202105374
+
+ODONTOLOGIA (Bacharelado)
+
+118 (cento e dezoito)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Ramiro Barcelos Santana Prédio 21108, 2492, Porto Alegre, RS
+
+777
+
+202105375
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL(581)
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+Av. Bento Gonçalves Agronomia Prédio 41301, 7712, Porto Alegre, RS
+
+778
+
+202105376
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ(18440)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA
+
+Avenida dos Ipês - Cidade Universitária Nova Marabá CAMPUS DE MARABÁ - UNIDADE III, S/N, Marabá, PA
+
+779
+
+202105377
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ(18440)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA
+
+Folha 17, Quadra 04 Nova Marabá CAMPUS DE MARABÁ - UNIDADE II, S/N, Marabá, PA
+
+780
+
+202105378
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ(18440)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA
+
+Folha 17, Quadra 04 Nova Marabá CAMPUS DE MARABÁ - UNIDADE II, S/N, Marabá, PA
+
+781
+
+202105379
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ(18440)
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA
+
+Folha 17, Quadra 04 Nova Marabá CAMPUS DE MARABÁ - UNIDADE II, S/N, Marabá, PA
+
+782
+
+202105380
+
+AGRONOMIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+783
+
+202105381
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+36 (trinta e seis)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+784
+
+202105382
+
+ENFERMAGEM (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+785
+
+202105383
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+Rua do Cruzeiro Jardim São paulo , 01, Teófilo Otoni, MG
+
+786
+
+202105384
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+787
+
+202105385
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+Rua do Cruzeiro Jardim São paulo , 01, Teófilo Otoni, MG
+
+788
+
+202105386
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+789
+
+202105387
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+790
+
+202105388
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+791
+
+202105389
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+792
+
+202105390
+
+FISIOTERAPIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+793
+
+202105391
+
+NUTRIÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+794
+
+202105392
+
+ODONTOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+Rua da Glória Centro Campus I, 187, Diamantina, MG
+
+795
+
+202105393
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI(596)
+
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+MGT 367 Alto do Jacuba Campus JK, 5000, Diamantina, MG
+
+796
+
+202105394
+
+BIOMEDICINA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Getúlio Guarita Abadia , 159, Uberaba, MG
+
+797
+
+202105395
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Getúlio Guarita Abadia , 159, Uberaba, MG
+
+798
+
+202105396
+
+ENFERMAGEM (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Praça Manoel Terra Abadia , 330, Uberaba, MG
+
+799
+
+202105397
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+800
+
+202105398
+
+ENGENHARIA CIVIL (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+801
+
+202105400
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+802
+
+202105401
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+803
+
+202105402
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+804
+
+202105403
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+805
+
+202105404
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Doutor Randolfo Borges Júnior Univerdecidade , 1400, Uberaba, MG
+
+806
+
+202105405
+
+FISIOTERAPIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Getúlio Guarita Abadia , 159, Uberaba, MG
+
+807
+
+202105406
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO(597)
+
+UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO
+
+Avenida Getúlio Guarita Abadia , 159, Uberaba, MG
+
+808
+
+202105407
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+74 (setenta e quatro)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+809
+
+202105409
+
+BIOMEDICINA (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Doutor Silvio Henrique Braune centro , 22, Nova Friburgo, RJ
+
+810
+
+202105408
+
+BIOMEDICINA (Bacharelado)
+
+62 (sessenta e duas)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Professor Ernani Melo Centro , 101, Niterói, RJ
+
+811
+
+202105410
+
+ENFERMAGEM (Bacharelado)
+
+114 (cento e quatorze)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Dr. Celestino Centro , 74, Niterói, RJ
+
+812
+
+202105411
+
+ENFERMAGEM (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Recife Quadra 7 Jardim Bela Vista Lote 1 a 7, S/N, Rio das Ostras, RJ
+
+813
+
+202105412
+
+ENGENHARIA AGRÍCOLA E AMBIENTAL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+814
+
+202105413
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+815
+
+202105414
+
+ENGENHARIA DE AGRONEGÓCIOS (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Av. dos Trabalhadores Vila Santa Cecília , 420, Volta Redonda, RJ
+
+816
+
+202105415
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+817
+
+202105416
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+70 (setenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Recife Quadra 7 Jardim Bela Vista Lote 1 a 7, S/N, Rio das Ostras, RJ
+
+818
+
+202105417
+
+ENGENHARIA DE RECURSOS HÍDRICOS E DO MEIO AMBIENTE (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+819
+
+202105418
+
+ENGENHARIA DE TELECOMUNICAÇÕES (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+820
+
+202105419
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+821
+
+202105420
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+105 (cento e cinco)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+822
+
+202105421
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Av. dos Trabalhadores Vila Santa Cecília , 420, Volta Redonda, RJ
+
+823
+
+202105422
+
+ENGENHARIA METALÚRGICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Av. dos Trabalhadores Vila Santa Cecília , 420, Volta Redonda, RJ
+
+824
+
+202105423
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Passo da Pátria São Domingos Centro Tecnológico, 156, Niterói, RJ
+
+825
+
+202105424
+
+FARMÁCIA (Bacharelado)
+
+144 (cento e quarenta e quatro)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Mário Viana Santa Rosa , 523, Niterói, RJ
+
+826
+
+202105425
+
+FONOAUDIOLOGIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Doutor Silvio Henrique Braune centro , 22, Nova Friburgo, RJ
+
+827
+
+202105426
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Vital Brasil Santa Rosa , 64, Niterói, RJ
+
+828
+
+202105427
+
+NUTRIÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Alameda Prof. Barros Terra Centro Centro de Estudos Gerais, S/Nº, Niterói, RJ
+
+829
+
+202105428
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL FLUMINENSE(572)
+
+UNIVERSIDADE FEDERAL FLUMINENSE
+
+Rua Doutor Silvio Henrique Braune centro , 22, Nova Friburgo, RJ
+
+830
+
+202105430
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+Rua Pau Amarelo Vila Nova , s/n, Capitão Poço, PA
+
+831
+
+202105429
+
+AGRONOMIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+AVENIDA PRESIDENTE TANCREDO NEVES TERRA FIRME , 2501, Belém, PA
+
+832
+
+202105431
+
+AGRONOMIA (Bacharelado)
+
+85 (oitenta e cinco)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+Rodovia PA 256 Km 6 Rural , s/n, Paragominas, PA
+
+833
+
+202105432
+
+ENGENHARIA AMBIENTAL E ENERGIAS RENOVÁVEIS (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+AVENIDA PRESIDENTE TANCREDO NEVES TERRA FIRME , 2501, Belém, PA
+
+834
+
+202105433
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+AVENIDA PRESIDENTE TANCREDO NEVES TERRA FIRME , 2501, Belém, PA
+
+835
+
+202105434
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+AVENIDA PRESIDENTE TANCREDO NEVES TERRA FIRME , 2501, Belém, PA
+
+836
+
+202105436
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+PA 275, Km 7 - Zona Rural Zona Rural UFRA- CAMPUS PARAUAPEBAS, S/N, Parauapebas, PA
+
+837
+
+202105435
+
+ZOOTECNIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+AVENIDA PRESIDENTE TANCREDO NEVES TERRA FIRME , 2501, Belém, PA
+
+838
+
+202105437
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA(590)
+
+UNIVERSIDADE FEDERAL RURAL DA AMAZONIA
+
+Rodovia PA 256 Km 6 Rural , s/n, Paragominas, PA
+
+839
+
+202105438
+
+AGRONOMIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Rua Dom Manoel de Medeiros Dois Irmãos , s/n, Recife, PE
+
+840
+
+202105439
+
+AGRONOMIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+FAZENDA SACO Fazenda Saco , S/N, Serra Talhada, PE
+
+841
+
+202105440
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Gleba 4A Charneca Sul da antiga Línha Férrea da Rede Ferroviária Federal entre os engenhos Santa Rosa e Caeté, S/N, Cabo de Santo Agostinho, PE
+
+842
+
+202105441
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Gleba 4A Charneca Sul da antiga Línha Férrea da Rede Ferroviária Federal entre os engenhos Santa Rosa e Caeté, S/N, Cabo de Santo Agostinho, PE
+
+843
+
+202105442
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Gleba 4A Charneca Sul da antiga Línha Férrea da Rede Ferroviária Federal entre os engenhos Santa Rosa e Caeté, S/N, Cabo de Santo Agostinho, PE
+
+844
+
+202105443
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Rua Dom Manoel de Medeiros Dois Irmãos , s/n, Recife, PE
+
+845
+
+202105444
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Gleba 4A Charneca Sul da antiga Línha Férrea da Rede Ferroviária Federal entre os engenhos Santa Rosa e Caeté, S/N, Cabo de Santo Agostinho, PE
+
+846
+
+202105445
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Rua Dom Manoel de Medeiros Dois Irmãos , s/n, Recife, PE
+
+847
+
+202105446
+
+ZOOTECNIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Rua Dom Manoel de Medeiros Dois Irmãos , s/n, Recife, PE
+
+848
+
+202105447
+
+ZOOTECNIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO(587)
+
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+FAZENDA SACO Fazenda Saco , S/N, Serra Talhada, PE
+
+849
+
+202105448
+
+AGRONOMIA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+850
+
+202105449
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+851
+
+202105450
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+852
+
+202105451
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+853
+
+202105452
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+854
+
+202105453
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+855
+
+202105454
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+856
+
+202105455
+
+ZOOTECNIA (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO(574)
+
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+
+Rodovia BR 465 - KM 7 Campus Universitário , s/n, Seropédica, RJ
+
+857
+
+202105456
+
+AGRONOMIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+858
+
+202105459
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 226, KM 405 Bairro São Geraldo , S/N, Pau dos Ferros, RN
+
+859
+
+202105457
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+860
+
+202105458
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 223 - KM 1 - SÍTIO ESPERANÇA 2 ZONA RURAL , S/N, Caraúbas, RN
+
+861
+
+202105460
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 226, KM 405 Bairro São Geraldo , S/N, Pau dos Ferros, RN
+
+862
+
+202105461
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+863
+
+202105462
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+Rua Gamaliel Martins Bezerra Alto da Alegria , 587, Angicos, RN
+
+864
+
+202105463
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 223 - KM 1 - SÍTIO ESPERANÇA 2 ZONA RURAL , S/N, Caraúbas, RN
+
+865
+
+202105464
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+866
+
+202105465
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+867
+
+202105466
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+868
+
+202105467
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+869
+
+202105468
+
+ZOOTECNIA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO(589)
+
+UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO - UFERSA
+
+BR 110 - Km 47 Presidente Costa e Silva , s/n, Mossoró, RN
+
+870
+
+202105469
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+170 (cento e setenta)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+871
+
+202105470
+
+BIOMEDICINA (Bacharelado)
+
+105 (cento e cinco)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+872
+
+202105471
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+85 (oitenta e cinco)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+AV. DR. MAURICIO CARDOSO HAMBURGO VELHO , 510, Novo Hamburgo, RS
+
+873
+
+202105472
+
+ENFERMAGEM (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+874
+
+202105473
+
+ENGENHARIA CIVIL (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+875
+
+202105474
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+876
+
+202105475
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+877
+
+202105476
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+878
+
+202105477
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+879
+
+202105478
+
+FARMÁCIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+880
+
+202105479
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+881
+
+202105480
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE FEEVALE(23)
+
+ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO
+
+Rodovia Rodovia ERS-239 Vila Nova , nº 2755, Novo Hamburgo, RS
+
+882
+
+202105481
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua dos Andradas Centro , 1.614, Santa Maria, RS
+
+883
+
+202105482
+
+BIOMEDICINA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua dos Andradas Centro , 1.614, Santa Maria, RS
+
+884
+
+202105483
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua Silva Jardim Nossa Senhora do Rosário Conjunto II, 1323, Santa Maria, RS
+
+885
+
+202105484
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua dos Andradas Centro , 1.614, Santa Maria, RS
+
+886
+
+202105485
+
+FISIOTERAPIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua Silva Jardim Nossa Senhora do Rosário , 1175, Santa Maria, RS
+
+887
+
+202105486
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE FRANCISCANA(426)
+
+SOC CARIT E LIT SAO FRANCISCO DE ASSIS ZONA NORTE
+
+Rua Silva Jardim Nossa Senhora do Rosário , 1175, Santa Maria, RS
+
+888
+
+202105487
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FUMEC(1557)
+
+FUNDACAO MINEIRA DE EDUCACAO E CULTURA
+
+Rua Cobre Cruzeiro Campus I Belo Horizonte, 200, Belo Horizonte, MG
+
+889
+
+202105488
+
+BIOMEDICINA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE FUMEC(1557)
+
+FUNDACAO MINEIRA DE EDUCACAO E CULTURA
+
+Rua da Paisagem Vila da Serra , 240, Nova Lima, MG
+
+890
+
+202105489
+
+ENGENHARIA CIVIL (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE FUMEC(1557)
+
+FUNDACAO MINEIRA DE EDUCACAO E CULTURA
+
+Rua Cobre Cruzeiro Campus I Belo Horizonte, 200, Belo Horizonte, MG
+
+891
+
+202105490
+
+ENGENHARIA DE PRODUÇÃO CIVIL (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE FUMEC(1557)
+
+FUNDACAO MINEIRA DE EDUCACAO E CULTURA
+
+Rua Cobre Cruzeiro Campus I Belo Horizonte, 200, Belo Horizonte, MG
+
+892
+
+202105491
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE FUMEC(1557)
+
+FUNDACAO MINEIRA DE EDUCACAO E CULTURA
+
+Rua Cobre Cruzeiro Campus I Belo Horizonte, 200, Belo Horizonte, MG
+
+893
+
+202105492
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+894
+
+202105493
+
+BIOMEDICINA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+895
+
+202105494
+
+ENFERMAGEM (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+896
+
+202105495
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+897
+
+202105496
+
+FARMÁCIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+898
+
+202105497
+
+FISIOTERAPIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+899
+
+202105498
+
+ODONTOLOGIA (Bacharelado)
+
+210 (duzentas e dez)
+
+UNIVERSIDADE IBIRAPUERA(458)
+
+ASSOCIACAO DE ENSINO IMPERIUM
+
+Avenida Interlagos Jardim Marajoara , 1.329, São Paulo, SP
+
+900
+
+202105499
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Avenida Abílio Augusto Távora Jardim Nova Era , 2134, Nova Iguaçu, RJ
+
+901
+
+202105500
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+90 (noventa)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+BR 356 Km 2 Cidade Nova Unidade Permanente de Itaperuna, S/N, Itaperuna, RJ
+
+902
+
+202105501
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Avenida Abílio Augusto Távora Jardim Nova Era , 2134, Nova Iguaçu, RJ
+
+903
+
+202105502
+
+FARMÁCIA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Avenida Abílio Augusto Távora Jardim Nova Era , 2134, Nova Iguaçu, RJ
+
+904
+
+202105503
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Avenida Abílio Augusto Távora Jardim Nova Era , 2134, Nova Iguaçu, RJ
+
+905
+
+202105504
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+BR 356 Km 2 Cidade Nova Unidade Permanente de Itaperuna, S/N, Itaperuna, RJ
+
+906
+
+202105505
+
+ODONTOLOGIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Avenida Abílio Augusto Távora Jardim Nova Era , 2134, Nova Iguaçu, RJ
+
+907
+
+202105506
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE IGUAÇU(330)
+
+ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+BR 356 Km 2 Cidade Nova Unidade Permanente de Itaperuna, S/N, Itaperuna, RJ
+
+908
+
+202105507
+
+AGRONOMIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+909
+
+202105508
+
+BIOMEDICINA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rua Tedinho Alvim Liberdade Campus Universitario, 1000, Divinópolis, MG
+
+910
+
+202105509
+
+BIOMEDICINA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rua Boaventura Universitário , 50, Belo Horizonte, MG
+
+911
+
+202105510
+
+BIOMEDICINA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+912
+
+202105511
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+913
+
+202105512
+
+ENFERMAGEM (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+914
+
+202105513
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+915
+
+202105514
+
+FISIOTERAPIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rua Tedinho Alvim Liberdade Campus Universitario, 1000, Divinópolis, MG
+
+916
+
+202105515
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+917
+
+202105516
+
+NUTRIÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+918
+
+202105517
+
+ODONTOLOGIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Rod Rodovia MG-179 Loteamento Trevo Campus Universitário, s/n, Alfenas, MG
+
+919
+
+202105518
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE JOSÉ DO ROSÁRIO VELLANO(30)
+
+FUNDACAO DE ENSINO E TECNOLOGIA DE ALFENAS
+
+Av. Santa Luiza Bairro Sta. Luiza , 205 , Varginha, MG
+
+920
+
+202105519
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+921
+
+202105520
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+922
+
+202105521
+
+ENFERMAGEM (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+923
+
+202105522
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+924
+
+202105523
+
+ENGENHARIA CIVIL (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+925
+
+202105524
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+29 (vinte e nove)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+926
+
+202105525
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+927
+
+202105526
+
+ENGENHARIA DE TELECOMUNICAÇÕES (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+928
+
+202105527
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+929
+
+202105528
+
+FISIOTERAPIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+930
+
+202105529
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE LA SALLE(641)
+
+SOCIEDADE PORVIR CIENTIFICO
+
+Av. Victor Barreto Centro , 2288, Canoas, RS
+
+931
+
+202105532
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rodovia Rodovia BR-287 - do km 251,890 ao km 252,330 - lado par Tancredo Neves , s/n, Santa Maria, RS
+
+932
+
+202105531
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Universitária Parque do Balonismo , 1900, Torres, RS
+
+933
+
+202105530
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+934
+
+202105533
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Br 285, Km 335 Ouro Preto , S/Nº, Carazinho, RS
+
+935
+
+202105537
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Martinho Lutero Universitário , 301, Cachoeira do Sul, RS
+
+936
+
+202105535
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Universitária Parque do Balonismo , 1900, Torres, RS
+
+937
+
+202105536
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua da Balança Altos da Alegria , 482, Guaíba, RS
+
+938
+
+202105534
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Av: Itacolomí, 3600, São Vicente. SÃO VICENTE , 3600, Gravataí, RS
+
+939
+
+202105538
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+940
+
+202105539
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+941
+
+202105540
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+942
+
+202105542
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Antônio de Carvalho Centro Esquina RS 401, S/N, São Jerônimo, RS
+
+943
+
+202105541
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Br 285, Km 335 Ouro Preto , S/Nº, Carazinho, RS
+
+944
+
+202105544
+
+ENGENHARIA MECÂNICA AUTOMOTIVA (Bacharelado)
+
+170 (cento e setenta)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+945
+
+202105543
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+170 (cento e setenta)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+946
+
+202105545
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+947
+
+202105547
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Br 285, Km 335 Ouro Preto , S/Nº, Carazinho, RS
+
+948
+
+202105546
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Avenida Farroupilha São José , 8001, Canoas, RS
+
+949
+
+202105548
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rodovia Rodovia BR-287 - do km 251,890 ao km 252,330 - lado par Tancredo Neves , s/n, Santa Maria, RS
+
+950
+
+202105549
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Universitária Parque do Balonismo , 1900, Torres, RS
+
+951
+
+202105550
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE LUTERANA DO BRASIL(449)
+
+AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A.
+
+Rua Universitária Parque do Balonismo , 1900, Torres, RS
+
+952
+
+202105551
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+953
+
+202105552
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia do Açúcar Taquaral CAMPUS - PIRACICABA - TAQUARAL, s/n, Piracicaba, SP
+
+954
+
+202105553
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia do Açúcar Taquaral CAMPUS - PIRACICABA - TAQUARAL, s/n, Piracicaba, SP
+
+955
+
+202105554
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+956
+
+202105555
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+957
+
+202105556
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+958
+
+202105557
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+959
+
+202105558
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+960
+
+202105559
+
+ENGENHARIA INDUSTRIAL MECÂNICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+961
+
+202105560
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+962
+
+202105561
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia SP 306 Jd Km 24, S/N, Santa Bárbara d´Oeste, SP
+
+963
+
+202105562
+
+FARMÁCIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia do Açúcar Taquaral CAMPUS - PIRACICABA - TAQUARAL, s/n, Piracicaba, SP
+
+964
+
+202105563
+
+FISIOTERAPIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia do Açúcar Taquaral CAMPUS - PIRACICABA - TAQUARAL, s/n, Piracicaba, SP
+
+965
+
+202105564
+
+NUTRIÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE PIRACICABA(266)
+
+INSTITUTO EDUCACIONAL PIRACICABANO DA IGREJA METODISTA
+
+Rodovia do Açúcar Taquaral CAMPUS - PIRACICABA - TAQUARAL, s/n, Piracicaba, SP
+
+966
+
+202105565
+
+BIOMEDICINA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE SÃO PAULO(167)
+
+INSTITUTO METODISTA DE ENSINO SUPERIOR
+
+Av. Dom Jaime de Barros Câmara Planalto , 1000, São Bernardo do Campo, SP
+
+967
+
+202105566
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE METODISTA DE SÃO PAULO(167)
+
+INSTITUTO METODISTA DE ENSINO SUPERIOR
+
+Rua do Sacramento Rudge Ramos , 230, São Bernardo do Campo, SP
+
+968
+
+202105567
+
+FARMÁCIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE SÃO PAULO(167)
+
+INSTITUTO METODISTA DE ENSINO SUPERIOR
+
+Rua do Sacramento Rudge Ramos , 230, São Bernardo do Campo, SP
+
+969
+
+202105568
+
+FISIOTERAPIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE METODISTA DE SÃO PAULO(167)
+
+INSTITUTO METODISTA DE ENSINO SUPERIOR
+
+Rua do Sacramento Rudge Ramos , 230, São Bernardo do Campo, SP
+
+970
+
+202105569
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE METODISTA DE SÃO PAULO(167)
+
+INSTITUTO METODISTA DE ENSINO SUPERIOR
+
+Av. Dom Jaime de Barros Câmara Planalto , 1000, São Bernardo do Campo, SP
+
+971
+
+202105570
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+350 (trezentas e cinquenta)
+
+UNIVERSIDADE METROPOLITANA DE SANTOS(953)
+
+CENTRO DE ESTUDOS UNIFICADOS BANDEIRANTE
+
+Avenida Conselheiro Nébias Encruzilhada UNIMES - Campus II, 536, Santos, SP
+
+972
+
+202105571
+
+ENGENHARIA CIVIL (Bacharelado)
+
+800 (oitocentas)
+
+UNIVERSIDADE NILTON LINS(669)
+
+CENTRO DE ENSINO SUPERIOR NILTON LINS
+
+Av. Prof. Nilton Lins Parque das Laranjeiras , 3259, Manaus, AM
+
+973
+
+202105572
+
+FARMÁCIA (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE NILTON LINS(669)
+
+CENTRO DE ENSINO SUPERIOR NILTON LINS
+
+Av. Prof. Nilton Lins Parque das Laranjeiras , 3259, Manaus, AM
+
+974
+
+202105573
+
+ODONTOLOGIA (Bacharelado)
+
+145 (cento e quarenta e cinco)
+
+UNIVERSIDADE NILTON LINS(669)
+
+CENTRO DE ENSINO SUPERIOR NILTON LINS
+
+Av. Prof. Nilton Lins Parque das Laranjeiras , 3259, Manaus, AM
+
+975
+
+202105574
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+743 (setecentas e quarenta e três)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+976
+
+202105575
+
+BIOMEDICINA (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+977
+
+202105576
+
+BIOMEDICINA (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+978
+
+202105577
+
+BIOMEDICINA (Bacharelado)
+
+520 (quinhentas e vinte)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+979
+
+202105578
+
+BIOMEDICINA (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+980
+
+202105579
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+981
+
+202105580
+
+ENFERMAGEM (Bacharelado)
+
+1309 (uma mil, trezentas e nove)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+982
+
+202105581
+
+ENFERMAGEM (Bacharelado)
+
+800 (oitocentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+983
+
+202105582
+
+ENFERMAGEM (Bacharelado)
+
+1610 (uma mil, seiscentas e dez)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+984
+
+202105584
+
+ENFERMAGEM (Bacharelado)
+
+756 (setecentas e cinquenta e seis)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Avenida Professor Luiz Ignácio Anhaia Mello Vila Prudente - até 2001 - lado ímpar, 1363, São Paulo, SP
+
+985
+
+202105583
+
+ENFERMAGEM (Bacharelado)
+
+1116 (uma mil, cento e dezesseis)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+986
+
+202105585
+
+ENGENHARIA CIVIL (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+987
+
+202105586
+
+ENGENHARIA CIVIL (Bacharelado)
+
+560 (quinhentas e sessenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+988
+
+202105588
+
+ENGENHARIA CIVIL (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+989
+
+202105587
+
+ENGENHARIA CIVIL (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+990
+
+202105589
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+520 (quinhentas e vinte)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+991
+
+202105591
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+992
+
+202105590
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+993
+
+202105593
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+994
+
+202105592
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+995
+
+202105595
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+996
+
+202105594
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+997
+
+202105596
+
+FARMÁCIA (Bacharelado)
+
+1275 (uma mil, duzentas e setenta e cinco)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+998
+
+202105598
+
+FARMÁCIA (Bacharelado)
+
+1120 (uma mil, cento e vinte)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+999
+
+202105600
+
+FARMÁCIA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Avenida Professor Luiz Ignácio Anhaia Mello Vila Prudente - até 2001 - lado ímpar, 1363, São Paulo, SP
+
+1000
+
+202105597
+
+FARMÁCIA (Bacharelado)
+
+1260 (uma mil, duzentas e sessenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+1001
+
+202105599
+
+FARMÁCIA (Bacharelado)
+
+420 (quatrocentas e vinte)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+1002
+
+202105604
+
+FISIOTERAPIA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+1003
+
+202105601
+
+FISIOTERAPIA (Bacharelado)
+
+624 (seiscentas e vinte e quatro)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+1004
+
+202105602
+
+FISIOTERAPIA (Bacharelado)
+
+840 (oitocentas e quarenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+1005
+
+202105603
+
+FISIOTERAPIA (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+1006
+
+202105606
+
+NUTRIÇÃO (Bacharelado)
+
+770 (setecentas e setenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+1007
+
+202105605
+
+NUTRIÇÃO (Bacharelado)
+
+840 (oitocentas e quarenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+1008
+
+202105607
+
+NUTRIÇÃO (Bacharelado)
+
+210 (duzentas e dez)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+1009
+
+202105608
+
+ODONTOLOGIA (Bacharelado)
+
+2050 (duas mil e cinquenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+1010
+
+202105612
+
+RADIOLOGIA (Tecnológico)
+
+500 (quinhentas)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Diamantina Vila Maria , 302, São Paulo, SP
+
+1011
+
+202105611
+
+RADIOLOGIA (Tecnológico)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Amador Bueno Santo Amaro , 389/491, São Paulo, SP
+
+1012
+
+202105609
+
+RADIOLOGIA (Tecnológico)
+
+851 (oitocentas e cinquenta e uma)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Adolfo Pinto Barra Funda , 109, São Paulo, SP
+
+1013
+
+202105610
+
+RADIOLOGIA (Tecnológico)
+
+366 (trezentas e sessenta e seis)
+
+UNIVERSIDADE NOVE DE JULHO(316)
+
+ASSOCIACAO EDUCACIONAL NOVE DE JULHO
+
+Rua Vergueiro Liberdade , 235, São Paulo, SP
+
+1014
+
+202105613
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+87 (oitenta e sete)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1015
+
+202105616
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Huberto Bruning Jardim Santos Dumont , 360, Paranavaí, PR
+
+1016
+
+202105615
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+152 (cento e cinquenta e duas)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1017
+
+202105614
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+87 (oitenta e sete)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Rui Barbosa Centro - até 899/900, 611, Cascavel, PR
+
+1018
+
+202105617
+
+BIOMEDICINA (Bacharelado)
+
+128 (cento e vinte e oito)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Rui Barbosa Centro - até 899/900, 611, Cascavel, PR
+
+1019
+
+202105618
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1020
+
+202105620
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1021
+
+202105619
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Avenida Brasil Zona 01 - de 851/852 a 1309/1310, 1123, Cianorte, PR
+
+1022
+
+202105621
+
+ENFERMAGEM (Bacharelado)
+
+103 (cento e três)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1023
+
+202105622
+
+ENGENHARIA AGRONÔMICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1024
+
+202105625
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1025
+
+202105623
+
+ENGENHARIA CIVIL (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1026
+
+202105624
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Rui Barbosa Centro - até 899/900, 611, Cascavel, PR
+
+1027
+
+202105626
+
+ENGENHARIA CIVIL (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Pav. Parigot de Souza Jardim Prada , 3636, Toledo, PR
+
+1028
+
+202105633
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Avenida Brasil Zona 01 - de 851/852 a 1309/1310, 1123, Cianorte, PR
+
+1029
+
+202105632
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1030
+
+202105627
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Pav. Parigot de Souza Jardim Prada , 3636, Toledo, PR
+
+1031
+
+202105631
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Rui Barbosa Centro - até 899/900, 611, Cascavel, PR
+
+1032
+
+202105630
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Huberto Bruning Jardim Santos Dumont , 360, Paranavaí, PR
+
+1033
+
+202105629
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1034
+
+202105628
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Carlos Gomes Centro , 558, Guaíra, PR
+
+1035
+
+202105634
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Pav. Parigot de Souza Jardim Prada , 3636, Toledo, PR
+
+1036
+
+202105636
+
+FARMÁCIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1037
+
+202105635
+
+FARMÁCIA (Bacharelado)
+
+98 (noventa e oito)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1038
+
+202105637
+
+FISIOTERAPIA (Bacharelado)
+
+66 (sessenta e seis)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Pav. Parigot de Souza Jardim Prada , 3636, Toledo, PR
+
+1039
+
+202105638
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1040
+
+202105640
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1041
+
+202105639
+
+NUTRIÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1042
+
+202105643
+
+ODONTOLOGIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Av. Julio Assis Cavalheiro Industrial , 2000, Francisco Beltrão, PR
+
+1043
+
+202105641
+
+ODONTOLOGIA (Bacharelado)
+
+84 (oitenta e quatro)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Praça Mascarenha de Moraes Zona III , 4282, Umuarama, PR
+
+1044
+
+202105642
+
+ODONTOLOGIA (Bacharelado)
+
+85 (oitenta e cinco)
+
+UNIVERSIDADE PARANAENSE(437)
+
+ASSOCIACAO PARANAENSE DE ENSINO E CULTURA
+
+Rua Rui Barbosa Centro - até 899/900, 611, Cascavel, PR
+
+1045
+
+202105646
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1046
+
+202105644
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1047
+
+202105649
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1048
+
+202105650
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1049
+
+202105651
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1050
+
+202105652
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1051
+
+202105653
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1052
+
+202105654
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1053
+
+202105648
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1054
+
+202105655
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1055
+
+202105656
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1056
+
+202105657
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1057
+
+202105658
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1058
+
+202105659
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1059
+
+202105660
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1060
+
+202105647
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1061
+
+202105645
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1062
+
+202105677
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Santa Terezinha Centro , 160, São José do Rio Pardo, SP
+
+1063
+
+202105678
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Miguel Guidotti Parque Egisto Ragazzo , 405, Limeira, SP
+
+1064
+
+202105679
+
+BIOMEDICINA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1065
+
+202105681
+
+BIOMEDICINA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1066
+
+202105682
+
+BIOMEDICINA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1067
+
+202105683
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1068
+
+202105676
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1069
+
+202105675
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1070
+
+202105674
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1071
+
+202105673
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1072
+
+202105672
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1073
+
+202105671
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1074
+
+202105670
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1075
+
+202105669
+
+BIOMEDICINA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1076
+
+202105668
+
+BIOMEDICINA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1077
+
+202105667
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1078
+
+202105666
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1079
+
+202105665
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1080
+
+202105664
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1081
+
+202105663
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1082
+
+202105662
+
+BIOMEDICINA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1083
+
+202105661
+
+BIOMEDICINA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1084
+
+202105680
+
+BIOMEDICINA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1085
+
+202105703
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1086
+
+202105687
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Armando GIassetti Vila Hortolândia Trevo Itu/Itatiba, 557, Jundiaí, SP
+
+1087
+
+202105688
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1088
+
+202105689
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Miguel Guidotti Parque Egisto Ragazzo , 405, Limeira, SP
+
+1089
+
+202105690
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1090
+
+202105691
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1091
+
+202105692
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1092
+
+202105693
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1093
+
+202105694
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1094
+
+202105695
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1095
+
+202105696
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1096
+
+202105697
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1097
+
+202105698
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1098
+
+202105702
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1099
+
+202105701
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1100
+
+202105700
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1101
+
+202105699
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1102
+
+202105684
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1103
+
+202105685
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1104
+
+202105686
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1105
+
+202105708
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1106
+
+202105709
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1107
+
+202105722
+
+ENFERMAGEM (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Campinas Vila Independência , 1309, Limeira, SP
+
+1108
+
+202105721
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1109
+
+202105720
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1110
+
+202105719
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1111
+
+202105718
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1112
+
+202105717
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1113
+
+202105716
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1114
+
+202105715
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1115
+
+202105714
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1116
+
+202105713
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1117
+
+202105712
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1118
+
+202105711
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1119
+
+202105710
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1120
+
+202105704
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1121
+
+202105705
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1122
+
+202105706
+
+ENFERMAGEM (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1123
+
+202105707
+
+ENFERMAGEM (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1124
+
+202105738
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1125
+
+202105731
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1126
+
+202105732
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Campinas Vila Independência , 1309, Limeira, SP
+
+1127
+
+202105733
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1128
+
+202105734
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1129
+
+202105735
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1130
+
+202105736
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1131
+
+202105737
+
+ENGENHARIA CIVIL (Bacharelado)
+
+575 (quinhentas e setenta e cinco)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1132
+
+202105730
+
+ENGENHARIA CIVIL (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1133
+
+202105739
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1134
+
+202105740
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1135
+
+202105741
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1136
+
+202105728
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1137
+
+202105724
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1138
+
+202105723
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1139
+
+202105727
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1140
+
+202105725
+
+ENGENHARIA CIVIL (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1141
+
+202105726
+
+ENGENHARIA CIVIL (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1142
+
+202105729
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1150 (uma mil, cento e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1143
+
+202105742
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1144
+
+202105743
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1145
+
+202105749
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1146
+
+202105750
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1147
+
+202105751
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1148
+
+202105752
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1149
+
+202105753
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Campinas Vila Independência , 1309, Limeira, SP
+
+1150
+
+202105756
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1151
+
+202105755
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1152
+
+202105754
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1153
+
+202105744
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1154
+
+202105745
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1155
+
+202105747
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1156
+
+202105746
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1157
+
+202105748
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1158
+
+202105766
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1159
+
+202105765
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1160
+
+202105764
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1161
+
+202105763
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1162
+
+202105757
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1163
+
+202105758
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1164
+
+202105759
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1165
+
+202105760
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1166
+
+202105761
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Campinas Vila Independência , 1309, Limeira, SP
+
+1167
+
+202105762
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1168
+
+202105767
+
+ENGENHARIA DE PRODUÇÃO MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1169
+
+202105770
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1170
+
+202105772
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1171
+
+202105773
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1172
+
+202105774
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1173
+
+202105775
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1174
+
+202105776
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1175
+
+202105777
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1176
+
+202105768
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1177
+
+202105769
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1178
+
+202105771
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1179
+
+202105778
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1180
+
+202105781
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1181
+
+202105783
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1182
+
+202105779
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1183
+
+202105780
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1184
+
+202105782
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1185
+
+202105784
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1186
+
+202105785
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1187
+
+202105786
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1188
+
+202105787
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1189
+
+202105788
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Miguel Guidotti Parque Egisto Ragazzo , 405, Limeira, SP
+
+1190
+
+202105789
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1191
+
+202105790
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1192
+
+202105791
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1193
+
+202105792
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+920 (novecentas e vinte)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1194
+
+202105793
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+920 (novecentas e vinte)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1195
+
+202105802
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1196
+
+202105796
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1197
+
+202105799
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1198
+
+202105800
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1199
+
+202105801
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1200
+
+202105794
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1201
+
+202105795
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1202
+
+202105797
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1203
+
+202105798
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Yojiro Takaoka Aphavile , 3500, Santana de Parnaíba, SP
+
+1204
+
+202105805
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1205
+
+202105804
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1206
+
+202105803
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1207
+
+202105812
+
+FARMÁCIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1208
+
+202105811
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1209
+
+202105806
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1210
+
+202105809
+
+FARMÁCIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1211
+
+202105821
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1212
+
+202105807
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1213
+
+202105808
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1214
+
+202105826
+
+FARMÁCIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Miguel Guidotti Parque Egisto Ragazzo , 405, Limeira, SP
+
+1215
+
+202105825
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1216
+
+202105810
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1217
+
+202105822
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1218
+
+202105823
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1219
+
+202105824
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1220
+
+202105820
+
+FARMÁCIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1221
+
+202105819
+
+FARMÁCIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1222
+
+202105818
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1223
+
+202105817
+
+FARMÁCIA (Bacharelado)
+
+690 (seiscentas e noventa)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1224
+
+202105816
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1225
+
+202105815
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1226
+
+202105814
+
+FARMÁCIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1227
+
+202105813
+
+FARMÁCIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1228
+
+202105832
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1229
+
+202105841
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1230
+
+202105827
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1231
+
+202105828
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1232
+
+202105829
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1233
+
+202105830
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1234
+
+202105831
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1235
+
+202105833
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1236
+
+202105834
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1237
+
+202105835
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1238
+
+202105836
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1239
+
+202105837
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1240
+
+202105838
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Alberto Benassi Parque das Laranjeiras , 200, Araraquara, SP
+
+1241
+
+202105839
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1242
+
+202105840
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1243
+
+202105842
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1244
+
+202105843
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1245
+
+202105844
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1246
+
+202105845
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1247
+
+202105846
+
+FISIOTERAPIA (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1248
+
+202105847
+
+FISIOTERAPIA (Bacharelado)
+
+920 (novecentas e vinte)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1249
+
+202105851
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1250
+
+202105850
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1251
+
+202105849
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1252
+
+202105848
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1253
+
+202105858
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Torres de Oliveira Jaguaré , 330, São Paulo, SP
+
+1254
+
+202105859
+
+NUTRIÇÃO (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Francisco Bautista Jardim Santa Cruz Km 12 da Rodovia Anchieta, 300, São Paulo, SP
+
+1255
+
+202105860
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1256
+
+202105853
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1257
+
+202105852
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Carlos Consoni Jardim Canadá , 10, Ribeirão Preto, SP
+
+1258
+
+202105871
+
+NUTRIÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Santa Terezinha Centro , 160, São José do Rio Pardo, SP
+
+1259
+
+202105857
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1260
+
+202105856
+
+NUTRIÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1261
+
+202105855
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Av. Baguaçu Jardim Alvorada , 1939, Araçatuba, SP
+
+1262
+
+202105854
+
+NUTRIÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1263
+
+202105870
+
+NUTRIÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1264
+
+202105869
+
+NUTRIÇÃO (Bacharelado)
+
+460 (quatrocentas e sessenta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Miguel Guidotti Parque Egisto Ragazzo , 405, Limeira, SP
+
+1265
+
+202105868
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+RUA ANTONIO MACEDO PARQUE SÃO JORGE , 505, São Paulo, SP
+
+1266
+
+202105867
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Presidente Juscelino Kubitschek de Oliveira Jardim Tarraf II , s/n, São José do Rio Preto, SP
+
+1267
+
+202105866
+
+NUTRIÇÃO (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Armando Giassetti Vila Hortolândia , 577, Jundiaí, SP
+
+1268
+
+202105864
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Cancioneiro Popular Santo Amaro , 210, São Paulo, SP
+
+1269
+
+202105865
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Amazonas da Silva Vila Guilherme , 737, São Paulo, SP
+
+1270
+
+202105863
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Francisco Manoel Vila Mathias , s/n°, Santos, SP
+
+1271
+
+202105862
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Myrtes Spera Conceição Conjunto Nelson Marcondes , 301, Assis, SP
+
+1272
+
+202105861
+
+NUTRIÇÃO (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Apeninos Aclimação , 267, São Paulo, SP
+
+1273
+
+202105875
+
+ODONTOLOGIA (Bacharelado)
+
+195 (cento e noventa e cinco)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Mário Ypiranga Parque 10 de Novembro , 4.390, Manaus, AM
+
+1274
+
+202105872
+
+ODONTOLOGIA (Bacharelado)
+
+207 (duzentas e sete)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Doutor Bacelar Mirandópolis , 1212, São Paulo, SP
+
+1275
+
+202105873
+
+ODONTOLOGIA (Bacharelado)
+
+207 (duzentas e sete)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1276
+
+202105874
+
+ODONTOLOGIA (Bacharelado)
+
+207 (duzentas e sete)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1277
+
+202105882
+
+RADIOLOGIA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia Presidente Dutra Jardim Limoeiro Pista Sul, Km 157,5, São José dos Campos, SP
+
+1278
+
+202105878
+
+RADIOLOGIA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rodovia BR 153 Faz. Botafogo , Km 503, Goiânia, GO
+
+1279
+
+202105881
+
+RADIOLOGIA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Marquês de São Vicente Água Branca , 3001, São Paulo, SP
+
+1280
+
+202105876
+
+RADIOLOGIA (Tecnológico)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Rua Luís Levorato Jardim Marabá Chácaras Bauruense, 2-140, Bauru, SP
+
+1281
+
+202105877
+
+RADIOLOGIA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+AV. COMENDADOR ENZO FERRARI JD. SWIFT , 280, Campinas, SP
+
+1282
+
+202105880
+
+RADIOLOGIA (Tecnológico)
+
+115 (cento e quinze)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+Avenida Independência Iporanga , 210, Sorocaba, SP
+
+1283
+
+202105879
+
+RADIOLOGIA (Tecnológico)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PAULISTA(322)
+
+ASSUPERO ENSINO SUPERIOR LTDA.
+
+SGAS QUADRA Asa Sul Conjunto B, 913, Brasília, DF
+
+1284
+
+202105883
+
+AGRONOMIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1285
+
+202105884
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rua Edwy Taques de Araújo Jardim Burle Marx Campus Universitário Londrina - Catuaí, 900, Londrina, PR
+
+1286
+
+202105885
+
+BIOMEDICINA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1287
+
+202105887
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+290 (duzentas e noventa)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1288
+
+202105886
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rodovia Pr-218 - Km 01. Saída Astorga .S/N.Jardim Universitário. Jardim Universitário , Km 01, Arapongas, PR
+
+1289
+
+202105888
+
+ENFERMAGEM (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1290
+
+202105889
+
+ENGENHARIA CIVIL (Bacharelado)
+
+220 (duzentas e vinte)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rua Edwy Taques de Araújo Jardim Burle Marx Campus Universitário Londrina - Catuaí, 900, Londrina, PR
+
+1291
+
+202105890
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rua Edwy Taques de Araújo Jardim Burle Marx Campus Universitário Londrina - Catuaí, 900, Londrina, PR
+
+1292
+
+202105891
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rua Edwy Taques de Araújo Jardim Burle Marx Campus Universitário Londrina - Catuaí, 900, Londrina, PR
+
+1293
+
+202105892
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+260 (duzentas e sessenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1294
+
+202105893
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rodovia Pr-218 - Km 01. Saída Astorga .S/N.Jardim Universitário. Jardim Universitário , Km 01, Arapongas, PR
+
+1295
+
+202105894
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1296
+
+202105895
+
+FISIOTERAPIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1297
+
+202105896
+
+FONOAUDIOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1298
+
+202105898
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1299
+
+202105897
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Rodovia Pr-218 - Km 01. Saída Astorga .S/N.Jardim Universitário. Jardim Universitário , Km 01, Arapongas, PR
+
+1300
+
+202105899
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PITÁGORAS UNOPAR(298)
+
+EDITORA E DISTRIBUIDORA EDUCACIONAL S/A
+
+Avenida Paris Parque Residencial João Piza , 675, Londrina, PR
+
+1301
+
+202105900
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1302
+
+202105901
+
+BIOMEDICINA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1303
+
+202105902
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1304
+
+202105903
+
+ENGENHARIA CIVIL (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1305
+
+202105904
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1306
+
+202105905
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1307
+
+202105906
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1308
+
+202105907
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1309
+
+202105908
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Praça General Osório Centro , 125, Curitiba, PR
+
+1310
+
+202105909
+
+FISIOTERAPIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1311
+
+202105910
+
+NUTRIÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1312
+
+202105911
+
+ODONTOLOGIA (Bacharelado)
+
+170 (cento e setenta)
+
+UNIVERSIDADE POSITIVO(1042)
+
+CENTRO DE ESTUDOS SUPERIORES POSITIVO LTDA
+
+Rua Professor Pedro Viriato Parigot de Souza Campo Comprido Universidade Positivo - Campus SEDE, 5.300, Curitiba, PR
+
+1313
+
+202105912
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Engenheiro Roberto Freire Capim Macio Campus Natal - Unidade Roberto Freire, 2184, Natal, RN
+
+1314
+
+202105913
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1315
+
+202105914
+
+BIOMEDICINA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1316
+
+202105915
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1317
+
+202105916
+
+ENFERMAGEM (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1318
+
+202105917
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1000 (uma mil)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Nascimento de Castro DIX-SEPT Rosado , 1.597, Natal, RN
+
+1319
+
+202105918
+
+ENGENHARIA CIVIL (Bacharelado)
+
+560 (quinhentas e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1320
+
+202105919
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Nascimento de Castro DIX-SEPT Rosado , 1.597, Natal, RN
+
+1321
+
+202105920
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1322
+
+202105921
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Nascimento de Castro DIX-SEPT Rosado , 1.597, Natal, RN
+
+1323
+
+202105922
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Nascimento de Castro DIX-SEPT Rosado , 1.597, Natal, RN
+
+1324
+
+202105923
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Nascimento de Castro DIX-SEPT Rosado , 1.597, Natal, RN
+
+1325
+
+202105924
+
+FARMÁCIA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1326
+
+202105925
+
+FISIOTERAPIA (Bacharelado)
+
+220 (duzentas e vinte)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1327
+
+202105926
+
+FISIOTERAPIA (Bacharelado)
+
+168 (cento e sessenta e oito)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1328
+
+202105927
+
+FONOAUDIOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1329
+
+202105928
+
+NUTRIÇÃO (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1330
+
+202105929
+
+NUTRIÇÃO (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Rua João da Escócia Nova Betânia , 1.561, Mossoró, RN
+
+1331
+
+202105930
+
+RADIOLOGIA (Tecnológico)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE POTIGUAR(718)
+
+APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA
+
+Avenida Senador Salgado Filho Lagoa Nova , 1.610, Natal, RN
+
+1332
+
+202105931
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+480 (quatrocentas e oitenta)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1333
+
+202105932
+
+ENGENHARIA CIVIL (Bacharelado)
+
+500 (quinhentas)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1334
+
+202105933
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Avenida Brasil Jardim Guanabara , 1.220, Campinas, SP
+
+1335
+
+202105934
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+340 (trezentas e quarenta)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1336
+
+202105935
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Avenida Brasil Jardim Guanabara , 1.220, Campinas, SP
+
+1337
+
+202105936
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+230 (duzentas e trinta)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1338
+
+202105937
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1339
+
+202105938
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1340
+
+202105939
+
+FISIOTERAPIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1341
+
+202105940
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE(22)
+
+INSTITUTO PRESBITERIANO MACKENZIE
+
+Rua da Consolação Consolação Campus São Paulo, 896, São Paulo, SP
+
+1342
+
+202105941
+
+AGRONOMIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1343
+
+202105942
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua Lulu Ilgenfritz São Geraldo , 480, Ijuí, RS
+
+1344
+
+202105944
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+RS 344 - Km 39 Alto da Timbaúva Campus Santa Rosa, S/N, Santa Rosa, RS
+
+1345
+
+202105943
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+20 (vinte)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua São Francisco São Geraldo , 501, Ijuí, RS
+
+1346
+
+202105945
+
+ENGENHARIA CIVIL (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1347
+
+202105946
+
+ENGENHARIA CIVIL (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+RS 344 - Km 39 Alto da Timbaúva Campus Santa Rosa, S/N, Santa Rosa, RS
+
+1348
+
+202105947
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua São Francisco São Geraldo , 501, Ijuí, RS
+
+1349
+
+202105948
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+RS 344 - Km 39 Alto da Timbaúva Campus Santa Rosa, S/N, Santa Rosa, RS
+
+1350
+
+202105949
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+110 (cento e dez)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua Pref. Rudi Franke Arco-Íris Campus Panambi, 540, Panambi, RS
+
+1351
+
+202105950
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua Lulu Ilgenfritz São Geraldo , 480, Ijuí, RS
+
+1352
+
+202105951
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1353
+
+202105952
+
+FARMÁCIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1354
+
+202105953
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1355
+
+202105954
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+115 (cento e quinze)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1356
+
+202105955
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL(532)
+
+FUNDACAO DE INTEGRACAO, DESENVOLVIMENTO E EDUCACAO DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL - FIDENE
+
+Rua do Comércio Universitário , 3000, Ijuí, RS
+
+1357
+
+202105956
+
+AGRONOMIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+RS 331 Demoliner , s/n, Erechim, RS
+
+1358
+
+202105957
+
+AGRONOMIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Batista Bonotto Sobrinho, São Vicente Campus de Santiago, s/n, Santiago, RS
+
+1359
+
+202105959
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1360
+
+202105960
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1361
+
+202105958
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Batista Bonotto Sobrinho, São Vicente Campus de Santiago, s/n, Santiago, RS
+
+1362
+
+202105964
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1363
+
+202105961
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Avenida Avenida Sete Setembro, 1621(URI Campos Erechim) Fátima , 1621, Erechim, RS
+
+1364
+
+202105962
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1365
+
+202105963
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua José Bonifácio Centro Extensão de São Luiz Gonzaga, 3149, São Luiz Gonzaga, RS
+
+1366
+
+202105966
+
+ENFERMAGEM (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1367
+
+202105965
+
+ENFERMAGEM (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1368
+
+202105968
+
+ENGENHARIA CIVIL (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+RS 331 Demoliner , s/n, Erechim, RS
+
+1369
+
+202105967
+
+ENGENHARIA CIVIL (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1370
+
+202105969
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1371
+
+202105970
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Avenida Avenida Sete Setembro, 1621(URI Campos Erechim) Fátima , 1621, Erechim, RS
+
+1372
+
+202105971
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+RS 331 Demoliner , s/n, Erechim, RS
+
+1373
+
+202105973
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1374
+
+202105975
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+RS 331 Demoliner , s/n, Erechim, RS
+
+1375
+
+202105974
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1376
+
+202105972
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+35 (trinta e cinco)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua José Bonifácio Centro Extensão de São Luiz Gonzaga, 3149, São Luiz Gonzaga, RS
+
+1377
+
+202105976
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1378
+
+202105977
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+RS 331 Demoliner , s/n, Erechim, RS
+
+1379
+
+202105978
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1380
+
+202105979
+
+FARMÁCIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Avenida Avenida Sete Setembro, 1621(URI Campos Erechim) Fátima , 1621, Erechim, RS
+
+1381
+
+202105980
+
+FARMÁCIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1382
+
+202105982
+
+FARMÁCIA (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Batista Bonotto Sobrinho, São Vicente Campus de Santiago, s/n, Santiago, RS
+
+1383
+
+202105981
+
+FARMÁCIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Av. Universidade das Missões Universitário Campus de Santo Ângelo, 464, Santo Ângelo, RS
+
+1384
+
+202105983
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Avenida Avenida Sete Setembro, 1621(URI Campos Erechim) Fátima , 1621, Erechim, RS
+
+1385
+
+202105985
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1386
+
+202105984
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua José Bonifácio Centro Extensão de São Luiz Gonzaga, 3149, São Luiz Gonzaga, RS
+
+1387
+
+202105987
+
+NUTRIÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Rua Assis Brasil Itapagé Campus de Frederico Westphalen, 709, Frederico Westphalen, RS
+
+1388
+
+202105986
+
+NUTRIÇÃO (Bacharelado)
+
+30 (trinta)
+
+UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES(423)
+
+FUNDACAO REGIONAL INTEGRADA
+
+Avenida Avenida Sete Setembro, 1621(URI Campos Erechim) Fátima , 1621, Erechim, RS
+
+1389
+
+202105993
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Avenida Osvaldo Cardoso de Melo Centro - até 946 - lado par, 856/904, Campos dos Goytacazes, RJ
+
+1390
+
+202105988
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Marechal Mascarenhas de Moraes Imbiribeira , 2159, Recife, PE
+
+1391
+
+202105992
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1392
+
+202105989
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Paru Renascença - de 646/647 ao fim, 784, Belo Horizonte, MG
+
+1393
+
+202105990
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Cora Coralina, Qd. F-25 Setor Sul , Lote 40, Goiânia, GO
+
+1394
+
+202105991
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Avenida dos Andradas Jardim Gloria , 731, Juiz de Fora, MG
+
+1395
+
+202105995
+
+ENFERMAGEM (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Cora Coralina, Qd. F-25 Setor Sul , Lote 40, Goiânia, GO
+
+1396
+
+202105994
+
+ENFERMAGEM (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Paru Renascença - de 646/647 ao fim, 784, Belo Horizonte, MG
+
+1397
+
+202105996
+
+ENFERMAGEM (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Avenida dos Andradas Jardim Gloria , 731, Juiz de Fora, MG
+
+1398
+
+202105997
+
+ENFERMAGEM (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Avenida Antônio Carlos Magalhães Pituba - lado par, 2.728, Salvador, BA
+
+1399
+
+202105998
+
+ENFERMAGEM (Bacharelado)
+
+600 (seiscentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1400
+
+202105999
+
+ENGENHARIA CIVIL (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1401
+
+202106000
+
+ENGENHARIA CIVIL (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Marechal Deodoro Centro , 211/263, Niterói, RJ
+
+1402
+
+202106003
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+800 (oitocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Marechal Mascarenhas de Moraes Imbiribeira , 2159, Recife, PE
+
+1403
+
+202106001
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+800 (oitocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Marechal Deodoro Centro , 211/263, Niterói, RJ
+
+1404
+
+202106002
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+800 (oitocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1405
+
+202106005
+
+FARMÁCIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Marechal Deodoro Centro , 211/263, Niterói, RJ
+
+1406
+
+202106006
+
+FARMÁCIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Cora Coralina, Qd. F-25 Setor Sul , Lote 40, Goiânia, GO
+
+1407
+
+202106004
+
+FARMÁCIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1408
+
+202106009
+
+FISIOTERAPIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Marechal Mascarenhas de Moraes Imbiribeira , 2159, Recife, PE
+
+1409
+
+202106010
+
+FISIOTERAPIA (Bacharelado)
+
+280 (duzentas e oitenta)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Paru Renascença - de 646/647 ao fim, 784, Belo Horizonte, MG
+
+1410
+
+202106011
+
+FISIOTERAPIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Cora Coralina, Qd. F-25 Setor Sul , Lote 40, Goiânia, GO
+
+1411
+
+202106007
+
+FISIOTERAPIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1412
+
+202106008
+
+FISIOTERAPIA (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Avenida dos Andradas Jardim Gloria , 731, Juiz de Fora, MG
+
+1413
+
+202106012
+
+NUTRIÇÃO (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Lambari Trindade Térreo, 10, São Gonçalo, RJ
+
+1414
+
+202106013
+
+NUTRIÇÃO (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Av. Marechal Mascarenhas de Moraes Imbiribeira , 2159, Recife, PE
+
+1415
+
+202106014
+
+ODONTOLOGIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE SALGADO DE OLIVEIRA(663)
+
+ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA
+
+Rua Marechal Deodoro Centro , 211/263, Niterói, RJ
+
+1416
+
+202106015
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+585 (quinhentas e oitenta e cinco)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Tancredo Neves Caminho das Árvores , 2131, Salvador, BA
+
+1417
+
+202106016
+
+BIOMEDICINA (Bacharelado)
+
+310 (trezentas e dez)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1418
+
+202106017
+
+ENFERMAGEM (Bacharelado)
+
+756 (setecentas e cinquenta e seis)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1419
+
+202106018
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1420
+
+202106019
+
+ENGENHARIA CIVIL (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1421
+
+202106020
+
+ENGENHARIA CIVIL (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Rua Rio Tinto Santa Mônica CAMPUS SANTA MÔNICA, 152, Feira de Santana, BA
+
+1422
+
+202106021
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1423
+
+202106023
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Rua Rio Tinto Santa Mônica CAMPUS SANTA MÔNICA, 152, Feira de Santana, BA
+
+1424
+
+202106022
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1425
+
+202106025
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+85 (oitenta e cinco)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Rua Rio Tinto Santa Mônica CAMPUS SANTA MÔNICA, 152, Feira de Santana, BA
+
+1426
+
+202106024
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1427
+
+202106026
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1428
+
+202106027
+
+FARMÁCIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1429
+
+202106028
+
+FISIOTERAPIA (Bacharelado)
+
+370 (trezentas e setenta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1430
+
+202106029
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+90 (noventa)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Juracy Magalhães Júnior Rio Vermelho (Sent Largo da Mariquita-Itaigara) , 209, Salvador, BA
+
+1431
+
+202106030
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1432
+
+202106031
+
+NUTRIÇÃO (Bacharelado)
+
+330 (trezentas e trinta)
+
+UNIVERSIDADE SALVADOR(385)
+
+FACS SERVICOS EDUCACIONAIS LTDA
+
+Avenida Luís Viana Filho Pituaçu CAMPUS PROFESSOR BARROS, 3146, Salvador, BA
+
+1433
+
+202106032
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1434
+
+202106033
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1435
+
+202106034
+
+ENGENHARIA CIVIL (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1436
+
+202106035
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1437
+
+202106036
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1438
+
+202106037
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1439
+
+202106038
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1440
+
+202106039
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1441
+
+202106040
+
+FARMÁCIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1442
+
+202106041
+
+FISIOTERAPIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1443
+
+202106042
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE SANTA CECÍLIA(952)
+
+INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA
+
+Rua Oswaldo Cruz Boqueirão , 266, Santos, SP
+
+1444
+
+202106043
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE SANTA ÚRSULA(240)
+
+ASSOCIACAO UNIVERSITARIA SANTA URSULA
+
+Rua Fernando Ferrari Botafogo , 75, Rio de Janeiro, RJ
+
+1445
+
+202106044
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE SANTA ÚRSULA(240)
+
+ASSOCIACAO UNIVERSITARIA SANTA URSULA
+
+Rua Fernando Ferrari Botafogo , 75, Rio de Janeiro, RJ
+
+1446
+
+202106045
+
+BIOMEDICINA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1447
+
+202106046
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1448
+
+202106047
+
+ENFERMAGEM (Bacharelado)
+
+320 (trezentas e vinte)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1449
+
+202106048
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1450
+
+202106049
+
+FARMÁCIA (Bacharelado)
+
+205 (duzentas e cinco)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1451
+
+202106050
+
+FISIOTERAPIA (Bacharelado)
+
+210 (duzentas e dez)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1452
+
+202106051
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE SANTO AMARO(375)
+
+OBRAS SOCIAIS E EDUCACIONAIS DE LUZ
+
+Rua Enéas de Siqueira Neto Jardim das Imbuias , 340, São Paulo, SP
+
+1453
+
+202106052
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1454
+
+202106053
+
+BIOMEDICINA (Bacharelado)
+
+207 (duzentas e sete)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida São Francisco de Assis Jardim São José Campus Universitário, 218, Bragança Paulista, SP
+
+1455
+
+202106054
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1456
+
+202106055
+
+ENGENHARIA CIVIL (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1457
+
+202106056
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1458
+
+202106058
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1459
+
+202106059
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida São Francisco de Assis Jardim São José Campus Universitário, 218, Bragança Paulista, SP
+
+1460
+
+202106057
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+128 (cento e vinte e oito)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1461
+
+202106061
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1462
+
+202106060
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1463
+
+202106063
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1464
+
+202106062
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+210 (duzentas e dez)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1465
+
+202106064
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida Senador Lacerda Franco Centro Campus Itatiba, 360, Itatiba, SP
+
+1466
+
+202106065
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1467
+
+202106066
+
+FARMÁCIA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida São Francisco de Assis Jardim São José Campus Universitário, 218, Bragança Paulista, SP
+
+1468
+
+202106067
+
+FARMÁCIA (Bacharelado)
+
+224 (duzentas e vinte e quatro)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Rua Waldemar César da Silveira Vila Cura D'Ars (Swift) Campus Campinas - Swift, 105, Campinas, SP
+
+1469
+
+202106068
+
+FISIOTERAPIA (Bacharelado)
+
+291 (duzentas e noventa e uma)
+
+UNIVERSIDADE SÃO FRANCISCO(670)
+
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA
+
+Avenida São Francisco de Assis Jardim São José Campus Universitário, 218, Bragança Paulista, SP
+
+1470
+
+202106069
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+720 (setecentas e vinte)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1471
+
+202106070
+
+BIOMEDICINA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1472
+
+202106071
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+270 (duzentas e setenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1473
+
+202106072
+
+ENFERMAGEM (Bacharelado)
+
+270 (duzentas e setenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1474
+
+202106073
+
+ENGENHARIA CIVIL (Bacharelado)
+
+1170 (uma mil, cento e setenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1475
+
+202106074
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1476
+
+202106075
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1477
+
+202106077
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Avenida Vital Brasil Butantã Unidade Butantã, 1000, São Paulo, SP
+
+1478
+
+202106076
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+450 (quatrocentas e cinquenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1479
+
+202106078
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+540 (quinhentas e quarenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1480
+
+202106079
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+360 (trezentas e sessenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1481
+
+202106080
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+630 (seiscentas e trinta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1482
+
+202106081
+
+FARMÁCIA (Bacharelado)
+
+180 (cento e oitenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1483
+
+202106082
+
+NUTRIÇÃO (Bacharelado)
+
+270 (duzentas e setenta)
+
+UNIVERSIDADE SÃO JUDAS TADEU(203)
+
+AMC - SERVICOS EDUCACIONAIS LTDA
+
+Rua Taquari Mooca , 546, São Paulo, SP
+
+1484
+
+202106083
+
+AGRONOMIA (Bacharelado)
+
+44 (quarenta e quatro)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+VIA DO CONHECIMENTO FRARON , Km 01, Pato Branco, PR
+
+1485
+
+202106084
+
+AGRONOMIA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada para a Boa Esperança, Km 4 - Colonia Missões, s/n, Dois Vizinhos, PR
+
+1486
+
+202106085
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Deputado Heitor Alencar Furtado Ecoville CÂMPUS CURITIBA - Sede ECOVILLE, 5000, Curitiba, PR
+
+1487
+
+202106086
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+RUA PEDRO GUSSO CIDADE INDUSTRIAL , 2635, Curitiba, PR
+
+1488
+
+202106089
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Brasil Parque Independência , 4.232, Medianeira, PR
+
+1489
+
+202106087
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Via Marginal Rosalina Maria dos Santos Área Urbanizada I , 1233, Campo Mourão, PR
+
+1490
+
+202106088
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada dos Pioneiros Jardim Morumbi , 3.131, Londrina, PR
+
+1491
+
+202106090
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+OTR Linha Santa Bárbara Zona Rural , s/n, Francisco Beltrão, PR
+
+1492
+
+202106091
+
+ENGENHARIA CIVIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Deputado Heitor Alencar Furtado Ecoville CÂMPUS CURITIBA - Sede ECOVILLE, 5000, Curitiba, PR
+
+1493
+
+202106094
+
+ENGENHARIA CIVIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Cristo Rei Vila Becker , 19, Toledo, PR
+
+1494
+
+202106092
+
+ENGENHARIA CIVIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+VIA DO CONHECIMENTO FRARON , Km 01, Pato Branco, PR
+
+1495
+
+202106093
+
+ENGENHARIA CIVIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Via Marginal Rosalina Maria dos Santos Área Urbanizada I , 1233, Campo Mourão, PR
+
+1496
+
+202106095
+
+ENGENHARIA CIVIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Marcilio Dias Aeroporto Terreo, 635, Apucarana, PR
+
+1497
+
+202106097
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+VIA DO CONHECIMENTO FRARON , Km 01, Pato Branco, PR
+
+1498
+
+202106096
+
+ENGENHARIA DA COMPUTAÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Av. Sete de Setembro Rebouças , 3.165, Curitiba, PR
+
+1499
+
+202106099
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Brasil Parque Independência , 4.232, Medianeira, PR
+
+1500
+
+202106098
+
+ENGENHARIA DE ALIMENTOS (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Via Marginal Rosalina Maria dos Santos Área Urbanizada I , 1233, Campo Mourão, PR
+
+1501
+
+202106100
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Alberto Carazzai Centro , 1.640, Cornélio Procópio, PR
+
+1502
+
+202106101
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Av. Sete de Setembro Rebouças , 3.165, Curitiba, PR
+
+1503
+
+202106102
+
+ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Alberto Carazzai Centro , 1.640, Cornélio Procópio, PR
+
+1504
+
+202106105
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada dos Pioneiros Jardim Morumbi , 3.131, Londrina, PR
+
+1505
+
+202106103
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Brasil Parque Independência , 4.232, Medianeira, PR
+
+1506
+
+202106104
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Monteiro Lobato Jardim Pitangui Km 04, s/nº, Ponta Grossa, PR
+
+1507
+
+202106109
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Brasil Parque Independência , 4.232, Medianeira, PR
+
+1508
+
+202106106
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+176 (cento e setenta e seis)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Av. Sete de Setembro Rebouças , 3.165, Curitiba, PR
+
+1509
+
+202106108
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+VIA DO CONHECIMENTO FRARON , Km 01, Pato Branco, PR
+
+1510
+
+202106107
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Alberto Carazzai Centro , 1.640, Cornélio Procópio, PR
+
+1511
+
+202106112
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Monteiro Lobato Jardim Pitangui Km 04, s/nº, Ponta Grossa, PR
+
+1512
+
+202106113
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Via Marginal Rosalina Maria dos Santos Área Urbanizada I , 1233, Campo Mourão, PR
+
+1513
+
+202106110
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Av. Sete de Setembro Rebouças , 3.165, Curitiba, PR
+
+1514
+
+202106111
+
+ENGENHARIA ELETRÔNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Cristo Rei Vila Becker , 19, Toledo, PR
+
+1515
+
+202106114
+
+ENGENHARIA FLORESTAL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada para a Boa Esperança, Km 4 - Colonia Missões, s/n, Dois Vizinhos, PR
+
+1516
+
+202106115
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+176 (cento e setenta e seis)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Deputado Heitor Alencar Furtado Ecoville CÂMPUS CURITIBA - Sede ECOVILLE, 5000, Curitiba, PR
+
+1517
+
+202106116
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Alberto Carazzai Centro , 1.640, Cornélio Procópio, PR
+
+1518
+
+202106117
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+VIA DO CONHECIMENTO FRARON , Km 01, Pato Branco, PR
+
+1519
+
+202106119
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada dos Pioneiros Jardim Morumbi , 3.131, Londrina, PR
+
+1520
+
+202106118
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Monteiro Lobato Jardim Pitangui Km 04, s/nº, Ponta Grossa, PR
+
+1521
+
+202106120
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Monteiro Lobato Jardim Pitangui Km 04, s/nº, Ponta Grossa, PR
+
+1522
+
+202106121
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+OTR Linha Santa Bárbara Zona Rural , s/n, Francisco Beltrão, PR
+
+1523
+
+202106122
+
+ENGENHARIA TÊXTIL (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Rua Marcilio Dias Aeroporto Terreo, 635, Apucarana, PR
+
+1524
+
+202106123
+
+GESTÃO AMBIENTAL (Tecnológico)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Avenida Brasil Parque Independência , 4.232, Medianeira, PR
+
+1525
+
+202106124
+
+RADIOLOGIA (Tecnológico)
+
+52 (cinquenta e duas)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Av. Sete de Setembro Rebouças , 3.165, Curitiba, PR
+
+1526
+
+202106125
+
+ZOOTECNIA (Bacharelado)
+
+88 (oitenta e oito)
+
+UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ(588)
+
+UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+Estrada para a Boa Esperança, Km 4 - Colonia Missões, s/n, Dois Vizinhos, PR
+
+1527
+
+202106126
+
+BIOMEDICINA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1528
+
+202106127
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1529
+
+202106128
+
+ENFERMAGEM (Bacharelado)
+
+700 (setecentas)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1530
+
+202106129
+
+ENFERMAGEM (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Travessa Tenente Eloy Alagoas , s/n, Estância, SE
+
+1531
+
+202106130
+
+ENGENHARIA MECATRÔNICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1532
+
+202106131
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1533
+
+202106132
+
+FARMÁCIA (Bacharelado)
+
+250 (duzentas e cinquenta)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1534
+
+202106133
+
+FISIOTERAPIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1535
+
+202106134
+
+NUTRIÇÃO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1536
+
+202106135
+
+RADIOLOGIA (Tecnológico)
+
+100 (cem)
+
+UNIVERSIDADE TIRADENTES(398)
+
+SOCIEDADE DE EDUCACAO TIRADENTES S.A
+
+Avenida Murilo Dantas Farolândia Campus Aracaju Farolândia, 300, Aracaju, SE
+
+1537
+
+202106136
+
+AGRONOMIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1538
+
+202106137
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+150 (cento e cinquenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1539
+
+202106138
+
+BIOMEDICINA (Bacharelado)
+
+130 (cento e trinta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1540
+
+202106139
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+260 (duzentas e sessenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua José Domingos Marcondes de Carvalho Pilarzinho , 253, Curitiba, PR
+
+1541
+
+202106140
+
+ENFERMAGEM (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1542
+
+202106141
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1543
+
+202106142
+
+ENGENHARIA CIVIL (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1544
+
+202106143
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1545
+
+202106144
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+50 (cinquenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1546
+
+202106145
+
+ENGENHARIA ELETROTÉCNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1547
+
+202106146
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1548
+
+202106147
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+200 (duzentas)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1549
+
+202106148
+
+FISIOTERAPIA (Bacharelado)
+
+190 (cento e noventa)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1550
+
+202106149
+
+FONOAUDIOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1551
+
+202106150
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+300 (trezentas)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1552
+
+202106151
+
+NUTRIÇÃO (Bacharelado)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1553
+
+202106152
+
+ODONTOLOGIA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1554
+
+202106153
+
+RADIOLOGIA (Tecnológico)
+
+140 (cento e quarenta)
+
+UNIVERSIDADE TUIUTI DO PARANÁ(355)
+
+SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA
+
+Rua Sydnei Antonio Rangel Santos Santo Inácio Unidade SEDE, 245, Curitiba, PR
+
+1555
+
+202106154
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+120 (cento e vinte)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1556
+
+202106155
+
+BIOMEDICINA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1557
+
+202106156
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+200 (duzentas)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1558
+
+202106157
+
+FARMÁCIA (Bacharelado)
+
+220 (duzentas e vinte)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1559
+
+202106158
+
+FISIOTERAPIA (Bacharelado)
+
+160 (cento e sessenta)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1560
+
+202106159
+
+NUTRIÇÃO (Bacharelado)
+
+280 (duzentas e oitenta)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1561
+
+202106160
+
+RADIOLOGIA (Tecnológico)
+
+140 (cento e quarenta)
+
+Universidade Universus Veritas Guarulhos(481)
+
+SOCIEDADE PAULISTA DE ENSINO E PESQUISA S/S LTDA
+
+Praça Tereza Cristina Centro Guarulhos Centro, 88, Guarulhos, SP
+
+1562
+
+202106161
+
+AGRONEGÓCIO (Tecnológico)
+
+30 (trinta)
+
+UNIVERSIDADE VALE DO RIO DOCE(513)
+
+FUNDACAO PERCIVAL FARQUHAR
+
+Rua Israel Pinheiro Universitário Campus Antônio Rodrigues Coelho, 2000, Governador Valadares, MG
+
+1563
+
+202106162
+
+FISIOTERAPIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE VALE DO RIO DOCE(513)
+
+FUNDACAO PERCIVAL FARQUHAR
+
+Rua Israel Pinheiro Universitário Campus Antônio Rodrigues Coelho, 2000, Governador Valadares, MG
+
+1564
+
+202106163
+
+NUTRIÇÃO (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE VALE DO RIO DOCE(513)
+
+FUNDACAO PERCIVAL FARQUHAR
+
+Rua Israel Pinheiro Universitário Campus Antônio Rodrigues Coelho, 2000, Governador Valadares, MG
+
+1565
+
+202106164
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VALE DO RIO VERDE(27)
+
+FUNDACAO COMUNITARIA TRICORDIANA DE EDUCACAO
+
+Avenida Castelo Branco Chacara das Rosas , 82, Três Corações, MG
+
+1566
+
+202106165
+
+ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado)
+
+40 (quarenta)
+
+UNIVERSIDADE VALE DO RIO VERDE(27)
+
+FUNDACAO COMUNITARIA TRICORDIANA DE EDUCACAO
+
+Avenida Castelo Branco Chacara das Rosas , 82, Três Corações, MG
+
+1567
+
+202106166
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+50 (cinquenta)
+
+UNIVERSIDADE VALE DO RIO VERDE(27)
+
+FUNDACAO COMUNITARIA TRICORDIANA DE EDUCACAO
+
+Avenida Castelo Branco Chacara das Rosas , 82, Três Corações, MG
+
+1568
+
+202106167
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VALE DO RIO VERDE(27)
+
+FUNDACAO COMUNITARIA TRICORDIANA DE EDUCACAO
+
+Avenida Castelo Branco Chacara das Rosas , 82, Três Corações, MG
+
+1569
+
+202106168
+
+NUTRIÇÃO (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE VALE DO RIO VERDE(27)
+
+FUNDACAO COMUNITARIA TRICORDIANA DE EDUCACAO
+
+Avenida Castelo Branco Chacara das Rosas , 82, Três Corações, MG
+
+1570
+
+202106169
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Av. Gen. Felicíssimo Cardoso Barra da Tijuca Campus Barra da Tijuca, 500, Rio de Janeiro, RJ
+
+1571
+
+202106170
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1572
+
+202106172
+
+ENFERMAGEM (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1573
+
+202106171
+
+ENFERMAGEM (Bacharelado)
+
+400 (quatrocentas)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1574
+
+202106173
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1575
+
+202106174
+
+ENGENHARIA AMBIENTAL (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1576
+
+202106175
+
+ENGENHARIA CIVIL (Bacharelado)
+
+533 (quinhentas e trinta e três)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1577
+
+202106176
+
+ENGENHARIA CIVIL (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Av. Gen. Felicíssimo Cardoso Barra da Tijuca Campus Barra da Tijuca, 500, Rio de Janeiro, RJ
+
+1578
+
+202106177
+
+ENGENHARIA CIVIL (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1579
+
+202106178
+
+ENGENHARIA DE COMPUTAÇÃO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1580
+
+202106179
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+320 (trezentas e vinte)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1581
+
+202106180
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1582
+
+202106181
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Av. Gen. Felicíssimo Cardoso Barra da Tijuca Campus Barra da Tijuca, 500, Rio de Janeiro, RJ
+
+1583
+
+202106182
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+402 (quatrocentas e duas)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1584
+
+202106183
+
+FISIOTERAPIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1585
+
+202106184
+
+FISIOTERAPIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Estrada das Perynas Perynas , s/n, Cabo Frio, RJ
+
+1586
+
+202106185
+
+FONOAUDIOLOGIA (Bacharelado)
+
+240 (duzentas e quarenta)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1587
+
+202106186
+
+NUTRIÇÃO (Bacharelado)
+
+332 (trezentas e trinta e duas)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1588
+
+202106187
+
+ODONTOLOGIA (Bacharelado)
+
+396 (trezentas e noventa e seis)
+
+UNIVERSIDADE VEIGA DE ALMEIDA(165)
+
+ANTARES EDUCACIONAL S.A.
+
+Rua Ibituruna Tijuca Unidade SEDE, 108, Rio de Janeiro, RJ
+
+1589
+
+202106188
+
+ARQUITETURA E URBANISMO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1590
+
+202106189
+
+EDUCAÇÃO FÍSICA (Bacharelado)
+
+120 (cento e vinte)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1591
+
+202106190
+
+ENFERMAGEM (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1592
+
+202106191
+
+ENGENHARIA CIVIL (Bacharelado)
+
+200 (duzentas)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1593
+
+202106192
+
+ENGENHARIA DE PRODUÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1594
+
+202106193
+
+ENGENHARIA ELÉTRICA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1595
+
+202106194
+
+ENGENHARIA MECÂNICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1596
+
+202106195
+
+ENGENHARIA QUÍMICA (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1597
+
+202106196
+
+ESTÉTICA E COSMÉTICA (Tecnológico)
+
+90 (noventa)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1598
+
+202106197
+
+FARMÁCIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1599
+
+202106198
+
+FISIOTERAPIA (Bacharelado)
+
+80 (oitenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1600
+
+202106199
+
+FONOAUDIOLOGIA (Bacharelado)
+
+60 (sessenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1601
+
+202106200
+
+MEDICINA VETERINÁRIA (Bacharelado)
+
+160 (cento e sessenta)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES
+
+1602
+
+202106201
+
+NUTRIÇÃO (Bacharelado)
+
+100 (cem)
+
+UNIVERSIDADE VILA VELHA(664)
+
+SOCIEDADE EDUCACAO E GESTAO DE EXCELENCIA / VILA VELHA LTDA
+
+Av. Comissário José Dantas de Mello Boa Vista II Unidade SEDE, 21, Vila Velha, ES

@@ -1,0 +1,443 @@
+[
+ {
+  "id": "BR-CFO-RES-209-1997",
+  "id_correto": "BR-CFO-RES-209-1997",
+  "epigrafe": "Resolução CFO-209, de 15 de setembro de 1997 (DOU 13/10/1997)",
+  "url": "",
+  "fonte": "sistemas.cfo.org.br",
+  "situacao": "revogada pela Resolução CFO-63/2005",
+  "obs": "Alterou a Consolidação das Normas para Procedimentos nos Conselhos de Odontologia (Res. CFO-185/93). Data confirmada na Res. CFO-SEC-5/1999 e revogação confirmada no art. 2º da Res. CFO-63/2005 (https://sistemas.cfo.org.br/visualizar/atos/RESOLU%C3%87%C3%83O/SEC/2005/63). O texto da 209/97 não abriu no sistema do CFO."
+ },
+ {
+  "id": "BR-MEC-PORT-1030-2020",
+  "id_correto": "BR-MEC-PORT-1030-2020",
+  "epigrafe": "Portaria MEC nº 1.030, de 1º de dezembro de 2020",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "alterada pela Portaria MEC nº 1.038/2020; situação posterior não informada",
+  "obs": "Trata do retorno às aulas presenciais e do uso de recursos digitais durante a pandemia. in.gov.br e gov.br/mec estão bloqueados para WebFetch (robots/captcha), e só apareceram cópias de terceiros (ABMES)."
+ },
+ {
+  "id": "BR-MEC-PORT-1038-2020",
+  "id_correto": "BR-MEC-PORT-1038-2020",
+  "epigrafe": "Portaria MEC nº 1.038, de 7 de dezembro de 2020",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "não informado",
+  "obs": "Altera as Portarias MEC nº 544/2020 e nº 1.030/2020. Não foi possível abrir uma fonte oficial (in.gov.br e gov.br/mec bloqueados); só apareceram cópias de terceiros (ANEC, ABMES)."
+ },
+ {
+  "id": "BR-MEC-PORT-2562-2005",
+  "id_correto": "BR-MEC-PORT-2562-2005",
+  "epigrafe": "Portaria MEC nº 2.562, de 21 de julho de 2005",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Dá nova redação aos arts. 2º, 3º e 5º da Portaria MEC nº 2.519/2005 (Comissão Interna de Supervisão da carreira dos técnico-administrativos em educação). Ementa conferida em fonte de terceiro (ABMES). Nenhuma URL oficial foi localizada."
+ },
+ {
+  "id": "BR-MEC-PORT-968-1998",
+  "id_correto": "BR-MEC-PORT-968-1998",
+  "epigrafe": "Portaria MEC nº 968, de 17 de dezembro de 1998",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Citada com as Portarias MEC 612/1999, 482/2000, 514/2001 e 4.363/2004 nos atos de criação de cursos sequenciais da UFPB. O tema provável é cursos sequenciais, mas a ementa não foi confirmada. Nenhum texto oficial foi localizado."
+ },
+ {
+  "id": "BR-MEC-PORT-982-2013",
+  "id_correto": "BR-MEC-PORT-982-2013",
+  "epigrafe": "Portaria MEC nº 982, de 3 de outubro de 2013",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "não informado",
+  "obs": "Diretrizes para a promoção à classe de Professor Titular (citada nos arts. 9º e 10). A UFPB cita a data de 3/10 e também a de 7/10 (provavelmente a da publicação no DOU). Não confundir com a Portaria SAS/MS 982/2013. Fonte oficial não acessível."
+ },
+ {
+  "id": "BR-MEC-PORTINTER-1224-2012",
+  "id_correto": "BR-MEC-MS-PORTINTER-1224-2012",
+  "epigrafe": "Portaria Interministerial MEC/MS nº 1.224, de 3 de outubro de 2012",
+  "url": "",
+  "fonte": "portal.mec.gov.br",
+  "situacao": "não informado",
+  "obs": "Altera a Portaria Interministerial 1.077/2009 (residências multiprofissional e em área profissional da saúde). A URL candidata https://portal.mec.gov.br/docman/marco-2014-pdf/15430-port-inter-n1224-3out-2012 apareceu na busca, mas o WebFetch foi bloqueado por robots."
+ },
+ {
+  "id": "BR-?-PORT-1130-2015",
+  "id_correto": "BR-MS-PORT-1130-2015",
+  "epigrafe": "Portaria GM/MS nº 1.130, de 5 de agosto de 2015",
+  "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1130_05_08_2015.html",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "vigente (sem nota de revogação na página)",
+  "obs": "Institui a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) no SUS. Foi incorporada depois à Portaria de Consolidação GM/MS nº 2/2017, o que não foi conferido."
+ },
+ {
+  "id": "BR-?-PORT-2436-2017",
+  "id_correto": "BR-MS-PORT-2436-2017",
+  "epigrafe": "Portaria GM/MS nº 2.436, de 21 de setembro de 2017",
+  "url": "",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado",
+  "obs": "Aprova a Política Nacional de Atenção Básica (PNAB). A URL candidata https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html apareceu na busca, mas o WebFetch falhou (erro do servidor)."
+ },
+ {
+  "id": "BR-?-PORT-2737-2017",
+  "id_correto": "BR-CGU-PORT-2737-2017",
+  "epigrafe": "Portaria CGU nº 2.737, de 20 de dezembro de 2017",
+  "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/links/Portaria_CGU_2737_20171.pdf",
+  "fonte": "gov.br/cgu",
+  "situacao": "vigente (sem nota de revogação no texto)",
+  "obs": "Procedimento de consulta à CGU para nomear, designar, exonerar ou dispensar o titular da auditoria interna. Seu art. 18 revoga a Portaria CGU 915/2014."
+ },
+ {
+  "id": "BR-?-PORT-280-2002",
+  "id_correto": "",
+  "epigrafe": "Portaria nº 280, de 30 de janeiro de 2002 (Exame Nacional de Cursos – Letras)",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Os PPCs de Letras da UFPB descrevem o ato como portaria do Exame Nacional de Cursos (Provão) de Letras. O órgão emissor (MEC ou INEP) não foi confirmado e nenhum texto oficial foi localizado. Provavelmente está superada pelo fim do ENC (Lei 10.861/2004)."
+ },
+ {
+  "id": "BR-?-RES-1-2001",
+  "id_correto": "BR-CNE-CES-RES-1-2001",
+  "epigrafe": "Resolução CNE/CES nº 1, de 3 de abril de 2001",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado (provavelmente revogada; não confirmado)",
+  "obs": "Normas de funcionamento da pós-graduação, citadas pela UFPB para cursos de especialização. As normas de lato sensu foram depois substituídas pela Res. CNE/CES 1/2007 e as de stricto sensu pela Res. CNE/CES 7/2017, o que não foi confirmado. Os CNE em gov.br/mec estão atrás de captcha."
+ },
+ {
+  "id": "BR-?-RES-1-2012",
+  "id_correto": "BR-CNE-CP-RES-1-2012",
+  "epigrafe": "Resolução CNE/CP nº 1, de 30 de maio de 2012",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "Diretrizes Nacionais para a Educação em Direitos Humanos. A busca trouxe as URLs portal.mec.gov.br/dmdocuments/rcp001_12.pdf (bloqueada por robots) e normativasconselhos.mec.gov.br (bloqueada por robots)."
+ },
+ {
+  "id": "BR-?-RES-2-2007",
+  "id_correto": "BR-CNE-CES-RES-2-2007",
+  "epigrafe": "Resolução CNE/CES nº 2, de 18 de junho de 2007",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "Carga horária mínima e tempo de integralização dos bacharelados presenciais, citada no PPC de Turismo. Nenhuma página oficial pôde ser aberta (captcha/robots)."
+ },
+ {
+  "id": "BR-?-RES-2-2019",
+  "id_correto": "BR-CNE-CES-RES-2-2019",
+  "epigrafe": "Resolução CNE/CES nº 2, de 24 de abril de 2019",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "alterada pela Res. CNE/CES nº 1/2021 (art. 9º, § 1º), conforme a própria CONSEPE 05/2026",
+  "obs": "DCN de Engenharia. A CONSEPE 05/2026 dá a data de 26/4, que é a da publicação. URL candidata: https://www.gov.br/mec/pt-br/cne/pdf/normas-classificadas-por-assunto/diretrizes-curriculares-cursos-de-graduacao/rces002_19.pdf (captcha). Pode ser fundida com o nó BR-CNE-CES-RES-2-2019, que já existe na base."
+ },
+ {
+  "id": "BR-?-RES-485-2008",
+  "id_correto": "BR-CFF-RES-485-2008",
+  "epigrafe": "Resolução CFF nº 485, de 21 de agosto de 2008",
+  "url": "https://www.cff.org.br/userfiles/file/resolucoes/485.pdf",
+  "fonte": "cff.org.br",
+  "situacao": "vigente (sem nota de revogação no texto)",
+  "obs": "Conselho Federal de Farmácia. Dispõe sobre o âmbito profissional do técnico de laboratório de nível médio em análises clínicas."
+ },
+ {
+  "id": "BR-?-RES-57-2005",
+  "id_correto": "",
+  "epigrafe": "",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Aparece só como referência bibliográfica ('Resolução n° 57, de 2005') nos PPCs técnicos do CAVN (CONSEPE 71, 72 e 73/2013). O órgão emissor não foi identificado, e não há UFPB-CONSEPE ou CONSUNI 57/2005 na base. Precisa ser lida no contexto do PDF."
+ },
+ {
+  "id": "BR-CAPES-PORT-10-2013",
+  "id_correto": "BR-CAPES-PORT-10-2013",
+  "epigrafe": "Portaria CAPES nº 10, de 23 de janeiro de 2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Calendário das atividades de avaliação da pós-graduação, incluindo prazos de APCN. Ementa conferida em fonte de terceiro (ABMES). O texto oficial não foi localizado (cad.capes.gov.br não renderiza no WebFetch)."
+ },
+ {
+  "id": "BR-CAPES-PORT-183-2016",
+  "id_correto": "BR-CAPES-PORT-183-2016",
+  "epigrafe": "Portaria CAPES nº 183, de 21 de outubro de 2016",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "vigente segundo FAQ da CAPES (sem nota de revogação)",
+  "obs": "Regulamenta as bolsas UAB. As URLs candidatas são o DOU (https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/22061253/...) e cad.capes.gov.br (idAtoAdmElastic=294), que não puderam ser lidas: robots e página em JavaScript."
+ },
+ {
+  "id": "BR-CAPES-PORT-76-2010",
+  "id_correto": "BR-CAPES-PORT-76-2010",
+  "epigrafe": "Portaria CAPES nº 76, de 14 de abril de 2010",
+  "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/portaria-076-regulamentods-pdf/@@download/file/portaria_076_regulamentods.pdf",
+  "fonte": "gov.br/capes",
+  "situacao": "vigente, alterada pelas Portarias CAPES 154/2025, 221/2025 e 180/2026",
+  "obs": "Regulamento do Programa de Demanda Social (DS). Revoga a Portaria 52/2002. As alterações estão listadas na página do DS em gov.br/capes."
+ },
+ {
+  "id": "BR-DEC-5154-?",
+  "id_correto": "BR-DEC-5154-2004",
+  "epigrafe": "Decreto nº 5.154, de 23 de julho de 2004",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5154.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente, alterado pelo Decreto 8.268/2014",
+  "obs": "Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da LDB (educação profissional). Revogou o Decreto 2.208/1997."
+ },
+ {
+  "id": "BR-DEC-5840-?",
+  "id_correto": "BR-DEC-5840-2006",
+  "epigrafe": "Decreto nº 5.840, de 13 de julho de 2006",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5840.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente; art. 10 revogado pelo Decreto 10.086/2019",
+  "obs": "Institui o PROEJA. Revogou o Decreto 5.478/2005."
+ },
+ {
+  "id": "BR-IN-?-4-2010",
+  "id_correto": "",
+  "epigrafe": "Instruções Normativas nº 04/2010 e 09/2011 (órgão não identificado)",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Na CONSEPE 13/2015 e na CONSUNI 08/2018 aparecem só como bibliografia de PPC técnico, sem órgão. A mesma ID agrega a citação da CONSUNI 33/2012, que é outra norma: IN SLTI/MP nº 4, de 12/11/2010, sobre contratação de TI (https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas-revogadas/instrucao-normativa-no-4-de-12-de-novembro-de-2010-revogada-pela-in-no-4-de-2014, confirmada; revogada pela IN SLTI 4/2014). Sugere-se separar essa aresta como BR-SLTI-IN-4-2010."
+ },
+ {
+  "id": "BR-IN-MP-1-2016",
+  "id_correto": "BR-MP-CGU-IN-1-2016",
+  "epigrafe": "Instrução Normativa Conjunta MP/CGU nº 1, de 10 de maio de 2016",
+  "url": "https://wiki.cgu.gov.br/index.php/Instru%C3%A7%C3%A3o_Normativa_Conjunta_MP-CGU_n%C2%BA_01,_de_10_de_maio_de_2016",
+  "fonte": "wiki.cgu.gov.br",
+  "situacao": "não informado (sem nota de revogação na página)",
+  "obs": "Controles internos, gestão de riscos e governança no Poder Executivo federal. A página traz o texto integral, mas o cabeçalho tem a data em branco. A versão do DOU (in.gov.br) não pôde ser aberta."
+ },
+ {
+  "id": "BR-MEC-PORT-2117-2019",
+  "id_correto": "BR-MEC-PORT-2117-2019",
+  "epigrafe": "Portaria MEC nº 2.117, de 6 de dezembro de 2019",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Oferta de carga horária a distância (até 40%) em cursos presenciais. URL candidata em mecnormas.mec.gov.br/pesquisa/detalhar/4547, mas a página só abre com JavaScript. A cópia em cofen.gov.br é de conselho e não substitui o texto oficial."
+ },
+ {
+  "id": "BR-MEC-PORT-4059-2004",
+  "id_correto": "BR-MEC-PORT-4059-2004",
+  "epigrafe": "Portaria MEC nº 4.059, de 10 de dezembro de 2004",
+  "url": "",
+  "fonte": "portal.mec.gov.br",
+  "situacao": "revogada (pela Portaria MEC 1.134/2016, segundo a sucessão normativa conhecida; não confirmado em fonte oficial)",
+  "obs": "Oferta de disciplinas semipresenciais (até 20%). Nenhuma fonte oficial acessível."
+ },
+ {
+  "id": "BR-MEC-PORTINTER-1082-2009",
+  "id_correto": "",
+  "epigrafe": "Portaria Interministerial nº 1.082, de 20 de novembro de 2009",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Aparece só na bibliografia de PPCs técnicos da ETS e do Guia de Turismo, sem os ministérios. Os ministérios e o conteúdo não foram identificados, e nenhum texto oficial foi localizado. Não há base para o prefixo MEC."
+ },
+ {
+  "id": "BR-MPOG-PORT-1100-2006",
+  "id_correto": "BR-MPOG-SRH-PORT-1100-2006",
+  "epigrafe": "Portaria SRH/MPOG nº 1.100, de 6 de julho de 2006",
+  "url": "",
+  "fonte": "lexml.gov.br",
+  "situacao": "alterada pela Portaria SRH/MPOG nº 222/2008 (segundo a CONSUNI 33/2010); situação atual não informada",
+  "obs": "Publica a relação dos cargos com jornada inferior a 40 horas semanais (DOU 10/07/2006, seção 1, p. 43). A ficha LexML foi aberta, mas só traz metadados. O PDF no conlegis.planejamento.gov.br está bloqueado por robots."
+ },
+ {
+  "id": "BR-?-PORT-1601-2011",
+  "id_correto": "BR-MS-PORT-1601-2011",
+  "epigrafe": "Portaria GM/MS nº 1.601, de 7 de julho de 2011",
+  "url": "",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado (possivelmente revogada pela Portaria 2.648/2011; não confirmado)",
+  "obs": "Diretrizes para implantação das UPA 24h na Rede de Atenção às Urgências. URL candidata: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt1601_07_07_2011_rep.html (WebFetch falhou)."
+ },
+ {
+  "id": "BR-?-PORT-2648-2011",
+  "id_correto": "BR-MS-PORT-2648-2011",
+  "epigrafe": "Portaria GM/MS nº 2.648, de 7 de novembro de 2011",
+  "url": "",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado (possivelmente revogada pela Portaria 342/2013; não confirmado)",
+  "obs": "Redefine as diretrizes das UPA 24h. URLs candidatas: .../gm/2011/prt2648_07_11_2011.html e _comp.html (WebFetch falhou)."
+ },
+ {
+  "id": "BR-?-PORT-27-2014",
+  "id_correto": "BR-MTUR-PORT-27-2014",
+  "epigrafe": "Portaria MTur nº 27, de 30 de janeiro de 2014",
+  "url": "https://www.gov.br/turismo/pt-br/centrais-de-conteudo-/publicacoes/atos-normativos-2/2014/portaria-no-27-de-30-de-janeiro-de-2014",
+  "fonte": "gov.br/turismo",
+  "situacao": "revogada pela Portaria MTur nº 37, de 11 de novembro de 2021",
+  "obs": "Requisitos e critérios para o exercício da atividade de guia de turismo. Foi alterada antes pelas Portarias 58/2015 e 31/2018."
+ },
+ {
+  "id": "BR-?-PORT-3088-2011",
+  "id_correto": "BR-MS-PORT-3088-2011",
+  "epigrafe": "Portaria GM/MS nº 3.088, de 23 de dezembro de 2011",
+  "url": "",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado",
+  "obs": "Institui a Rede de Atenção Psicossocial (RAPS). URLs candidatas: .../gm/2011/prt3088_23_12_2011_rep.html e _comp.html (WebFetch falhou)."
+ },
+ {
+  "id": "BR-?-PORT-40-2007",
+  "id_correto": "BR-MEC-PORTNORM-40-2007",
+  "epigrafe": "Portaria Normativa MEC nº 40, de 12 de dezembro de 2007 (republicada em 29/12/2010)",
+  "url": "",
+  "fonte": "portal.mec.gov.br",
+  "situacao": "revogada (pela Portaria Normativa MEC 23/2017; não confirmado em fonte oficial)",
+  "obs": "Institui o e-MEC. URLs candidatas portal.mec.gov.br/docman/dezembro-2014-pdf/16763-port-norm-040-2007-seres e download.inep.gov.br/.../portaria_40_12122007.pdf, ambas bloqueadas por robots."
+ },
+ {
+  "id": "BR-?-PORT-430-2020",
+  "id_correto": "BR-ME-PORT-430-2020",
+  "epigrafe": "Portaria ME nº 430, de 30 de dezembro de 2020",
+  "url": "https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2020/portaria-no-430-de-30-de-dezembro-de-2020.pdf",
+  "fonte": "gov.br/carf",
+  "situacao": "exaurida (vigência limitada a 2021)",
+  "obs": "Ministério da Economia. Feriados e pontos facultativos de 2021. O art. 1º, XI transfere o Dia do Servidor Público para 1º/11/2021."
+ },
+ {
+  "id": "BR-?-PORT-529-2013",
+  "id_correto": "BR-MS-PORT-529-2013",
+  "epigrafe": "Portaria GM/MS nº 529, de 1º de abril de 2013",
+  "url": "",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado",
+  "obs": "Institui o Programa Nacional de Segurança do Paciente (PNSP). URL candidata: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2013/prt0529_01_04_2013.html (WebFetch falhou)."
+ },
+ {
+  "id": "BR-?-PORT-554-2013",
+  "id_correto": "BR-MEC-PORT-554-2013",
+  "epigrafe": "Portaria MEC nº 554, de 20 de junho de 2013",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "não informado",
+  "obs": "Diretrizes gerais da avaliação de desempenho para progressão e promoção no Plano de Carreiras e Cargos de Magistério Federal. Foi complementada pela Portaria 983/2020. DOU de 21/06/2013; URL candidata em in.gov.br (content/id/30686939), bloqueada por robots."
+ },
+ {
+  "id": "BR-?-RES-1-2002",
+  "id_correto": "BR-CNE-CP-RES-1-2002",
+  "epigrafe": "Resolução CNE/CP nº 1, de 18 de fevereiro de 2002",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "revogada pela Res. CNE/CP nº 2/2015 (não confirmado em fonte oficial)",
+  "obs": "DCN para a formação de professores; a CONSEPE 22/2018 cita a prática como componente curricular. A mesma ID agrega a CONSEPE 46/2008, que cita outra norma: Res. CNE/CES nº 1, de 28/01/2002, sobre revalidação de diplomas estrangeiros, alterada pela CES 8/2007. Separar como BR-CNE-CES-RES-1-2002."
+ },
+ {
+  "id": "BR-?-RES-1-2018",
+  "id_correto": "BR-CNE-CES-RES-1-2018",
+  "epigrafe": "Resolução CNE/CES nº 1, de 6 de abril de 2018",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "Diretrizes e normas para os cursos de especialização (pós-graduação lato sensu). Fonte oficial bloqueada (captcha/robots)."
+ },
+ {
+  "id": "BR-?-RES-10-2011",
+  "id_correto": "BR-CONTER-RES-10-2011",
+  "epigrafe": "Resolução CONTER nº 10, de 11 de novembro de 2011",
+  "url": "",
+  "fonte": "conter.gov.br",
+  "situacao": "não informado",
+  "obs": "Regula e disciplina o estágio curricular supervisionado nas técnicas radiológicas. A data veio de fonte de terceiro (LegisWeb). O site do CONTER remete as resoluções a um portal externo, e nenhum PDF oficial foi localizado."
+ },
+ {
+  "id": "BR-?-RES-12-2004",
+  "id_correto": "UFPB-CONSEPE-RES-12-2004",
+  "epigrafe": "Resolução CONSEPE/UFPB nº 12/2004",
+  "url": "",
+  "fonte": "",
+  "situacao": "norma interna da UFPB (já está na base)",
+  "obs": "Não é norma federal. É citada em PPCs da Escola Técnica de Saúde (CONSEPE 14/2015 e 36/2018). A CONSEPE 12/2004 aprova o Regimento Interno da ETS/CCS. Aresta a redirecionar."
+ },
+ {
+  "id": "BR-?-RES-15-2002",
+  "id_correto": "BR-CNE-CES-RES-15-2002",
+  "epigrafe": "Resolução CNE/CES nº 15, de 13 de março de 2002",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "DCN de Serviço Social. URL candidata: https://www.gov.br/mec/pt-br/cne/pdf/resolucoes-do-cne/ces/2002/ces152002.pdf (captcha)."
+ },
+ {
+  "id": "BR-?-RES-2-2015",
+  "id_correto": "BR-CNE-CP-RES-2-2015",
+  "epigrafe": "Resolução CNE/CP nº 2, de 1º de julho de 2015",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "revogada pela Res. CNE/CP nº 2/2019 (não confirmado em fonte oficial)",
+  "obs": "DCN para a formação inicial em nível superior (licenciaturas) e a formação continuada. Fonte oficial bloqueada."
+ },
+ {
+  "id": "BR-?-RES-29-2020",
+  "id_correto": "UFPB-CONSEPE-RES-29-2020",
+  "epigrafe": "Resolução CONSEPE/UFPB nº 29/2020",
+  "url": "",
+  "fonte": "",
+  "situacao": "norma interna da UFPB (já está na base; alterada)",
+  "obs": "Não é norma federal. É o Regulamento Geral de Graduação da UFPB (arts. 25 e 26). Aresta a redirecionar."
+ },
+ {
+  "id": "BR-?-RES-3-2014",
+  "id_correto": "BR-CNE-CES-RES-3-2014",
+  "epigrafe": "Resolução CNE/CES nº 3, de 20 de junho de 2014",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "DCN do curso de graduação em Medicina. Fonte oficial bloqueada (captcha/robots)."
+ },
+ {
+  "id": "BR-?-RES-5-2004",
+  "id_correto": "BR-CNE-CES-RES-5-2004",
+  "epigrafe": "Resolução CNE/CES nº 5, de 8 de março de 2004",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "não informado",
+  "obs": "DCN do curso de graduação em Design. Fonte oficial bloqueada."
+ },
+ {
+  "id": "BR-?-RES-59-2013",
+  "id_correto": "UFPB-CONSEPE-RES-59-2013",
+  "epigrafe": "Resolução CONSEPE/UFPB nº 59/2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "norma interna da UFPB (já está na base)",
+  "obs": "Não é norma federal. É citada em PPCs da ETS (CONSEPE 09/2023 e 14/2026). Outras resoluções a citam como 'Resolução CONSEPE Nº 59/2013', que aprova a reestruturação do Regimento Interno da ETS/CCS. Aresta a redirecionar."
+ },
+ {
+  "id": "BR-?-RES-9-2004",
+  "id_correto": "BR-CNE-CES-RES-9-2004",
+  "epigrafe": "Resolução CNE/CES nº 9, de 29 de setembro de 2004",
+  "url": "",
+  "fonte": "gov.br/mec",
+  "situacao": "revogada pela Res. CNE/CES nº 5/2018 (não confirmado em fonte oficial)",
+  "obs": "DCN do curso de graduação em Direito (DOU 01/10/2004, seção 1, pp. 17-18). Fonte oficial bloqueada."
+ },
+ {
+  "id": "BR-CAPES-PORT-102-2019",
+  "id_correto": "BR-CAPES-PORT-102-2019",
+  "epigrafe": "Portaria CAPES nº 102, de 10 de maio de 2019",
+  "url": "",
+  "fonte": "in.gov.br",
+  "situacao": "não informado",
+  "obs": "Regulamenta o processo seletivo para bolsas UAB. URL candidata: https://www.in.gov.br/en/web/dou/-/portaria-n%C2%BA-102-de-10-de-maio-de-2019-92402256 (bloqueada por robots)."
+ },
+ {
+  "id": "BR-CAPES-PORT-214-2017",
+  "id_correto": "BR-CAPES-PORT-214-2017",
+  "epigrafe": "Portaria CAPES nº 214, de 2017 (programas de pós-graduação stricto sensu em associação)",
+  "url": "",
+  "fonte": "gov.br/capes",
+  "situacao": "não informado (há notícia da CAPES sobre novas regras para oferta associativa, que não pôde ser lida)",
+  "obs": "Formas associativas de programas stricto sensu. A página 'Legislação anterior' da CAPES a lista com link para cad.capes.gov.br (idAtoAdmElastic=157), que não renderiza no WebFetch. Dia e mês não confirmados."
+ }
+]

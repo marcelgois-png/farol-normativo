@@ -1,0 +1,51 @@
+# Farol Normativo UFPB
+
+Sistema de consulta ao ecossistema normativo da Universidade Federal da Paraíba: acervo de normas, mapa das relações entre elas (Teia), ficha e texto de cada norma, quadro de vigência e, em etapa posterior, um assistente de perguntas (Oráculo). Nasceu do projeto Oraculovski. Coordenação: Marcel de Gois Pinto (Diretor do Centro de Tecnologia).
+
+Leia `docs/plano.md` antes de propor mudanças de rumo. Este arquivo tem as regras que valem para qualquer tarefa no repositório.
+
+## Estrutura
+
+- `base/` — a base do acervo. `nos.csv` (uma linha por norma), `arestas.csv` (uma linha por relação, com trecho e citação literal), `decisoes_vigencia.json`, `fila_coleta.md`, `quadro_vigencia.*`, `manifesto_originais.tsv` (SHA-256 dos originais), `divergencias/` e `controles/` (resultados das conferências e correções de identificação das rodadas).
+- `textos/` — um Markdown por norma com texto integral, em `textos/<ÓRGÃO>/<ano>/<ID>.md` (UFPB) ou `textos/<GRUPO>/<ID>.md` (federais, CNE, outros). Cabeçalho YAML com id, datas, nível, situação, fonte oficial, método de extração e aviso de OCR; depois um resumo e a seção `## Texto integral` (ou `## Texto`).
+- `farol/` — o gerador (Python). `base.py` lê e valida; `texto.py` converte o Markdown em HTML com âncoras e links; `grafo.py` deriva dados da Teia, sugestões e dispositivos; `site.py` monta as páginas; `templates/` e `static/`.
+- `site/` — saída gerada; não é versionada. Publicada no GitHub Pages pela ação em `.github/workflows/`.
+- `docs/` — plano, relatórios das rodadas e material para a SODS.
+- `tests/` — testes do gerador (pytest).
+
+## Comandos
+
+```
+pip install -r requirements.txt
+python -m farol validar            # lê a base e lista problemas (sai com 1 se houver erro grave)
+python -m farol gerar              # gera site/ completo (~20 s)
+python -m farol gerar --limite-textos 20 --saida /tmp/site   # geração rápida para testes
+python -m pytest -q
+python -m http.server 8000 --directory site   # para abrir o site localmente
+```
+
+## Regras do acervo (não negociáveis)
+
+1. **Só fonte oficial.** SIGRH, site da SODS, sig-arq, planalto.gov.br, in.gov.br, gov.br/mec e sites oficiais de órgãos. Resumo de terceiro não é fonte. Cada original tem hash no manifesto.
+2. **Nunca alterar um texto em `textos/` à mão.** Textos vêm de extração do original (camada de texto, OCR ou HTML oficial) e são regenerados pelo pipeline. Correção de OCR só com nova extração ou conferência contra o PDF, registrada no cabeçalho.
+3. **Nunca inventar número de resolução, artigo ou data.** Se não está na base, a resposta é "não está no acervo" e a norma entra na fila de coleta.
+4. **Hierarquia** (nível pelo órgão que editou o ato): N1 Constituição; N2 leis, LC, decretos-lei, MP; N3 decretos; N4 MEC, CNE, CAPES, CGU, outros órgãos federais e conselhos profissionais; N5 Estatuto (Res. CONSUNI 07/2002); N6 Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79); N7 resoluções do CONSUNI, CONSEPE e Conselho Curador; N8 regimentos editados pelas próprias unidades; N9 conselhos de centro, departamentos, colegiados e PPGs; N10 Reitoria e pró-reitorias. NT = em tramitação (sem força normativa); MA = material de apoio. Norma inferior não contraria superior; conflito aparente é registrado e explicado, nunca resolvido pelo sistema.
+5. **Tipos de relação**, sempre com estes rótulos: FUNDAMENTA-SE EM, REGULAMENTA, ALTERA, REVOGA (total), REVOGA (parcial), SUPERA, REMETE A, DELEGA COMPETÊNCIA, PROPÕE SUBSTITUIR. Cada relação registra origem e dispositivo, destino e dispositivo, data de início de efeito, base (texto, SIGRH, anotação de consolidação, inferência), confiança, trecho e citação literal. Relação inferida (co-citação, acoplamento, alvo provável) tem `natureza` começando por "sugestão" e nunca entra na vigência.
+6. **Vigência** é conferida no texto das normas posteriores. Regras: o texto prevalece sobre o registro do SIGRH; norma inferior não altera nem revoga superior; arquivo trocado no SIGRH não gera relação; revogação expressa prevalece sobre alteração posterior (LINDB, art. 2º, § 3º); revogação contradita por atos posteriores ou de assunto distinto vira conflito registrado; decisões fundamentadas ficam em `base/decisoes_vigencia.json`.
+7. **IDs**: `UFPB-<ÓRGÃO>-RES-<NÚMERO>-<ANO>` (ex.: UFPB-CONSEPE-RES-29-2020), `BR-LEI-9394-1996`, `BR-DEC-9235-2017`, `BR-CNE-CES-RES-2-2019`, `BR-MEC-PORT-554-2013`. Fixos: `UFPB-REGIMENTO-GERAL`, `UFPB-NT-MINUTA-ESTATUTO-2019`. Nunca renomear um ID sem registrar a reidentificação em `base/divergencias/`.
+8. **Toda rodada de coleta** produz relatório em `docs/rodadas/` com: normas coletadas, relações novas, o que ficou na fila, conferência independente por amostra. As divergências D1–D73 e seguintes são casos de teste: uma mudança no gerador ou na base não pode mudar uma decisão registrada sem nova decisão.
+9. **O Farol orienta e não decide.** Qualquer texto de interface ou resposta do Oráculo deixa claro que não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos conselhos.
+
+## Convenções de código
+
+- Python 3.10+, sem framework web; dependências em `requirements.txt` (Jinja2, Markdown, PyYAML, pytest).
+- Nomes em português, como no acervo. Comentários curtos. Funções puras onde der; o estado fica em `Base`.
+- O site é estático: nada no `site/` depende de servidor. JavaScript só o necessário (busca e Teia). Bibliotecas externas apenas de CDN com versão fixa (hoje só d3 7.9.0 na Teia).
+- Mudança em template ou CSS: gerar com `--limite-textos 20`, abrir no navegador, só então gerar o site inteiro.
+- Textos de OCR podem ter números trocados; links de citação no texto vêm da coluna `citacao` da base e só são criados quando a citação aponta para uma única norma.
+
+## Pendências conhecidas
+
+- Quatro textos da Rodada 0 (Regimento Geral consolidado da SODS, minuta do novo Estatuto, Res. CONSUNI 147/1987 e 82/1990) existem só na pasta do projeto no claude.ai; a base os referencia como `acervo/textos/...`. Devem ser copiados para `textos/SODS/` para o gerador encontrá-los.
+- 148 resoluções dos conselhos superiores citadas e ausentes do SIGRH: pedido à SODS em `docs/rodadas/pedido_sods_resolucoes_nao_localizadas.md`.
+- O Oráculo (estágio 2 do plano) exige serviço no servidor; não faz parte do site estático.

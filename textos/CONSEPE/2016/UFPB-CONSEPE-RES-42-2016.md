@@ -1,0 +1,1587 @@
+---
+id: UFPB-CONSEPE-RES-42-2016
+tipo: Resolução
+orgao: CONSEPE
+numero: "42/2016"
+data_assinatura: "2016-06-09"
+data_sessao: "2016-06-06"
+nivel: N7
+situacao: "revogada"
+situacao_base: "revogada por UFPB-CONSEPE-RES-05-2018 (com ressalva de ultratividade em UFPB-CONSEPE-RES-05-2018)"
+temas: "pós-graduação; estrutura"
+ementa_sigrh: "Revoga a Resolução nº 52/2012 do Consepe, aprova e dá nova redação ao Regulamento e à Estrutura Acadêmica do Programa de Pós-Graduação em Engenharia Civil e Ambiental, em nível de Mestrado Acadêmico, sob a responsabilidade do Centro de Tecnologia."
+ementa_acervo: "Revoga a Resolução nº 52/2012 do Consepe, aprova e dá nova redação ao Regulamento e à Estrutura Acadêmica do Programa de Pós-Graduação em Engenharia Civil e Ambiental, em nível de Mestrado Acadêmico, sob a responsabilidade do Centro de Tecnologia."
+observacoes_sigrh: "REVOGADA PELA Resolução nº 005/2018, de 21 de Março de 2018.; REVOGOU a Resolução nº 052/2012, de 30 de Outubro de 2012."
+fonte_sigrh: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=232464&key=51634cb6781efddb0c971721ddfdaf67
+pdf_oficial: https://sig-arq.ufpb.br/arquivos/201610818688b62324649c2e8639e9ef/Rsep42_2016.pdf
+arquivo_local: "originais/CONSEPE/2016/UFPB-CONSEPE-RES-42-2016__232464.pdf"
+sha256: c7df13680ec3e8b6abf791c9956b9f5b542d41aa23e74a7bbb2e685c3c91c61a
+bytes: 484936
+metodo_texto: "camada de texto do PDF oficial (pdftotext)"
+aviso_texto: ""
+outros_registros_sigrh: ""
+versao: original (texto publicado no SIGRH; alterações posteriores não incorporadas)
+data_coleta: 2026-10-18
+---
+
+# Resolução CONSEPE nº 42/2016
+
+**Ementa (SIGRH):** Revoga a Resolução nº 52/2012 do Consepe, aprova e dá nova redação ao Regulamento e à Estrutura Acadêmica do Programa de Pós-Graduação em Engenharia Civil e Ambiental, em nível de Mestrado Acadêmico, sob a responsabilidade do Centro de Tecnologia.
+
+**Situação no acervo:** revogada — revogada por UFPB-CONSEPE-RES-05-2018 (com ressalva de ultratividade em UFPB-CONSEPE-RES-05-2018)
+
+**Fonte oficial:** [SIGRH › Colegiados](https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=232464&key=51634cb6781efddb0c971721ddfdaf67) · [arquivo em sig-arq](https://sig-arq.ufpb.br/arquivos/201610818688b62324649c2e8639e9ef/Rsep42_2016.pdf)
+
+## Relações registradas no mapa
+
+**Esta norma sobre outras:**
+
+- **FUNDAMENTA-SE EM** Resolução CONSEPE nº 10/2002 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **FUNDAMENTA-SE EM** Resolução CONSEPE nº 79/2013 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: média.
+- **FUNDAMENTA-SE EM** Resolução CONSUNI nº 06/2001 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **REVOGA (total)** Resolução CONSEPE nº 52/2012 — nesta norma: ementa. Fonte da relação: SIGRH, texto; confiança: alta. Com ressalva de ultratividade (situações constituídas sob a norma revogada).
+
+**Outras normas sobre esta:**
+
+- **REVOGA (total)** Resolução CONSEPE nº 05/2018 (ementa). Fonte da relação: SIGRH, texto; confiança: alta. Com ressalva de ultratividade (situações constituídas sob a norma revogada).
+
+**Normas apenas citadas (REMETE A):** UFPB-CONSEPE-RES-07-2013, UFPB-CONSEPE-RES-26-1999, UFPB-CONSEPE-RES-34-2014, UFPB-CONSEPE-RES-79-2013, UFPB-CONSEPE-RES-85-2011, UFPB-REGIMENTO-GERAL
+
+> Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
+
+---
+
+## Texto integral
+
+SERVIÇO PÚBLICO FEDERAL
+UNIVERSIDADE FEDERAL DA PARAÍBA
+CONSELHO SUPERIOR DE ENSINO, PESQUISA E EXTENSÃO
+
+RESOLUÇÃO Nº 42/2016
+
+Revoga a Resolução nº 52/2012 do Consepe, aprova
+e dá nova redação ao Regulamento e à Estrutura
+Acadêmica do Programa de Pós-Graduação em
+Engenharia Civil e Ambiental, em nível de Mestrado
+Acadêmico, sob a responsabilidade do Centro de
+Tecnologia.
+O Conselho Superior de Ensino, Pesquisa e Extensão (Consepe), da Universidade
+Federal da Paraíba, no uso de suas atribuições, em conformidade com a legislação em vigor,
+tendo em vista a deliberação adotada pelo plenário, em reunião do dia 06 de junho de 2016
+(Processo nº 23074.022677/2014-44) e
+Considerando os termos da Resolução nº 06/2001 do Consuni, que autorizou a criação
+do Programa de Pós-Graduação Stricto Sensu em Engenharia Urbana, em nível de Mestrado,
+do Centro de Tecnologia;
+Considerando os termos da Resolução nº 10/2002 deste Conselho, que criou o
+Programa de Pós-Graduação Stricto Sensu em Engenharia Urbana, sob a responsabilidade do
+Centro de Tecnologia;
+Considerando a necessidade de atualização acadêmico-administrativa do atual
+Programa de Pós-Graduação em Engenharia Civil e Ambiental aos termos da Resolução nº
+79/2013, alterada pela Resolução nº 34/2014, ambas do Consepe;
+
+R E S O L V E:
+Art. 1º. Aprovar a nova redação do Regulamento e da Estrutura Acadêmica do
+Programa de Pós-Graduação em Engenharia Civil e Ambiental, sob a responsabilidade do
+Centro de Tecnologia da UFPB.
+Parágrafo único. O Programa de que trata o caput deste artigo oferta as seguintes
+áreas de concentração e linhas de pesquisa: 1) Recursos Hídricos, com as linhas
+“Monitoramento e simulação matemática de processos hidrológicos superficiais e
+subterrâneos”; “Avaliação de efeitos de uso da terra e alterações climáticas sobre os recursos
+hídricos”; e “Planejamento e gestão de recursos hídricos”; 2) Estruturas e Materiais, com as
+
+
+
+linhas “Tecnologia dos Materiais e Adequação Ambiental”; “Desempenho e Recuperação de
+Estruturas”; e “Modelagem Numérico-experimental de Estruturas”; 3) Engenharia Urbana,
+com as linhas “Conforto termo-acústico urbano; Transporte Urbano e Impactos Ambientais”;
+e “Planejamento e Engenharia Urbana: Interações”; e 4) Saneamento Ambiental, com as
+linhas “Geração e eficiência energética em sistemas de saneamento”; “Tratamento e fontes
+alternativas de água de abastecimento”; “Tratamento e reuso de águas residuárias”; “Gestão e
+tratamento de resíduos sólidos”; e “Monitoramento ambiental e remediação de áreas
+degradadas”.
+Art. 2º. O novo Regulamento e a nova Estrutura Acadêmica do Programa de PósGraduação em Engenharia Civil e Ambiental, anexos, passam a fazer parte da presente
+Resolução.
+Art. 3º. Em observância ao parágrafo único do Art. 96 do Anexo à Resolução nº
+79/2013 do Consepe, será permitido ao aluno regularmente matriculado no Programa
+enquadrar-se nos termos desta Resolução, mediante solicitação formal.
+Art. 4º. Esta Resolução entrará em vigor na data de sua assinatura.
+Conselho Superior de Ensino, Pesquisa e Extensão da Universidade Federal da Paraíba,
+em João Pessoa, 09 de junho de 2016.
+
+Margareth de Fátima Formiga Melo Diniz
+Presidente
+
+
+
+ANEXO I À RESOLUÇÃO Nº 42/2016 DO CONSEPE
+REGULAMENTO DO PROGRAMA DE PÓS-GRADUAÇÃO STRICTO SENSU EM
+ENGENHARIA CIVIL E AMBIENTAL, NOS NÍVEIS DE MESTRADO E
+DOUTORADO, MINISTRADO PELO CENTRO DE TECNOLOGIA
+
+CAPÍTULO I
+DA NATUREZA E OBJETIVOS
+Art. 1º O Programa de Pós-Graduação Stricto Sensu em Engenharia Civil e
+Ambiental, da Universidade Federal da Paraíba-UFPB, doravante também denominado
+Programa de Pós-Graduação em Engenharia Civil e Ambiental-PPGECAM, será ministrado
+pelo Centro de Tecnologia-CT, e funcionará de acordo com o que dispõem:
+I – a Legislação Federal do Ensino Superior;
+II – o Estatuto e o Regimento Geral da UFPB;
+III – o Regulamento Geral dos Programas de Pós-Graduação Stricto Sensu da UFPB,
+citado neste Regulamento do PPGECAM, simplesmente, como Regulamento Geral da UFPB,
+salvo menção em contrário;
+IV – o presente Regulamento.
+Parágrafo único. O Programa de Pós-Graduação em Engenharia Civil e Ambiental
+ministrará os Cursos de Mestrado acadêmico e Doutorado nas áreas de concentração definidas
+do artigo 3º deste Regulamento.
+Art. 2º O PPGECAM tem como objetivo a formação de docentes, de pesquisadores e
+de profissionais nas áreas de que trata o artigo 3º do presente Regulamento, visando contribuir
+efetivamente para o desenvolvimento da Ciência e da Tecnologia.
+Art. 3o O PPGECAM terá as seguintes áreas de concentração: 1) para o nível de
+mestrado: a) Recursos Hídricos; b) Estruturas e Materiais; c) Engenharia Urbana; d)
+Saneamento Ambiental; 2) para o nível de doutorado: a) Recursos Hídricos; e b) Estruturas e
+Materiais.
+§1º As linhas de pesquisa da área de Recursos Hídricos são: Monitoramento e
+simulação matemática de processos hidrológicos superficiais e subterrâneos; Avaliação de
+efeitos de uso da terra e alterações climáticas sobre os recursos hídricos; Planejamento e
+gestão de recursos hídricos.
+§2º As linhas de pesquisa da área de Estruturas e Materiais são: Tecnologia dos
+Materiais e Adequação Ambiental; Desempenho e Recuperação de Estruturas; Modelagem
+Numérico-experimental de Estruturas.
+§3º As linhas de pesquisa da área de Engenharia Urbana são: Conforto termo-acústico
+urbano; Transporte Urbano e Impactos Ambientais; Planejamento e Engenharia Urbana:
+Interações.
+§4º As linhas de pesquisa da área de Saneamento Ambiental são: Geração e eficiência
+energética em sistemas de saneamento; Tratamento e fontes alternativas de água de
+abastecimento; Tratamento e reuso de águas residuárias; Gestão e tratamento de resíduos
+sólidos; Monitoramento ambiental e remediação de áreas degradadas.
+
+
+
+CAPÍTULO II
+DA ESTRUTURA E ADMINISTRAÇÃO DO PROGRAMA
+Art. 4º Nos termos do Regulamento Geral da UFPB, o PPGECAM será composto por:
+um Colegiado como órgão deliberativo, uma Coordenação que atuará como órgão executivo
+do colegiado, e uma Secretaria como órgão de apoio administrativo.
+§1º O Colegiado do Programa será constituído conforme definido no Regulamento
+Geral da UFPB, sendo seus membros docentes com representação proporcional entre as áreas
+de concentração do Programa e escolhidos por meio de eleição realizada nas áreas, com
+mesmo mandato do coordenador.
+§2º O Coordenador e Vice-Coordenador serão escolhidos mediante voto secreto
+respeitando o disposto no Regulamento Geral da UFPB e nomeados segundo o Estatuto em
+vigor na Instituição.
+§3º As atribuições do Colegiado, Coordenação e Secretaria são aquelas definidas no
+Regulamento Geral da UFPB.
+§4º O(s) representante(s) discente(s), na proporção de 1/5 do total de membros do
+colegiado, será(ão) escolhido(s) por seus pares por meio de votação secreta para o mandato de
+um ano, permitida a recondução para um mandato consecutivo, desde que o período para
+recondução esteja dentro do prazo máximo para conclusão de suas atividades junto ao
+programa.
+§5º Na primeira reunião ordinária será proposto e votado o calendário anual de
+reuniões ordinárias do Colegiado.
+§6 º As reuniões do Colegiado ocorrerão conforme previsto no Regulamento Geral da
+UFPB.
+Art. 5º O Coordenador poderá propor ao Colegiado a criação de Comissões
+Administrativas integradas por docentes do Programa, com a incumbência, além daquelas
+tarefas fixadas pelo inciso II do artigo 15 do Regulamento Geral da UFPB, de:
+I – conferir e analisar a documentação apresentada pelos candidatos inscritos no
+processo de seleção do PPGECAM;
+II – aplicar os procedimentos seletivos conforme os artigos 17 e 18 deste
+Regulamento;
+III – tratar da distribuição, continuidade e prorrogação de bolsas destinadas aos alunos
+regularmente matriculados no Programa, observadas as diretrizes estabelecidas nos artigos 21
+e 37 deste Regulamento;
+IV – opinar sobre assuntos diversos de interesse do PPGECAM.
+Parágrafo único. Quando se tratar de assuntos mencionados no inciso III deste artigo
+e demais questões relacionadas com bolsa de estudos, a respectiva Comissão Administrativa
+será naturalmente acrescida dos representantes discentes pertencentes ao Colegiado do
+Programa.
+
+
+
+CAPÍTULO III
+DO FUNCIONAMENTO DO PROGRAMA
+SEÇÃO I
+DO CORPO DOCENTE
+Art. 6º O corpo docente do PPGECAM será constituído por professores e/ou
+pesquisadores portadores do título de Doutor, observando-se o disposto nos artigos 25, 26 e
+27 do Regulamento Geral da UFPB.
+Parágrafo único. O corpo docente será classificado nas categorias Permanente,
+Colaborador e Visitante, conforme o Regulamento Geral da UFPB e as normas da Capes.
+Art. 7º Os membros do corpo docente serão credenciados pelo Colegiado, de acordo
+com as categorias fixadas no Regulamento Geral da UFPB.
+§1º O prazo de credenciamento de docentes na categoria Permanente, renovável
+quantas vezes for conveniente ao Programa, terá como referência o período utilizado pelo
+órgão competente para avaliação em nível nacional dos programas de pós-graduação, não
+ultrapassando o limite estabelecido neste período, assim como o estabelecido pelo
+Regulamento Geral da UFPB. Os critérios para credenciamento, recredenciamento e
+descredenciamento de docentes serão definidos conforme o parágrafo 2º do artigo nono deste
+Regulamento.
+§2º O prazo de credenciamento de docentes nas categorias Colaborador ou Visitante
+será igual ao tempo aprovado pelo Colegiado do PPGECAM para a sua atividade, observado
+o limite estabelecido no parágrafo anterior.
+Art. 8o A solicitação de credenciamento de professores e pesquisadores no
+PPGECAM deverá ser acompanhada do Curriculum Vitae, modelo Lattes, e do Plano de
+Trabalho a ser desenvolvido.
+Art. 9o O credenciamento de professores no PPGECAM deverá atender aos interesses
+do Programa, ao disposto no artigo 29 do Regulamento Geral dos Programas de Pósgraduação e, no mínimo, uma das seguintes condições:
+I – ser bolsista de produtividade em pesquisa do CNPq;
+II – apresentar comprovação de que teve pelo menos 02 (dois) trabalhos publicados ou
+aceitos para publicação em periódicos internacionais e/ou nacionais indexados de reconhecida
+qualidade, nos últimos 05 (cinco) anos.
+§1º O reconhecimento da qualidade dos periódicos acima citados deverá ser definido
+em Resolução Interna do Programa.
+§2º Outros critérios para credenciamento, recredenciamento e descredenciamento de
+docentes serão definidos por meio de resolução específica definida pelo Colegiado do
+Programa.
+Art. 10. A indicação do Orientador para desempenhar as tarefas contidas no artigo 32
+do Regulamento Geral da UFPB será feita dentre os professores credenciados do Programa.
+
+
+
+§1º A mudança de orientador de mestrado será permitida desde que realizada dentro
+do prazo máximo de 18 meses, e de doutorado dentro do prazo máximo de 24 meses, ambos
+contados a partir da data de matrícula do aluno.
+§2º A mudança de orientador será realizada por meio de requerimento enviado ao
+colegiado do Programa, expondo os motivos para mudança de orientador, e com assinatura
+conjunta do aluno, atual e futuro orientador.
+§3º Em caso de descredenciamento do orientador, um novo orientador será indicado
+pelo Colegiado do Programa.
+§4º Poderá existir um segundo orientador, de acordo com o estabelecido no
+Regulamento Geral da UFPB e em resolução interna do Programa.
+Art. 11. O número máximo de orientações por professor será definido em Resolução
+Interna do Programa, respeitando também limitações que venham a ser definidas pelos órgãos
+competentes para avaliação nacional dos programas de pós-graduação ou pela própria
+instituição.
+
+SEÇÃO II
+DO CORPO DISCENTE
+Art. 12. Cada membro do corpo discente, regularmente matriculado nos termos do
+Regulamento Geral da UFPB e deste Regulamento, terá as seguintes obrigações:
+I – participar das atividades acadêmicas oficiais do Programa;
+II – seguir as indicações e sugestões do Orientador;
+III – dedicar-se ao desenvolvimento da sua Dissertação/Tese, sob a supervisão do
+Orientador do Trabalho Final;
+IV – ser assíduo, cumprindo rigorosamente o plano de estudo elaborado pelo
+Orientador;
+V – estar presente, no mínimo, a 50% das sessões de apresentação de Trabalhos Finais
+do curso correspondente ao seu nível;
+VI - Concluir os créditos no primeiro ano letivo, no caso de aluno de mestrado, ou nos
+dois primeiros anos letivos, no caso de aluno de doutorado, excetuando-se os casos
+específicos de reprovação em alguma disciplina ou trancamento de período.
+§1º O não cumprimento, por parte do aluno, das obrigações indicadas nos incisos do
+deste artigo, sem justificativa, implicará sanções disciplinares previstas no Regimento Geral
+da UFPB. O não cumprimento do inciso IV implicará no desligamento do aluno do Programa.
+§2º Em concordância com o inciso V do caput deste artigo, a Secretaria do Programa
+preparará uma lista que, depois de assinada por todos os alunos presentes à sessão de
+apresentação do Trabalho Final, será arquivada para futura verificação de presença.
+
+
+
+CAPÍTULO IV
+DA ADMISSÃO AO PROGRAMA
+Art. 13. A admissão ao PPGECAM será realizada anualmente de acordo com o
+estabelecido no Regulamento Geral da UFPB.
+Parágrafo único. O Colegiado do PPGECAM poderá autorizar outro processo de
+admissão durante o ano letivo.
+SEÇÃO I
+DA INSCRIÇÃO
+Art. 14. Para ingresso no PPGECAM, o candidato deve inicialmente inscrever-se para o
+processo seletivo.
+§1º A documentação exigida para a inscrição no processo de que trata o caput deste
+artigo constará de:
+a) requerimento ao coordenador solicitando a inscrição no processo seletivo;
+b) uma ficha de inscrição;
+c) uma fotocópia autenticada do Histórico Escolar de graduação mais recente;
+d) o Curriculum Vitae;
+e) uma fotografia recente 3x4;
+f) uma fotocópia autenticada do diploma de graduação, no caso de inscrição para o
+nível de mestrado, ou do diploma de mestre no caso de inscrição para o nível de doutorado, ou
+do respectivo certificado de conclusão ou da respectiva declaração de Coordenação afirmando
+que o candidato está em condições de concluir o curso antes da data prevista da matrícula
+institucional no PPGECAM;
+g)
+uma fotocópia autenticada das carteiras de identidade-RG e de identificação do
+contribuinte-CPF;
+h) para candidato brasileiro, cópia de documento que comprove estar em dia com as
+obrigações eleitorais e militares, estas últimas para o candidato do sexo masculino, e de
+documentos exigidos pela legislação específica, no caso de candidato estrangeiro;
+i) outros documentos definidos pelo Colegiado do Programa.
+§2º Caberá ao Coordenador o deferimento das inscrições, podendo para isso contar
+com os trabalhos de Comissão Administrativa.
+§3º Os critérios de seleção, o período de inscrição, a data, o local, e o número de vagas
+serão amplamente divulgados pela Coordenação através de Edital.
+§4º A matrícula institucional no PPGECAM só poderá ser efetivada mediante a
+apresentação do respectivo diploma ou certificado de conclusão de curso, conforme o nível
+exigido.
+Parágrafo único. O Edital de seleção para ingresso de alunos no PPGECAM deverá
+obrigatoriamente seguir o que determina a Resolução nº 07/2013 do Consepe ou outra que
+torne-se vigente.
+Art. 15. Poderão se inscrever no processo de seleção para o PPGECAM:
+I – em nível de mestrado, os candidatos portadores de diploma de graduação em
+Engenharia, em Arquitetura ou em cursos afins, de acordo com os critérios do Colegiado e
+especificados no Edital de seleção;
+
+
+
+II – em nível de doutorado, os candidatos portadores de diploma de mestre em
+Engenharia, em Arquitetura ou de cursos afins, de acordo com os critérios do Colegiado e
+especificado no Edital de seleção.
+Parágrafo único. A inscrição se dará sempre para uma das Áreas de Concentração do
+Programa, especificadas no Art. 3o, não sendo possível mudar de Área de Concentração após
+a Seleção ou quando ingressar no Programa.
+Art. 16. O número de vagas para o PPGECAM será definido antes do período de
+inscrição.
+SEÇÃO II
+DA SELEÇÃO
+Art. 17. Deferidas as inscrições, o processo de seleção, cumulativamente eliminatório
+e classificatório será deflagrado através de análise das fichas de inscrição, do Histórico
+Escolar, do Curriculum Vitae, e exames de línguas ou comprovação especificada mencionada
+no edital, além da realização eventual de exame escrito e documentos complementares, a
+critério do Colegiado do Programa e especificado no Edital de seleção.
+§1º O Colegiado do Programa estabelecerá os critérios de avaliação da análise dos
+documentos mencionados no caput deste artigo, assim como os de elaboração do exame
+escrito, caso seja realizado.
+§2º A aplicação do processo de seleção será efetuada pela Comissão Administrativa,
+cujo resultado será exibido numa lista nominal por ordem decrescente de classificação.
+§3º O resultado final do processo seletivo deverá ser homologado pelo Colegiado do
+PPGECAM.
+Art. 18. Por sugestão da Comissão Administrativa designada para a seleção de
+candidatos, a Coordenação poderá exigir de candidato inscrito o cumprimento, em prazos
+determinados, de atividades didáticas em cursos de nivelamento, inclusive de graduação ou de
+estudos complementares.
+§1º As atividades didáticas estabelecidas no caput deste artigo, sem direito a crédito,
+constituir-se-ão em pré-requisitos ou requisitos paralelos para as disciplinas curriculares, a
+critério do Colegiado do PPGECAM.
+§2º Quando da exigência do cumprimento de tais atividades didáticas, os prazos para a
+realização das mesmas não serão computados no cálculo dos tempos mínimo e máximo
+necessários à integralização dos créditos do PPGECAM.
+
+CAPÍTULO V
+DA MATRÍCULA
+Art. 19. A matrícula institucional no PPGECAM é regida pelo Regulamento Geral da
+UFPB.
+§1º A documentação necessária para a matrícula institucional, após a aprovação do
+candidato no processo seletivo, é a mesma exigida por ocasião da inscrição, conforme
+estabelece o artigo 14 deste Regulamento.
+
+
+
+§2º Por recomendação do Orientador, poderá um mestrando do PPGECAM requerer
+matrícula em nível de Doutorado no próprio PPGECAM, sem que tenha obtido o grau de
+Mestre, considerando os critérios estabelecidos no Regulamento Geral e as resoluções
+internas do programa.
+§3º O requerimento do aluno, para fins de ingresso no Doutorado na forma de que
+trata o §2º deste artigo, será analisado e julgado pelo Colegiado do Programa, de acordo com
+critérios estabelecidos em Resolução Interna do Colegiado do Programa.
+§4º A análise e o julgamento de que trata o parágrafo anterior serão considerados,
+neste caso específico, como processo de seleção do candidato ao Doutorado.
+§5º Para efeito de prazo, será considerada, como data inicial do Doutorado, a sua
+primeira matrícula no Mestrado.
+§6º Transferência são admitidas conforme previsto no artigo 46 do Regulamento Geral
+dos Programas de Pós-graduação da UFPB, além disso o candidato deverá atender os prérequisitos estabelecidos no último edital de seleção do Programa.
+Art. 20. Para a matrícula em disciplinas no início de cada período letivo, fixada no
+calendário escolar elaborado pelo Programa nos termos do artigo 34 deste Regulamento, o
+aluno deverá apresentar a anuência do Orientador.
+Parágrafo único. Após aprovado o plano de Dissertação/Tese pelo Colegiado, o aluno
+deverá fazer junto à Secretaria do PPGECAM a sua matrícula na disciplina “Trabalho de
+Dissertação” ou “Trabalho de Tese”, conforme aplicável, obrigatoriamente, no início de cada
+período letivo.
+
+SEÇÃO I
+DA DISTRIBUIÇÃO DE BOLSAS
+Art. 21. Poderá ser atribuída ao aluno regularmente matriculado nos termos deste
+Regulamento uma bolsa de estudos, de acordo com a disponibilidade de quotas recebidas
+anualmente pelo PPGECAM das agências governamentais de fomento ou de outras fontes.
+§1º A distribuição de bolsas será realizada de acordo com a classificação obtida no
+processo de seleção, observando-se a ordem de classificação geral, envolvendo os candidatos
+de todas as Áreas de concentração.
+§2º Além das exigências de cada agência financiadora, são requisitos para ser bolsista:
+a) ter sido classificado no processo de seleção do Programa, de acordo com o disposto neste
+Regulamento;
+b) dedicar-se integralmente às atividades acadêmicas e de pesquisa do PPGECAM,
+observando o disposto na verificação de rendimento acadêmico definida neste
+Regulamento;
+c) cursar e concluir no primeiro período letivo, após a matrícula institucional, um mínimo de
+12 créditos em disciplinas;
+d) fixar residência nesta Capital ou na região metropolitana de João Pessoa;
+e) Não ter reprovação em disciplinas, caso seja contemplado com bolsa ao longo do curso.
+§3º A duração máxima de permanência com a bolsa será fixada de acordo com o
+estabelecido pelos órgãos de fomento, tomando como referência a data de ingresso do aluno
+no Programa.
+
+
+
+§4º O aluno bolsista que sofrer quaisquer sanções disciplinares prevista no Regimento
+Geral ou tiver pelo menos uma reprovação terá sua bolsa de estudo cancelada.
+§5º Critérios adicionais para concessão e avaliação da manutenção da condição de
+bolsista poderão ser definidos em resolução interna complementar, aprovada pelo Colegiado
+do Programa.
+
+SEÇÃO II
+DO TRANCAMENTO E CANCELAMENTO DE MATRÍCULA
+Art. 22. O trancamento de matrícula em disciplina(s) é facultado ao aluno nos termos
+do Regulamento Geral da UFPB.
+§1º O período a ser observado para o trancamento de matrícula em disciplina(s) é
+aquele fixado pela Coordenação no calendário escolar do Programa.
+§2º O aluno ou seu procurador legal deverá obrigatoriamente dar entrada na Secretaria
+do Programa, dentro do prazo estabelecido, de requerimento solicitando o trancamento de
+matrícula em disciplina(s), no qual deverá constar a justificativa, acompanhado da
+concordância do seu Orientador.
+Art. 23. A critério do Colegiado do PPGECAM e nos termos do artigo 56 do
+Regulamento Geral da UFPB, a interrupção de estudos só será permitida, com a expressa
+justificativa do orientador, nas seguintes situações:
+I – ao aluno matriculado apenas em disciplinas e/ou atividades acadêmicas, quando os
+casos excepcionais de que tratam o artigo 56 do Regulamento Geral da UFPB estiverem
+relacionadas a problemas de saúde devidamente comprovados e a necessidade de afastamento
+por motivo de trabalho;
+II – ao aluno em trabalho de Dissertação/Tese, além daquelas especificadas no inciso
+anterior, quando ocorrerem casos decorrentes de deficiência de equipamentos ou de materiais
+para a fase teórica e/ou experimental do seu trabalho final.
+§1º A interrupção de estudos terá um prazo máximo conforme definido no
+Regulamento Geral da UFPB.
+§2º Para alunos bolsistas, a interrupção de estudos implicará o cancelamento
+automático da bolsa.
+Art. 24. O cancelamento de matrícula será admitido em qualquer tempo por
+solicitação do aluno, correspondendo à desvinculação do Programa.
+
+CAPÍTULO VI
+DOS ALUNOS ESPECIAIS
+Art. 25. A Coordenação do PPGECAM poderá aceitar, por período letivo, a inscrição
+de alunos especiais em disciplina(s) isolada(s) de acordo com o calendário escolar do
+Programa, sob os preceitos estabelecidos no artigo 40 e 41 do Regulamento Geral da UFPB.
+
+
+
+Parágrafo único. A aceitação como aluno especial não gera nenhum compromisso
+por parte do Programa em futura aceitação do aluno como regular, sendo o processo seletivo a
+única forma de ingresso de alunos regulares.
+Art. 26. No momento da solicitação de matrícula, exigir-se-ão para aceitação de
+inscrições dos alunos especiais os mesmos critérios adotados para aceitação de inscrições de
+alunos regulares do corrente ano.
+§1º No ato do primeiro pedido de matrícula em disciplina(s) isolada(s), o aluno
+especial deverá apresentar a mesma documentação exigida no artigo 14 deste Regulamento,
+sendo necessária, apenas, a atualização do Curriculum Vitae e entrega do Histórico Escolar
+mais recente, quando ocorrer outras solicitações, dentro do limite de créditos fixados pelo
+artigo 41 do Regulamento Geral da UFPB.
+§2º A Coordenação, com o aval do Colegiado, poderá cancelar a inscrição de alunos
+especiais que não tenham desempenho satisfatório.
+
+CAPÍTULO VII
+DA ESTRUTURA ACADÊMICA
+Art. 27. Os créditos necessários à integralização das disciplinas do PPGECAM são
+definidos, conforme o artigo 61 do Regulamento Geral da UFPB, em um mínimo de 22 (vinte
+e dois) para o nível de mestrado e de 35 (trinta e cinco) para o nível de doutorado, assim
+distribuídos: 02 créditos em disciplina obrigatória e os demais créditos em disciplinas
+optativas e/ou atividades acadêmicas.
+§1º A classificação, o nome, o número de créditos, o(s) departamento(s)
+responsável(is) pela oferta das disciplinas e as ementas de todas as disciplinas pertencentes à
+Estrutura Acadêmica do PPGECAM estão especificados no Anexo II à Resolução que
+aprovou este Regulamento.
+§2º No início de cada período letivo, o professor deverá apresentar o programa da
+disciplina de acordo com a ementa proposta.
+§3o As disciplinas optativas a serem cursadas pelo aluno deverão ser determinadas
+pelo Orientador.
+§4º Com a concordância do orientador e aprovação do Colegiado, o aluno poderá
+cursar disciplinas ofertadas pelo próprio Programa em outra área de concentração em relação
+à qual ele está matriculado e/ou em disciplinas ofertadas por outros Programas de pósgraduação stricto sensu, reconhecidos pela Capes.
+§5º As disciplinas de que trata o parágrafo anterior deste artigo terão um limite de até
+6 (seis) créditos para o nível de mestrado e de até 9 (nove) créditos para o nível de doutorado,
+que poderão ser aproveitados para integralização dos créditos mencionados no caput deste
+artigo.
+§6º A distribuição dos créditos para os alunos do mestrado seguirá o contido nos
+quadros do anexo II à resolução que aprovou este regulamento, da seguinte forma: 02 (dois)
+créditos em disciplina obrigatória de acordo com o Quadro A; 20 (vinte créditos) em
+disciplinas optativas e/ou atividades acadêmicas - abrangendo disciplinas de tronco comum
+para todas as áreas de concentração, de acordo com o Quadro B, disciplinas optativas por área
+
+
+
+de concentração, de acordo com os Quadros C1, C2, C3 e C4 -, e/ou atividades acadêmicas,
+constantes do Quadro D.
+§7º A distribuição dos créditos para os alunos do doutorado seguirá o contido nos
+quadros do anexo II à resolução que aprovou este regulamento, da seguinte forma: 02 (dois)
+créditos em disciplina obrigatória de acordo com o Quadro A; 33 (trinta e três créditos) em
+disciplinas optativas e/ou atividades acadêmicas- abrangendo disciplinas de tronco comum
+para todas as áreas de concentração, de acordo com o Quadro B, disciplinas optativas por área
+de concentração, de acordo com os Quadros C1, C2, C3 e C4, e/ou atividades acadêmicas,
+constantes do Quadro D.
+Art. 28. A duração dos cursos oferecidos pelo PPGECAM será limitada ao:
+I – mínimo de 12 (doze) e máximo de 24 (vinte e quatro) meses para o curso de
+Mestrado, contados a partir do mês e ano de início do primeiro período letivo no Programa até
+a data de efetiva defesa da dissertação;
+II – mínimo de 24 (vinte e quatro) e máximo de 48 (quarenta e oito) meses para o
+curso de Doutorado, contados a partir do mês e ano de início do primeiro período letivo no
+Programa até a data de efetiva defesa da tese;
+Parágrafo único. Em casos excepcionais, com a justificativa expressa do orientador
+do aluno, o Colegiado do Programa poderá admitir a prorrogação dos prazos máximos
+estabelecidos no caput deste artigo pelo período de até 6 (seis) meses, para o mestrado, e de
+até 12 (doze) meses para o doutorado, desde que atendidos os requisitos do artigo 60 do
+Regulamento Geral.
+Art. 29. Ao final de cada período letivo, os professores serão obrigados, no prazo
+máximo de 45 (quarenta e cinco) dias, a entregar na Secretaria do PPGECAM o(s) diário(s)
+de classe assinado(s) e preenchido(s) com o conteúdo programático da(s) disciplina(s)
+lecionada(s) em sala de aula ou laboratório.
+§1º A nota final, aposta no diário de classe pelo professor da disciplina, deverá
+representar o desempenho obtido pelo(s) aluno(s) durante o desenvolvimento do conteúdo
+programático, obedecendo ao estabelecido pelo artigo 66 do Regulamento Geral da UFPB.
+§2º Em casos especiais devidamente justificados, a critério do Colegiado, o(s)
+professor(es) poderá(ão) solicitar uma prorrogação de, no máximo, 2 (dois) meses para
+conclusão da(s) disciplina(s) que esteja(m) lecionando.
+§3º Os professores que não atenderem às exigências deste artigo serão
+descredenciados do Programa.
+Art. 30. Com conteúdo ementário e número de créditos variáveis, a oferta da
+disciplina optativa Tópicos Especiais tem o objetivo de aprofundar os conhecimentos do
+corpo discente sobre assuntos específicos não cobertos pelas disciplinas regulares.
+§1º Fica restrita a oferta de, no máximo, quatro disciplinas Tópicos Especiais por
+período letivo do Programa e lecionadas por professores das categorias indicadas pelo artigo
+24 do Regulamento Geral da UFPB.
+§2º Qualquer disciplina Tópicos Especiais, versando sobre o mesmo tema e contendo a
+mesma ementa ministrada por 2 (dois) anos letivos consecutivos a alunos regularmente
+matriculados no Programa, poderá ser convertida, a critério do colegiado, em disciplina
+
+
+
+optativa, passando a pertencer à Estrutura Acadêmica do Programa, conforme a tramitação
+regimental pelo Conselho do Centro e Consepe.
+§3º O encaminhamento à Coordenação, da(s) solicitação(ões) de oferta de disciplina(s)
+Tópicos Especiais será obrigatoriamente feito por docente(s) do PPGECAM com a
+antecedência mínima de 2 (dois) meses, contendo um título, objetivo(s), justificativa, ementa,
+número de créditos teóricos e/ou práticas e carga horária equivalente e uma estimativa do
+número dos prováveis participantes.
+§4º Caberá ao Colegiado do PPGECAM a homologação da(s) solicitação(ões) de
+oferta da(s) disciplina(s) de que trata o caput deste artigo.
+§5º Para fins de contagem de créditos necessários à integralização curricular será
+permitido ao aluno regularmente matriculado no mestrado cursar apenas 02 (duas) disciplinas
+e no doutorado 03 (três) disciplinas da categoria Tópicos Especiais, desde que tenham
+conteúdos e subtítulos diferentes.
+Art. 31. As atividades acadêmicas ou estudos especiais permitidas pelo artigo 63 do
+Regulamento Geral da UFPB destinam-se unicamente ao complemento dos conhecimentos
+necessários ao desenvolvimento da Dissertação/Tese. A quantidade máxima de créditos
+atribuída a essas atividades deverá estar em conformidade com o Regulamento Geral dos
+Programas de Pós-graduação.
+§1º Caberá ao professor Orientador do Trabalho Final solicitar ao Colegiado a
+aprovação do conjunto de atividades a ser desenvolvido pelo aluno.
+§2º A proposta de solicitação deverá conter um título, o objetivo e o plano de
+atividades com a carga horária necessária, observando-se a natureza teórica e/ou prática das
+atividades propostas para fins de contagem dos créditos.
+Art. 32. O aluno regularmente matriculado deverá realizar a atividade acadêmica
+denominada Estágio Docência, como previsto no artigo 64 do Regulamento Geral da UFPB,
+obedecidos aos termos da Resolução nº 26/99 do Consepe.
+§1º O Estágio Docência constará de atividades didáticas desenvolvidas pelo aluno
+regularmente matriculado em disciplinas ofertadas em curso de Graduação,
+preferencialmente, de Engenharia Civil e/ou Ambiental.
+§2º As atividades de que trata o parágrafo anterior podem ser do tipo:
+a) ministrar seminários;
+b) apoiar a preparação de aulas práticas;
+c) ministrar aulas práticas;
+d) apoiar na confecção de material didático-pedagógico.
+§3º Caberá ao orientador do aluno encaminhar à Coordenação do Programa a
+solicitação do Estágio Docência, especificando a(s) disciplina(s) de Graduação em que a(s)
+atividade(s) será(ão) desenvolvida(s).
+§4º Ao final do Estágio Docência, 1 (um) semestre letivo para aluno de mestrado e 2
+(dois) semestres letivos para o aluno de doutorado, o aluno apresentará o relatório das
+atividades desenvolvidas que, após a anuência do orientador e, quando couber, do professor
+responsável pela(s) disciplina(s) de Graduação, será submetido ao Colegiado do Programa
+para aprovação.
+
+
+
+§5º Poderá ser atribuído 1 (um) crédito teórico para as atividades desenvolvidas por
+aluno de mestrado e 2 (dois) créditos teóricos para as atividades desenvolvidas por aluno de
+doutorado, a critério do orientador e aprovação do Colegiado.
+Art. 33. Por decisão do Colegiado do PPGECAM, poderão ser criadas novas
+disciplinas optativas desde que a sua implantação seja justificada pelo(s) respectivo(s)
+professor(es), observando-se o disposto nos incisos seguintes:
+I – para implantação de nova disciplina, o número de créditos e a ementa deverão ser
+aprovados pelo Colegiado, ouvido o Departamento que oferta a disciplina;
+II – a implantação de novas disciplinas obedecerá aos procedimentos de
+encaminhamento fixados pelo Regulamento Geral da UFPB.
+Art. 34. O número de períodos letivos regulares necessários à execução curricular das
+disciplinas do PPGECAM será de 02 (dois) períodos letivos anuais de conformidade com o
+calendário escolar elaborado e aprovado pelo Colegiado.
+CAPÍTULO VIII
+DA VERIFICAÇÃO DO RENDIMENTO ACADÊMICO
+Art. 35. A verificação do rendimento acadêmico será feita nos termos do artigo 66 do
+Regulamento Geral da UFPB.
+Art. 36. Além das atribuições exigidas pelo artigo 32 do Regulamento Geral da
+UFPB, o Orientador fará ao final de cada período letivo um breve relatório sobre o
+desempenho do aluno na condução das suas atividades acadêmicas de disciplinas e/ou do seu
+Trabalho Final e no cumprimento das demais obrigações estabelecidas no artigo 12 do
+presente Regulamento, atribuindo-lhe um conceito conforme estabelecido no Regulamento
+Geral dos Programas de Pós-graduação.
+§1º Para os alunos-bolsistas e por solicitação do Coordenador, a Comissão
+Administrativa, de posse do relatório do Orientador, emitirá parecer sobre a continuidade da
+concessão da bolsa, podendo ser cancelada ou não, conforme o desempenho acadêmico dos
+alunos.
+§2º Ocorrendo o cancelamento de bolsa, o Colegiado será convocado pelo
+Coordenador para homologar a decisão em cuja reunião será(ão) convocado(s) igualmente
+o(s) respectivo(s) Orientador(es).
+Art. 37. A verificação da capacidade de leitura e interpretação em língua estrangeira
+será feita nas seguintes línguas: Inglês, francês, alemão ou espanhol.
+§1º Os critérios de avaliação serão definidos em resolução interna do Programa.
+§2º Para alunos de doutorado, um dos idiomas deverá ser obrigatoriamente o Inglês.
+
+
+
+CAPÍTULO IX
+DO APROVEITAMENTO DE ESTUDOS EM DISCIPLINAS
+Art. 38. A equivalência de disciplina(s) nos termos do Regulamento Geral da UFPB
+requerida por aluno(s) regularmente matriculado(s) no PPGECAM será decidida pelo
+Colegiado do Programa, observando-se os seguintes procedimentos:
+I – considerar-se-á, caso necessário, a equivalência entre notas e conceitos de acordo
+com o Regulamento Geral da UFPB;
+II – serão aceitas apenas a(s) disciplina(s) cujo resultado obtido pelo(s) aluno(s) tenha
+sido conceitos “A” ou “B” ou notas iguais ou superiores a 7,0 (sete vírgula zero).
+§1º O disposto no inciso I do caput deste artigo aplica-se aos alunos regulares
+matriculados.
+§2º A partir da solicitação de equivalência, o Coordenador solicitará parecer de
+professores das respectivas disciplinas;
+§3º A análise deverá ser realizada comparativamente entre a ementa e o conteúdo
+programático da disciplina cursada com aquela pertencente à Estrutura Acadêmica do
+Programa, na forma fixada pelo Regulamento Geral da UFPB;
+§4º Havendo necessidade, poderá ser indicado ao(s) aluno(s) requerente(s) uma
+adaptação curricular com a finalidade de complementação de estudos.
+§5º A adaptação curricular de que trata o parágrafo anterior será acompanhada pelo
+Orientador.
+§6º O disposto no caput deste artigo não se aplica às disciplinas mencionadas no
+parágrafo 4º do artigo 27 deste Regulamento.
+Art. 39. O aproveitamento de créditos realizados durante o mestrado, conforme
+definido no artigo 70 do Regulamento Geral dos Programas de Pós-graduação, para fins de
+integralização perante o PPGECAM, só será aceita se o aluno de Doutorado, enquanto
+mestrando, realizou seus estudos em período durante o qual o Curso de Mestrado em questão
+tenha sido reconhecido pelo Conselho Federal de Educação (CFE), com a devida
+homologação do MEC.
+§1º Poderá, a critério do colegiado, ser aproveitado o máximo de 22 créditos, além
+daqueles cursados de acordo com os §§ 4º e 5º do art. 27.
+§2º A atribuição dos créditos de que trata o parágrafo anterior deste artigo deverá ser
+objeto de processo administrativo, contendo o requerimento do doutorando, a justificativa do
+orientador e, quando couber, o elenco de disciplinas (obrigatórias ou optativas) e/ou de
+atividades acadêmicas da Estrutura Acadêmica do PPGECAM a serem cumpridas ou
+aproveitadas.
+§3º O aluno de mestrado poderá aproveitar o máximo de 6 créditos.
+
+CAPÍTULO X
+DO DESLIGAMENTO E DO ABANDONO DO PROGRAMA
+Art. 40. O desligamento ou abandono do PPGECAM será efetuado conforme dispõem
+o artigo 72 do Regulamento Geral da UFPB, o artigo 12, §1º, deste Regulamento e o
+Regimento Geral da UFPB.
+
+
+
+CAPÍTULO XI
+DAS DISSERTAÇÕES e TESES
+Art. 41. O aluno deverá preparar obrigatoriamente a partir de 6 (seis) meses a contar
+da primeira matrícula em disciplinas e sob a supervisão de seu Orientador, um plano de
+Dissertação/Tese a ser apreciado e aprovado pelo Colegiado do PPGECAM.
+§1º O plano de Dissertação/Tese, citado no caput deste artigo, deverá conter título,
+objetivo, material e método a ser utilizado, cronograma de desenvolvimento, indicativo de
+orçamento, resultados esperados e referências bibliográficas básicas.
+§2º O prazo máximo para submeter o plano de Dissertação/Tese é o final do primeiro
+ano letivo do aluno no PPGECAM.
+§3º Não tendo sido atendidos os prazos estabelecidos no caput deste artigo, o
+Coordenador convocará Comissão Administrativa para emitir parecer sobre o aspecto
+acadêmico da questão e, se for o caso, para opinar sobre o cancelamento da bolsa e/ou
+desligamento do aluno, cujas conclusões serão enviadas ao Colegiado do Programa para as
+devidas deliberações.
+Art. 42. Para o mestrado será exigido a realização de um exame de pré-banca a ser
+definida pelo Colegiado do Programa, em resolução específica.
+§1º O prazo limite para realização da pré-banca é 18 meses, a contar da data de
+ingresso do aluno no Programa.
+§2º Para realização da pré-banca todos os créditos exigidos deverão ter sido
+completados.
+§3º O não cumprimento desses pré-requisitos implicará no desligamento do aluno do
+Programa.
+Art. 43. Para o doutorado será exigido a realização de um exame de qualificação a ser
+definido pelo Colegiado do Programa, em resolução específica.
+§1º O prazo limite para realização deste exame é 24 meses, a contar da data de
+ingresso do aluno no doutorado do Programa.
+§2º Para realização da qualificação todos os créditos exigidos deverão ter sido
+completados.
+§3º O não cumprimento desses pré-requisitos implicará no desligamento do aluno do
+Programa.
+Art. 44. Para defesa do trabalho final, deverão ser atendidos os requisitos do artigo 77
+do Regulamento Geral da UFPB.
+Art. 45. A forma de apresentação das Dissertações/Teses deverá obedecer às normas
+definidas pelo Colegiado do PPGECAM.
+Art. 46. A possibilidade de plágio será avaliada por uma comissão de integridade em
+pesquisa, antes da homologação da defesa da dissertação ou tese.
+Parágrafo único: A instituição dessa comissão deverá ser feita num prazo máximo de
+180 dias.
+
+
+
+Art. 47. As comissões ou bancas examinadoras terão suas composições especificadas
+pelo artigo 82 do Regulamento Geral da UFPB, a partir de sugestões do Orientador.
+§1º Após a sessão de apresentação ou defesa do Trabalho Final, a banca reunir-se-á
+secretamente para emissão do conceito final constantes do caput do artigo 83 do Regulamento
+Geral da UFPB.
+§2º O Orientador encaminhará à Coordenação o relatório final, em formulário próprio
+da PRPG, para homologação pelo Colegiado do PPGECAM.
+§3º Outras requisitos para formação da banca e perfil do membro externo serão
+definidas em resoluções internas do PPGECAM.
+CAPÍTULO XII
+DA OBTENÇÃO DO GRAU
+Art. 48. Para obter o respectivo grau de Mestre ou Doutor, deverá o aluno, dentro do
+prazo regimental, ter satisfeito às exigências do Regimento Geral da UFPB, deste
+Regulamento, assim como requisitos estabelecidos em resoluções internas do PPGECAM.
+Art. 49. A homologação do relatório final do Orientador pressupõe a entrega pelo
+aluno de 03 (três) exemplares e de 02 (duas) cópias em mídia digital de sua respectiva
+Dissertação ou Tese, na versão final.
+Parágrafo único. A homologação pelo Colegiado do Programa estará condicionada,
+também, à comprovação pelo aluno de que:
+a) no caso de alunos de mestrado, ter submetido pelo menos um artigo científico completo
+relacionado com o assunto de sua Dissertação, em periódico internacional ou nacional de
+reconhecida qualidade, definida de acordo com resolução interna do Programa;
+b) no caso de alunos de doutorado, ter submetido pelo menos dois artigos completos
+relacionados com o assunto de sua Tese, em periódico(s) internacional ou nacional de
+reconhecida qualidade, definida de acordo com resolução interna do Programa.
+Art. 50. Além da documentação exigida pelo Regulamento Geral da UFPB, no seus
+artigos 84 e 85, o aluno estará obrigado a apresentar 01 (uma) cópia impressa da
+Dissertação/Tese na Coordenação do Programa.
+Parágrafo único. A Coordenação do Programa terá um prazo máximo de 6 meses, a
+contar da data de homologação do relatório final do Orientador pelo Colegiado, para
+encaminhar à PRPG processo de solicitação de expedição dos respectivos Diplomas.
+
+CAPÍTULO XIII
+DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+Art. 51. Para melhor operacionalizar a execução do planejamento acadêmico do
+Programa de acordo com os termos deste Regulamento e das normas vigentes na UFPB, a
+Coordenação, antes de cada período letivo a ser executado, deverá elaborar e dar ampla
+
+
+
+divulgação a um calendário escolar, contendo os prazos e os períodos definidos para a
+matrícula prévia, matrícula em disciplinas, ajustamento de matrícula, trancamento de
+matrícula em disciplinas, interrupção de estudos e demais atividades acadêmicas.
+Art. 52. Os mestrandos e doutorandos regularmente matriculados no atual Programa
+de Pós-Graduação em Engenharia Civil e Ambiental poderão passar a ser regidos por este
+Regulamento, mediante solicitação formal.
+Art. 53. Os casos omissos serão analisados pelo Colegiado do PPGECAM, em
+primeira instância, cabendo questionamento nas instâncias superiores da estrutura da
+Universidade Federal da Paraíba, obedecida a tramitação normal vigente.
+Art. 54. Este Regulamento, Anexo I à Resolução nº 42/2016 do Consepe, entrará em
+vigor na data de sua assinatura, revogadas as disposições em contrário.
+
+
+
+ANEXO II À RESOLUÇÃO Nº 42/2016 DO CONSEPE
+ESTRUTURA ACADÊMICA DO PROGRAMA DE PÓS-GRADUAÇÃO STRICTO
+SENSU EM ENGENHARIA CIVIL E AMBIENTAL, EM NÍVEL DE MESTRADO
+ACADÊMICO E DOUTORADO, MINISTRADO PELO CENTRO DE TECNOLOGIA
+I – DISCIPLINAS DA ESTRUTURA ACADÊMICA
+A – DISCIPLINA OBRIGATÓRIA:
+Nº IDENTIFICAÇÃO
+DA
+DISCIPLINA
+1
+
+Metodologia
+Pesquisa
+
+da
+
+CARGA DEPARTAMENTO
+HOR.(**) RESPONSÁVEL(*)
+
+NÚMERO DE
+CRÉDITOS
+TEOR. PRÁT. TOTAL
+2
+0
+2
+
+30
+
+DECA
+
+B – DISCIPLINAS OPTATIVAS TRONCO COMUM (TODAS AS ÁREAS):
+Nº IDENTIFICAÇÃO
+DAS
+DISCIPLINAS
+1
+
+2
+3
+
+4
+
+Estatística
+e
+Planejamento
+de
+Experimentos
+Estudo de Impacto
+Ambiental
+Tópicos Especiais
+em
+Engenharia
+Civil e Ambiental
+(***)
+Geoprocessamento
+
+CARGA DEPARTAMENTO
+HOR.(**) RESPONSÁVEL(*)
+
+NÚMERO DE
+CRÉDITOS
+TEOR. PRÁT. TOTAL
+3
+0
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+1-4
+
+0
+
+1-4
+
+15-60
+
+DECA/DA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+
+
+C – DISCIPLINAS OPTATIVAS
+C.1 – ENGENHARIA URBANA
+Nº IDENTIFICAÇÃO
+DAS
+DISCIPLINAS
+1
+2
+3
+4
+5
+6
+
+7
+
+Transportes e Meio
+Ambiente
+A Cidade e o
+Urbanismo
+Planejamento
+Urbano e Ambiental
+Conforto Ambiental
+Urbano
+Mobilidade Urbana
+Clima
+e
+Planejamento
+Urbano
+Sensoriamento
+Remoto Aplicado a
+Recursos Naturais
+em
+Ambientes
+Urbanos
+
+CARGA DEPARTAMENTO
+HOR.(**) RESPONSÁVEL(*)
+
+NÚMERO DE
+CRÉDITOS
+TEOR. PRÁT. TOTAL
+3
+0
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA e DA
+
+3
+
+0
+
+3
+
+45
+
+DECA e DA
+
+3
+
+0
+
+3
+
+45
+
+DA e DECA
+
+3
+3
+
+0
+0
+
+3
+3
+
+45
+45
+
+DECA e DA
+DECA e DA
+
+3
+
+0
+
+3
+
+45
+
+DGC e DECA
+
+C.2 – SANEAMENTO AMBIENTAL
+Nº IDENTIFICAÇÃO
+DAS
+DISCIPLINAS
+1
+2
+3
+
+4
+5
+
+NÚMERO DE
+CRÉDITOS
+
+TEOR. PRÁT. TOTAL
+Poluição e Proteção
+4
+0
+4
+das Águas Naturais
+Gestão de Resíduos
+4
+0
+4
+Sólidos
+Otimização
+em
+3
+0
+3
+Sistemas
+de
+Saneamento
+Poluição
+3
+0
+3
+Atmosférica
+Processos
+3
+0
+3
+Avançados
+
+CARGA DEPARTAMENTO
+HOR.(**) RESPONSÁVEL(*)
+
+60
+
+DECA
+
+60
+
+DECA
+
+45
+
+DECA
+
+45
+
+DQ e DECA
+
+45
+
+DECA
+
+
+
+6
+
+7
+8
+
+aplicados
+ao
+Tratamento
+de
+Efluentes
+Técnicas Especiais
+de Tratamento de
+Água
+Tratamento e Reuso
+de Efluentes
+Tratamento
+e
+disposição
+de
+resíduos Sólidos
+
+4
+
+0
+
+4
+
+60
+
+DQ e DECA
+
+4
+
+0
+
+4
+
+60
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+C.3 – ESTRUTURAS E MATERIAIS
+Nº IDENTIFICAÇÃO
+DAS
+DISCIPLINAS
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+Teoria
+da
+Elasticidade
+Qualidade
+e
+Durabilidade
+das
+Obras Urbanas
+Método
+dos
+Elementos Finitos
+Dinâmica
+das
+Estruturas
+Modelos
+Reológicos
+para
+Materiais
+Estruturais
+Materiais
+de
+Construção
+e
+Adequação
+Ambiental
+Tecnologia
+de
+Argamassas
+e
+Concretos
+Desempenho
+de
+Edificações
+
+CARGA DEPARTAMENTO
+HOR.(**) RESPONSÁVEL(*)
+
+NÚMERO DE
+CRÉDITOS
+TEOR. PRÁT. TOTAL
+4
+0
+4
+
+60
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA/DA
+
+4
+
+0
+
+4
+
+60
+
+DECA
+
+3
+
+0
+
+3
+
+45
+
+DECA
+
+
+
+C.4 – RECURSOS HÍDRICOS
+Nº IDENTIFICAÇÃO
+DAS
+DISCIPLINAS
+1
+2
+3
+
+4
+5
+
+6
+7
+
+CARGA DEPARTAMENTO
+NÚMERO DE
+HOR.(**) RESPONSÁVEL(*)
+CRÉDITOS
+TEOR. PRÁT. TOTAL
+Engenharia
+de
+3
+0
+3
+45
+DECA
+Recursos Hídricos
+Hidrologia Aplicada
+3
+0
+3
+45
+DECA
+Gestão de Riscos e
+3
+0
+3
+45
+DECA
+Desastres
+Ambientais
+Modelagem
+3
+0
+3
+45
+DECA
+Ambiental
+Drenagem Urbana e
+4
+0
+4
+60
+DECA
+Controle
+de
+Inundações
+Análises
+3
+0
+3
+45
+DECA
+Geoespaciais
+Modelagem
+3
+0
+3
+45
+DECA
+Hidrológica
+
+D – ATIVIDADES ACADÊMICAS
+Nº
+
+1
+2
+
+NÚMERO DE
+IDENTIFICAÇÃO
+CARGA DEPARTAMENTO
+CRÉDITOS
+DAS
+HOR.(**) RESPONSÁVEL(*)
+ATIVIDADES
+TEOR. PRÁT. TOTAL
+Estudos Especiais
+1-4
+0
+1-4
+15-60
+DECA/DA
+(***)
+Estágio Docência
+0
+1
+1
+30
+DECA/DA
+(****)
+
+Obs.:
+(*)
+DECA – Departamento de Engenharia Civil e Ambiental do CT
+DA – Departamento de Arquitetura do CT
+DGC – Departamento de Geociências do CCEN
+DQ – Departamento de Química do CT
+(**)
+1 crédito teórico = 15 horas-aula de atividades teóricas de ensino
+1 crédito prático = 30 horas-aula de atividades práticas de ensino
+(***) disciplina com crédito e carga horária variáveis (mínimo-máximo), sendo que para o
+mestrado o máximo é 2 créditos e para o doutorado o máximo é 4 créditos
+(****) atividade acadêmica a ser desenvolvida pelo aluno nos termos da Resolução nº 26/99
+do CONSEPE e do artigo 32 do Regulamento do Programa.
+
+
+
+II - EMENTÁRIO
+METODOLOGIA DA PESQUISA
+Desenvolvimento de um trabalho de pesquisa; Métodos e técnicas de pesquisa; Elaboração de
+artigos científicos. Apresentação de projeto de dissertação.
+ESTATÍSTICA E PLANEJAMENTO DE EXPERIMENTOS
+Probabilidade. Distribuição de Probabilidade: discreta e contínua. Amostragem, Estimação,
+Teste de Hipótese e Análise de Variância. Aplicação em Problemas de Engenharia. Aplicação
+de softwares em problemas de Engenharia Urbana e Ambiental; Princípios básicos no projeto
+de experimentos; Estratégias de experimentação; Procedimentos para conceber experimentos;
+Seleção do número de observações; Modelagem empírica: análise de variância; significância
+estatística; Análise fatorial.
+ESTUDO DE IMPACTO AMBIENTAL
+Aspectos políticos, econômicos e legislativos da avaliação de impacto ambiental. O
+planejamento e as fases da avaliação. Metodologia do diagnóstico ambiental. A previsão de
+impactos sobre os meios físicos e biológico e as medidas mitigadoras dos efeitos negativos. A
+marca dos seres vivos sobre o meio. O impacto do homem e mecanismos de degradação
+antrópica. O estudo dos fenômenos de degradação. Riscos e calamidades. O monitoramento.
+Elaboração e análise de relatórios.
+GEOPROCESSAMENTO
+Introdução ao Geoprocessamento (conceitos básicos). Representação espacial de dados
+geográficos. Noções cartográficas necessárias para o trabalho com geoprocessamento. Tipos
+de dados geográficos. Georreferenciamento da base de dados. Técnicas de entrada e
+conversão de dados em SIG's. Representação computacional de dados geográficos. Modelos
+de estrutura de dados em SIG's. Técnicas de análise espacial em SIG's. Consulta a bancos de
+dados espaciais. Produção cartográfica. Integração Sensoriamento Remoto-SIG. Sistemas de
+Suporte à Decisão Espaciais. Novas tecnologias. Aplicações em Engenharia Ambiental.
+TRANSPORTES E MEIO AMBIENTE
+Análise da relação transportes e meio ambiente; Estudo dos tipos de impactos gerados;
+Estratégias de mitigação; Sustentabilidade dos meios de transporte; Transporte não
+motorizado.
+A CIDADE E O URBANISMO
+A história da cidade pré-industrial; A cidade após a industrialização; A dinâmica da
+urbanização contemporânea; Evolução das morfologias urbanas; A problemática ambiental
+urbana; A questão habitacional; A cidade na estruturação territorial.
+PLANEJAMENTO URBANO E AMBIENTAL
+Aspectos conceituais e estruturais da prática do planejamento urbano. O planejamento e a
+questão ambiental urbana. Posturas históricas recentes de planejamento frente à produção do
+
+
+
+espaço urbano. O processo de planejamento urbano e ambiental participativo e integrado.
+Localização, acessibilidade, ocupação e o uso do solo urbano. Assentamentos habitacionais e
+de interesse social. O planejamento urbano sustentável. A gestão da qualidade de vida e da
+qualidade ambiental urbana.
+CONFORTO AMBIENTAL URBANO
+Conforto ambiental urbano. Fenômenos ambientais urbanos. Microclimas urbanos.
+Ventilação, iluminação e insolação no meio urbano. Ruído e acústica urbana. As fontes de
+dados, técnicas de pesquisa, medição e estimativa.
+MOBILIDADE URBANA
+Sistema de transporte urbano, acessibilidade e mobilidade na cidade. Análise da mobilidade
+urbana e do seu papel no desenvolvimento e na qualidade de vida das cidades; aspectos
+sociais, econômicos, políticos e ambientais da mobilidade; organização e integração dos
+meios de transporte e sustentabilidade urbana; estudo das interfaces entre a configuração
+urbana, o uso do solo e a demanda por transporte.
+CLIMA E PLANEJAMENTO URBANO
+Clima. Hierarquização dos espaços climáticos. A cidade e o Clima Urbano. Fenômenos
+climáticos urbanos, ocupação do solo, morfologia urbana e repercussões sobre o clima. As
+fontes de dados, técnicas de pesquisa e medição.
+SENSORIAMENTO REMOTO APLICADO A RECURSOS NATURAIS EM
+AMBIENTES URBANOS
+Fundamentos de Sensoriamento Remoto. A cartografia e a produção de mapas. Tecnologias
+para aquisição de dados espaciais. Processamento digital de imagens aplicado a estudos
+urbanos. Registro de imagens. Classificação de imagens orbitais. Sensoriamento Remoto no
+estudo da vegetação. Mistura espectral linear. Delimitação de corpos hídricos e estimativa de
+evapotranspiração por imagens de satélite. Mapeamento da dinâmica do uso e ocupação do
+solo urbano. Aplicações na Engenharia Urbana.
+POLUIÇÃO E PROTEÇÃO DAS ÁGUAS NATURAIS
+Usos múltiplos dos recursos hídricos. Requisitos de qualidade de água tratada. Eficiência dos
+métodos de tratamento de água e o padrão mínimo de qualidade a ser mantido nos
+mananciais. Índices de qualidade da água. Poluições das águas naturais. Controle da poluição
+das águas naturais que servem ao abastecimento - Aspectos técnicos da Legislação Brasileira.
+Levantamento de cargas poluidoras e enquadramento dos cursos de água. Assimilação de
+cargas poluidoras pelos corpos hídricos. Noções sobre tratamento de esgotos. Faixa de
+segurança para proteção de mananciais - Aspectos técnicos, econômicos e legais.
+Planejamento territorial e a preservação dos recursos hídricos.
+GESTÃO DE RESÍDUOS SÓLIDOS
+Introdução Geral. Classificação dos resíduos sólidos: domiciliar, comercial, público, de
+serviços de saúde, industrial, agrícola e de construção e demolição. Gestão de resíduos
+sólidos: prevenção da poluição. Gerenciamento dos resíduos sólidos: coleta, transporte,
+acondicionamento, tratamento e disposição final. Coleta seletiva. Usinas de triagem.
+
+
+
+Compostagem. Tratamento térmico. Recuperação de áreas degradadas por resíduos sólidos.
+Legislação.
+OTIMIZAÇÃO EM SISTEMAS DE SANEAMENTO
+Métodos de dimensionamento otimizados das redes urbanas de distribuição. Operação de
+redes e elevatórias (modelo Epanet). Controle e redução de perdas de água em sistemas de
+abastecimento. Eficiência energética em redes e elevatórias (redução do consumo de energia
+elétrica). Automação de sistemas de abastecimento de água. Reabilitação de sistemas de
+distribuição de água. Tecnologias de aproveitamento do biogás de esgotos sanitários e
+resíduos sólidos orgânicos.
+POLUIÇÃO ATMOSFÉRICA
+Fundamentos da poluição do ar. Composição e estrutura da atmosfera. Reações fotoquímicas
+na atmosfera, smog, camada de ozônio e efeito estufa. Princípios da combustão e cálculo de
+emissões. Principais poluentes atmosféricos e seus impactos ambientais. Dispersão de
+poluentes na atmosfera. Chuvas ácidas. Vantagens do uso de combustíveis renováveis
+provenientes da transformação de biomassa. Monitoramento de poluentes atmosféricos:
+métodos e equipamentos de amostragem. Controle de efluentes gasosos: métodos e
+equipamentos de controle de partículas e gases.
+PROCESSOS AVANÇADOS APLICADOS AO TRATAMENTO DE EFLUENTES
+Caracterização de Efluentes industriais; Processos Físicos: adsorção e filtração de
+membranas; Processos Químicos: Floculação e Decantação; Flotação; Processo oxidativos
+avançados: conceitos e definições; mecanismo da oxidação avançada; utilização de H²0² e
+combinações; reagente de Fenton: homogêneo e heterogêneo; processos fotoquímicos;
+fotocatálise heterogênea; princípios de adsorção; cinética das reações químicas.
+TÉCNICAS ESPECIAIS DE TRATAMENTO DE ÁGUA
+Processos gerais e operações unitárias de tratamento de água para abastecimento. Métodos
+especiais de tratamento visando a redução de: dureza, ferro, manganês, corrosão, cor e sabor.
+Projeto, operação e manutenção de estação convencional de tratamento de água. Técnicas
+avançadas de tratamento de água. Unidades complementares de uma estação de tratamento de
+água. Técnicas de controle de eficiência das diversas unidades de uma estação de tratamento.
+Noções de tratamento de lodo de estações de tratamento.
+TRATAMENTO E REUSO DE EFLUENTES
+Caracterização quantitativa e qualitativa de águas residuárias domiciliares. Processos físicos,
+químicos e biológicos de tratamento de águas residuárias domiciliares. Reuso de águas
+residuárias domiciliares na agricultura e aquicultura.
+TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS SÓLIDOS
+Introdução Geral. Legislação. Aspectos de valorização dos resíduos sólidos urbanos. Aterro
+sanitário. Incineração. Compostagem. Metanização. Pré-tratamento Mecânico e Biológico.
+
+
+
+Tratamento e disposição final de resíduos de serviço de saúde, resíduos perigosos e resíduos
+da construção e demolição.
+TEORIA DA ELASTICIDADE
+Operações com tensores. Cinemática. Pequenas e grandes deformações. Tensões de Cauchy e
+Piola-Kirchhoff Ie II. Equacoes gerais da elasticidade; problemas em 3d; problemas
+bidimensionais em coordenadas catesianas e polares; torção; problemas tridimensionais e
+outros tópicos; Problemas bidimensionais em coordenadas retangulares: flexão de vigas. Idem
+em coordenadas polares: equações gerais. Estados planos de tensões e deformações. Equações
+diferenciais de equilíbrio. Condições de contorno. Equações de compatibilidade. Casos
+Simétricos: cilindros, anéis, discos. Cargas concentradas em meio elásticos infinitos e semiinfinitos. Métodos energéticos. Energia potencial elástica. Princípio dos trabalhos virtuais.
+QUALIDADE E DURABILIDADE DAS OBRAS URBANAS
+Qualidade nas obras urbanas; obras de infraestrutura urbana; a atmosfera urbana como fonte
+de agressividade às obras inseridas no meio urbano; mecanismos de deterioração das
+construções; medidas preventivas para assegurar durabilidade; reabilitação das construções.
+MÉTODO DOS ELEMENTOS FINITOS
+O contínuo e sua modelização. Princípios Variacionais e os Métodos dos Resíduos
+Ponderados. Princípio da Energia Potencial Elástica. Método de Rayleigh-Ritz. O Método dos
+Elementos Finitos (MEF). Diretrizes gerais e soluções específicas de: estruturas
+reticuladas,estruturas laminares planas e dinâmica estrutural Formulação isoparamétrica.
+Funções de interpolação, funções hierárquicas. Integração numérica, técnicas de mapeamento.
+Estado plano de tensões e deformações, análise tridimensional de tensões, sólidos de
+revolução, elementos de flexão para placas e cascas. Procedimentos computacionais para o
+método dos elementos finitos.
+DINÂMICA DAS ESTRUTURAS
+Conceitos básicos de Dinâmica e caracterização do problema de vibração. Obtenção da
+Equação de Movimento dinâmica. Sistemas de um grau de liberdade (S1GL). Vibrações livres
+com e sem amortecimento. Vibrações Forçadas. Sistemas de vários graus de liberdade.
+Estruturas sujeitas à vibrações: passarelas, arquibancadas. Aplicações: isolamento de
+vibrações, absorvedores de vibração.
+MODELOS REOLÓGICOS PARA MATERIAIS ESTRUTURAIS
+Critérios clássicos de escoamento e ruptura. Teorias clássicas de plasticidade. Aplicacões a
+análise limite com rótulas plásticas e linhas de ruptura. Noções de viscoelasticidade linear.
+Propriedades elásticas e mecânicas dos aços estruturais e da madeira. Produtos siderúrgicos e
+poliméricos. Madeira: caracterização química e física, durabilidade frente aos agentes
+agressivos. Critérios de resistência: LRFD e ASD. Critérios de ruptura para concreto simples
+e armado, aço e madeira. Relações constitutivas para o concreto armado, concreto simples,
+aço e madeira.
+
+
+
+MATERIAIS DE CONSTRUÇÃO E ADEQUAÇÃO AMBIENTAL
+Ciclo de vida de materiais. Impacto dos materiais de construção industrializados no meio
+ambiente. Conceito de materiais não convencionais. Potencial de aproveitamento de resíduos.
+Materiais de substituição parcial do cimento. Materiais alternativos de construção: terra crua,
+bambu, fibras vegetais. Novos materiais cimentícios.
+TECNOLOGIA DE ARGAMASSAS E CONCRETOS
+Revisão dos materiais para composição de argamassas e concretos: aglomerante, agregados,
+adições e aditivos. Discussão dos conceitos de requisitos e critérios de desempenho de
+argamassas e concretos. Discussão dos fatores intervenientes do desempenho de uma
+argamassa e de um concreto. Fatores intervenientes nas dosagens de argamassas e concretos.
+Ensaios de laboratório para caracterização das argamassas e concretos nos estados fresco e
+endurecido. Argamassas com gesso e com entulho de construção civil: caracterização nos
+estados fresco e endurecido. Métodos de controle tecnológico do material concreto. Estrutura
+interna e propriedades do concreto (Características do concreto no estado fresco e
+Características do concreto no estado endurecido). Discussão dos Métodos de dosagem.
+Trabalho de laboratório com a caracterização dos materiais constituintes, estudo do método de
+dosagem, traço piloto, dosagem do concreto, ensaios no estado fresco, cura do concreto e
+ensaios no estado endurecido.
+DESEMPENHO DE EDIFICAÇÕES
+Abordagens sobre o desempenho de edifícios. Requisitos de desempenho para os sistemas
+estruturais. Desempenho termo-acústico de edificações. Desempenho ambiental dos edifícios.
+Avaliação do desempenho de edificações sob o foco do usuário. Critérios de projeto e
+sustentabilidade de edificações.
+ENGENHARIA DE RECURSOS HÍDRICOS
+Canais de condução e de drenagem. Estruturas de retenção e de armazenamento de água.
+Vertedores. Dissipadores de energia. Eclusas. Tomadas d’água. Comportas. Sifões. Sistemas
+de transposição de peixes. Aqüíferos e poços. Sistemas pressurizados de distribuição de água.
+Sistemas de esgotamento sanitário. Restauração de rios em bacias urbanas.
+HIDROLOGIA APLICADA
+Ementa: Hidrometeorologia; Quantificação e distribuição das chuvas; Infiltração; Relação
+chuva-deflúvio; Dimensionamento e operação de reservatórios; Hidrologia Urbana.
+GESTÃO DE RISCOS E DESASTRES AMBIENTAIS
+A Terra como sistema; Conceitos básicos de riscos de desastre; Mitigação da degradação do
+meio ambiente; Ações práticas para redução da vulnerabilidade dos desastres ambientais;
+Recursos para o manejo do meio ambiente.
+MODELAGEM AMBIENTAL
+Introdução (Conceitos básicos e históricos do uso de modelos). Revisão dos conceitos da
+matemática para engenheiros. Simulação e controle de processos de sistemas ambientais.
+Modelos matemáticos: classificação, usos, objetivos e princípios usados na formulação. Leis e
+equações básicas: continuidade, energia, quantidade de movimento, transporte difusivo,
+
+
+
+equações de estado, equilíbrio, cinética. Aplicação de métodos numéricos no processo de
+simulação. Modelagem matemática de sistemas ambientais: quantificação e qualificação de
+processos. Simulação do processo de
+dispersão de poluentes em corpos hídricos. Calibração e validação (Método das tentativas e
+erros e Métodos Automáticos). O processo de simulação computacional. Modelagem de
+processos ambientais (Estudos de caso).
+DRENAGEM URBANA E CONTROLE DE INUNDAÇÕES
+Identificação dos impactos da ocupação urbana sobre o ciclo hidrológico: aspectos
+quantitativos e qualitativos; Aspectos sobre o monitoramento hidrológico em bacias urbanas;
+Modelagem matemática do escoamento em bacias urbanas: representação espacial e temporal
+dos processos hidrológicos, modelos chuva-vazão, modelos de propagação de cheia em canais
+e em reservatórios de detenção; Sistemas de drenagem urbana: Microdrenagem e
+Macrodrenagem; Medidas para o controle de cheia: soluções compensatórias e medidas não
+estruturais de controle de inundações (princípios de funcionamento, dimensionamento e
+aplicação). Gerenciamento da drenagem urbana: mecanismos institucionais e de gestão.
+ANÁLISES GEOESPACIAIS
+Optativa: Carga Horária: 45 Créditos: 03
+Ementa: Fundamentos de Sensoriamento Remoto, Classificação e fusão de imagens de
+satélite. Mapeamento do uso do solo. Mapeamento de vias urbanas. Índices de vegetação.
+Álgebra de mapas. Modelo Numérico do Terreno (MNT). Direções de fluxo, áreas
+acumuladas e rede de drenagem. Caracterização automatizada de bacias hidrográficas.
+Análise de erros na representação geográfica de traçados. Perfis longitudinais e transversais.
+Processamentos avançados do MNT. Séries temporais de imagens de satélite.
+MODELAGEM HIDROLÓGICA
+Modelos e simulação: conceituação. Modelos chuva-vazão. Modelos hidrossedimentológicos.
+Modelos de escoamento de rios e canais. Modelos de propagação de cheias. Aspectos práticos
+do uso de modelos.
+TÓPICOS ESPECIAIS EM ENGENHARIA CIVIL E AMBIENTAL
+Em função da abrangência desse tópico, a disciplina, de caráter complementar, deverá ser
+ministrada com ênfase naqueles tópicos de maior interesse e não abrangidos pelas demais
+disciplinas.
+ESTUDOS ESPECIAIS
+Atividade acadêmica a ser desenvolvida pelo aluno, sob coordenação de seu orientador, nos
+termos da Resolução 85/11 do CONSEPE.
+ESTÁGIO DOCÊNCIA
+Atividade acadêmica a ser desenvolvida pelo aluno nos termos da Resolução 26/99 do
+Consepe.

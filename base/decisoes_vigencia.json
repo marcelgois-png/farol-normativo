@@ -1,0 +1,184 @@
+{
+  "descricao": "Decisões de vigência tomadas a partir da leitura direta dos textos na 2ª conferência independente (18/10/2026). Cada decisão traz o fundamento e a fonte. A base aplica estas decisões por cima das regras automáticas; elas não alteram o texto das normas.",
+  "situacao": [
+    {
+      "norma": "UFPB-CONSEPE-RES-15-2003",
+      "situacao": "revogada",
+      "situacao_base": "revogada expressamente pela UFPB-CONSEPE-RES-73-2006 (ementa e art. 34). A UFPB-CONSEPE-RES-60-2013 altera o Anexo I (agrupamento de cursos) desta norma já revogada; pela LINDB (art. 2º, § 3º) não há repristinação tácita, e a alteração não restabelece a vigência. Divergência registrada (D45).",
+      "fundamento": "Revogação expressa e integral; a 73/2006 e a 27/2009 não contêm o agrupamento, mas isso não devolve a vigência à norma revogada.",
+      "fonte": "conferência independente 2, item 52",
+      "divergencia": "D45"
+    },
+    {
+      "norma": "UFPB-CONSEPE-RES-03-1996",
+      "situacao": "revogada",
+      "situacao_base": "revogada pela UFPB-CONSEPE-RES-51-2007 (art. 12), com ressalva aos alunos que ingressaram sob sua vigência. A UFPB-CONSEPE-RES-13-2014 declara alterar a '03/96 que aprova o projeto pedagógico (Bacharelado e Licenciatura)', descrição que corresponde à 51/2007: provável erro material da 13/2014 (D46).",
+      "fundamento": "Revogação expressa com ressalva de ultratividade; a alteração posterior recai sobre norma revogada.",
+      "fonte": "conferência independente 2, item 53",
+      "divergencia": "D46"
+    },
+    {
+      "norma": "UFPB-CONSEPE-RES-55-1995",
+      "situacao": "conflito de vigência (ver divergências)",
+      "situacao_base": "A UFPB-CONSEPE-RES-10-2000 (27/04/2000) revoga esta norma; a UFPB-CONSEPE-RES-17-2000 (21/08/2000), do mesmo processo, 'modifica a Resolução nº 55/95' e republica o regulamento da Creche-Escola; a UFPB-CONSEPE-RES-20-2019 menciona a 55/1995 'alterada pela 17/2000'. Leitura literal (LINDB, art. 2º, § 3º): revogada desde 2000. Prática institucional: o regulamento aplicado é o anexo da 17/2000. Conflito registrado (D44), não resolvido.",
+      "fundamento": "Revogação expressa seguida de alteração no mesmo processo; não cabe ao acervo escolher a leitura.",
+      "fonte": "conferência independente 2, item 51",
+      "divergencia": "D44"
+    },
+    {
+      "norma": "UFPB-CONSUNI-RES-257-1979",
+      "situacao": "conflito de vigência (ver divergências)",
+      "situacao_base": "O art. 14 do regimento anexo à UFPB-CONSUNI-RES-44-2018 (Assessoria de Controle Interno) declara revogada 'a Resolução nº 257/79' por inteiro; o art. 2º desse regimento mostra que o alvo eram os dispositivos da antiga Auditoria (AAI/AEAI) no Regimento da Reitoria. As UFPB-CONSUNI-RES-20-2019 e UFPB-CONSUNI-RES-08-2024 continuam alterando a 257/79, e a SODS mantém o texto consolidado. Leitura literal: revogação integral; leitura sistemática: revogação dos dispositivos da AAI. Conflito registrado (D47), não resolvido.",
+      "fundamento": "Revogação literal integral desmentida pelo contexto e por atos posteriores do mesmo Conselho.",
+      "fonte": "conferência independente 2, item 55",
+      "divergencia": "D47"
+    },
+    {
+      "norma": "UFPB-CONSEPE-RES-12-2025",
+      "situacao": "conflito de vigência (ver divergências)",
+      "situacao_base": "A UFPB-CONSEPE-RES-32-2026 (Regulamento do PPG em Agronomia) declara revogar 'a Resolução nº 12/2025 do CONSEPE', mas esta aprova o PPC do Curso de Tecnologia em Gestão em Saúde EAD. A norma que a 32/2026 substitui é a UFPB-CONSEPE-RES-12-2015 (Regulamento do PPG em Agronomia): provável erro material de ano. Até retificação, a revogação literal existe; conflito registrado (D48), não resolvido.",
+      "fundamento": "Revogação expressa de norma de assunto distinto, com alvo provável identificado.",
+      "fonte": "conferência independente 2, item 62",
+      "divergencia": "D48"
+    },
+    {
+      "norma": "UFPB-CONSEPE-RES-35-2006",
+      "situacao": "conflito de vigência (ver divergências)",
+      "situacao_base": "A UFPB-CONSEPE-RES-57-2010 (art. 8º) declara revogada 'a Resolução nº 35/2006', com ressalva aos alunos antigos; a 35/2006 apenas cria o curso, e o PPC substituído é a UFPB-CONSEPE-RES-36-2006. Provável erro material (D50); revogar o ato de criação extinguiria o curso, efeito não pretendido. Conflito registrado, não resolvido.",
+      "fundamento": "Revogação expressa de ato de criação com ressalva curricular (indício de alvo trocado).",
+      "fonte": "conferência independente 2, item 65",
+      "divergencia": "D50"
+    },
+    {
+      "norma": "UFPB-CONSUNI-RES-01-2008",
+      "situacao": "alterada",
+      "situacao_base": "alterada pelas UFPB-CONSUNI-RES-23-2008 e UFPB-CONSUNI-RES-24-2008 (criação de departamentos) e pela UFPB-CONSUNI-RES-26-2014. A UFPB-CONSUNI-RES-14-2014 aprovou 'o novo Regimento do Centro de Tecnologia' sem revogar expressamente este (só 'revogam-se as disposições em contrário'); como regula inteiramente a matéria, há revogação tácita (LINDB, art. 2º, § 1º), registrada como sugestão. Três meses depois, a 26/2014 ainda altera a alínea 'a' do inciso I do art. 11 'do Regimento do Centro de Tecnologia aprovado pela Resolução nº 1/2008' (Departamento de Arquitetura passa a 'Departamento de Arquitetura e Urbanismo (DAU)'); o art. 11 do regimento de 2014 não lista departamentos. Divergência registrada (D73).",
+      "fundamento": "Revogação tácita por norma que regula inteiramente a matéria, não declarada, seguida de alteração do regimento substituído; a mudança de denominação vale como ato do CONSUNI.",
+      "fonte": "leitura direta dos textos (CONSUNI 01/2008, 14/2014 e 26/2014), 18/10/2026",
+      "divergencia": "D73"
+    }
+  ],
+  "excluir_arestas": [
+    {
+      "origem": "UFPB-CONSEPE-RES-24-2018",
+      "destino": "UFPB-CONSEPE-RES-26-1996",
+      "base_contem": "SIGRH",
+      "motivo": "Registro do SIGRH com o conselho trocado: quem revoga a 26/96 é a UFPB-CONSUNI-RES-24-2018 ('revoga as Resoluções 26/96 e 07/97, do CONSEPE'), relação já registrada pelo texto. A CONSEPE 24/2018 trata do PPG em Desenvolvimento e Meio Ambiente.",
+      "fonte": "conferência independente 2, item 57; D53"
+    },
+    {
+      "origem": "UFPB-CONSUNI-RES-26-2011",
+      "destino": "UFPB-CONSUNI-RES-09-2010",
+      "base_contem": "SIGRH",
+      "motivo": "O SIGRH aponta a 09/2010 (PPG em Ciência Animal), mas o texto da CONSUNI 26/2011 (ementa e art. 21) revoga a UFPB-CONSUNI-RES-09-2000 (Ouvidor-Assistente).",
+      "fonte": "conferência independente 2, item 58; D53"
+    }
+  ],
+  "sugestoes": [
+    {
+      "origem": "UFPB-CONSEPE-RES-04-2015",
+      "destino": "UFPB-CONSEPE-RES-11-2011",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: a norma revoga expressamente a 39/2005, já revogada pela 11/2011; o regulamento substituído do PPG em Letras é a 11/2011)",
+      "obs": "O art. 85 do regulamento anexo à 04/2015 dá ultratividade à 11/2011 até 2014.2. Não aplicada à vigência; ver D49.",
+      "fonte": "conferência independente 2, item 63"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-57-2010",
+      "destino": "UFPB-CONSEPE-RES-36-2006",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: o art. 8º revoga a 35/2006, que cria o curso; o PPC substituído é a 36/2006)",
+      "obs": "Não aplicada à vigência; ver D50.",
+      "fonte": "conferência independente 2, item 65"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-32-2026",
+      "destino": "UFPB-CONSEPE-RES-12-2015",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: a norma revoga a '12/2025'; o regulamento anterior do PPG em Agronomia é a 12/2015)",
+      "obs": "Não aplicada à vigência; ver D48.",
+      "fonte": "conferência independente 2, item 62"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-13-2014",
+      "destino": "UFPB-CONSEPE-RES-51-2007",
+      "tipo": "ALTERA",
+      "natureza": "sugestão (alvo provável: a norma altera a '03/96', revogada pela 51/2007, descrevendo o PPC aprovado pela 51/2007)",
+      "obs": "Não aplicada à vigência; ver D46.",
+      "fonte": "conferência independente 2, item 53"
+    },
+    {
+      "origem": "UFPB-CONSUNI-RES-02-2026",
+      "destino": "UFPB-CONSUNI-RES-19-2017",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (substituição integral do regimento: o art. 1º aprova novo Regimento do CCAE; revogação tácita — LINDB, art. 2º, § 1º)",
+      "obs": "Ver a aresta ALTERA da mesma origem e D57.",
+      "fonte": "conferência independente 2, item 80"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-30-2025",
+      "destino": "UFPB-CONSEPE-RES-11-2018",
+      "tipo": "REVOGA (parcial)",
+      "disp_destino": "dispositivos do mestrado",
+      "natureza": "sugestão (substituição tácita parcial: a 30/2025 revoga de novo a 51/2015 e a 13/2017, já revogadas pela 11/2018, e regula só o mestrado; a 11/2018 regula mestrado e doutorado)",
+      "obs": "Não aplicada à vigência; ver D59.",
+      "fonte": "conferência independente 3, itens 55 e 56"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-42-2022",
+      "destino": "UFPB-CONSEPE-RES-17-2014",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: o art. 1º revoga a 18/2013, já revogada pela 17/2014; o considerando diz revogar 'a resolução que aprovou o anterior Regulamento' do mestrado, que é a 17/2014)",
+      "obs": "Não aplicada à vigência; verificar a homologação do ad referendum da 17/2014. Ver D59.",
+      "fonte": "conferência independente 3, item 57"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-10-2013",
+      "destino": "UFPB-CONSEPE-RES-06-2009",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: a ementa revoga a 06/2008, já revogada pela 06/2009, regulamento do mesmo programa de Artes Visuais)",
+      "obs": "Não aplicada à vigência; a 10/2013 tem outros erros materiais (cabeçalho 'Universidade Federal de Pernambuco'; sessão de 2008). Ver D59 e D63.",
+      "fonte": "conferência independente 3, item 59"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-54-2014",
+      "destino": "UFPB-CONSEPE-RES-16-2007",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (alvo provável: a ementa revoga a 05/2006, já revogada pela 16/2007, regulamento do mesmo PPG em Comunicação)",
+      "obs": "Não aplicada à vigência. Ver D59.",
+      "fonte": "conferência independente 3, item 60"
+    },
+    {
+      "origem": "UFPB-CONSEPE-RES-41-2026",
+      "destino": "UFPB-CONSEPE-RES-23-2013",
+      "tipo": "REVOGA (total)",
+      "natureza": "sugestão (substituição tácita: a 41/2026 revoga a 25/2000, já revogada pela 34/2012; o PPC vigente de Estatística antes dela era o da 23/2013, que ela não cita)",
+      "obs": "Não aplicada à vigência. Ver D59.",
+      "fonte": "conferência independente 3, item 64"
+    }
+  ],
+  "arestas_manuais": [
+    {
+      "origem": "UFPB-CONSUNI-RES-02-2026",
+      "disp_origem": "ementa; art. 1º",
+      "destino": "UFPB-CONSUNI-RES-19-2017",
+      "disp_destino": "Regimento Interno do CCAE (norma inteira)",
+      "tipo": "ALTERA",
+      "base": "texto (alvo nomeado identificado manualmente)",
+      "confianca": "alta",
+      "trecho": "Altera o Regimento Interno do Centro de Ciências Aplicadas e Educação da Universidade Federal da Paraíba. Art. 1º Aprovar o Regimento do CCAE… conforme anexo I.",
+      "obs": "O texto altera o 'Regimento Interno do CCAE' sem citar o número; o regimento então vigente foi criado pela UFPB-CONSUNI-RES-19-2017 ('Cria o Regimento Interno do CCAE'). Identificação manual (D57).",
+      "fonte": "conferência independente 2, item 80"
+    }
+  ],
+  "suspender_arestas": [
+    {
+      "origem": "UFPB-CONSEPE-RES-11-2021",
+      "destino": "UFPB-CONSEPE-RES-28-2018",
+      "base_contem": "texto",
+      "motivo": "Erro material: a ementa da 11/2021 (PPG Zootecnia) revoga 'as Resoluções nº 59/2019 e 26/2018', e o art. 4º, 'as Resoluções nº 59/2019 e nº 28/2018'. A 28/2018 é do PPG Letras e foi revogada pela 47/2021, que trata desse programa; o alvo pretendido pela 11/2021 é a 26/2018 (Doutorado Integrado em Zootecnia).",
+      "fonte": "conferência independente 3, item 54",
+      "divergencia": "D60"
+    }
+  ]
+}

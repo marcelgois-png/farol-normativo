@@ -1,0 +1,23 @@
+{
+ "documentos_trocados": {
+  "UFPB-CONSEPE-RES-02-1987": "UFPB-CONSEPE-RES-02-1981",
+  "UFPB-CONSUNI-RES-12-2017": "UFPB-CONSEPE-RES-12-2017",
+  "UFPB-CONSEPE-RES-01-2021": "UFPB-CONSUNI-RES-01-2021",
+  "UFPB-CONSUNI-RES-01-2000": "UFPB-CONSEPE-RES-01-2000"
+ },
+ "ementas_corrigidas": 3,
+ "descricoes_de_nao_localizadas": 79,
+ "relacoes_rodada0_absorvidas": 32,
+ "revogacoes_de_anotacao_reclassificadas": 7,
+ "ementas_absorvidas_por_artigo": 475,
+ "revogacoes_por_remissao_generica": 1,
+ "relacoes_suspensas": 1,
+ "revogacoes_so_na_ementa": 145,
+ "transcritas": {
+  "reafirmação": 3
+ },
+ "bloqueios_hierarquicos": 1,
+ "derivadas_repetidas": 32,
+ "excluidas_por_decisao": 2,
+ "relacoes_de_documento_trocado": 19
+}

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Sobre · Farol Normativo UFPB{% endblock %}
+{% block conteudo %}
+<h1>Sobre o Farol</h1>
+<p class="lead">O Farol Normativo UFPB é um sistema de consulta ao ecossistema normativo da Universidade Federal da Paraíba: o acervo das normas internas e externas que orientam as decisões da universidade, o mapa das relações entre elas e, em etapa posterior, um assistente que explica como cada assunto é regido. Nasceu do projeto Oraculovski.</p>
+
+<h2>Como o acervo é construído</h2>
+<p>Por expansão por citação: começou pelo Estatuto e pelos três regimentos comuns (site da SODS), depois todas as resoluções dos conselhos superiores publicadas no SIGRH, lidas na íntegra; cada norma citada que ainda não estava no acervo entrou numa fila e foi coletada na rodada seguinte (leis e decretos no planalto.gov.br, atos do CNE no gov.br/mec, atos de outros órgãos nas fontes oficiais). Normas citadas e não obtidas ficam registradas como "citadas, sem texto" e aparecem tracejadas na Teia.</p>
+
+<h2>Hierarquia</h2>
+<p>O nível vem do órgão que editou o ato. Norma inferior não contraria norma superior; um conflito aparente é registrado e explicado, não resolvido pelo sistema.</p>
+<div class="tabela"><table><thead><tr><th>Nível</th><th>O que é</th><th>Normas</th></tr></thead><tbody>
+{% for nv, nome, qtd in niveis %}<tr><td><b>{{ nv }}</b></td><td>{{ nome }}</td><td class="num">{{ qtd|br }}</td></tr>{% endfor %}
+</tbody></table></div>
+
+<h2>Relações</h2>
+<p>Cada relação liga a norma de origem à de destino e registra dispositivo, trecho, data de efeito, fonte e confiança. Os tipos: <b>FUNDAMENTA-SE EM</b> (invoca como base legal), <b>REGULAMENTA</b>, <b>ALTERA</b>, <b>REVOGA</b> total ou parcial, <b>SUPERA</b> (norma superior posterior torna sem efeito dispositivo de norma inferior, sem revogação expressa), <b>REMETE A</b> (citação simples), <b>DELEGA COMPETÊNCIA</b> e <b>PROPÕE SUBSTITUIR</b> (norma em tramitação). Relações inferidas (co-citação, acoplamento, alvo provável) aparecem sempre como sugestão.</p>
+
+<h2>Vigência</h2>
+<p>A situação de cada norma é conferida no texto das normas posteriores, não apenas no registro do SIGRH. Regras aplicadas: o texto prevalece sobre o registro; norma inferior não altera nem revoga norma superior; arquivo trocado no SIGRH não gera relação; revogação expressa prevalece sobre alteração posterior (LINDB, art. 2º, § 3º); revogação contradita por atos posteriores fica registrada como conflito. As decisões fundamentadas estão no registro de divergências.</p>
+
+<h2>Rodadas</h2>
+<ul>{% for r in rodadas %}<li><a href="{{ raiz }}sobre/{{ r.arquivo }}">{{ r.titulo }}</a></li>{% endfor %}</ul>
+
+<h2>Limites</h2>
+<p>Textos obtidos por OCR podem ter números trocados; o método de cada texto está na ficha, e o PDF oficial deve ser conferido para citação formal. Parte das relações tem dispositivo genérico ("norma inteira"). Resoluções anteriores a 1992 estão quase ausentes do SIGRH. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes.</p>
+{% endblock %}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}Farol Normativo UFPB{% endblock %}</title>
+{% if descricao %}<meta name="description" content="{{ descricao }}">{% endif %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{ raiz }}assets/farol.css">
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="top"><div class="in">
+  <a class="brand" href="{{ raiz }}"><b>Farol Normativo UFPB</b><small>base da {{ meta.rodada }} · {{ meta.data_base_br }}</small></a>
+  <nav class="menu">
+    <a href="{{ raiz }}busca/" {% if secao=='busca' %}class="on"{% endif %}>Busca</a>
+    <a href="{{ raiz }}teia/" {% if secao=='teia' %}class="on"{% endif %}>Teia</a>
+    <a href="{{ raiz }}vigencia/" {% if secao=='vigencia' %}class="on"{% endif %}>Vigência</a>
+    <a href="{{ raiz }}divergencias/" {% if secao=='divergencias' %}class="on"{% endif %}>Divergências</a>
+    <a href="{{ raiz }}fila/" {% if secao=='fila' %}class="on"{% endif %}>Fila</a>
+    <a href="{{ raiz }}sobre/" {% if secao=='sobre' %}class="on"{% endif %}>Sobre</a>
+  </nav>
+</div></header>
+<main>
+{% block conteudo %}{% endblock %}
+</main>
+<footer>Farol Normativo UFPB · Projeto Oraculovski. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes. Em caso de divergência, prevalece o texto oficial publicado.</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

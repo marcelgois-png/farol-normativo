@@ -1,0 +1,44 @@
+{% macro lista_relacoes(itens, como_origem) -%}
+{# itens: lista de (relacao, id_da_outra_norma); como_origem: True quando a norma da página é a origem #}
+{% set todas = itens|rejectattr('0.citacao_simples')|list %}
+{% set citacoes = itens|selectattr('0.citacao_simples')|list %}
+{% set muitos = todas|length > 30 %}
+{% set estruturais = todas|rejectattr('0.tipo', 'equalto', 'FUNDAMENTA-SE EM')|list if muitos else todas %}
+{% set fundamentos = todas|selectattr('0.tipo', 'equalto', 'FUNDAMENTA-SE EM')|list if muitos else [] %}
+{% if estruturais %}
+<ul class="rl">
+{% for r, outro in estruturais %}
+  <li><span class="k {{ r.chave }}{% if r.sugestao %} sug{% endif %}">{{ r.tipo }}{% if r.sugestao %} · sugestão{% endif %}</span>
+    <div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+      {% set disp_aqui = r.disp_origem if como_origem else r.disp_destino %}{% set disp_la = r.disp_destino if como_origem else r.disp_origem %}
+      {% if disp_aqui or disp_la %}<span class="d">{% if disp_aqui %}nesta norma: {{ disp_aqui }}{% endif %}{% if disp_aqui and disp_la %} → {% endif %}{% if disp_la %}na outra: {{ disp_la }}{% endif %}</span>{% endif %}
+      {% if r.inicio_efeito %}<span class="d">efeito desde {{ r.inicio_efeito|data_br }}{% if r.fim_efeito %} até {{ r.fim_efeito|data_br }}{% endif %}{% if r.ressalva %} · {{ r.ressalva }}{% endif %}</span>{% endif %}
+      {% if r.natureza %}<span class="d">{{ r.natureza }}</span>{% endif %}
+      {% if r.trecho %}<span class="q">“{{ r.trecho|truncate(260) }}”</span>{% endif %}
+      <span class="d">fonte: {{ r.base }}{% if r.confianca %} · confiança {{ r.confianca }}{% endif %}</span>
+    </div></li>
+{% endfor %}
+</ul>
+{% endif %}
+{% if fundamentos %}
+<details><summary>{{ fundamentos|length }} norma(s) que se fundamentam nesta (FUNDAMENTA-SE EM)</summary>
+<ul class="rl" style="margin-top:6px">
+{% for r, outro in fundamentos %}
+  <li><span class="k F">FUNDAMENTA-SE EM</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+    {% set disp_la = r.disp_destino if como_origem else r.disp_origem %}{% if disp_la and disp_la != 'norma inteira' %}<span class="d">em: {{ disp_la }}</span>{% endif %}
+    {% if r.trecho %}<span class="q">“{{ r.trecho|truncate(200) }}”</span>{% endif %}</div></li>
+{% endfor %}
+</ul></details>
+{% endif %}
+{% if citacoes %}
+<details><summary>{{ citacoes|length }} citação(ões) simples (REMETE A)</summary>
+<ul class="rl" style="margin-top:6px">
+{% for r, outro in citacoes %}
+  <li><span class="k M">cita</span><div><a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>
+    {% set disp_aqui = r.disp_origem if como_origem else r.disp_destino %}{% if disp_aqui and disp_aqui != 'norma inteira' %}<span class="d">em: {{ disp_aqui }}</span>{% endif %}
+    {% if r.trecho %}<span class="q">“{{ r.trecho|truncate(200) }}”</span>{% endif %}</div></li>
+{% endfor %}
+</ul></details>
+{% endif %}
+{% if not todas and not citacoes %}<span class="hint">nenhuma registrada no acervo</span>{% endif %}
+{%- endmacro %}

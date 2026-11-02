@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% from "_macros.html" import lista_relacoes with context %}
+{% block title %}{{ n.rotulo }} · Farol Normativo UFPB{% endblock %}
+{% block conteudo %}
+<p class="eyebrow">{{ n.nivel }} · {{ n.nivel|nome_nivel }}{% if n.orgao %} · {{ n.orgao }}{% endif %}</p>
+<h1>{{ n.rotulo }}</h1>
+<div class="id">{{ n.id }}</div>
+<div class="chips">
+  <span class="pill {{ n.situacao_chave }}">{{ n.situacao_chave|nome_situacao }}</span>
+  {% if n.fantasma %}<span class="pill nao_localizada">citada, sem texto no acervo</span>{% endif %}
+  {% if n.aviso_texto %}<span class="pill ocr" title="{{ n.aviso_texto }}">texto por OCR</span>{% endif %}
+  <a class="btn" href="{{ raiz }}teia/#{{ n.id }}">Ver na Teia</a>
+  {% if texto_html %}<a class="btn" href="#texto">Ir ao texto integral</a>{% endif %}
+</div>
+
+<div class="ficha-top">
+  <div>
+    <p class="ementa">{{ n.ementa or n.ementa_sigrh or 'Ementa ainda não registrada no acervo.' }}</p>
+    {% if n.situacao_base %}<div class="aviso {% if n.situacao_chave in ('conflito','verificar') %}cf{% endif %}"><b>Base da situação:</b> {{ n.situacao_base|ids_para_links }}</div>{% endif %}
+    {% if decisao %}<div class="aviso cf"><b>Decisão de vigência fundamentada ({{ decisao.divergencia }}):</b> {{ decisao.situacao_base|ids_para_links }}<br><span class="hint">{{ decisao.fundamento }} · {{ decisao.fonte }}</span></div>{% endif %}
+    {% if n.obs %}<p class="hint">{{ n.obs|ids_para_links }}</p>{% endif %}
+
+    <div class="rel">
+      <h4>Quem a altera, revoga, supera ou cita ({{ entrada|length }})</h4>
+      {{ lista_relacoes(entrada, false) }}
+      <h4>Em que ela se funda, o que regulamenta, altera, revoga ou cita ({{ saida|length }})</h4>
+      {{ lista_relacoes(saida, true) }}
+      {% if dispositivos %}
+      <h4>Por dispositivo desta norma</h4>
+      <ul class="rl">
+        {% for disp, itens in dispositivos %}
+        <li class="disp"><span class="k">{{ disp }}</span><div>{% for seta, r, outro in itens %}<span class="d">{{ seta }} {{ r.tipo }} <a class="n" href="{{ raiz }}norma/{{ outro|slug }}/">{{ outro|rotulo }}</a>{% if r.sugestao %} <em>(sugestão)</em>{% endif %}</span>{% endfor %}</div></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if irmas or paralelas %}
+      <h4>Normas irmãs e paralelas · sugestão</h4>
+      <p class="sugnote">Irmãs são citadas pelas mesmas normas que citam esta; paralelas citam as mesmas bases que esta sem se citarem. Não é relação normativa.</p>
+      <ul class="rl">
+        {% for id_, c in irmas %}<li><span class="k sug">irmã · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/">{{ id_|rotulo }}</a></li>{% endfor %}
+        {% for id_, c in paralelas %}<li><span class="k sug">paralela · {{ c }} em comum</span><a class="n" href="{{ raiz }}norma/{{ id_|slug }}/">{{ id_|rotulo }}</a></li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </div>
+
+  <aside class="meta">
+    <p class="eyebrow">Ficha</p>
+    <dl class="kv">
+      <dt>Tipo</dt><dd>{{ n.tipo or '—' }}</dd>
+      <dt>Órgão</dt><dd>{{ n.orgao or 'não identificado' }}</dd>
+      <dt>Número</dt><dd>{{ n.numero or '—' }}</dd>
+      <dt>Data</dt><dd>{{ n.data|data_br }}{% if n.data_sessao %} <span class="hint">(sessão {{ n.data_sessao|data_br }})</span>{% endif %}</dd>
+      <dt>Temas</dt><dd>{{ n.temas|join('; ') or '—' }}</dd>
+      <dt>Situação</dt><dd>{{ n.situacao or 'não registrada' }}</dd>
+      <dt>Coleta</dt><dd>{{ n.status_coleta }}{% if n.data_coleta %} · {{ n.data_coleta|data_br }}{% endif %}</dd>
+      {% if n.metodo_texto %}<dt>Texto</dt><dd>{{ n.metodo_texto }}</dd>{% endif %}
+      <dt>Fonte</dt><dd>{% if n.fonte %}<a href="{{ n.fonte }}" target="_blank" rel="noopener">texto oficial ↗</a>{% else %}sem link no acervo{% endif %}{% if n.fonte_arquivo and n.fonte_arquivo != n.fonte %} · <a href="{{ n.fonte_arquivo }}" target="_blank" rel="noopener">arquivo ↗</a>{% endif %}</dd>
+      <dt>Ligações</dt><dd>{{ entrada|length }} apontam para ela · ela aponta para {{ saida|length }}</dd>
+    </dl>
+  </aside>
+</div>
+
+{% if texto_html %}
+<section class="texto" id="texto">
+  <div class="texto-bar">
+    <h2 style="margin:0">Texto integral</h2>
+    <span class="hint">{{ n.metodo_texto or 'texto do acervo' }}{% if versao %} · {{ versao }}{% endif %}</span>
+    <label class="hint" style="margin-left:auto">Ir ao art. <input type="number" id="irArt" min="1" aria-label="Número do artigo"></label>
+  </div>
+  {% if n.aviso_texto %}<div class="aviso">{{ n.aviso_texto }}</div>{% endif %}
+  <p class="hint">Transcrição para consulta; não substitui a publicação oficial. {{ n_links }} citação(ões) ligada(s) à norma citada; {{ n_arts }} artigo(s) com âncora.</p>
+  <div class="corpo">
+  {{ texto_html|safe }}
+  </div>
+</section>
+{% elif not n.fantasma %}
+<p class="hint">Texto integral ainda não disponível nesta versão do site.</p>
+{% endif %}
+{% endblock %}
+{% block scripts %}
+<script>
+(function(){var i=document.getElementById('irArt');if(!i)return;i.addEventListener('change',function(){var el=document.getElementById('art-'+i.value);if(el){el.scrollIntoView({block:'start'});location.hash='art-'+i.value;}});})();
+</script>
+{% endblock %}

@@ -1,0 +1,495 @@
+<div class="app" id="app" data-tab="grafo">
+  <header class="top">
+    <div class="brand">
+      <a class="volta" href="../" title="Início do Farol">Farol</a>
+      <h1>Teia</h1>
+      <small>Mapa de citações normativas · base da <span id="mRodada"></span></small>
+    </div>
+    <div class="search">
+      <div class="sbox">
+        <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="text" placeholder="Buscar: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019 · tema:extensão" autocomplete="off" aria-label="Buscar norma">
+        <button class="adv" id="advBtn" aria-pressed="false" title="Busca por vários critérios">Avançada ▾</button>
+      </div>
+      <div class="advbox" id="advbox" hidden>
+        <label class="full">Texto (número, ementa, nome)<input type="text" id="aTxt" placeholder="ex.: monitoria, 16/2015, LDB"></label>
+        <label>Órgão emissor<select id="aOrg"><option value="">qualquer</option></select></label>
+        <label>Nível<select id="aNiv"><option value="">qualquer</option></select></label>
+        <label>Ano de<input type="number" id="aAno1" min="1900" max="2030" placeholder="1960"></label>
+        <label>Ano até<input type="number" id="aAno2" min="1900" max="2030" placeholder="2026"></label>
+        <label>Situação<select id="aSit"><option value="">qualquer</option></select></label>
+        <label>Tema<select id="aTema"><option value="">qualquer</option></select></label>
+        <label>Coleta<select id="aCol"><option value="">qualquer</option><option value="texto">com texto no acervo</option><option value="fantasma">só na fila (fantasma)</option></select></label>
+        <label>Ordenar por<select id="aOrd"><option value="rel">mais ligadas primeiro</option><option value="data">data (recentes primeiro)</option><option value="datao">data (antigas primeiro)</option><option value="nome">nome</option></select></label>
+        <div class="acts"><span class="hint" id="aCount"></span><button class="btn" id="aLimpar">Limpar</button><button class="btn primary" id="aBuscar">Buscar</button></div>
+      </div>
+      <div class="sugg" id="sugg" hidden></div>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="panels"><button class="btn" id="btnLeft" aria-pressed="true" title="Mostrar ou esconder os controles">☰ Controles</button><button class="btn" id="btnRight" aria-pressed="true" title="Mostrar ou esconder a ficha">Ficha ▭</button></div>
+    <div class="tabs" role="tablist">
+      <button id="tabC" aria-pressed="false">Controles</button>
+      <button id="tabG" aria-pressed="true">Teia</button>
+      <button id="tabF" aria-pressed="false">Ficha</button>
+    </div>
+  </header>
+
+  <div class="main">
+    <aside class="side left">
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Norma de partida</h2><button class="help" data-help="hSem" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hSem" hidden>
+          <p>A Teia não desenha as 3.884 normas de uma vez. Ela mostra a vizinhança de <b>uma norma de partida</b>, que fica no centro com anel azul. Qualquer norma vira partida: pela busca no topo, com duplo clique num nó ou pelo botão "Tornar partida" na ficha.</p>
+          <ul>
+            <li><b>Direção</b>: "O que ela cita ou afeta" mostra as normas para as quais a partida aponta (em que se funda, o que altera ou revoga); "Quem a cita ou afeta" mostra as que apontam para ela; "Ambas" junta as duas.</li>
+            <li><b>Profundidade</b>: 1 salto é só a vizinhança direta; 2 e 3 saltos incluem as vizinhas das vizinhas, isto é, a cadeia normativa mais longa (resolução → Estatuto → LDB).</li>
+            <li><b>Só relações que mudam vigência</b> esconde as citações de fundamento e deixa só ALTERA, REVOGA, SUPERA e PROPÕE SUBSTITUIR.</li>
+            <li><b>Citações simples</b> (REMETE A) são muitas; ligue-as quando quiser ver quem apenas menciona a norma.</li>
+            <li><b>Sugestões</b> acrescenta normas irmãs e paralelas, em pontilhado, que não têm relação normativa com a partida.</li>
+          </ul>
+        </div>
+        <div class="row">
+          <span class="hint">Direção</span>
+          <div class="seg" id="dir">
+            <button data-v="back" aria-pressed="false">O que ela cita ou afeta</button>
+            <button data-v="fwd" aria-pressed="false">Quem a cita ou afeta</button>
+            <button data-v="both" aria-pressed="true">Ambas</button>
+          </div>
+        </div>
+        <div class="row">
+          <span class="hint">Profundidade</span>
+          <div class="seg" id="depth">
+            <button data-v="1" aria-pressed="true">1 salto</button>
+            <button data-v="2" aria-pressed="false">2</button>
+            <button data-v="3" aria-pressed="false">3</button>
+          </div>
+        </div>
+        <label class="ck"><input type="checkbox" id="onlyVig"> Só relações que mudam vigência (ALTERA, REVOGA, SUPERA, PROPÕE SUBSTITUIR)</label>
+        <label class="ck"><input type="checkbox" id="incCit"> Incluir citações simples (REMETE A)</label>
+        <label class="ck"><input type="checkbox" id="incSug"> Mostrar sugestões: normas irmãs e paralelas</label>
+        <label class="ck"><input type="checkbox" id="showLabels" checked> Rótulos em todos os nós (até 80 nós)</label>
+      </div>
+      <div class="sec">
+        <h2>Vista</h2>
+        <div class="seg" id="view">
+          <button data-v="force" aria-pressed="true">Rede</button>
+          <button data-v="time" aria-pressed="false">Cronológico-hierárquica</button>
+        </div>
+      </div>
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Máquina do tempo</h2><button class="help" data-help="hTm" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hTm" hidden>
+          <p>Mostra o ecossistema como vigorava numa data. Normas e relações posteriores à data somem; a situação de cada norma é recalculada só com as alterações e revogações com efeito até ali. Normas da vizinhança que ainda não existiam aparecem tracejadas em azul.</p>
+          <ul>
+            <li><b>Play</b> anima mês a mês, a partir da data escolhida ou de um ano antes da norma mais antiga do recorte, até hoje.</li>
+            <li><b>Pausa</b> congela na data atual; <b>Parar</b> e <b>Hoje</b> voltam para a situação presente.</li>
+            <li><b>Velocidade</b> define quantos segundos dura cada ano.</li>
+          </ul>
+        </div>
+        <div class="row" style="justify-content:space-between"><span class="hint">Ecossistema como vigorava em</span><span class="tm" id="tmLabel">hoje</span></div>
+        <input type="range" id="tm" min="1960" max="2026.9" step="0.0833" value="2026.9" aria-label="Data de referência">
+        <div class="row"><button class="btn" id="tmPlay" aria-label="Reproduzir">▶ Play</button><button class="btn" id="tmPause" aria-label="Pausar">❚❚ Pausa</button><button class="btn" id="tmStop" aria-label="Parar">■ Parar</button><button class="btn" id="tmHoje">Hoje</button></div>
+        <div class="row"><span class="hint">Velocidade</span><select id="tmVel" aria-label="Velocidade"><option value="60">1 ano a cada 1 s</option><option value="120" selected>1 ano a cada 2 s</option><option value="300">1 ano a cada 5 s</option></select></div>
+
+      </div>
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Filtros</h2><button class="help" data-help="hFil" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hFil" hidden><p>Os filtros escondem nós e setas da vizinhança da norma de partida; a partida aparece sempre. Eles se somam: um nó precisa passar por nível, situação, tema e órgão para aparecer, e uma seta precisa ter o tipo marcado. "Limpar filtros" volta ao estado inicial (tudo marcado, sem tema nem órgão, sem citações simples nem sugestões).</p></div>
+        <button class="btn" id="limpar">Limpar filtros</button>
+        <details open><summary>Nível hierárquico <button class="help" data-help="hNivel" aria-label="Explicar">?</button></summary>
+          <div class="helpbox" id="hNivel" hidden>
+            <p>O nível vem do <b>órgão que editou o ato</b>, seguindo a hierarquia do projeto: norma inferior não contraria norma superior.</p>
+            <ul>
+              <li><b>N1</b> Constituição Federal e emendas constitucionais.</li>
+              <li><b>N2</b> Leis, leis complementares, decretos-lei e medidas provisórias.</li>
+              <li><b>N3</b> Decretos federais.</li>
+              <li><b>N4</b> Atos do MEC e de órgãos federais: resoluções e pareceres do CNE, portarias MEC, CAPES, CGU, Ministério da Saúde, conselhos profissionais (CFM, Cofen, Confea…).</li>
+              <li><b>N5</b> Estatuto da UFPB (Res. CONSUNI 07/2002, homologado pela Portaria MEC 3.198/2002).</li>
+              <li><b>N6</b> Regimentos comuns do art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).</li>
+              <li><b>N7</b> Resoluções do CONSUNI, do CONSEPE e do Conselho Curador. Um regimento de centro aprovado por resolução do CONSUNI fica aqui, porque o ato é do CONSUNI.</li>
+              <li><b>N8</b> Regimentos de centros e órgãos suplementares editados pela própria unidade (ainda sem exemplar no acervo).</li>
+              <li><b>N9</b> Normas de conselhos de centro, departamentos, colegiados de curso e PPGs.</li>
+              <li><b>N10</b> Portarias e atos da Reitoria e das pró-reitorias.</li>
+              <li><b>NT</b> Em tramitação, sem força normativa (minuta do novo Estatuto).</li>
+              <li><b>?</b> Órgão emissor ainda não identificado na citação.</li>
+            </ul>
+            <p>Normas federais (N1 a N4) têm anel escuro no mapa. Marque ou desmarque níveis para esconder, por exemplo, toda a camada federal.</p>
+          </div>
+          <div class="row" style="margin-top:6px"><button class="btn mini" id="nivTodos">Marcar todos</button><button class="btn mini" id="nivNenhum">Nenhum</button><button class="btn mini" id="nivUfpb">Só UFPB (N5–N10)</button></div>
+          <div id="fNivel" class="row" style="margin-top:6px"></div>
+        </details>
+        <details><summary>Situação <button class="help" data-help="hSit" aria-label="Explicar">?</button></summary>
+          <div class="helpbox" id="hSit" hidden>
+            <p>Situação de vigência de cada norma, lida no texto das normas posteriores (o SIGRH sozinho não basta).</p>
+            <ul>
+              <li><b>vigente</b> sem alteração ou revogação registrada no acervo.</li>
+              <li><b>alterada</b> teve dispositivos alterados, revogados em parte ou superados por norma superior.</li>
+              <li><b>revogada</b> revogação expressa e integral por norma posterior.</li>
+              <li><b>não localizada</b> citada por outras normas, mas sem texto no acervo (nó fantasma, tracejado): é a fila de coleta.</li>
+              <li><b>em tramitação</b> aprovada em uma instância e pendente em outra; não vigora.</li>
+              <li><b>conflito de vigência</b> leituras contraditórias registradas como divergência, não resolvidas pelo acervo.</li>
+              <li><b>a verificar</b> o arquivo do SIGRH contém o texto de outra norma.</li>
+              <li><b>situação não registrada</b> norma ainda sem conferência de vigência.</li>
+            </ul>
+            <p>Com a máquina do tempo, a situação é recalculada para a data escolhida.</p>
+          </div>
+          <div class="row" style="margin-top:6px"><button class="btn mini" id="sitTodos">Marcar todas</button><button class="btn mini" id="sitNenhum">Nenhuma</button></div>
+          <div id="fSit" style="display:flex;flex-direction:column;gap:4px;margin-top:6px"></div>
+        </details>
+        <details><summary>Tipo de relação <button class="help" data-help="hTipo" aria-label="Explicar">?</button></summary>
+          <div class="helpbox" id="hTipo" hidden>
+            <p>Cada seta liga a norma de origem à de destino. Os rótulos são os do projeto:</p>
+            <ul>
+              <li><b>FUNDAMENTA-SE EM</b> a origem invoca o destino como base legal (considerandos, preâmbulo).</li>
+              <li><b>REGULAMENTA</b> a origem detalha ou operacionaliza o destino.</li>
+              <li><b>ALTERA</b> a origem modifica dispositivos do destino.</li>
+              <li><b>REVOGA</b> total ou parcial: a origem retira a vigência do destino.</li>
+              <li><b>SUPERA</b> norma superior posterior torna sem efeito dispositivo de norma inferior, sem revogação expressa.</li>
+              <li><b>REMETE A</b> citação simples, para procedimento ou definição. São muitas; por isso ficam desligadas por padrão.</li>
+              <li><b>PROPÕE SUBSTITUIR</b> norma em tramitação e a vigente que ela substituiria.</li>
+            </ul>
+            <p>Setas pontilhadas finas são <b>sugestões</b> (co-citação, acoplamento, alvo provável), nunca relação normativa.</p>
+          </div>
+          <div class="row" style="margin-top:6px"><button class="btn mini" id="tipTodos">Marcar todos</button><button class="btn mini" id="tipNenhum">Nenhum</button></div>
+          <div id="fTipo" style="display:flex;flex-direction:column;gap:4px;margin-top:6px"></div>
+        </details>
+        <details><summary>Tema e órgão emissor <button class="help" data-help="hTema" aria-label="Explicar">?</button></summary>
+          <div class="helpbox" id="hTema" hidden>
+            <p><b>Tema</b> é a classificação da ficha de cada norma (graduação, pós-graduação, pessoal docente, estrutura…). Uma norma pode ter vários temas; o filtro mostra só as que têm o tema escolhido. <b>Órgão emissor</b> é quem editou o ato (CONSEPE, CONSUNI, CNE/CES, União…). O número entre parênteses é a quantidade de normas no acervo. A norma semente aparece sempre, mesmo fora do filtro.</p>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:6px;margin-top:6px">
+            <select id="fTema" aria-label="Tema"><option value="">Todos os temas</option></select>
+            <select id="fOrgao" aria-label="Órgão emissor"><option value="">Todos os órgãos</option></select>
+          </div>
+        </details>
+      </div>
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Mapas salvos</h2><button class="help" data-help="hMap" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hMap" hidden><p>Um mapa salvo guarda a norma de partida com direção, profundidade, filtros de relação e data da máquina do tempo. Os <b>casos para a apresentação</b> vêm prontos com a página: cada um ilustra algo que a Teia revela e o SIGRH não mostra. Os <b>seus mapas</b> ficam guardados só neste navegador.</p></div>
+        <details open><summary>Casos para a apresentação</summary><div id="presets" style="display:flex;flex-direction:column;gap:5px;margin-top:6px"></div></details>
+        <details open><summary>Seus mapas</summary>
+          <div class="row" style="margin-top:6px"><input type="text" id="collName" placeholder="Nome do mapa" aria-label="Nome do mapa" style="flex:1;min-width:0"><button class="btn" id="collSave">Salvar o mapa atual</button></div>
+          <div class="coll" id="collList" style="margin-top:6px"></div>
+        </details>
+      </div>
+      <div class="sec">
+        <h2>Sobre a base</h2>
+        <p class="hint" style="margin:0">Dados da pasta <code>acervo/base</code> do projeto (nós, arestas e citações da <span id="mRodada2"></span>, <span id="mData"></span>). O mapa só exibe o que está no acervo; irmãs e paralelas são sugestões, não relações normativas. O Oraculovski orienta e não substitui parecer da Procuradoria Federal nem a deliberação dos órgãos competentes.</p>
+      </div>
+    </aside>
+
+    <section class="stage" id="stage">
+      <svg id="svg" role="img" aria-label="Grafo de citações normativas"></svg>
+      <div class="hud"><div class="card" id="hud"><h3>Escolha uma norma de partida</h3><div class="m">Use a busca ou os mapas salvos à esquerda.</div></div><div class="warn" id="warn" hidden></div></div>
+      <div class="zoomc"><button id="zIn" aria-label="Aproximar">+</button><button id="zOut" aria-label="Afastar">−</button><button id="zFit" aria-label="Enquadrar" title="Enquadrar">⤢</button></div>
+      <div class="legend" id="legend">Simbologia: ver os filtros <b>Situação</b>, <b>Tipo de relação</b> e <b>Nível</b></div>
+    </section>
+
+    <aside class="side right ficha" id="ficha">
+      <p class="empty">Clique num nó para ver a ficha: ementa, situação, nível, dispositivos relacionados e link oficial.</p>
+    </aside>
+    <button class="edge right" id="toggleFicha" aria-label="Recolher ou abrir a ficha" title="Recolher/abrir ficha">›</button>
+    <button class="edge left" id="toggleLeft" aria-label="Recolher ou abrir os controles" title="Recolher/abrir controles">‹</button>
+  </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+fetch('../dados/teia.json').then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(function(D){
+const NODES=new Map(D.nodes.map(n=>[n.id,n]));
+const KIND={F:'FUNDAMENTA-SE EM',G:'REGULAMENTA',A:'ALTERA',R:'REVOGA (total)',P:'REVOGA (parcial)',S:'SUPERA',M:'REMETE A',X:'PROPÕE SUBSTITUIR',D:'DELEGA COMPETÊNCIA'};
+const SIT={vigente:'vigente',alterada:'alterada',revogada:'revogada',nao_localizada:'não localizada',tramitacao:'em tramitação',conflito:'conflito de vigência',verificar:'a verificar',desconhecida:'situação não registrada'};
+const LEVELS=['N1','N2','N3','N4','N5','N6','N7','N8','N9','N10','NT','?'];
+const LVLNAME={N1:'Constituição',N2:'Leis',N3:'Decretos',N4:'MEC e órgãos federais',N5:'Estatuto',N6:'Regimentos comuns',N7:'Conselhos superiores',N8:'Regimentos de unidades',N9:'Conselhos de centro e colegiados',N10:'Reitoria e pró-reitorias',NT:'Em tramitação','?':'Nível não identificado'};
+// arestas: estruturais + citações
+const EDGES=D.edges.map((e,i)=>Object.assign({i,cit:0},e));
+D.cit.forEach((c,j)=>EDGES.push({i:'c'+j,s:c[0],t:c[1],k:'M',n:c[2],cit:1,do:'',dd:'',ef:'',ff:'',rs:'',b:'texto',c:'',q:'',sg:0,nt:''}));
+const OUT=new Map(),IN=new Map();
+EDGES.forEach(e=>{if(!NODES.has(e.s)||!NODES.has(e.t))return;(OUT.get(e.s)||OUT.set(e.s,[]).get(e.s)).push(e);(IN.get(e.t)||IN.set(e.t,[]).get(e.t)).push(e);});
+const degIn=id=>(IN.get(id)||[]).length, degOut=id=>(OUT.get(id)||[]).length;
+const fed=n=>/^BR-|^PB-/.test(n.id);
+const pt=d=>d?d.split('-').reverse().join('/'):'';
+const y2d=y=>{const yy=Math.floor(y),m=Math.min(12,Math.max(1,Math.round((y-yy)*12)+1));return `${yy}-${String(m).padStart(2,'0')}-28`;};
+
+// estado
+const S={seed:null,dir:'both',depth:1,cit:false,sug:false,labels:true,view:'force',T:null,sel:null,
+  fN:new Set(LEVELS),fS:new Set(Object.keys(SIT)),fK:new Set(Object.keys(KIND)),tema:'',orgao:''};
+const $=id=>document.getElementById(id);
+
+// cabeçalho
+$('mRodada').textContent=D.meta.rodada; $('mRodada2').textContent=D.meta.rodada; $('mData').textContent=pt(D.meta.data_base);
+const m=D.meta;
+$('stats').innerHTML=[`<b>${m.nos.toLocaleString('pt-BR')}</b> normas`,`<b>${m.com_texto.toLocaleString('pt-BR')}</b> com texto`,`<b>${m.fantasmas.toLocaleString('pt-BR')}</b> na fila`,`<b>${m.arestas.toLocaleString('pt-BR')}</b> relações`,`<b>${m.citacoes.toLocaleString('pt-BR')}</b> citações`].map(s=>`<span class="chip">${s}</span>`).join('');
+
+// presets
+const PRESETS=[
+ {id:'UFPB-CONSUNI-RES-07-2002',n:'Estatuto da UFPB',w:'Res. CONSUNI 07/2002: as 20 resoluções que a alteraram e a minuta que propõe substituí-la',dir:'both',depth:1,vig:true},
+ {id:'UFPB-REGIMENTO-GERAL',n:'Regimento Geral',w:'Dispositivos superados por lei (SUPERA) e alterações do CONSUNI',dir:'both',depth:1,vig:true},
+ {id:'UFPB-CONSUNI-RES-279-1978',n:'Regimento dos Órgãos Deliberativos',w:'Res. 279/78 e a cadeia de alterações até a 17/2019 (recursos das Câmaras)',dir:'fwd',depth:1},
+ {id:'UFPB-CONSUNI-RES-257-1979',n:'Regimento da Reitoria',w:'Conflito de vigência D47: revogação literal × alterações posteriores',dir:'fwd',depth:1},
+ {id:'UFPB-CONSEPE-RES-29-2020',n:'Regulamento da Graduação',w:'Res. CONSEPE 29/2020: o que revogou e quem já se funda nela',dir:'both',depth:1},
+ {id:'BR-CNE-CES-RES-11-2002',n:'DCN de Engenharia revogada',w:'CNE/CES 11/2002: revogada em 2019 e ainda citada por 23 resoluções, entre elas PPCs do CT',dir:'fwd',depth:1,cit:true},
+ {id:'BR-LEI-9394-1996',n:'LDB',w:'Lei 9.394/1996: leis que a alteram e decretos que a regulamentam',dir:'fwd',depth:1,vig:true},
+ {id:'UFPB-NT-MINUTA-ESTATUTO-2019',n:'Minuta do novo Estatuto',w:'Norma em tramitação: PROPÕE SUBSTITUIR o Estatuto vigente',dir:'both',depth:1},
+].filter(p=>NODES.has(p.id));
+$('presets').innerHTML=PRESETS.map((p,i)=>`<button class="preset" data-i="${i}"><span class="n">${p.n}</span><span class="w">${p.w}</span></button>`).join('');
+function applyPreset(p){setSeg('dir',p.dir);setSeg('depth',String(p.depth));S.dir=p.dir;S.depth=p.depth;S.cit=!!p.cit;$('incCit').checked=S.cit;setOnlyVig(!!p.vig);setSeed(p.id);showTab('grafo');}
+$('presets').addEventListener('click',ev=>{const b=ev.target.closest('.preset');if(!b)return;applyPreset(PRESETS[+b.dataset.i]);});
+
+// filtros
+$('fNivel').innerHTML=LEVELS.map(l=>`<label class="ck" title="${LVLNAME[l]}"><input type="checkbox" data-l="${l}" checked> ${l}</label>`).join('');
+$('fNivel').addEventListener('change',ev=>{const l=ev.target.dataset.l;ev.target.checked?S.fN.add(l):S.fN.delete(l);render();});
+$('fSit').innerHTML=Object.keys(SIT).map(k=>`<label class="ck"><input type="checkbox" data-s="${k}" checked> <i class="sw ${k==='nao_localizada'||k==='desconhecida'?'dash':''}" style="background:var(--${({vigente:'vig',alterada:'alt',revogada:'rev',tramitacao:'nt',conflito:'cf',verificar:'cf'})[k]||'panel'})"></i>${SIT[k]}</label>`).join('');
+$('fSit').addEventListener('change',ev=>{const k=ev.target.dataset.s;ev.target.checked?S.fS.add(k):S.fS.delete(k);render();});
+const SWK={F:'<i class="sw line" style="background:var(--eF)"></i>',G:'<i class="sw line" style="background:var(--eF);height:4px"></i>',A:'<i class="sw line" style="background:var(--eA)"></i>',R:'<i class="sw line" style="background:var(--eR)"></i>',P:'<i class="sw line" style="background:repeating-linear-gradient(90deg,var(--eR) 0 5px,transparent 5px 8px)"></i>',S:'<i class="sw line" style="background:var(--eS)"></i>',M:'<i class="sw line" style="background:repeating-linear-gradient(90deg,var(--eM) 0 2px,transparent 2px 5px)"></i>',X:'<i class="sw line" style="background:repeating-linear-gradient(90deg,var(--nt) 0 6px,transparent 6px 10px)"></i>'};
+$('fTipo').innerHTML=Object.keys(KIND).filter(k=>k!=='D').map(k=>`<label class="ck"><input type="checkbox" data-k="${k}" checked> ${SWK[k]}${KIND[k]}</label>`).join('');
+// ajuda, marcar todos, ficha recolhível
+document.querySelectorAll('button.help').forEach(bt=>bt.addEventListener('click',ev=>{ev.preventDefault();ev.stopPropagation();const box=$(bt.dataset.help);box.hidden=!box.hidden;bt.setAttribute('aria-expanded',String(!box.hidden));const det=bt.closest('details');if(det&&!box.hidden)det.open=true;}));
+function setAll(container,set,keys,on,attr){set.clear();if(on)keys.forEach(k=>set.add(k));container.querySelectorAll('input').forEach(i=>i.checked=set.has(i.dataset[attr]));}
+$('limpar').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,true,'l');setAll($('fSit'),S.fS,Object.keys(SIT),true,'s');setOnlyVig(false);S.tema='';S.orgao='';$('fTema').value='';$('fOrgao').value='';S.cit=false;$('incCit').checked=false;S.sug=false;$('incSug').checked=false;render(true);};
+$('nivTodos').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,true,'l');render();};
+$('nivNenhum').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,false,'l');render();};
+$('nivUfpb').onclick=()=>{setAll($('fNivel'),S.fN,['N5','N6','N7','N8','N9','N10','NT'],true,'l');render();};
+$('sitTodos').onclick=()=>{setAll($('fSit'),S.fS,Object.keys(SIT),true,'s');render();};
+$('sitNenhum').onclick=()=>{setAll($('fSit'),S.fS,Object.keys(SIT),false,'s');render();};
+$('tipTodos').onclick=()=>{setOnlyVig(false);render(true);};
+$('tipNenhum').onclick=()=>{setAll($('fTipo'),S.fK,[],false,'k');$('onlyVig').checked=false;render(true);};
+function relayoutSoon(){requestAnimationFrame(()=>setTimeout(()=>{if(cur)render(S.view==='force');},150));}
+function setFicha(open){$('app').classList.toggle('noficha',!open);$('toggleFicha').textContent=open?'›':'‹';$('btnRight').setAttribute('aria-pressed',String(open));relayoutSoon();}
+function setLeft(open){$('app').classList.toggle('noleft',!open);$('toggleLeft').textContent=open?'‹':'›';$('btnLeft').setAttribute('aria-pressed',String(open));relayoutSoon();}
+$('toggleFicha').onclick=()=>setFicha($('app').classList.contains('noficha'));
+$('btnRight').onclick=$('toggleFicha').onclick;
+$('toggleLeft').onclick=()=>setLeft($('app').classList.contains('noleft'));
+$('btnLeft').onclick=$('toggleLeft').onclick;
+$('fTipo').addEventListener('change',ev=>{const k=ev.target.dataset.k;ev.target.checked?S.fK.add(k):S.fK.delete(k);$('onlyVig').checked=VIGK.every(x=>S.fK.has(x))&&[...S.fK].every(x=>VIGK.includes(x));render();});
+const temaCount=new Map(),orgCount=new Map();
+D.nodes.forEach(n=>{n.t.forEach(t=>temaCount.set(t,(temaCount.get(t)||0)+1));if(n.o)orgCount.set(n.o,(orgCount.get(n.o)||0)+1);});
+[...temaCount].sort((a,b)=>b[1]-a[1]).forEach(([t,c])=>$('fTema').insertAdjacentHTML('beforeend',`<option value="${t}">${t} (${c})</option>`));
+[...orgCount].sort((a,b)=>b[1]-a[1]).filter(([o,c])=>c>=3).forEach(([o,c])=>$('fOrgao').insertAdjacentHTML('beforeend',`<option value="${o}">${o} (${c})</option>`));
+$('fTema').addEventListener('change',e=>{S.tema=e.target.value;render();});
+$('fOrgao').addEventListener('change',e=>{S.orgao=e.target.value;render();});
+
+// controles
+function setSeg(id,v){[...$(id).querySelectorAll('button')].forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===v)));}
+['dir','depth','view'].forEach(id=>$(id).addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;setSeg(id,b.dataset.v);
+  if(id==='dir')S.dir=b.dataset.v;if(id==='depth')S.depth=+b.dataset.v;if(id==='view')S.view=b.dataset.v;render(true);}));
+$('incCit').addEventListener('change',e=>{S.cit=e.target.checked;render(true);});
+const VIGK=['A','R','P','S','X'];
+function setOnlyVig(on){$('onlyVig').checked=on;S.fK=new Set(on?VIGK:Object.keys(KIND));$('fTipo').querySelectorAll('input').forEach(i=>i.checked=S.fK.has(i.dataset.k));}
+$('onlyVig').addEventListener('change',e=>{setOnlyVig(e.target.checked);render(true);});
+$('incSug').addEventListener('change',e=>{S.sug=e.target.checked;render(true);});
+$('showLabels').addEventListener('change',e=>{S.labels=e.target.checked;render();});
+$('tm').addEventListener('input',e=>{const v=+e.target.value;if(v>=2026.85){S.T=null;$('tmLabel').textContent='hoje';}else{S.T=y2d(v);$('tmLabel').textContent=pt(S.T).slice(3);}render();});
+$('tmHoje').addEventListener('click',()=>{$('tm').value='2026.9';S.T=null;$('tmLabel').textContent='hoje';render();});
+let tmTimer=null;
+function tmSet(v){$('tm').value=v;$('tm').dispatchEvent(new Event('input'));}
+function tmPlay(){if(tmTimer)return;let v=+$('tm').value;if(v>=2026.85){const T0=S.T;S.T=null;const g=subgraph();S.T=T0;const ds=g.nodes.map(d=>d.n.d).filter(Boolean).sort();v=ds.length?Math.max(1960,+ds[0].slice(0,4)-1):1960;}tmSet(v);$('tmPlay').classList.add('primary');
+  tmTimer=setInterval(()=>{v+=1/12;if(v>=2026.85){tmSet(2026.9);tmPause();return;}tmSet(v);},+$('tmVel').value/12*1000/60);}
+function tmPause(){if(tmTimer){clearInterval(tmTimer);tmTimer=null;}$('tmPlay').classList.remove('primary');}
+$('tmPlay').onclick=tmPlay;$('tmPause').onclick=tmPause;$('tmStop').onclick=()=>{tmPause();tmSet(2026.9);};
+$('tmVel').onchange=()=>{if(tmTimer){tmPause();tmPlay();}};
+
+// abas (celular)
+function showTab(t){$('app').dataset.tab=t;$('tabC').setAttribute('aria-pressed',String(t==='controles'));$('tabG').setAttribute('aria-pressed',String(t==='grafo'));$('tabF').setAttribute('aria-pressed',String(t==='ficha'));if(t==='grafo')setTimeout(fit,50);}
+$('tabC').onclick=()=>showTab('controles');$('tabG').onclick=()=>showTab('grafo');$('tabF').onclick=()=>showTab('ficha');
+
+// busca
+const q=$('q'),sugg=$('sugg');
+const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const IDX=D.nodes.map(n=>({n,k:norm(n.l+' '+n.id.replace(/-/g,' ')+' '+n.e+' '+n.o+' '+n.n+' '+n.t.join(' ')),yr:+n.dy||0}));
+const SITKEY={vigente:'vigente',alterada:'alterada',revogada:'revogada','nao localizada':'nao_localizada',fantasma:'nao_localizada','em tramitacao':'tramitacao',tramitacao:'tramitacao',conflito:'conflito',verificar:'verificar'};
+[...orgCount].sort((a,b)=>b[1]-a[1]).forEach(([o,c])=>$('aOrg').insertAdjacentHTML('beforeend',`<option value="${o}">${o} (${c})</option>`));
+LEVELS.forEach(l=>$('aNiv').insertAdjacentHTML('beforeend',`<option value="${l}">${l} · ${LVLNAME[l]}</option>`));
+Object.keys(SIT).forEach(k=>$('aSit').insertAdjacentHTML('beforeend',`<option value="${k}">${SIT[k]}</option>`));
+[...temaCount].sort((a,b)=>b[1]-a[1]).forEach(([t,c])=>$('aTema').insertAdjacentHTML('beforeend',`<option value="${t}">${t} (${c})</option>`));
+// critérios: do texto livre (prefixos orgao: ano: nivel: tema: situacao: num:) e do painel avançado
+function parseQuery(txt){const c={toks:[],org:'',niv:'',ano1:0,ano2:0,sit:'',tema:'',num:''};
+  norm(txt.trim()).split(/\s+/).filter(Boolean).forEach(t=>{const m=t.match(/^(orgao|org|ano|nivel|n|tema|situacao|sit|num|numero):(.+)$/);
+    if(!m){c.toks.push(t);return;}const [,k,v]=m;
+    if(k==='orgao'||k==='org')c.org=v;else if(k==='ano'){const r=v.match(/^(\d{4})(?:-(\d{4}))?$/);if(r){c.ano1=+r[1];c.ano2=+(r[2]||r[1]);}}
+    else if(k==='nivel'||k==='n')c.niv=v.toUpperCase().replace(/^(\d)/,'N$1');else if(k==='tema')c.tema=v;else if(k==='situacao'||k==='sit')c.sit=SITKEY[v]||v;else c.num=v;});
+  // "consepe 2015" e "29/2020" sem prefixo
+  c.toks=c.toks.filter(t=>{if(/^(19|20)\d\d$/.test(t)&&!c.ano1){c.ano1=c.ano2=+t;return false;}return true;});
+  return c;}
+function runSearch(c,limit){let hits=IDX.filter(x=>{const n=x.n;
+    if(c.toks.length&&!c.toks.every(k=>x.k.includes(k)))return false;
+    if(c.org&&!norm(n.o).includes(c.org))return false;
+    if(c.niv&&n.nv!==c.niv)return false;
+    if(c.ano1&&(!x.yr||x.yr<c.ano1))return false;if(c.ano2&&(!x.yr||x.yr>c.ano2))return false;
+    if(c.sit&&n.s!==c.sit)return false;
+    if(c.tema&&!n.t.some(t=>norm(t).includes(norm(c.tema))))return false;
+    if(c.num&&!norm(n.n).includes(c.num)&&!norm(n.l).includes(c.num))return false;
+    if(c.col==='texto'&&n.g)return false;if(c.col==='fantasma'&&!n.g)return false;return true;});
+  const deg=x=>degIn(x.n.id)+degOut(x.n.id);
+  if(c.ord==='data')hits.sort((a,b)=>(b.n.d||'').localeCompare(a.n.d||''));else if(c.ord==='datao')hits.sort((a,b)=>(a.n.d||'z').localeCompare(b.n.d||'z'));
+  else if(c.ord==='nome')hits.sort((a,b)=>a.n.l.localeCompare(b.n.l,'pt'));else hits.sort((a,b)=>(b.n.g?0:1)-(a.n.g?0:1)||deg(b)-deg(a));
+  return{total:hits.length,hits:hits.slice(0,limit)};}
+function showHits(r){const ab=$('advbox');sugg.style.top=ab.hidden?'':(ab.offsetTop+ab.offsetHeight+4)+'px';if(!r.total){sugg.innerHTML='<div class="cnt">Nenhuma norma encontrada no acervo com esses critérios</div>';sugg.hidden=false;return;}
+  sugg.innerHTML=`<div class="cnt">${r.total.toLocaleString('pt-BR')} norma${r.total>1?'s':''} encontrada${r.total>1?'s':''}${r.total>r.hits.length?` · mostrando ${r.hits.length}`:''}</div>`+r.hits.map(x=>`<button data-id="${x.n.id}"><span class="l">${x.n.l}</span> <span class="hint">${x.n.nv} · ${x.n.o||'?'} · ${x.n.dy||'s/ data'} · ${SIT[x.n.s]}${x.n.g?' · fantasma':''}</span><span class="e">${x.n.e||'(sem ementa no acervo)'}</span></button>`).join('');sugg.hidden=false;}
+function search(txt){const t=txt.trim();if(t.length<2){sugg.hidden=true;return;}showHits(runSearch(parseQuery(t),20));}
+function advCriteria(){return{toks:norm($('aTxt').value.trim()).split(/\s+/).filter(Boolean),org:norm($('aOrg').value),niv:$('aNiv').value,ano1:+$('aAno1').value||0,ano2:+$('aAno2').value||0,sit:$('aSit').value,tema:$('aTema').value,num:'',col:$('aCol').value,ord:$('aOrd').value};}
+function advSearch(){const r=runSearch(advCriteria(),40);$('aCount').textContent=`${r.total.toLocaleString('pt-BR')} resultado${r.total===1?'':'s'}`;showHits(r);}
+$('advBtn').onclick=()=>{const open=$('advbox').hidden;$('advbox').hidden=!open;$('advBtn').setAttribute('aria-pressed',String(open));if(open){sugg.hidden=true;$('aTxt').focus();}};
+['aOrg','aNiv','aSit','aTema','aCol','aOrd'].forEach(id=>$(id).addEventListener('change',advSearch));
+['aTxt','aAno1','aAno2'].forEach(id=>$(id).addEventListener('input',advSearch));
+$('aBuscar').onclick=advSearch;
+$('aLimpar').onclick=()=>{['aTxt','aAno1','aAno2'].forEach(id=>$(id).value='');['aOrg','aNiv','aSit','aTema','aCol'].forEach(id=>$(id).value='');$('aOrd').value='rel';$('aCount').textContent='';sugg.hidden=true;};
+q.addEventListener('input',()=>{$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');search(q.value);});
+q.addEventListener('focus',()=>{if(q.value.trim().length>=2)search(q.value);});
+q.addEventListener('keydown',e=>{if(e.key==='Enter'){const b=sugg.querySelector('button[data-id]');if(b)b.click();}if(e.key==='Escape'){sugg.hidden=true;$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');}});
+sugg.addEventListener('click',e=>{const b=e.target.closest('button[data-id]');if(!b)return;sugg.hidden=true;$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');q.value='';setSeed(b.dataset.id);showTab('grafo');});
+document.addEventListener('click',e=>{if(!e.target.closest('.search')){sugg.hidden=true;$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');}});
+
+// coleções
+function loadColl(){try{return JSON.parse(localStorage.getItem('teia.colecoes')||'[]');}catch(e){return [];}}
+function saveColl(list){try{localStorage.setItem('teia.colecoes',JSON.stringify(list));}catch(e){}}
+function renderColl(){const list=loadColl();$('collList').innerHTML=list.length?list.map((c,i)=>`<div class="it"><button class="btn" data-i="${i}" style="flex:1;text-align:left;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${c.nome}</button><button class="x" data-x="${i}" aria-label="Excluir">✕</button></div>`).join(''):'<span class="hint">Nenhum mapa salvo.</span>';}
+$('collSave').onclick=()=>{if(!S.seed)return;const nome=$('collName').value.trim()||NODES.get(S.seed).l;const list=loadColl();list.push({nome,seed:S.seed,dir:S.dir,depth:S.depth,cit:S.cit,sug:S.sug,view:S.view,T:S.T,fK:[...S.fK]});saveColl(list);$('collName').value='';renderColl();};
+$('collList').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;const list=loadColl();
+  if(b.dataset.x!==undefined){list.splice(+b.dataset.x,1);saveColl(list);renderColl();return;}
+  const c=list[+b.dataset.i];if(!c)return;S.dir=c.dir;S.depth=c.depth;S.cit=c.cit;S.sug=c.sug;S.view=c.view;S.T=c.T;
+  setSeg('dir',c.dir);setSeg('depth',String(c.depth));setSeg('view',c.view);$('incCit').checked=c.cit;$('incSug').checked=c.sug;if(c.fK){S.fK=new Set(c.fK);$('fTipo').querySelectorAll('input').forEach(i=>i.checked=S.fK.has(i.dataset.k));$('onlyVig').checked=VIGK.every(x=>S.fK.has(x))&&[...S.fK].every(x=>VIGK.includes(x));}
+  if(c.T){const y=+c.T.slice(0,4)+(+c.T.slice(5,7)-1)/12;$('tm').value=y;$('tmLabel').textContent=pt(c.T).slice(3);}else{$('tm').value='2026.9';$('tmLabel').textContent='hoje';}
+  setSeed(c.seed);showTab('grafo');});
+renderColl();
+
+// máquina do tempo: data de efeito de uma aresta
+function effDate(e){if(e.ef)return e.ef;const s=NODES.get(e.s);return s&&s.d?s.d:'';}
+function activeAt(e,T){if(!T)return true;const d=effDate(e);if(d&&d>T)return false;if(e.ff&&e.ff<T)return false;return true;}
+function sitAt(n,T){if(!T)return n.s;if(['nao_localizada','tramitacao','desconhecida','verificar'].includes(n.s))return n.s;
+  if(n.d&&n.d>T)return null;const inn=(IN.get(n.id)||[]).filter(e=>!e.cit&&!e.sg&&activeAt(e,T));
+  if(inn.some(e=>e.k==='R'))return 'revogada';if(inn.some(e=>e.k==='A'||e.k==='P'||e.k==='S'))return 'alterada';
+  return n.s==='conflito'?'conflito':'vigente';}
+
+// subgrafo a partir da semente
+function neighbors(id,dir){const res=[];if(dir!=='fwd')(OUT.get(id)||[]).forEach(e=>res.push([e,e.t]));if(dir!=='back')(IN.get(id)||[]).forEach(e=>res.push([e,e.s]));return res;}
+function edgeOk(e){if(e.cit&&!S.cit)return false;if(!S.fK.has(e.k))return false;if(!activeAt(e,S.T))return false;return true;}
+function nodeOk(n){if(!S.fN.has(n.nv))return false;const s=sitAt(n,S.T);if(s===null)return false;if(!S.fS.has(s))return false;
+  if(S.tema&&!n.t.includes(S.tema))return false;if(S.orgao&&n.o!==S.orgao)return false;return true;}
+const MAXN=400;
+function subgraph(){const seed=S.seed;if(!seed)return{nodes:[],links:[],cut:0};
+  const nodes=new Map([[seed,0]]);let frontier=[seed];const links=new Map();let cut=0;
+  for(let d=1;d<=S.depth;d++){const next=[];
+    // prioridade: estruturais antes de citações
+    frontier.forEach(id=>{neighbors(id,S.dir).sort((a,b)=>(a[0].cit-b[0].cit)).forEach(([e,other])=>{if(!edgeOk(e))return;const o=NODES.get(other);if(!o||!nodeOk(o))return;
+      if(!nodes.has(other)){if(nodes.size>=MAXN){cut++;return;}nodes.set(other,d);next.push(other);}links.set(e.i,e);});});
+    frontier=next;}
+  // arestas entre nós já presentes
+  nodes.forEach((d,id)=>(OUT.get(id)||[]).forEach(e=>{if(nodes.has(e.t)&&edgeOk(e))links.set(e.i,e);}));
+  const out={nodes:[...nodes].map(([id,d])=>({id,d,n:NODES.get(id),sug:false})),links:[...links.values()].map(e=>({e,source:e.s,target:e.t,sug:false})),cut};
+  if(S.sug){const sg=suggestions(seed);const ids=new Set(nodes.keys());
+    sg.irmas.slice(0,5).concat(sg.paralelas.slice(0,5)).forEach(([id,c,tipo])=>{if(ids.has(id))return;ids.add(id);out.nodes.push({id,d:9,n:NODES.get(id),sug:tipo});out.links.push({e:{i:'s'+id,k:'M',s:seed,t:id,sg:1,cit:1,q:'',do:'',dd:'',b:'inferência',nt:tipo==='irmã'?'co-citação':'acoplamento'},source:seed,target:id,sug:tipo});});}
+  return out;}
+function suggestions(id){const cited=new Map(),citing=new Map();
+  (IN.get(id)||[]).forEach(e=>(OUT.get(e.s)||[]).forEach(f=>{if(f.t!==id&&NODES.has(f.t))cited.set(f.t,(cited.get(f.t)||0)+1);}));
+  (OUT.get(id)||[]).forEach(e=>(IN.get(e.t)||[]).forEach(f=>{if(f.s!==id&&NODES.has(f.s))citing.set(f.s,(citing.get(f.s)||0)+1);}));
+  const direct=new Set([...(IN.get(id)||[]).map(e=>e.s),...(OUT.get(id)||[]).map(e=>e.t)]);
+  const top=(mp,tipo)=>[...mp].filter(([k])=>!direct.has(k)).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([k,c])=>[k,c,tipo]);
+  return{irmas:top(cited,'irmã'),paralelas:top(citing,'paralela')};}
+
+// desenho
+const svg=d3.select('#svg');const gRoot=svg.append('g');const gBands=gRoot.append('g');const gL=gRoot.append('g');const gN=gRoot.append('g');
+svg.append('defs').html(['F','G','A','R','P','S','M','X'].map(k=>`<marker id="ar${k}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="var(--e${({A:'A',R:'R',P:'R',S:'S',M:'M',X:'S'})[k]||'F'})"/></marker>`).join(''));
+const zoom=d3.zoom().scaleExtent([.15,5]).on('zoom',ev=>gRoot.attr('transform',ev.transform));svg.call(zoom).on('dblclick.zoom',null);
+$('zIn').onclick=()=>svg.transition().call(zoom.scaleBy,1.4);$('zOut').onclick=()=>svg.transition().call(zoom.scaleBy,.7);$('zFit').onclick=fit;
+let sim=null,cur=null;
+function size(){const r=$('stage').getBoundingClientRect();return{w:Math.max(300,r.width),h:Math.max(300,r.height)};}
+function radius(n){return 5+Math.min(14,Math.sqrt(degIn(n.id)+1)*1.6);}
+function fit(){if(!cur||!cur.nodes.length)return;const {w,h}=size();const xs=cur.nodes.map(d=>d.x),ys=cur.nodes.map(d=>d.y);
+  let x0=Math.min(...xs)-60,x1=Math.max(...xs)+60,y0=Math.min(...ys)-40,y1=Math.max(...ys)+40;if(S.view==='time'){x0=Math.min(x0,0);y0=Math.min(y0,0);y1+=40;}
+  const k=Math.min(1.6,.92/Math.max((x1-x0)/w,(y1-y0)/h));svg.transition().duration(400).call(zoom.transform,d3.zoomIdentity.translate(w/2-k*(x0+x1)/2,h/2-k*(y0+y1)/2).scale(k));}
+
+function render(relayout){if(!S.seed){return;}
+  const g=subgraph();const prev=new Map((cur?cur.nodes:[]).map(d=>[d.id,d]));
+  g.nodes.forEach(d=>{const p=prev.get(d.id);if(p){d.x=p.x;d.y=p.y;}});cur=g;
+  $('warn').hidden=!g.cut;$('warn').textContent=g.cut?`${g.cut} normas não exibidas (limite de ${MAXN} nós). Reduza a profundidade ou use os filtros.`:'';
+  const seedN=NODES.get(S.seed);const nStruct=g.links.filter(l=>!l.e.cit).length,nCit=g.links.filter(l=>l.e.cit&&!l.sug).length;
+  $('hud').innerHTML=`<h3>${seedN.l}</h3><div class="m">${g.nodes.length-1} normas ligadas · ${nStruct} relações${S.cit?` · ${nCit} citações`:''} · ${S.depth} salto${S.depth>1?'s':''}${S.T?` · em ${pt(S.T)}`:''}</div>`;
+  const {w,h}=size();
+  const lk=gL.selectAll('path.lk').data(g.links,d=>d.e.i);lk.exit().remove();
+  const lkE=lk.enter().append('path').attr('class',d=>'lk '+d.e.k+(d.e.sg?' sg':'')).attr('marker-end',d=>`url(#ar${d.e.k})`);
+  lkE.append('title');const lkA=lkE.merge(lk);lkA.attr('class',d=>'lk '+d.e.k+(d.e.sg?' sg':''));
+  lkA.select('title').text(d=>`${NODES.get(d.e.s).l} → ${KIND[d.e.k]}${d.e.sg?' (sugestão: '+(d.e.nt||'')+')':''} → ${NODES.get(d.e.t).l}${d.e.dd?' · '+d.e.dd:''}`);
+  const nd=gN.selectAll('g.nd').data(g.nodes,d=>d.id);nd.exit().remove();
+  const ndE=nd.enter().append('g').attr('class','nd').call(d3.drag().on('start',(ev,d)=>{if(S.view!=='force')return;if(!ev.active&&sim)sim.alphaTarget(.3).restart();d.fx=d.x;d.fy=d.y;}).on('drag',(ev,d)=>{if(S.view!=='force')return;d.fx=ev.x;d.fy=ev.y;}).on('end',(ev,d)=>{if(S.view!=='force')return;if(!ev.active&&sim)sim.alphaTarget(0);d.fx=null;d.fy=null;}));
+  ndE.append('circle');ndE.append('text').attr('dy','.35em');ndE.append('title');
+  ndE.on('click',(ev,d)=>{ev.stopPropagation();select(d.id);}).on('dblclick',(ev,d)=>{ev.stopPropagation();setSeed(d.id);});
+  const ndA=ndE.merge(nd);
+  ndA.attr('class',d=>`nd ${d.sug?'sug':(sitAt(d.n,S.T)||'futuro')} ${d.id===S.seed?'seed':''} ${fed(d.n)?'federal':''} ${S.sel&&S.sel!==d.id&&!isAdj(S.sel,d.id)?'dim':''}`);
+  ndA.select('circle').attr('r',d=>d.id===S.seed?radius(d.n)+4:radius(d.n));
+  const showAll=S.labels&&g.nodes.length<=80;
+  ndA.select('text').text(d=>(showAll||d.id===S.seed||d.id===S.sel)?d.n.l:'').attr('x',d=>radius(d.n)+(d.id===S.seed?8:5));
+  ndA.select('title').text(d=>`${d.n.l}\n${d.n.nv} · ${sitAt(d.n,S.T)===null?'ainda não existia nessa data':SIT[sitAt(d.n,S.T)]}${d.sug?' · sugestão ('+d.sug+')':''}\n${d.n.e||''}`);
+  lkA.classed('dim',d=>S.sel&&d.e.s!==S.sel&&d.e.t!==S.sel);
+  if(sim)sim.stop();gBands.selectAll('*').remove();svg.select('.axis').remove();
+  if(S.view==='force'){
+    sim=d3.forceSimulation(g.nodes).force('link',d3.forceLink(g.links).id(d=>d.id).distance(d=>d.e.cit?70:95).strength(d=>d.e.cit?.3:.7))
+      .force('charge',d3.forceManyBody().strength(-260)).force('collide',d3.forceCollide(d=>radius(d.n)+(showAll?26:8)))
+      .force('center',d3.forceCenter(w/2,h/2)).force('y',d3.forceY(d=>h/2+(LEVELS.indexOf(d.n.nv)-6)*22).strength(.08));
+    sim.on('tick',()=>{lkA.attr('d',arc);ndA.attr('transform',d=>`translate(${d.x},${d.y})`);});
+    sim.on('end',()=>{if(relayout!==false)fit();});
+    if(relayout)sim.alpha(1).restart();else sim.alpha(.6).restart();
+  }else{
+    const byId=new Map(g.nodes.map(d=>[d.id,d]));g.links.forEach(l=>{l.source=byId.get(l.e.s);l.target=byId.get(l.e.t);});
+    const dated=g.nodes.filter(d=>d.n.d);
+    const ext=d3.extent(dated,d=>new Date(d.n.d));if(!ext[0]){ext[0]=new Date('1960-01-01');ext[1]=new Date('2026-12-31');}
+    const pad=36;const x0=220,x1=x0+Math.max(w-320,dated.length*28,600);const x=d3.scaleTime().domain([d3.timeYear.offset(ext[0],-1),d3.timeYear.offset(ext[1],1)]).range([x0,x1]);
+    const rows=LEVELS.filter(l=>g.nodes.some(d=>d.n.nv===l));
+    const byRow=new Map();g.nodes.forEach(d=>(byRow.get(d.n.nv)||byRow.set(d.n.nv,[]).get(d.n.nv)).push(d));
+    const rowH=new Map(),rowY=new Map();let acc=pad;
+    rows.forEach(l=>{const arr=byRow.get(l);arr.forEach(d=>{d.x=d.n.d?x(new Date(d.n.d)):x0-90;});arr.sort((a,b)=>a.x-b.x);
+      const placed=[];let maxSlot=0;arr.forEach(d=>{let k=0;while(placed.some(p=>p.k===k&&Math.abs(p.x-d.x)<24))k++;d.k=k;placed.push({k,x:d.x});maxSlot=Math.max(maxSlot,k);});
+      const hh=Math.max(64,28+(maxSlot+1)*18);rowH.set(l,hh);rowY.set(l,acc);
+      arr.forEach(d=>{d.y=acc+hh/2+((d.k%2?-1:1)*Math.ceil(d.k/2))*18;d.x+=d.k*7;d.fx=null;d.fy=null;});acc+=hh+4;});
+    gBands.selectAll('rect').data(rows).enter().append('rect').attr('class','band').attr('x',0).attr('y',l=>rowY.get(l)).attr('width',x1+60).attr('height',l=>rowH.get(l)).attr('rx',6).style('opacity',(l,i)=>i%2?.25:.55);
+    gBands.selectAll('text').data(rows).enter().append('text').attr('class','bandlab').attr('x',10).attr('y',l=>rowY.get(l)+14).text(l=>`${l} · ${LVLNAME[l]}`);
+    if(g.nodes.some(d=>!d.n.d))gBands.append('text').attr('class','bandlab').attr('x',x0-120).attr('y',pad-8).text('sem data');
+    const ax=svg.append('g').attr('class','axis').attr('transform',`translate(0,${acc+6})`);ax.call(d3.axisBottom(x).ticks(Math.min(16,Math.floor((x1-x0)/70))));
+    gRoot.node().appendChild(ax.node());
+    ndA.select('text').text(d=>((S.labels&&g.nodes.length<=30)||d.id===S.seed||d.id===S.sel)?d.n.l:'');
+    lkA.attr('d',arc);ndA.attr('transform',d=>`translate(${d.x},${d.y})`);
+    if(relayout!==false)fit();
+  }
+  if(S.sel)ficha(S.sel);
+}
+function arc(d){const s=d.source,t=d.target;if(!s||!t||s.x===undefined)return '';const dx=t.x-s.x,dy=t.y-s.y,dr=Math.sqrt(dx*dx+dy*dy)||1;const r=radius(t.n)+(t.id===S.seed?4:0)+3;const ex=t.x-dx/dr*r,ey=t.y-dy/dr*r;
+  if(s===t)return `M${s.x},${s.y}c20,-30 50,0 0,20`;return `M${s.x},${s.y}A${dr*1.3},${dr*1.3} 0 0,1 ${ex},${ey}`;}
+function isAdj(a,b){return (OUT.get(a)||[]).some(e=>e.t===b)||(IN.get(a)||[]).some(e=>e.s===b);}
+svg.on('click',()=>{S.sel=null;render(false);});
+function setSeed(id){if(!NODES.has(id))return;S.seed=id;S.sel=id;render(true);ficha(id);try{history.replaceState(null,'','#'+id);}catch(e){}}
+function select(id){S.sel=id;render(false);ficha(id);if(window.innerWidth<=1000)showTab('ficha');else if($('app').classList.contains('noficha'))setFicha(true);}
+
+// ficha
+function ficha(id){const n=NODES.get(id);if(!n)return;const T=S.T;const s=sitAt(n,T)||n.s;
+  const rel=(arr,asSource)=>arr.filter(e=>!(e.cit&&!S.cit)||e.k!=='M'||true).sort((a,b)=>(a.cit-b.cit)||(a.k>b.k?1:-1));
+  const outs=(OUT.get(id)||[]),ins=(IN.get(id)||[]);
+  const li=(e,other,asSource)=>{const o=NODES.get(other);if(!o)return '';const disp=asSource?e.do:e.dd;const odisp=asSource?e.dd:e.do;
+    return `<li><span class="k ${e.k}">${e.cit?'CITA':KIND[e.k]}${e.sg?' · sugestão':''}</span><div><button data-go="${other}">${o.l}</button>${(disp||odisp)?`<span class="d">${disp?'em: '+disp:''}${disp&&odisp?' → ':''}${odisp?odisp:''}</span>`:''}${e.n>1?`<span class="d">${e.n} citações</span>`:''}${e.ef?`<span class="d">efeito desde ${pt(e.ef)}${e.rs?' · '+e.rs:''}</span>`:''}${e.q?`<span class="q">“${e.q}”</span>`:''}</div></li>`;};
+  const group=(arr,asSource)=>{const str=arr.filter(e=>!e.cit),cit=arr.filter(e=>e.cit);
+    return (str.length?`<ul class="rl">${str.map(e=>li(e,asSource?e.t:e.s,asSource)).join('')}</ul>`:'')+(cit.length?`<details style="margin-top:6px"><summary>${cit.length} citações simples (REMETE A)</summary><ul class="rl" style="margin-top:6px">${cit.map(e=>li(e,asSource?e.t:e.s,asSource)).join('')}</ul></details>`:'')||'<span class="hint">nenhuma registrada no acervo</span>';};
+  // vista por dispositivo
+  const byDisp=new Map();outs.filter(e=>!e.cit).forEach(e=>{const k=e.do||'norma inteira';(byDisp.get(k)||byDisp.set(k,[]).get(k)).push(['→',e,e.t]);});ins.filter(e=>!e.cit).forEach(e=>{const k=e.dd||'norma inteira';(byDisp.get(k)||byDisp.set(k,[]).get(k)).push(['←',e,e.s]);});
+  const dispHtml=[...byDisp].sort((a,b)=>a[0].localeCompare(b[0],'pt')).map(([k,arr])=>`<li><span class="k">${k}</span><div>${arr.map(([dir,e,o])=>`<span class="d">${dir} ${KIND[e.k]} <button data-go="${o}">${NODES.get(o)?NODES.get(o).l:o}</button></span>`).join('')}</div></li>`).join('');
+  const sg=suggestions(id);
+  const sugList=(arr,lab)=>arr.length?`<ul class="rl">${arr.map(([k,c])=>`<li><span class="k">${c} em comum</span><button data-go="${k}">${NODES.get(k).l}</button></li>`).join('')}</ul>`:`<span class="hint">nenhuma ${lab} encontrada</span>`;
+  $('ficha').innerHTML=`
+    <div><h3>${n.l}</h3><div class="id">${n.id}</div></div>
+    <a class="btn primary" href="../norma/${n.id.replace(/\?/g,'_')}/">Abrir ficha completa e texto ↗</a>
+    <div class="row"><span class="pill ${s}">${SIT[s]}${T&&s!==n.s?' em '+pt(T):''}</span><span class="pill lvl">${n.nv} · ${LVLNAME[n.nv]||''}</span>${n.g?'<span class="pill nao_localizada">nó fantasma: na fila de coleta</span>':''}</div>
+    <p class="ementa">${n.e||'<span class="hint">Ementa ainda não registrada no acervo.</span>'}</p>
+    <dl class="kv"><dt>Órgão</dt><dd>${n.o||'não identificado'}</dd><dt>Data</dt><dd>${n.d?(n.d.endsWith('-01-01')&&n.dy?n.dy:pt(n.d)):'sem data'}</dd><dt>Temas</dt><dd>${n.t.join('; ')||'—'}</dd><dt>Coleta</dt><dd>${n.st}</dd>${n.sr&&n.sr!==SIT[n.s]?`<dt>Situação (base)</dt><dd>${n.sr}</dd>`:''}${n.sb?`<dt>Base da situação</dt><dd class="hint">${n.sb}</dd>`:''}<dt>Fonte</dt><dd>${n.u?`<a href="${n.u}" target="_blank" rel="noopener">texto oficial ↗</a>`:'sem link no acervo'}</dd></dl>
+    <div class="row"><button class="btn primary" id="mkSeed">Tornar partida</button><span class="hint">${degIn(id)} normas apontam para ela · ela aponta para ${degOut(id)}</span></div>
+    <div class="rel"><h4>Quem a altera, revoga, supera ou cita (${ins.length})</h4>${group(ins,false)}</div>
+    <div class="rel"><h4>Em que ela se funda, o que regulamenta, altera ou cita (${outs.length})</h4>${group(outs,true)}</div>
+    <div class="rel"><h4>Zoom em dispositivos</h4>${dispHtml?`<ul class="rl">${dispHtml}</ul>`:'<span class="hint">sem dispositivo identificado nas relações</span>'}</div>
+    <div class="rel"><h4>Normas irmãs (co-citação) · sugestão</h4><p class="sugnote">Citadas pelas mesmas normas que citam esta. Não é relação normativa.</p>${sugList(sg.irmas,'irmã')}</div>
+    <div class="rel"><h4>Normas paralelas (acoplamento) · sugestão</h4><p class="sugnote">Citam as mesmas bases que esta, sem se citarem. Úteis para achar normas do mesmo tema e possíveis conflitos.</p>${sugList(sg.paralelas,'paralela')}</div>`;
+  $('mkSeed').onclick=()=>{setSeed(id);showTab('grafo');};
+  $('ficha').querySelectorAll('button[data-go]').forEach(b=>b.onclick=()=>{const t=b.dataset.go;if(cur&&cur.nodes.some(d=>d.id===t))select(t);else setSeed(t);});
+  if(window.innerWidth>1000)$('ficha').scrollTop=0;}
+
+window.addEventListener('resize',()=>{if(cur)render(false);});
+// início: hash ou Estatuto
+const h=(location.hash||'').slice(1);
+if(NODES.has(h))setSeed(h);else if(PRESETS[0])applyPreset(PRESETS[0]);else setSeed(D.nodes[0].id);
+}).catch(e=>{document.getElementById('hud').innerHTML='<h3>Não foi possível carregar os dados da Teia</h3><div class="m">'+e+'</div>';});
+</script>

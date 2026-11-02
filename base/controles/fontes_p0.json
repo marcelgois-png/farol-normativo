@@ -1,0 +1,434 @@
+[
+ {
+  "id": "BR-CNPQ-PORT-85-2011",
+  "id_correto": "BR-CNPQ-PORT-85-2011",
+  "epigrafe": "Portaria CNPq PO-085/2011, de 5 de maio de 2011",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Institui a Comissão de Integridade de Pesquisa do CNPq. A data foi confirmada no Relatório da Comissão (gov.br/cnpq/.../relatorio-comissao--integridade-do-cnpq.pdf), que não reproduz a portaria. A página de documentos do CNPq não traz a PO-085 (lista a PO-091/2012 como revogada e a Portaria 2664/2026 como política vigente). Texto oficial não localizado."
+ },
+ {
+  "id": "BR-CFE-RES-12-1983",
+  "id_correto": "BR-CFE-RES-12-1983",
+  "epigrafe": "Resolução CFE nº 12, de 6 de outubro de 1983",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Do extinto Conselho Federal de Educação. Fixa condições de validade dos certificados de cursos de aperfeiçoamento e especialização. Data tirada do nome de arquivo de uma página da UFES (fonte não oficial). Temas depois tratados pelas Res. CNE/CES 1/2001, 1/2007 e 1/2018 (não confirmado). Texto oficial não localizado."
+ },
+ {
+  "id": "BR-MEC-PORTNORM-18-2012",
+  "id_correto": "BR-MEC-PORTNORM-18-2012",
+  "epigrafe": "Portaria Normativa MEC nº 18, de 11 de outubro de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Implementa a Lei 12.711/2012 (cotas). Alterada pela PN MEC 9/2017. Não foi possível abrir gov.br/mec (captcha) nem in.gov.br (robots). Só achei cópias de terceiros."
+ },
+ {
+  "id": "BR-MEC-PORTINTER-278-2011",
+  "id_correto": "BR-MEC-MS-PORTINTER-278-2011",
+  "epigrafe": "Portaria Interministerial MEC/MS nº 278, de 17 de março de 2011",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Institui o Revalida, exame de revalidação de diplomas médicos. Texto oficial não localizado: in.gov.br bloqueado e não achado em gov.br/saude ou bvsms. Verificar se foi superada pela Lei 13.959/2019 (não confirmado)."
+ },
+ {
+  "id": "BR-COFEN-RES-564-2017",
+  "id_correto": "BR-COFEN-RES-564-2017",
+  "epigrafe": "Resolução Cofen nº 564, de 6 de novembro de 2017",
+  "url": "https://www.cofen.gov.br/resolucao-cofen-no-5642017/",
+  "fonte": "cofen.gov.br",
+  "situacao": "vigente (página não indica revogação)",
+  "obs": "Aprova o novo Código de Ética dos Profissionais de Enfermagem e revoga a Res. Cofen 311/2007."
+ },
+ {
+  "id": "BR-?-RES-564-2017",
+  "id_correto": "BR-COFEN-RES-564-2017",
+  "epigrafe": "Resolução Cofen nº 564, de 6 de novembro de 2017",
+  "url": "https://www.cofen.gov.br/resolucao-cofen-no-5642017/",
+  "fonte": "cofen.gov.br",
+  "situacao": "vigente (página não indica revogação)",
+  "obs": "Duplicata de BR-COFEN-RES-564-2017 (Código de Ética de Enfermagem); fundir os IDs."
+ },
+ {
+  "id": "BR-?-PORT-485-2005",
+  "id_correto": "BR-MTE-PORT-485-2005",
+  "epigrafe": "Portaria MTE nº 485, de 11 de novembro de 2005",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2005/portaria_485_aprova_nr_32.pdf",
+  "fonte": "gov.br/trabalho-e-emprego",
+  "situacao": "não informado",
+  "obs": "Aprova a NR-32 (segurança e saúde no trabalho em serviços de saúde). O PDF não traz o Anexo II (prazos)."
+ },
+ {
+  "id": "BR-?-RES-1-2004",
+  "id_correto": "BR-CNE-CP-RES-1-2004",
+  "epigrafe": "Resolução CNE/CP nº 1, de 17 de junho de 2004",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "DCN para a Educação das Relações Étnico-Raciais e o Ensino de História e Cultura Afro-Brasileira e Africana (identificada pelo trecho). gov.br/mec retorna captcha e portal.mec.gov.br/in.gov.br estão bloqueados (robots); URL não confirmada."
+ },
+ {
+  "id": "BR-?-PORT-8-1996",
+  "id_correto": "BR-MTE-SSST-PORT-8-1996",
+  "epigrafe": "Portaria SSST/MTb nº 8, de 8 de maio de 1996",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/1996/portaria_8_altera_nr_07_e_nr_28.pdf",
+  "fonte": "gov.br/trabalho-e-emprego",
+  "situacao": "art. 2º revogado pela Portaria SEPRT nº 1.066/2019; restante não informado",
+  "obs": "Altera a NR-7 (PCMSO) e a NR-28. Identificação inferida: a citação traz só número e data, em lista de referências de curso de saúde."
+ },
+ {
+  "id": "BR-COFEN-RES-278-2003",
+  "id_correto": "BR-COFEN-RES-278-2003",
+  "epigrafe": "Resolução Cofen nº 278, de 16 de junho de 2003",
+  "url": "https://www.cofen.gov.br/resoluo-cofen-2782003/",
+  "fonte": "cofen.gov.br",
+  "situacao": "vigente, alterada pela Resolução Cofen nº 731/2023",
+  "obs": "Sutura efetuada por profissional de Enfermagem. A página mostra o texto original de 2003, sem as alterações de 2023."
+ },
+ {
+  "id": "BR-COFEN-RES-280-2003",
+  "id_correto": "BR-COFEN-RES-280-2003",
+  "epigrafe": "Resolução Cofen nº 280, de 16 de junho de 2003",
+  "url": "https://www.cofen.gov.br/resoluo-cofen-2802003/",
+  "fonte": "cofen.gov.br",
+  "situacao": "revogada pela Resolução Cofen nº 779/2025",
+  "obs": "Proibia o profissional de Enfermagem de auxiliar procedimentos cirúrgicos. Ver também a Nota Técnica 4/2025/Plenário."
+ },
+ {
+  "id": "BR-COFEN-RES-554-2017",
+  "id_correto": "BR-COFEN-RES-554-2017",
+  "epigrafe": "Resolução Cofen nº 554, de 17 de julho de 2017",
+  "url": "https://www.cofen.gov.br/resolucao-cofen-no-05542017/",
+  "fonte": "cofen.gov.br",
+  "situacao": "vigente (página não indica revogação)",
+  "obs": "Critérios para uso e comportamento dos profissionais de enfermagem em mídias (impressa, publicitária, redes sociais)."
+ },
+ {
+  "id": "BR-COFEN-RES-617-2019",
+  "id_correto": "BR-COFEN-RES-617-2019",
+  "epigrafe": "Resolução Cofen nº 617, de 17 de outubro de 2019",
+  "url": "https://cofen.gov.br/resolucao-cofen-no-617-2019/",
+  "fonte": "cofen.gov.br",
+  "situacao": "revogada pela Resolução Cofen nº 725, de 15 de setembro de 2023",
+  "obs": "Atualiza o Manual de Fiscalização do Sistema Cofen/Conselhos Regionais. Alterada pela errata de 04/02/2020. O anexo aparece na página com 0 bytes."
+ },
+ {
+  "id": "BR-?-RES-2-2020",
+  "id_correto": "BR-CNE-CEB-RES-2-2020",
+  "epigrafe": "Resolução CNE/CEB nº 2, de 15 de dezembro de 2020",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Aprova a 4ª edição do Catálogo Nacional de Cursos Técnicos (houve republicação). gov.br/mec com captcha e in.gov.br bloqueado; URL não confirmada."
+ },
+ {
+  "id": "BR-?-RES-7-2018",
+  "id_correto": "BR-CNE-CES-RES-7-2018",
+  "epigrafe": "Resolução CNE/CES nº 7, de 18 de dezembro de 2018",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes para a Extensão na Educação Superior (meta 12.7 do PNE). Alterada pela Res. CNE/CES 1/2020 (não confirmado em fonte oficial). gov.br/mec com captcha; URL não confirmada."
+ },
+ {
+  "id": "BR-CAPES-PORT-68-2004",
+  "id_correto": "BR-CAPES-PORT-68-2004",
+  "epigrafe": "Portaria CAPES nº 68, de 3 de agosto de 2004",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Categorias de docentes da pós-graduação (permanente, colaborador, visitante). A data vem da busca e não foi confirmada. Tema retomado depois pelas Portarias CAPES 2/2012, 174/2014 e 81/2016 (não confirmado). O catálogo cad.capes.gov.br não é legível pela ferramenta."
+ },
+ {
+  "id": "BR-?-RES-45-2010",
+  "id_correto": "UFPB-CONSEPE-RES-45-2010",
+  "epigrafe": "Resolução CONSEPE/UFPB nº 45, de 30 de julho de 2010",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Norma interna da UFPB, não federal: inclui Libras como componente curricular nos cursos de graduação. Coletar pelo SIGRH."
+ },
+ {
+  "id": "BR-CGU-PORT-2737-2017",
+  "id_correto": "BR-CGU-PORT-2737-2017",
+  "epigrafe": "Portaria CGU nº 2.737, de 20 de dezembro de 2017",
+  "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/links/Portaria_CGU_2737_20171.pdf",
+  "fonte": "gov.br/cgu",
+  "situacao": "não informado (FAQ da CGU de 06/03/2023 a trata como em vigor)",
+  "obs": "Consulta prévia à CGU para nomear, designar, exonerar ou dispensar o titular da auditoria interna. Publicada no DOU de 22/12/2017. O PDF é a página do DOU, que traz também outra norma."
+ },
+ {
+  "id": "BR-?-RES-16-2015",
+  "id_correto": "UFPB-CONSEPE-RES-16-2015",
+  "epigrafe": "Resolução CONSEPE/UFPB nº 16/2015",
+  "url": "",
+  "fonte": "",
+  "situacao": "revogada pela Resolução CONSEPE/UFPB nº 29/2020 (segundo o trecho citante)",
+  "obs": "Norma interna da UFPB: Regulamento Geral de Graduação anterior, substituído pela Res. CONSEPE 29/2020."
+ },
+ {
+  "id": "BR-CNS-RES-287-1998",
+  "id_correto": "BR-CNS-RES-287-1998",
+  "epigrafe": "Resolução CNS nº 287, de 8 de outubro de 1998",
+  "url": "https://www.gov.br/conselho-nacional-de-saude/pt-br/atos-normativos/resolucoes/1998/resolucao-no-287.pdf",
+  "fonte": "gov.br/conselho-nacional-de-saude",
+  "situacao": "não informado",
+  "obs": "Relaciona as categorias profissionais de saúde de nível superior para fins de atuação do CNS. Texto com erros de transcrição."
+ },
+ {
+  "id": "BR-IN-?-1-2014",
+  "id_correto": "BR-MEC-SERES-IN-1-2014",
+  "epigrafe": "Instrução Normativa SERES/MEC nº 1, de 16 de maio de 2014",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Órgão identificado pelo trecho (SERES/MEC). Trata do cadastro nacional dos cursos de especialização (lato sensu) no e-MEC. Só achei cópias de terceiros (ABMES, UNEB); gov.br/mec e in.gov.br inacessíveis."
+ },
+ {
+  "id": "BR-IN-?-1-2015",
+  "id_correto": "BR-MEC-SERES-IN-1-2015",
+  "epigrafe": "Instrução Normativa SERES/MEC nº 1, de 13 de fevereiro de 2015",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Estabelece os procedimentos para cumprir a IN SERES 1/2014 (cadastro de especializações no e-MEC). Órgão inferido do trecho. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-?-RES-4-1999",
+  "id_correto": "BR-CNE-CEB-RES-4-1999",
+  "epigrafe": "Resolução CNE/CEB nº 4, de 8 de dezembro de 1999",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "DCN da Educação Profissional de Nível Técnico. Uma citação data o ato de 05/10/1999, provável confusão com o Parecer CNE/CEB 16/99. Possivelmente revogada pela Res. CNE/CEB 6/2012 ou CNE/CP 1/2021 (não confirmado). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-MEC-PORT-301-1998",
+  "id_correto": "BR-MEC-PORT-301-1998",
+  "epigrafe": "Portaria MEC nº 301, de 7 de abril de 1998",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Credenciamento de instituições para cursos a distância (regulava o Decreto 2.494/98). Data não confirmada. Provavelmente superada pela legislação de EaD posterior (Decretos 5.622/2005 e 9.057/2017); não confirmado."
+ },
+ {
+  "id": "BR-MEC-PORTINTER-1077-2009",
+  "id_correto": "BR-MEC-MS-PORTINTER-1077-2009",
+  "epigrafe": "Portaria Interministerial MEC/MS nº 1.077, de 12 de novembro de 2009",
+  "url": "https://www.gov.br/saude/pt-br/composicao/sgtes/deges/legislacao/2018-e-antes/2009/portaria-n-1077-12-novembro-2009.pdf",
+  "fonte": "gov.br/saude",
+  "situacao": "não informado",
+  "obs": "Residência Multiprofissional e em Área Profissional da Saúde; programa de bolsas e CNRMS. Revoga a PI 45/2007. O PDF é a página do DOU de 13/11/2009, que traz também outros atos."
+ },
+ {
+  "id": "BR-MEC-PORTNORM-9-2017",
+  "id_correto": "BR-MEC-PORTNORM-9-2017",
+  "epigrafe": "Portaria Normativa MEC nº 9, de 5 de maio de 2017",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Altera as PN MEC 18/2012 e 21/2012 para incluir a reserva de vagas para pessoas com deficiência (Lei 13.409/2016). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-?-PORT-2528-2006",
+  "id_correto": "BR-MS-PORT-2528-2006",
+  "epigrafe": "Portaria GM/MS nº 2.528, de 19 de outubro de 2006",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Aprova a Política Nacional de Saúde da Pessoa Idosa. Identificação inferida (só número e data no trecho). A URL bvsms (saudelegis/gm/2006/prt2528_19_10_2006.html) não abriu."
+ },
+ {
+  "id": "BR-?-RES-2-2012",
+  "id_correto": "BR-CNE-CP-RES-2-2012",
+  "epigrafe": "Resolução CNE/CP nº 2, de 15 de junho de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "DCN para a Educação Ambiental (confirmado pelo trecho). Fonte oficial inacessível (gov.br/mec com captcha)."
+ },
+ {
+  "id": "BR-?-RES-6-2012",
+  "id_correto": "BR-CNE-CEB-RES-6-2012",
+  "epigrafe": "Resolução CNE/CEB nº 6, de 20 de setembro de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "DCN da Educação Profissional Técnica de Nível Médio. Possivelmente revogada pela Res. CNE/CP 1/2021 (não confirmado). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-CONAES-RES-1-2010",
+  "id_correto": "BR-CONAES-RES-1-2010",
+  "epigrafe": "Resolução CONAES nº 1, de 17 de junho de 2010",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Normatiza o Núcleo Docente Estruturante (NDE). Só achei cópias em sites de universidades; gov.br/mec inacessível."
+ },
+ {
+  "id": "BR-DEC-14118-?",
+  "id_correto": "BR-DEC-14118-1920",
+  "epigrafe": "Decreto nº 14.118, de 27 de março de 1920",
+  "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-14118-27-marco-1920-510469-publicacaooriginal-1-pe.html",
+  "fonte": "camara.leg.br",
+  "situacao": "não informado",
+  "obs": "Cria um Patronato Agrícola em Bananeiras/PB, origem do CAVN/CCHSA. Fonte oficial da Câmara, não está na lista citada. A assinatura no texto traz 29/03/1920. O mesmo trecho cita os Decretos 53.358/1964 e 62.178/1968."
+ },
+ {
+  "id": "BR-MEC-PORT-2519-2005",
+  "id_correto": "BR-MEC-PORT-2519-2005",
+  "epigrafe": "Portaria MEC nº 2.519, de 15 de julho de 2005",
+  "url": "",
+  "fonte": "",
+  "situacao": "alterada pela Portaria MEC nº 2.562/2005 (segundo o trecho citante)",
+  "obs": "Regulamenta pontos da Lei 11.091/2005 (carreira dos técnico-administrativos). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-MEC-PORT-554-2013",
+  "id_correto": "BR-MEC-PORT-554-2013",
+  "epigrafe": "Portaria MEC nº 554, de 20 de junho de 2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes gerais para avaliação de desempenho e atividades docentes no magistério federal. Complementada pela Portaria MEC 983/2020, alterada pela 270/2021. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-MEC-PORT-646-1997",
+  "id_correto": "BR-MEC-PORT-646-1997",
+  "epigrafe": "Portaria MEC nº 646, de 14 de maio de 1997",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Regulamentava a implantação do Decreto 2.208/97 (educação profissional) na rede federal. Data não confirmada. Provavelmente superada com a revogação do Decreto 2.208/97 pelo Decreto 5.154/2004 (não confirmado)."
+ },
+ {
+  "id": "BR-MEC-PORTNORM-21-2012",
+  "id_correto": "BR-MEC-PORTNORM-21-2012",
+  "epigrafe": "Portaria Normativa MEC nº 21, de 5 de novembro de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Dispõe sobre o Sistema de Seleção Unificada (Sisu). Alterada pela PN 9/2017. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-?-PORT-3214-1978",
+  "id_correto": "BR-MTB-PORT-3214-1978",
+  "epigrafe": "Portaria MTb nº 3.214, de 8 de junho de 1978",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/portaria_3214_aprova_as_nrs.pdf",
+  "fonte": "gov.br/trabalho-e-emprego",
+  "situacao": "não informado",
+  "obs": "Aprova as Normas Regulamentadoras (NR) da CLT. O PDF traz os 5 artigos e a lista das NR-1 a 28, sem o texto das NRs."
+ },
+ {
+  "id": "BR-?-RES-1-2005",
+  "id_correto": "BR-CNE-CEB-RES-1-2005",
+  "epigrafe": "Resolução CNE/CEB nº 1, de 3 de fevereiro de 2005",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Atualiza as DCN do Ensino Médio e da Educação Profissional Técnica de Nível Médio conforme o Decreto 5.154/2004. Possivelmente revogada pela Res. CNE/CEB 6/2012 (não confirmado). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-?-RES-1-2021",
+  "id_correto": "BR-CNE-CP-RES-1-2021",
+  "epigrafe": "Resolução CNE/CP nº 1, de 5 de janeiro de 2021",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "ID AMBÍGUO, desmembrar. Em RES-04-2024 e RES-48-2026 trata-se da CNE/CP 1/2021 (DCN gerais da Educação Profissional e Tecnológica). Em RES-05-2026 (26/03/2021) é provavelmente a CNE/CES 1/2021, que altera a DCN de Engenharia. Em RES-09-2023 e RES-14-2026 (25/05/2021) é provavelmente a CNE/CEB 1/2021 (EJA). Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-CFO-RES-185-1993",
+  "id_correto": "BR-CFO-RES-185-1993",
+  "epigrafe": "Resolução CFO-185/1993",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Aprova a Consolidação das Normas para Procedimentos nos Conselhos de Odontologia. Data exata não confirmada. Possivelmente substituída pela Consolidação da Res. CFO-63/2005 (não confirmado). sistemas.cfo.org.br não abriu para este ato."
+ },
+ {
+  "id": "BR-MEC-PORT-544-2020",
+  "id_correto": "BR-MEC-PORT-544-2020",
+  "epigrafe": "Portaria MEC nº 544, de 16 de junho de 2020",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Substituição de aulas presenciais por meios digitais durante a pandemia. Alterada pela Portaria MEC 1.038/2020 (segundo o trecho citante). Ato temporário. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-MEC-PORT-572-2020",
+  "id_correto": "BR-MEC-PORT-572-2020",
+  "epigrafe": "Portaria MEC nº 572, de 1º de julho de 2020",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Institui o Protocolo de Biossegurança para retorno das atividades nas instituições federais de ensino. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-ON-?-1-2014",
+  "id_correto": "UFPB-ETS-ON-1-2014",
+  "epigrafe": "Orientação Normativa nº 01/2014 da ETS/CCS/UFPB",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Norma interna da UFPB (Escola Técnica de Saúde do CCS), não federal."
+ },
+ {
+  "id": "BR-?-PORT-1823-2012",
+  "id_correto": "BR-MS-PORT-1823-2012",
+  "epigrafe": "Portaria GM/MS nº 1.823, de 23 de agosto de 2012",
+  "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2012/prt1823_23_08_2012.html",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "não informado",
+  "obs": "Institui a Política Nacional de Saúde do Trabalhador e da Trabalhadora. Órgão inferido; o conteúdo da página confere. Verificar se foi consolidada na PRC 2/2017 (não confirmado)."
+ },
+ {
+  "id": "BR-?-RES-4-2021",
+  "id_correto": "BR-CNE-CES-RES-4-2021",
+  "epigrafe": "Resolução CNE/CES nº 4, de 16 de julho de 2021",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Altera o art. 11 da Res. CNE/CES 1/2018 (pós-graduação lato sensu). Identificada pelo trecho. Fonte oficial inacessível."
+ },
+ {
+  "id": "BR-?-RES-466-2012",
+  "id_correto": "BR-CNS-RES-466-2012",
+  "epigrafe": "Resolução CNS nº 466, de 12 de dezembro de 2012",
+  "url": "https://www.gov.br/conselho-nacional-de-saude/pt-br/atos-normativos/resolucoes/2012/resolucao-no-466.pdf",
+  "fonte": "gov.br/conselho-nacional-de-saude",
+  "situacao": "não informado (página não indica revogação)",
+  "obs": "Diretrizes e normas para pesquisas envolvendo seres humanos. Publicada no DOU de 13/06/2013. Revoga as Res. CNS 196/96, 303/2000 e 404/2008."
+ },
+ {
+  "id": "BR-CAPES-PORT-120-2023",
+  "id_correto": "BR-CAPES-PORT-120-2023",
+  "epigrafe": "Portaria CAPES nº 120, de 26 de junho de 2023",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Regulamenta a apresentação e o acompanhamento de projetos de cooperação entre instituições (turmas fora de sede, editais CAPES 21/2023 e 02/2024). Texto oficial não localizado (cad.capes.gov.br não legível)."
+ },
+ {
+  "id": "BR-CAPES-PORT-13-2006",
+  "id_correto": "BR-CAPES-PORT-13-2006",
+  "epigrafe": "Portaria CAPES nº 13, de 15 de fevereiro de 2006",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Institui a divulgação digital das teses e dissertações dos programas de doutorado e mestrado. Texto oficial não localizado (só ABMES e universidades)."
+ },
+ {
+  "id": "BR-CAPES-PORT-174-2014",
+  "id_correto": "BR-CAPES-PORT-174-2014",
+  "epigrafe": "Portaria CAPES nº 174, de 30 de dezembro de 2014",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Classificação dos docentes da pós-graduação stricto sensu (permanentes, colaboradores, visitantes). Possivelmente substituída pela Portaria CAPES 81/2016 (não confirmado). Texto oficial não localizado."
+ }
+]

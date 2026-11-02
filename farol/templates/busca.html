@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Busca · Farol Normativo UFPB{% endblock %}
+{% block conteudo %}
+<h1>Busca</h1>
+<p class="lead">Número e ano (<code>29/2020</code>), palavras da ementa (<code>monitoria</code>), órgão e ano soltos (<code>consepe 2015</code>) ou prefixos: <code>orgao:cne</code>, <code>ano:2019</code> ou <code>ano:2010-2015</code>, <code>nivel:N7</code>, <code>tema:extensão</code>, <code>situacao:revogada</code>, <code>num:16</code>.</p>
+<div class="sbox">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+  <input type="search" id="q" placeholder="Buscar norma" aria-label="Buscar norma" autocomplete="off">
+</div>
+<div class="filtros">
+  <label>Órgão emissor<select id="fOrg"><option value="">qualquer</option></select></label>
+  <label>Nível<select id="fNiv"><option value="">qualquer</option></select></label>
+  <label>Ano de<input type="number" id="fAno1" min="1900" max="2030" placeholder="1960"></label>
+  <label>Ano até<input type="number" id="fAno2" min="1900" max="2030" placeholder="2026"></label>
+  <label>Situação<select id="fSit"><option value="">qualquer</option></select></label>
+  <label>Tema<select id="fTema"><option value="">qualquer</option></select></label>
+  <label>Coleta<select id="fCol"><option value="">qualquer</option><option value="texto">com texto no acervo</option><option value="fantasma">só citada (sem texto)</option></select></label>
+  <label>Ordenar por<select id="fOrd"><option value="rel">mais ligadas primeiro</option><option value="data">data (recentes primeiro)</option><option value="datao">data (antigas primeiro)</option><option value="nome">nome</option></select></label>
+</div>
+<div class="cnt" id="cnt">Carregando o índice…</div>
+<div class="resultados" id="res"></div>
+{% endblock %}
+{% block scripts %}
+<script src="{{ raiz }}assets/busca.js"></script>
+{% endblock %}

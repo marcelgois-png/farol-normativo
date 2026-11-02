@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ titulo }} · Farol Normativo UFPB{% endblock %}
+{% block conteudo %}
+<h1>{{ titulo }}</h1>
+{% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+{% if resumo %}<div class="chips">{% for k, v in resumo %}<span class="chip"><b>{{ v|br }}</b> {{ k }}</span>{% endfor %}</div>{% endif %}
+{% for bloco in blocos %}
+<h2 id="{{ bloco.id }}">{{ bloco.titulo }} {% if bloco.linhas is defined %}<span class="hint">({{ bloco.linhas|length|br }})</span>{% endif %}</h2>
+{% if bloco.texto %}<p class="hint" style="max-width:80ch">{{ bloco.texto }}</p>{% endif %}
+{% if bloco.html %}{{ bloco.html|safe }}{% endif %}
+{% if bloco.linhas is defined and bloco.linhas %}
+<div class="tabela"><table>
+<thead><tr>{% for c in bloco.colunas %}<th>{{ c }}</th>{% endfor %}</tr></thead>
+<tbody>
+{% for l in bloco.linhas %}<tr>{% for c in l %}<td>{{ c|safe }}</td>{% endfor %}</tr>{% endfor %}
+</tbody></table></div>
+{% endif %}
+{% endfor %}
+{% endblock %}

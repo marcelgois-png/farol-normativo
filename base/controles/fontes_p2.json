@@ -1,0 +1,407 @@
+[
+ {
+  "id": "BR-CAPES-PORT-52-2002",
+  "id_correto": "BR-CAPES-PORT-52-2002",
+  "epigrafe": "Portaria CAPES nº 52, de 2002 (Regulamento do Programa de Demanda Social – DS)",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Não encontrei texto em fonte oficial; só há cópias em sites de universidades. Provavelmente substituída pela Portaria CAPES nº 76/2010, também Regulamento DS (não confirmado em fonte oficial)."
+ },
+ {
+  "id": "BR-CFE-RES-2-1985",
+  "id_correto": "BR-CFE-RES-2-1985",
+  "epigrafe": "Resolução CFE nº 2, de 24 de janeiro de 1985",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Ato do extinto Conselho Federal de Educação. Pelo contexto, é o currículo mínimo do curso de Comunicação Social/Jornalismo. Não há texto em fonte oficial on-line."
+ },
+ {
+  "id": "BR-CFN-RES-227-1999",
+  "id_correto": "BR-CFN-RES-227-1999",
+  "epigrafe": "Resolução CFN nº 227, de 24 de outubro de 1999",
+  "url": "https://www.cfn.org.br/wp-content/uploads/resolucoes/Res_227_1999.htm",
+  "fonte": "cfn.org.br",
+  "situacao": "revogada pela Resolução CFN nº 604/2018",
+  "obs": "Trata do registro e da fiscalização dos Técnicos em Nutrição e Dietética. Foi alterada pelas Res. CFN 247/2000, 263/2001 e 312/2003. DOU de 05/11/1999."
+ },
+ {
+  "id": "BR-CFN-RES-312-2003",
+  "id_correto": "BR-CFN-RES-312-2003",
+  "epigrafe": "Resolução CFN nº 312, de 28 de julho de 2003",
+  "url": "https://cfn.org.br/wp-content/uploads/repositorirob/pdf/res/2000_2004/res312.pdf",
+  "fonte": "cfn.org.br",
+  "situacao": "não informado",
+  "obs": "Altera a Res. CFN 227/1999 (Técnicos em Nutrição e Dietética). DOU de 05/08/2003. Como a 227/1999 foi revogada pela Res. CFN 604/2018, a 312 provavelmente perdeu o objeto (inferência)."
+ },
+ {
+  "id": "BR-CFN-RES-600-2018",
+  "id_correto": "BR-CFN-RES-600-2018",
+  "epigrafe": "Resolução CFN nº 600, de 25 de fevereiro de 2018",
+  "url": "https://cfn.org.br/wp-content/uploads/resolucoes/Res_600_2018.htm",
+  "fonte": "cfn.org.br",
+  "situacao": "vigente (retificada em 23/05/2018)",
+  "obs": "Define as áreas de atuação do nutricionista e os parâmetros numéricos mínimos. DOU de 20/04/2018. Revoga as Res. CFN 223/1999 e 380/2005. O CFN está revisando o texto."
+ },
+ {
+  "id": "BR-CGU-PORT-1089-2018",
+  "id_correto": "BR-CGU-PORT-1089-2018",
+  "epigrafe": "Portaria CGU nº 1.089, de 25 de abril de 2018",
+  "url": "https://www.gov.br/cnen/pt-br/acesso-a-informacao/comites-internos/comite-gestor-de-integridade/PORTARIACGUn.1089de25deabrilde2018.pdf",
+  "fonte": "gov.br/cnen",
+  "situacao": "não informado",
+  "obs": "Orienta os órgãos federais a estruturar, executar e monitorar programas de integridade. É cópia do DOU de 26/04/2018 (Seção 1, p. 81) hospedada pela CNEN. O repositório da CGU exige login, e in.gov.br bloqueia a leitura automática. Alterações posteriores não foram verificadas."
+ },
+ {
+  "id": "BR-CNJ-RES-228-2016",
+  "id_correto": "BR-CNJ-RES-228-2016",
+  "epigrafe": "Resolução CNJ nº 228, de 22 de junho de 2016",
+  "url": "https://www.cnj.jus.br/wp-content/uploads/2016/07/resolucao_228_22062016_23062016142323.pdf",
+  "fonte": "cnj.jus.br",
+  "situacao": "não informado",
+  "obs": "Regulamenta, no Poder Judiciário, a Convenção da Apostila da Haia (dispensa de legalização de documentos públicos estrangeiros). A página atos.cnj.jus.br/atos/detalhar/2299 não abriu."
+ },
+ {
+  "id": "BR-CNRMS-RES-2-2012",
+  "id_correto": "BR-CNRMS-RES-2-2012",
+  "epigrafe": "Resolução CNRMS nº 2, de 13 de abril de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes gerais dos programas de residência multiprofissional e em área profissional da saúde. O portal.mec.gov.br bloqueia a leitura automática e o gov.br/mec pede CAPTCHA; só há cópias em sites de terceiros e estaduais. A mesma citação também menciona as Res. CNRMS 03/2010, 02/2011, 03/2011 e 03/2012."
+ },
+ {
+  "id": "BR-CNRMS-RES-5-2014",
+  "id_correto": "BR-CNRMS-RES-5-2014",
+  "epigrafe": "Resolução CNRMS nº 5, de 7 de novembro de 2014",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Residência multiprofissional: duração, carga horária e avaliação dos residentes. Teve retificação. Não há fonte federal acessível (MEC bloqueado); existe cópia em goias.gov.br."
+ },
+ {
+  "id": "BR-CNS-RES-610-2018",
+  "id_correto": "BR-CNS-RES-610-2018",
+  "epigrafe": "Resolução CNS nº 610, de 13 de dezembro de 2018",
+  "url": "https://www.gov.br/conselho-nacional-de-saude/pt-br/acesso-a-informacao/atos-normativos/resolucoes/2018/resolucao-no-610.pdf",
+  "fonte": "gov.br/conselho-nacional-de-saude",
+  "situacao": "não informado",
+  "obs": "Aprova as recomendações do CNS às DCN do bacharelado em Fonoaudiologia. DOU de 16/04/2019. Divergência: o texto oficial fala em Parecer Técnico nº 454/2018, e a resolução da UFPB cita nº 458/2018."
+ },
+ {
+  "id": "BR-COFEN-RES-423-2012",
+  "id_correto": "BR-COFEN-RES-423-2012",
+  "epigrafe": "Resolução Cofen nº 423, de 9 de abril de 2012",
+  "url": "https://cofen.gov.br/?p=8956",
+  "fonte": "cofen.gov.br",
+  "situacao": "revogada pela Resolução Cofen nº 661/2021",
+  "obs": "Trata da participação do enfermeiro na classificação de riscos. Publicada em 11/04/2012."
+ },
+ {
+  "id": "BR-DEC-1916-?",
+  "id_correto": "BR-DEC-1916-1996",
+  "epigrafe": "Decreto nº 1.916, de 23 de maio de 1996",
+  "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1916.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente, com alterações",
+  "obs": "Regulamenta a escolha de dirigentes das IFES (Lei 9.192/1995). Alterado pelo Decreto 6.264/2007, conferido em planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6264.htm."
+ },
+ {
+  "id": "BR-IN-?-3-2017",
+  "id_correto": "BR-CGU-IN-3-2017",
+  "epigrafe": "Instrução Normativa SFC/CGU nº 3, de 9 de junho de 2017",
+  "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/links/Instrucao_Normativa_CGU_3_2017.pdf",
+  "fonte": "gov.br/cgu",
+  "situacao": "revogada parcialmente (Enap/CGU, sem indicar a norma revogadora)",
+  "obs": "Aprova o Referencial Técnico da Atividade de Auditoria Interna Governamental do Poder Executivo Federal."
+ },
+ {
+  "id": "BR-IN-?-9-2011",
+  "id_correto": "",
+  "epigrafe": "",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Não identificável: o trecho cita apenas 'Instruções Normativas nº 04/2010 e 09/2011', sem órgão nem assunto. É preciso ler o contexto na Res. CONSEPE 13/2015 (podem ser normas internas da UFPB)."
+ },
+ {
+  "id": "BR-IN-SGP-90-2021",
+  "id_correto": "BR-SGP-IN-90-2021",
+  "epigrafe": "Instrução Normativa SGP/SEDGG/ME nº 90, de 28 de setembro de 2021",
+  "url": "https://www.planalto.gov.br/CCIVIL_03/Portaria/IN/in90-21-me-sgp-sedgg.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "não informado",
+  "obs": "Orienta os órgãos do SIPEC sobre o retorno gradual e seguro ao trabalho presencial. O art. 18 revoga as IN SGP 109/2020 e 37/2021."
+ },
+ {
+  "id": "BR-INEP-PORT-290-2022",
+  "id_correto": "BR-INEP-PORT-290-2022",
+  "epigrafe": "Portaria Inep nº 290, de 30 de junho de 2022",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes de prova e componentes específicos da área de Administração no Enade 2022, coerente com a citação da Res. CNE/CES 5/2021. DOU de 01/07/2022. O in.gov.br bloqueia a leitura automática; só há cópia na ABMES."
+ },
+ {
+  "id": "BR-LEI-11105-?",
+  "id_correto": "BR-LEI-11105-2005",
+  "epigrafe": "Lei nº 11.105, de 24 de março de 2005",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente, com alterações",
+  "obs": "Lei de Biossegurança (OGM, CNBS, CTNBio)."
+ },
+ {
+  "id": "BR-LEI-11340-?",
+  "id_correto": "BR-LEI-11340-2006",
+  "epigrafe": "Lei nº 11.340, de 7 de agosto de 2006",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente, com alterações",
+  "obs": "Lei Maria da Penha. Aparece citada na bibliografia de um PPC."
+ },
+ {
+  "id": "BR-LEI-12015-?",
+  "id_correto": "BR-LEI-12015-2009",
+  "epigrafe": "Lei nº 12.015, de 7 de agosto de 2009",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12015.htm",
+  "fonte": "planalto.gov.br",
+  "situacao": "vigente",
+  "obs": "Altera o Título VI do Código Penal (crimes contra a dignidade sexual). Aparece citada na bibliografia de um PPC."
+ },
+ {
+  "id": "BR-LEI-1627-?",
+  "id_correto": "",
+  "epigrafe": "",
+  "url": "",
+  "fonte": "",
+  "situacao": "não é norma",
+  "obs": "Erro de leitura: o trecho diz 'Projeto de Lei 1627', ou seja, projeto de lei (contexto CONANDA), sem força normativa. Retirar da fila."
+ },
+ {
+  "id": "BR-MEC-PORT-1094-2013",
+  "id_correto": "BR-MEC-PORT-1094-2013",
+  "epigrafe": "Portaria MEC nº 1.094, de 7 de novembro de 2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Não localizei o texto nem a ementa em fonte oficial; o in.gov.br bloqueia a leitura automática."
+ },
+ {
+  "id": "BR-MEC-PORT-111-2021",
+  "id_correto": "BR-SERES-PORT-111-2021",
+  "epigrafe": "Portaria nº 111, de 4 de fevereiro de 2021",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Portaria de renovação de reconhecimento de curso da UFPB, provavelmente da SERES/MEC (ato regulatório de efeito concreto). Só está no DOU, cuja leitura automática é bloqueada."
+ },
+ {
+  "id": "BR-MEC-PORT-1134-2016",
+  "id_correto": "BR-MEC-PORT-1134-2016",
+  "epigrafe": "Portaria MEC nº 1.134, de 10 de outubro de 2016",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Permite até 20% de carga horária a distância em cursos presenciais e revoga a Portaria MEC 4.059/2004. Pelo que sei, foi depois revogada (Portaria MEC 1.428/2018), mas não confirmei em fonte oficial."
+ },
+ {
+  "id": "BR-MEC-PORT-133-2012",
+  "id_correto": "BR-SERES-PORT-133-2012",
+  "epigrafe": "Portaria SERES/MEC nº 133, de 27 de julho de 2012",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Reconhecimento de curso da UFPB pela Secretaria de Regulação e Supervisão da Educação Superior (ato de efeito concreto). Só está no DOU."
+ },
+ {
+  "id": "BR-MEC-PORT-155-2002",
+  "id_correto": "BR-MP-PORT-155-2002",
+  "epigrafe": "Portaria MP nº 155, de 15 de abril de 2002",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "O trecho atribui o ato ao Ministro do Planejamento, Orçamento e Gestão, não ao MEC. Não localizei o texto oficial."
+ },
+ {
+  "id": "BR-MEC-PORT-1612-2011",
+  "id_correto": "BR-MEC-PORT-1612-2011",
+  "epigrafe": "Portaria MEC nº 1.612, de 18 de novembro de 2011",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Provavelmente a portaria que assegura o uso do nome social no âmbito do MEC (contexto de nome social). Não confirmei em fonte oficial: o gov.br/mec pede CAPTCHA e o in.gov.br bloqueia a leitura."
+ },
+ {
+  "id": "BR-MEC-PORT-163-2001",
+  "id_correto": "BR-MEC-PORT-163-2001",
+  "epigrafe": "Portaria Ministerial nº 163, de 16 de agosto de 2001",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Não identifiquei o órgão nem o assunto: o trecho cita só o art. 6º e uma 'emergencialidade'. É preciso ler a Res. CONSEPE 28/2001."
+ },
+ {
+  "id": "BR-MEC-PORT-203-2009",
+  "id_correto": "BR-MEC-PORT-203-2009",
+  "epigrafe": "Portaria MEC nº 203, de 2009",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Pelo contexto, é a portaria que instituiu a comissão de especialistas para as novas DCN de Jornalismo. Data e texto não confirmados em fonte oficial."
+ },
+ {
+  "id": "BR-MEC-PORT-224-2007",
+  "id_correto": "BR-MEC-MP-PORTINTER-224-2007",
+  "epigrafe": "Portaria Interministerial MEC/MP nº 224, de julho de 2007",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Altera a Portaria Normativa Interministerial 22/2007 (banco de professor-equivalente). É interministerial, não só do MEC. O dia exato (23 ou 24/07/2007) não foi confirmado."
+ },
+ {
+  "id": "BR-MEC-PORT-24-2003",
+  "id_correto": "BR-SETEC-PORT-24-2003",
+  "epigrafe": "Portaria SETEC/MEC nº 24, de 2003",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Ato de efeito concreto da SETEC sobre o Curso Técnico em Enfermagem da ETS/UFPB. Só está no DOU."
+ },
+ {
+  "id": "BR-MEC-PORT-3284-2003",
+  "id_correto": "BR-MEC-PORT-3284-2003",
+  "epigrafe": "Portaria MEC nº 3.284, de 7 de novembro de 2003",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Requisitos de acessibilidade para autorização e reconhecimento de cursos e credenciamento de IES. O portal.mec.gov.br/seesp/arquivos/pdf/port3284.pdf bloqueia a leitura automática."
+ },
+ {
+  "id": "BR-MEC-PORT-413-2016",
+  "id_correto": "BR-MEC-PORT-413-2016",
+  "epigrafe": "Portaria MEC nº 413, de 11 de maio de 2016",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Pela ementa (ABMES), aprova em extrato o Catálogo Nacional de Cursos Superiores de Tecnologia. DOU de 12/05/2016. Não combina com a citação num PPC de curso técnico (Res. CONSEPE 09/2023): verificar."
+ },
+ {
+  "id": "BR-MEC-PORT-604-2013",
+  "id_correto": "BR-SERES-PORT-604-2013",
+  "epigrafe": "Portaria nº 604, de 19 de novembro de 2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Reconhecimento de curso da UFPB, provavelmente da SERES/MEC (efeito concreto). Só está no DOU."
+ },
+ {
+  "id": "BR-MEC-PORT-76-2010",
+  "id_correto": "BR-CAPES-PORT-76-2010",
+  "epigrafe": "Portaria CAPES nº 76, de 14 de abril de 2010",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Regulamento do Programa de Demanda Social (DS). O órgão é a CAPES, não o MEC. A página gov.br/capes não abriu; só há cópias em universidades e na ABMES."
+ },
+ {
+  "id": "BR-MEC-PORT-920-2018",
+  "id_correto": "BR-SERES-PORT-920-2018",
+  "epigrafe": "Portaria nº 920, de 27 de dezembro de 2018",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Renovação de reconhecimento de curso da UFPB, provavelmente da SERES/MEC (efeito concreto). Só está no DOU."
+ },
+ {
+  "id": "BR-MEC-PORT-948-2021",
+  "id_correto": "BR-SERES-PORT-948-2021",
+  "epigrafe": "Portaria nº 948, de 30 de agosto de 2021",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Renovação de reconhecimento de curso da UFPB, provavelmente da SERES/MEC. DOU de 31/08/2021. Efeito concreto."
+ },
+ {
+  "id": "BR-MEC-PORT-959-2013",
+  "id_correto": "BR-MEC-PORT-959-2013",
+  "epigrafe": "Portaria MEC nº 959, de 27 de setembro de 2013",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes e normas gerais de funcionamento dos Colégios de Aplicação vinculados às universidades federais. Não localizei fonte oficial acessível."
+ },
+ {
+  "id": "BR-MEC-PORT-983-2020",
+  "id_correto": "BR-MEC-PORT-983-2020",
+  "epigrafe": "Portaria MEC nº 983, de 18 de novembro de 2020",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Diretrizes complementares à Portaria MEC 554/2013 para as atividades docentes da carreira EBTT. Só localizei cópias de terceiros."
+ },
+ {
+  "id": "BR-MEC-PORTINTER-507-2011",
+  "id_correto": "BR-MP-MF-CGU-PORTINTER-507-2011",
+  "epigrafe": "Portaria Interministerial MP/MF/CGU nº 507, de 24 de novembro de 2011",
+  "url": "",
+  "fonte": "",
+  "situacao": "revogada pela Portaria Interministerial nº 424, de 30/12/2016",
+  "obs": "Normas de convênios e contratos de repasse (Decreto 6.170/2007). A revogação consta na ementa da PI 424/2016 em planalto.gov.br/ccivil_03/portaria/prt-424-16-m.planejamento.htm. Divergência: a UFPB data o ato em 28/11/2011, mas a data oficial é 24/11/2011. Não achei o texto da 507 em fonte oficial."
+ },
+ {
+  "id": "BR-MEC-PORTNORM-22-2007",
+  "id_correto": "BR-MEC-MP-PORTNORMINTER-22-2007",
+  "epigrafe": "Portaria Normativa Interministerial MEC/MP nº 22, de 30 de abril de 2007",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Banco de professor-equivalente das universidades federais. DOU de 02/05/2007. Alterada pela PI 224/2007. Não localizei fonte oficial acessível."
+ },
+ {
+  "id": "BR-MEC-PORTNORM-22-2016",
+  "id_correto": "BR-MEC-PORTNORM-22-2016",
+  "epigrafe": "Portaria Normativa MEC nº 22, de 13 de dezembro de 2016",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Revalidação e reconhecimento de diplomas estrangeiros. Possivelmente substituída pela Portaria MEC 1.151, de 19/06/2023 (não confirmado). Só há cópias de terceiros."
+ },
+ {
+  "id": "BR-MEC-RES-3-2005",
+  "id_correto": "BR-CNE-CES-RES-3-2005",
+  "epigrafe": "Resolução CNE/CES nº 3, de 23 de junho de 2005",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "DCN do curso de Secretariado Executivo; o emissor é o CNE/CES, não o MEC. Republicada por incorreção (original no DOU de 10/06/2005). O gov.br/mec/cne pede CAPTCHA."
+ },
+ {
+  "id": "BR-MPOG-PORT-222-2008",
+  "id_correto": "BR-SRH-MP-PORT-222-2008",
+  "epigrafe": "Portaria SRH/MP nº 222, de 2008",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Altera a Portaria SRH/MP 1.100/2006; assunto não identificado. Não li a página legisweb.com.br/legislacao/?id=207560 (aparentemente publicação no DOU de 08/02/2008): o proxy do WebFetch a bloqueou por limite de acessos (HTTP 429)."
+ },
+ {
+  "id": "BR-MS-PORT-264-2020",
+  "id_correto": "BR-MS-PORT-264-2020",
+  "epigrafe": "Portaria GM/MS nº 264, de 17 de fevereiro de 2020",
+  "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2020/prt0264_19_02_2020.html",
+  "fonte": "bvsms.saude.gov.br",
+  "situacao": "revogada por portaria posterior do MS, segundo o próprio trecho citado (não informado na página oficial)",
+  "obs": "Altera a Portaria de Consolidação nº 4/GM/MS para incluir a doença de Chagas crônica na Lista Nacional de Notificação Compulsória. O trecho da UFPB reproduz a ementa da portaria posterior que revoga a 264, e é essa a norma de fato citada. Identificar e coletar essa portaria."
+ },
+ {
+  "id": "BR-ON-?-2-2016",
+  "id_correto": "BR-SEGRT-MP-ON-2-2016",
+  "epigrafe": "Orientação Normativa SEGRT/MP nº 2, de 24 de junho de 2016",
+  "url": "",
+  "fonte": "",
+  "situacao": "não informado",
+  "obs": "Orientações sobre a aceitação de estagiários na administração pública federal (Enap/CGU). O texto integral da CGU exige login. Provavelmente revogada pela IN SGP/ME nº 213/2019 (não confirmado)."
+ }
+]

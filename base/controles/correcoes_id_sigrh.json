@@ -1,0 +1,42 @@
+[
+ {
+  "id_anterior": "UFPB-CONSUNI-RES-05-2022",
+  "id_corrigido": "removido (duplicata de UFPB-CONSUNI-RES-05-2023)",
+  "obs": "Arquivo registrado no SIGRH como CONSUNI 05/2022 é cópia idêntica da Resolução CONSUNI 05/2023 (registrada também em 2023, idArquivo 5352330)."
+ },
+ {
+  "id_anterior": "UFPB-CONSEPE-RES-47-2007",
+  "id_corrigido": "UFPB-CONSEPE-RES-47-2007-B",
+  "obs": "Número 47/2007 atribuído a duas resoluções distintas do CONSEPE (esta, do PPP de Ciências Sociais – Licenciatura, e a de normas de Estágios Curriculares Supervisionados). Citações a '47/2007' foram ligadas à de estágios."
+ },
+ {
+  "id_anterior": "UFPB-CONSEPE-RES-47-2006",
+  "id_corrigido": "UFPB-CONSEPE-RES-47-2007",
+  "obs": "Registrada no SIGRH como 47/2006, mas o texto traz 'Resolução nº 47/2007' (sessão de 28/06/2007, assinatura em 30/07/2007). Há outra resolução do CONSEPE com o mesmo número 47/2007 (PPP de Ciências Sociais – Licenciatura)."
+ },
+ {
+  "id_anterior": "UFPB-CONSEPE-RES-47-2006-B",
+  "id_corrigido": "UFPB-CONSEPE-RES-47-2006",
+  "obs": ""
+ },
+ {
+  "id_anterior": "UFPB-CONSUNI-RES-05-2022-B",
+  "id_corrigido": "UFPB-CONSUNI-RES-05-2022",
+  "obs": ""
+ },
+ {
+  "id_anterior": "UFPB-CONSUNI-RES-06-2000-B",
+  "id_corrigido": "UFPB-CONSUNI-RES-06-1999",
+  "obs": "Registrada no SIGRH como 06/2000, mas o texto traz 'Resolução nº 06/99' (sessão e assinatura em 31/03/1999)."
+ },
+ {
+  "id_anterior": "UFPB-CONSEPE-RES-16-2007-B",
+  "id_corrigido": "UFPB-CONSEPE-RES-16A-2007",
+  "obs": "Registrada no SIGRH como 16/2007, mas o texto traz 'Resolução nº 16-A/2007'."
+ },
+ {
+  "id_anterior": "UFPB-CONSEPE-RES-48-2010-B",
+  "id_corrigido": "UFPB-CONSEPE-RES-48A-2010",
+  "obs": "Registrada no SIGRH como 48/2010, mas o texto traz 'Resolução nº 48-A/2010'."
+ }
+]

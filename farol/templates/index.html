@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Farol Normativo UFPB{% endblock %}
+{% block conteudo %}
+<p class="eyebrow">Ecossistema normativo da Universidade Federal da Paraíba</p>
+<h1>Como isso é regido na UFPB?</h1>
+<p class="lead">O Farol reúne as normas que orientam as decisões da universidade, mostra como elas se citam, alteram e revogam umas às outras, e diz o que está vigente. Começa pela busca: um número, um assunto, um órgão.</p>
+
+<form class="sbox" action="{{ raiz }}busca/" method="get" role="search">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+  <input type="search" name="q" placeholder="Buscar: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019" aria-label="Buscar norma">
+  <button class="btn primary" type="submit">Buscar</button>
+</form>
+
+<div class="chips">
+  <span class="chip"><b>{{ meta.nos|br }}</b> normas no acervo</span>
+  <span class="chip"><b>{{ meta.com_texto|br }}</b> com texto integral</span>
+  <span class="chip"><b>{{ meta.fantasmas|br }}</b> citadas, ainda sem texto</span>
+  <span class="chip"><b>{{ meta.arestas|br }}</b> relações normativas</span>
+  <span class="chip"><b>{{ meta.citacoes|br }}</b> citações simples</span>
+</div>
+
+<h2>Comece por aqui</h2>
+<div class="grid">
+{% for n in destaques %}
+  <div class="card"><h3><a href="{{ raiz }}norma/{{ n.id|slug }}/" style="text-decoration:none">{{ n.rotulo }}</a></h3>
+  <p><span class="pill {{ n.situacao_chave }}">{{ n.situacao_chave|nome_situacao }}</span> <span class="pill lvl">{{ n.nivel }}</span></p>
+  <p style="margin-top:8px">{{ n.ementa|truncate(160) }}</p></div>
+{% endfor %}
+</div>
+
+<h2>As faces do Farol</h2>
+<div class="grid">
+  <div class="card"><h3>Busca</h3><p>Por número, ano, órgão, nível, tema, situação ou palavras da ementa. Cada resultado abre a ficha e o texto.</p><a class="go" href="{{ raiz }}busca/">Buscar normas →</a></div>
+  <div class="card"><h3>Teia</h3><p>O mapa de citações: escolha uma norma de partida e veja quem a altera, revoga ou se funda nela, com máquina do tempo.</p><a class="go" href="{{ raiz }}teia/">Abrir a Teia →</a></div>
+  <div class="card"><h3>Ficha e texto</h3><p>Cada norma tem ficha com situação de vigência e sua base, relações por dispositivo e o texto integral com as citações em link.</p><a class="go" href="{{ raiz }}norma/UFPB-CONSUNI-RES-07-2002/">Ver o Estatuto →</a></div>
+  <div class="card"><h3>Vigência</h3><p>O que está vigente, alterado ou revogado, e com base em quê. Conferido no texto das normas posteriores, não só no SIGRH.</p><a class="go" href="{{ raiz }}vigencia/">Quadro de vigência →</a></div>
+  <div class="card"><h3>Divergências</h3><p>Conflitos de vigência, fundamentos em norma revogada, números citados errados e decisões fundamentadas.</p><a class="go" href="{{ raiz }}divergencias/">Ver registro →</a></div>
+  <div class="card"><h3>Fila de coleta</h3><p>Normas citadas e ainda sem texto no acervo, entre elas as resoluções pedidas à SODS.</p><a class="go" href="{{ raiz }}fila/">Ver a fila →</a></div>
+</div>
+{% endblock %}

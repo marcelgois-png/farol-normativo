@@ -1,0 +1,20 @@
+[
+ {
+  "origem": "UFPB-CONSEPE-RES-41-2003",
+  "destino_errado": "UFPB-CONSEPE-RES-74-1989",
+  "destino_certo": "UFPB-CONSEPE-RES-07A-1989",
+  "motivo": "OCR leu '074/89' no art. 12; a ementa da mesma resolução revoga a 'Resolução nº 07-A/89 do CONSEPE' (conferência independente, item 62)"
+ },
+ {
+  "origem": "UFPB-CONSEPE-RES-05-2011",
+  "destino_errado": "UFPB-CONSEPE-RES-48-2010",
+  "destino_certo": "UFPB-CONSEPE-RES-48A-2010",
+  "motivo": "o dispositivo alterado (art. 16, § 3º, comprovação de deficiência no cadastramento) existe na Res. 48-A/2010 (processo seletivo do bacharelado em Tradução), não na 48/2010 (Especialização); o art. 2º da 05/2011 traz 'Resolução Nº /2010' sem número (conferência independente 3, item 21)"
+ },
+ {
+  "origem": "UFPB-CONSEPE-RES-49-1999",
+  "destino_errado": "UFPB-CONSEPE-RES-51-2005",
+  "destino_certo": "UFPB-CONSEPE-RES-51-1995",
+  "motivo": "erro material no texto ('51/05'); o próprio anexo diz 'APROVADO PELA RESOLUÇÃO Nº 51/95' (conferência independente 3, P3; D36)"
+ }
+]
