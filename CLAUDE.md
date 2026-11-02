@@ -6,8 +6,8 @@ Leia `docs/plano.md` antes de propor mudanças de rumo. Este arquivo tem as regr
 
 ## Estrutura
 
-- `base/` — a base do acervo. `nos.csv` (uma linha por norma), `arestas.csv` (uma linha por relação, com trecho e citação literal), `decisoes_vigencia.json`, `fila_coleta.md`, `quadro_vigencia.*`, `manifesto_originais.tsv` (SHA-256 dos originais), `divergencias/` e `controles/` (resultados das conferências e correções de identificação das rodadas).
-- `textos/` — um Markdown por norma com texto integral, em `textos/<ÓRGÃO>/<ano>/<ID>.md` (UFPB) ou `textos/<GRUPO>/<ID>.md` (federais, CNE, outros). Cabeçalho YAML com id, datas, nível, situação, fonte oficial, método de extração e aviso de OCR; depois um resumo e a seção `## Texto integral` (ou `## Texto`).
+- `base/` — a base do acervo. `nos.csv` (uma linha por norma), `arestas.csv` (uma linha por relação, com trecho e citação literal), `decisoes_vigencia.json`, `fila_coleta.md`, `quadro_vigencia.*`, `manifesto_originais.tsv` (SHA-256 dos originais), `divergencias/` e `controles/` (resultados das conferências e correções de identificação das rodadas), `sods/` (extrações de texto das páginas da SODS com hash conferido, o extrator usado e `extracoes.json`).
+- `textos/` — um Markdown por norma com texto integral, em `textos/<ÓRGÃO>/<ano>/<ID>.md` (UFPB), `textos/<GRUPO>/<ID>.md` (federais, CNE, outros) ou `textos/SODS/<ID>.md` (textos consolidados das páginas da SODS, gerados por `python -m farol sods` a partir de `base/sods/`). Cabeçalho YAML com id, datas, nível, situação, fonte oficial, método de extração e aviso de OCR; depois um resumo e a seção `## Texto integral` (ou `## Texto`).
 - `farol/` — o gerador (Python). `base.py` lê e valida; `texto.py` converte o Markdown em HTML com âncoras e links; `grafo.py` deriva dados da Teia, sugestões e dispositivos; `site.py` monta as páginas; `templates/` e `static/`.
 - `site/` — saída gerada; não é versionada. Publicada no GitHub Pages pela ação em `.github/workflows/`.
 - `docs/` — plano, relatórios das rodadas e material para a SODS.
@@ -20,6 +20,7 @@ pip install -r requirements.txt
 python -m farol validar            # lê a base e lista problemas (sai com 1 se houver erro grave)
 python -m farol gerar              # gera site/ completo (~20 s)
 python -m farol gerar --limite-textos 20 --saida /tmp/site   # geração rápida para testes
+python -m farol sods               # regenera textos/SODS/ a partir de base/sods/extracoes/
 python -m pytest -q
 python -m http.server 8000 --directory site   # para abrir o site localmente
 ```
@@ -46,6 +47,7 @@ python -m http.server 8000 --directory site   # para abrir o site localmente
 
 ## Pendências conhecidas
 
-- Quatro textos da Rodada 0 (Regimento Geral consolidado da SODS, minuta do novo Estatuto, Res. CONSUNI 147/1987 e 82/1990) existem só na pasta do projeto no claude.ai; a base os referencia como `acervo/textos/...`. Devem ser copiados para `textos/SODS/` para o gerador encontrá-los.
+- Páginas da SODS (Regimento Geral consolidado, Regimento dos Órgãos Deliberativos com as Res. 147/1987 e 82/1990 anexas, minuta do novo Estatuto): o texto vem do HTML oficial lido no navegador com `base/sods/extrator_sods.js`; a extração é conferida por SHA-256 e guardada em `base/sods/extracoes/`. Para recoletar: abrir a página, rodar o extrator no console, salvar o texto, atualizar `extracoes.json` e rodar `python -m farol sods`. Os HTML completos ficam fora do repositório (`originais/SODS/` no acervo local).
+- A Res. CONSUNI 279/78 consolidada da página da SODS não foi convertida em texto (o acervo usa o HTML do SIGRH em `textos/CONSUNI/1978/`); a extração completa da página está em `base/sods/extracoes/regimento-da-sods.txt`.
 - 148 resoluções dos conselhos superiores citadas e ausentes do SIGRH: pedido à SODS em `docs/rodadas/pedido_sods_resolucoes_nao_localizadas.md`.
 - O Oráculo (estágio 2 do plano) exige serviço no servidor; não faz parte do site estático.

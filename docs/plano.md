@@ -132,4 +132,6 @@ Tudo isso já aconteceu três vezes à mão (Rodadas 0, 1 e 2). O trabalho é tr
 
 M1 concluído: a base completa da Rodada 2 (6.333 normas, 23.798 relações) e os 3.285 textos foram migrados de `Documents\Oraculovski` para o repositório `farol-normativo`, com o gerador (`python -m farol validar | gerar`), testes, `CLAUDE.md` com as regras do acervo e a ação de publicação no GitHub Pages. O gerador produz o site completo em cerca de 20 s: 6.333 fichas, 3.277 textos com 19.893 links de citação e 70.788 âncoras de artigo, Teia integrada, busca, quadro de vigência, divergências e fila. Cópia do repositório (git bundle) em `Documents\Oraculovski\_scripts\farol-normativo.bundle`.
 
-Próximo passo (M2): criar o repositório `farol-normativo` no GitHub, enviar o primeiro commit, ativar o Pages e conferir o site no ar; copiar os quatro textos da Rodada 0 para `textos/SODS/`. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.
+Repositório criado em `github.com/marcelgois-png/farol-normativo` (privado) com a ação de testes/validação/geração rodando a cada envio; os quatro textos da Rodada 0 foram recoletados do HTML oficial da SODS em 02/11/2026 (`base/sods/`, `textos/SODS/`), com redações revogadas tachadas e numeração de listas restaurada.
+
+Próximo passo (M2): decidir a publicação (repositório público para o GitHub Pages, ou servidor da UFPB) e conferir o site no ar. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.

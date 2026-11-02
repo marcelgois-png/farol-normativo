@@ -102,6 +102,8 @@ summary{cursor:pointer;font-weight:600;font-size:14px}
 .texto p.par{margin-left:1.5em}
 .texto p.inc{margin-left:2.5em}
 .texto p.ali{margin-left:3.5em}
+.texto p.rev{color:var(--muted)}
+.texto s{text-decoration-color:var(--eR)}
 .texto h3.cab{font:600 15px/1.3 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:1.6em 0 .6em}
 .texto p.cab2{font-weight:600;letter-spacing:.03em;color:var(--muted)}
 .texto .pagina{color:var(--faint);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;margin:1.2em 0 .4em}

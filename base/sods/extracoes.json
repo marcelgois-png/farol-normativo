@@ -1,0 +1,48 @@
+{
+  "descricao": "Extrações de texto das páginas da SODS (site WordPress da UFPB), feitas no navegador a partir do HTML oficial. O texto de cada página foi gerado por base/sods/extrator_sods.js dentro da própria página, com hash SHA-256 calculado no navegador e conferido após a cópia. Os HTML completos das páginas ficam fora do repositório (originais/SODS/ no acervo local).",
+  "data_coleta": "2026-11-02",
+  "metodo": "HTML oficial lido no navegador (div.the-content-container); parágrafos e títulos separados por linha em branco; <br> vira quebra de linha; trechos <s> (redação revogada no consolidado) marcados com ~~; listas <ol>/<ul> numeradas conforme o estilo CSS aplicado (decimal, romano, alfabético); <sup>o</sup>/<sup>a</sup> convertidos em º/ª; NBSP vira espaço; espaços repetidos colapsados; linhas vazias removidas; Unicode NFC. Nada foi digitado ou corrigido à mão.",
+  "paginas": [
+    {
+      "arquivo": "extracoes/regimento-geral.txt",
+      "links": "extracoes/regimento-geral.links.txt",
+      "url": "https://www.ufpb.br/sods/regimento-geral/",
+      "titulo_pagina": "Regimento Geral",
+      "atualizacao_pagina": "2026-06-01",
+      "sha256": "316b1a180b293dd64411bc1e3048531cda014393553ed954203bf1dfe3f1e759",
+      "bytes": 121957,
+      "html_sha256": "02467f65f5c1f4ee29d2a7243e1df1efde5eca309c51924c31e774cfd90ccadb",
+      "html_bytes": 357688,
+      "html_arquivo_local": "originais/SODS/sods_regimento-geral_2026-11-02.html",
+      "normas": ["UFPB-REGIMENTO-GERAL"]
+    },
+    {
+      "arquivo": "extracoes/regimento-da-sods.txt",
+      "links": "extracoes/regimento-da-sods.links.txt",
+      "url": "https://www.ufpb.br/sods/regimento-da-sods/",
+      "titulo_pagina": "Regimento da SODS",
+      "atualizacao_pagina": "2026-06-01",
+      "sha256": "7b781f012a05b49192b120cc4c160a79e802944d2b7416dc4483dd93e578cba3",
+      "bytes": 31868,
+      "html_sha256": "98a09cfd0d6e7a5ac7a08f0e6dd41d3803747bb6ae3122a3aef55118c524ee45",
+      "html_bytes": 224146,
+      "html_arquivo_local": "originais/SODS/sods_regimento-da-sods_2026-11-02.html",
+      "normas": ["UFPB-CONSUNI-RES-279-1978", "UFPB-CONSUNI-RES-147-1987", "UFPB-CONSUNI-RES-82-1990"],
+      "obs": "A Res. 279/78 consolidada desta página não substitui o texto já coletado do SIGRH (textos/CONSUNI/1978/); só as duas resoluções anexas geram texto em textos/SODS/."
+    },
+    {
+      "arquivo": "extracoes/estatuinte.txt",
+      "links": "extracoes/estatuinte.links.txt",
+      "url": "https://www.ufpb.br/sods/estatuinte/",
+      "titulo_pagina": "Processo Estatuinte da UFPB",
+      "atualizacao_pagina": "2025-12-18",
+      "sha256": "704ef2ee25cbb928a516f476b58edc2a021c795fe71c85571004a4d607fca707",
+      "bytes": 84936,
+      "html_sha256": "672b6ee8cb74ce198bfe9c89aac245433ffb4861c362cdc6a954adda048af941",
+      "html_bytes": 292125,
+      "html_arquivo_local": "originais/SODS/sods_estatuinte_2026-11-02.html",
+      "normas": ["UFPB-NT-MINUTA-ESTATUTO-2019"],
+      "obs": "A página tem quatro blocos recolhíveis (details): notícia da retomada (30/07/2025), minuta, relatório da Comissão Geral Estatuinte (link para o Drive) e calendário das reuniões extraordinárias do CONSUNI em 2025. Só a minuta é texto normativo (em tramitação); o resto entra como contexto."
+    }
+  ]
+}

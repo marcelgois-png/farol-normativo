@@ -1,4 +1,4 @@
-"""Linha de comando: python -m farol validar | gerar [--limite-textos N] [--saida DIR]"""
+"""Linha de comando: python -m farol validar | gerar [--limite-textos N] [--saida DIR] | sods"""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ from pathlib import Path
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="farol", description="Gerador do Farol Normativo UFPB")
-    ap.add_argument("comando", choices=["validar", "gerar"])
+    ap.add_argument("comando", choices=["validar", "gerar", "sods"])
     ap.add_argument("--raiz", default=".", help="pasta do repositório (padrão: atual)")
     ap.add_argument("--saida", default=None, help="pasta de saída do site (padrão: <raiz>/site)")
     ap.add_argument("--limite-textos", type=int, default=None, help="renderiza só os N primeiros textos (para testes)")
@@ -30,6 +30,13 @@ def main(argv=None) -> int:
         graves = [p for p in b.problemas if p.startswith(("ID duplicado", "aresta com", "tipo de relação", "nível desconhecido", "situação desconhecida"))]
         print(f"{len(b.problemas)} aviso(s), {len(graves)} grave(s), {time.time() - t0:.1f}s")
         return 1 if graves else 0
+
+    if args.comando == "sods":
+        from .sods import gerar as gerar_sods
+
+        for p in gerar_sods(Path(args.raiz)):
+            print("texto escrito:", p)
+        return 0
 
     from .site import Gerador
 

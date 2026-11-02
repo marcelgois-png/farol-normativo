@@ -28,9 +28,13 @@ from .rotulos import slug
 
 _RE_FRONT = re.compile(r"^---\n(.*?)\n---\n", re.S)
 _RE_SECAO_TEXTO = re.compile(r"^## Texto( integral)?\s*$", re.M)
-_RE_ART = re.compile(r"^\s*(?:\(\*+\)\s*)?Art(?:igo|\.)?\s*\.?\s*(\d+)\s*[ºo°\.]?[\s\-–.:]", re.I)
+_RE_ART = re.compile(
+    r"^\s*(?:~~)?(?:\(\*+\)\s*)*Art(?:igo|\.)?\s*\.?\s*(\d+)"
+    r"(?:\s*[ºo°\.]?[\s\-–.:]|[ºo°](?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ]))",  # "Art. 1º " ou "Art. 1ºA" (sem espaço)
+    re.I,
+)
 _RE_INICIO_UNIDADE = re.compile(
-    r"^\s*(?:\(\*+\)\s*)?("
+    r"^\s*(?:~~)?(?:\(\*+\)\s*)*("
     r"Art(?:igo|\.)?\s*\.?\s*\d+"  # artigo
     r"|§\s*\d*|Parágrafo\s+[úu]nico|Par[áa]grafo\s+[úu]nico"  # parágrafo
     r"|[IVXLC]+\s*[-–—.)]"  # inciso
@@ -40,7 +44,7 @@ _RE_INICIO_UNIDADE = re.compile(
     re.I,
 )
 _RE_CABECALHO = re.compile(
-    r"^\s*(T[IÍ]TULO|CAP[IÍ]TULO|SE[CÇ]{1,2}[ÃA]O|SUBSE[CÇ]{1,2}[ÃA]O|ANEXO|LIVRO|PARTE)\b", re.I
+    r"^\s*(?:~~)?(T[IÍ]TULO|CAP[IÍ]TULO|SE[CÇ]{1,2}[ÃA]O|SUBSE[CÇ]{1,2}[ÃA]O|ANEXO|LIVRO|PARTE)\b", re.I
 )
 _RE_SO_MARCADOR = re.compile(r"^\s*(?:[IVXLC]+|§(?:\s*\d+[ºo°]?)?|Art\.?)\s*$", re.I)
 _RE_PAGINA = re.compile(r"^\s*\[p[áa]gina\s+\d+\]\s*$", re.I)
@@ -122,11 +126,11 @@ def _classe(p: str) -> str:
         return "cab"
     if _RE_ART.match(p):
         return "art"
-    if re.match(r"^\s*(?:\(\*+\)\s*)?(§|Par[áa]grafo\s+[úu]nico)", p, re.I):
+    if re.match(r"^\s*(?:~~)?(?:\(\*+\)\s*)*(§|Par[áa]grafo\s+[úu]nico)", p, re.I):
         return "par"
-    if re.match(r"^\s*[IVXLC]+\s*[-–—.)]", p):
+    if re.match(r"^\s*(?:~~)?[IVXLC]+\s*[-–—.)]", p):
         return "inc"
-    if re.match(r"^\s*[a-z]\)", p):
+    if re.match(r"^\s*(?:~~)?[a-z]\)", p):
         return "ali"
     if p.isupper() and len(p) < 100:
         return "cab2"
@@ -191,9 +195,16 @@ def render_html(t: Texto, ligador: Ligador | None = None) -> tuple[str, dict]:
     indice: dict[str, str] = {}
     for p in t.paragrafos:
         cl = _classe(p)
+        rev = p.lstrip().startswith("~~")  # redação tachada no texto consolidado: não recebe âncora
         s = _escapar(p)
         if ligador:
             s = ligador.aplicar(s)
+        if rev and cl in ("art", "cab"):
+            partes.append(f'<p class="{"p" if cl == "art" else "cab2"} rev">{s}</p>')
+            continue
+        if rev:
+            partes.append(f'<p class="{cl} rev">{s}</p>')
+            continue
         if cl == "pagina":
             partes.append(f'<div class="pagina">{s}</div>')
         elif cl == "cab":
