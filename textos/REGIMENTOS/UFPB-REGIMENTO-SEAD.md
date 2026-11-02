@@ -7,7 +7,7 @@ data: "2019-12-23"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-24-2019: "
-ementa: "Regimento interno da Superintendência de Educação a Distância (SEAD). Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento."
+ementa: "Regimento interno da Superintendência de Educação a Distância (SEAD). Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento. Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento."
 ato_de_aprovacao: UFPB-CONSUNI-RES-24-2019
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=1814722&key=175ed703fd96bd64cae9f42337618369
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2019/UFPB-CONSUNI-RES-24-2019__1814722.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — SEAD
 
-**Ementa:** Regimento interno da Superintendência de Educação a Distância (SEAD). Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento.
+**Ementa:** Regimento interno da Superintendência de Educação a Distância (SEAD). Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento. Aprovado pela Res. CONSUNI 24/2019. A resolução cria a SEAD e regulamenta o seu regimento.
 
 **Ato de aprovação:** Res. CONSUNI 24/2019 (UFPB-CONSUNI-RES-24-2019). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

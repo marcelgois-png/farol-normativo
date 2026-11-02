@@ -7,7 +7,7 @@ data: "2024-10-17"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-14-2024: "
-ementa: "Regimento interno do Centro Profissional e Tecnológico – Escola Técnica de Saúde (CPT-ETS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013."
+ementa: "Regimento interno do Centro Profissional e Tecnológico – Escola Técnica de Saúde (CPT-ETS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013."
 ato_de_aprovacao: UFPB-CONSUNI-RES-14-2024
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=6935542&key=f31226d5610e7566dd2f39fe2cc6a3fe
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2024/UFPB-CONSUNI-RES-14-2024__6935542.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CPT-ETS
 
-**Ementa:** Regimento interno do Centro Profissional e Tecnológico – Escola Técnica de Saúde (CPT-ETS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013.
+**Ementa:** Regimento interno do Centro Profissional e Tecnológico – Escola Técnica de Saúde (CPT-ETS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013. Aprovado pela Res. CONSUNI 14/2024. Regimentos anteriores da Escola Técnica de Saúde: Res. CONSEPE 12/2004 e 59/2013.
 
 **Ato de aprovação:** Res. CONSUNI 14/2024 (UFPB-CONSUNI-RES-14-2024). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

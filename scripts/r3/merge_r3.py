@@ -178,7 +178,7 @@ for f in sorted(os.listdir(f"{W}/manifestos")):
     for ln in open(f"{W}/manifestos/{f}", encoding="utf-8"):
         p = ln.rstrip("\n").split("\t")
         if len(p) < 5: continue
-        nome = p[0]; i = nome.split("__")[0].replace(".pdf", "")
+        nome = p[0]; i = re.sub(r"\.(pdf|html)$", "", nome.split("__")[0])
         grp = "FEDERAL" if "camara" in f else "CNE" if "cne" in f else "UNIDADES"
         man_rows.append([i, "", "", N.get(i, {}).get("numero", ""), p[4], f"originais_r3/{grp}/{nome}", p[1], p[2], p[3]])
 with open(f"{REPO}/base/manifesto_originais.tsv", "a", encoding="utf-8", newline="") as f:

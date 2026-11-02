@@ -7,7 +7,7 @@ data: "2014-08-28"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-22-2014: "
-ementa: "Regimento interno do Centro de Informática (CI) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 22/2014."
+ementa: "Regimento interno do Centro de Informática (CI) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 22/2014. Aprovado pela Res. CONSUNI 22/2014."
 ato_de_aprovacao: UFPB-CONSUNI-RES-22-2014
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=96225&key=a183ace4de4602ce2b1d10ed4d76bc71
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2014/UFPB-CONSUNI-RES-22-2014__96225.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CI
 
-**Ementa:** Regimento interno do Centro de Informática (CI) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 22/2014.
+**Ementa:** Regimento interno do Centro de Informática (CI) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 22/2014. Aprovado pela Res. CONSUNI 22/2014.
 
 **Ato de aprovação:** Res. CONSUNI 22/2014 (UFPB-CONSUNI-RES-22-2014). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

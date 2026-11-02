@@ -6,7 +6,7 @@ numero: "06/2021"
 data: "2021-12-02"
 nivel: N10
 situacao: "revogada"
-situacao_base: "revogada por UFPB-PRPG-PORT-02-2022 (art. 1º); texto lido na Rodada 3"
+situacao_base: "revogada por UFPB-PRPG-PORT-02-2022 (art. 1º); texto lido na Rodada 3; também alterada por UFPB-PRPG-PORT-08-2021 (preâmbulo; texto lido na Rodada 3)"
 ementa: "Estabelece diretrizes para o retorno gradual das atividades presenciais da Pós-Graduação Stricto e Lato Sensu da Universidade Federal da Paraíba."
 fonte_oficial: https://www.prpg.ufpb.br/wp-content/uploads/sites/305/sites/305/2025/10/portaria-no-6-2021_prpg-_gab-sec_02-dez-2021_compressed-1.pdf
 arquivo_local: "originais_r3/UNIDADES/UFPB-PRPG-PORT-06-2021.pdf"
@@ -20,7 +20,7 @@ data_coleta: 2026-11-02
 
 **Ementa:** Estabelece diretrizes para o retorno gradual das atividades presenciais da Pós-Graduação Stricto e Lato Sensu da Universidade Federal da Paraíba.
 
-**Situação no acervo:** revogada — revogada por UFPB-PRPG-PORT-02-2022 (art. 1º); texto lido na Rodada 3
+**Situação no acervo:** revogada — revogada por UFPB-PRPG-PORT-02-2022 (art. 1º); texto lido na Rodada 3; também alterada por UFPB-PRPG-PORT-08-2021 (preâmbulo; texto lido na Rodada 3)
 
 **Fonte oficial:** https://www.prpg.ufpb.br/wp-content/uploads/sites/305/sites/305/2025/10/portaria-no-6-2021_prpg-_gab-sec_02-dez-2021_compressed-1.pdf
 

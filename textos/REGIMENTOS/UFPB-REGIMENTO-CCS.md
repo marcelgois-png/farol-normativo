@@ -7,7 +7,7 @@ data: "2025-09-08"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-25-2025: "
-ementa: "Regimento interno do Centro de Ciências da Saúde (CCS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 25/2025."
+ementa: "Regimento interno do Centro de Ciências da Saúde (CCS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 25/2025. Aprovado pela Res. CONSUNI 25/2025."
 ato_de_aprovacao: UFPB-CONSUNI-RES-25-2025
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=7962903&key=f228249a6eeca79a51118d02990c8047
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2025/UFPB-CONSUNI-RES-25-2025__7962903.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCS
 
-**Ementa:** Regimento interno do Centro de Ciências da Saúde (CCS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 25/2025.
+**Ementa:** Regimento interno do Centro de Ciências da Saúde (CCS) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 25/2025. Aprovado pela Res. CONSUNI 25/2025.
 
 **Ato de aprovação:** Res. CONSUNI 25/2025 (UFPB-CONSUNI-RES-25-2025). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

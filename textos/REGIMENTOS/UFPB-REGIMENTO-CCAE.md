@@ -7,7 +7,7 @@ data: "2026-03-09"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-02-2026: "
-ementa: "Regimento interno do Centro de Ciências Aplicadas e Educação (CCAE) — Campus IV – Rio Tinto e Mamanguape. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026."
+ementa: "Regimento interno do Centro de Ciências Aplicadas e Educação (CCAE) — Campus IV – Rio Tinto e Mamanguape. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026."
 ato_de_aprovacao: UFPB-CONSUNI-RES-02-2026
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=8557168&key=4b252b38d70816f554abbc3020a644e7
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2026/UFPB-CONSUNI-RES-02-2026__8557168.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCAE
 
-**Ementa:** Regimento interno do Centro de Ciências Aplicadas e Educação (CCAE) — Campus IV – Rio Tinto e Mamanguape. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026.
+**Ementa:** Regimento interno do Centro de Ciências Aplicadas e Educação (CCAE) — Campus IV – Rio Tinto e Mamanguape. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026. Aprovado pela Res. CONSUNI 02/2026. Regimento anterior criado pela Res. CONSUNI 19/2017 (ver D57); o site do CCAE publica o PDF da 02/2026.
 
 **Ato de aprovação:** Res. CONSUNI 02/2026 (UFPB-CONSUNI-RES-02-2026). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

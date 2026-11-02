@@ -134,10 +134,11 @@ for i, v in U.items():
     f = f"{W}/txt/UNIDADES/{i}.txt"
     if not os.path.exists(f): continue
     t = NFC(open(f, encoding="utf-8", errors="replace").read())
-    mf = man.get(i + ".pdf", {})
+    mf = man.get(i + ".pdf") or man.get(i + ".html") or {}
+    ext = ".html" if man.get(i + ".html") else ".pdf"
     nos[i] = dict(id=i, tipo=v.get("tipo", "Portaria"), orgao=v.get("orgao", ""), numero=v.get("numero", ""), data=v.get("data", ""), ementa=v.get("ementa", ""), nivel=v.get("nivel", NIV(i)),
                   situacao="", situacao_base="", status_coleta=f"texto integral ({v.get('dominio','site da unidade')})", metodo_texto=v.get("metodo", "camada de texto do PDF oficial (pdftotext)"),
-                  fonte=mf.get("url", v.get("url", "")), fonte_arquivo=mf.get("url", v.get("url", "")), arquivo_local=f"originais_r3/UNIDADES/{i}.pdf", texto_acervo=f"textos/UNIDADES/{i}.md",
+                  fonte=mf.get("url", v.get("url", "")), fonte_arquivo=mf.get("url", v.get("url", "")), arquivo_local=f"originais_r3/UNIDADES/{i}{ext}", texto_acervo=f"textos/UNIDADES/{i}.md",
                   data_coleta=HOJE, sha256=mf.get("sha256", ""), grupo="UNIDADES", epigrafe=v.get("epigrafe", ""), versao="original publicado no site da unidade")
     TXT[i] = t
     rr, info = relacoes(i, t, "UNID", nos[i]["metodo_texto"], v.get("dominio", "site da unidade"))

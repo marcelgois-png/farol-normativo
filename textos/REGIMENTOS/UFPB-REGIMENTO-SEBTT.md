@@ -7,7 +7,7 @@ data: "2018-12-10"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-35-2018: "
-ementa: "Regimento interno da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf)."
+ementa: "Regimento interno da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf)."
 ato_de_aprovacao: UFPB-CONSUNI-RES-35-2018
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=1155718&key=0c802085d65e6a888f296fbfb3e61c88
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2018/UFPB-CONSUNI-RES-35-2018__1155718.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — SEBTT
 
-**Ementa:** Regimento interno da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf).
+**Ementa:** Regimento interno da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf). Aprovado pela Res. CONSUNI 35/2018. O site da SEBTT publica o mesmo regimento (Regimento-SEBTT.pdf).
 
 **Ato de aprovação:** Res. CONSUNI 35/2018 (UFPB-CONSUNI-RES-35-2018). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

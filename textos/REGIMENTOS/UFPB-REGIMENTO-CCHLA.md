@@ -7,7 +7,7 @@ data: "2025-04-09"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-07-2025: "
-ementa: "Regimento interno do Centro de Ciências Humanas, Letras e Artes (CCHLA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 07/2025."
+ementa: "Regimento interno do Centro de Ciências Humanas, Letras e Artes (CCHLA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 07/2025. Aprovado pela Res. CONSUNI 07/2025."
 ato_de_aprovacao: UFPB-CONSUNI-RES-07-2025
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=7469552&key=49fb803b0b558a97c3fabf806ac394a6
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2025/UFPB-CONSUNI-RES-07-2025__7469552.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCHLA
 
-**Ementa:** Regimento interno do Centro de Ciências Humanas, Letras e Artes (CCHLA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 07/2025.
+**Ementa:** Regimento interno do Centro de Ciências Humanas, Letras e Artes (CCHLA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 07/2025. Aprovado pela Res. CONSUNI 07/2025.
 
 **Ato de aprovação:** Res. CONSUNI 07/2025 (UFPB-CONSUNI-RES-07-2025). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

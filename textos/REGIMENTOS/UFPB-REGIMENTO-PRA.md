@@ -7,7 +7,7 @@ data: "2024-08-26"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-08-2024: "
-ementa: "Regimento interno da Pró-Reitoria de Administração (PRA). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf)."
+ementa: "Regimento interno da Pró-Reitoria de Administração (PRA). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf)."
 ato_de_aprovacao: UFPB-CONSUNI-RES-08-2024
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=6775704&key=983266995882331ea17103dbf37bc246
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2024/UFPB-CONSUNI-RES-08-2024__6775704.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — PRA
 
-**Ementa:** Regimento interno da Pró-Reitoria de Administração (PRA). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf).
+**Ementa:** Regimento interno da Pró-Reitoria de Administração (PRA). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf). Aprovado pela Res. CONSUNI 08/2024. Mesmo PDF publicado no site da PRA (regimento_pra_resolucao_consuni_n-_08-2024.pdf).
 
 **Ato de aprovação:** Res. CONSUNI 08/2024 (UFPB-CONSUNI-RES-08-2024). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

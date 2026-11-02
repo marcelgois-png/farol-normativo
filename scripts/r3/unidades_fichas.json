@@ -77,5 +77,17 @@
   "dominio": "prpg.ufpb.br",
   "metodo": "camada de texto do PDF oficial (pdftotext)",
   "epigrafe": "Portaria nº 02/2022 - PRPG, de 24 de maio de 2022"
+ },
+ "UFPB-CI-RES-2-2013": {
+  "tipo": "Resolução",
+  "orgao": "CI (Conselho de Centro)",
+  "numero": "02/2013",
+  "data": "2013-11-28",
+  "ementa": "Regulamenta a consulta para a escolha de Coordenadores e Vice-Coordenadores dos Cursos de Graduação e de Pós-Graduação do Centro de Informática da UFPB.",
+  "nivel": "N9",
+  "dominio": "ci.ufpb.br",
+  "metodo": "página oficial do site do CI (HTML) convertida em texto; o site não publica PDF",
+  "epigrafe": "Resolução nº 02/2013/CI, de 28 de novembro de 2013 (Conselho de Centro do Centro de Informática)",
+  "url": "https://www.ci.ufpb.br/conselho-de-centro/resolucoes/resolucao-no-02-2013-ci/"
  }
 }

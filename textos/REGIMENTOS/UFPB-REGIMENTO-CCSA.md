@@ -7,7 +7,7 @@ data: "2025-02-04"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-01-2025: "
-ementa: "Regimento interno do Centro de Ciências Sociais Aplicadas (CCSA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980."
+ementa: "Regimento interno do Centro de Ciências Sociais Aplicadas (CCSA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980."
 ato_de_aprovacao: UFPB-CONSUNI-RES-01-2025
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=7276890&key=9b8ea39040006592c72a64f882116d55
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2025/UFPB-CONSUNI-RES-01-2025__7276890.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCSA
 
-**Ementa:** Regimento interno do Centro de Ciências Sociais Aplicadas (CCSA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980.
+**Ementa:** Regimento interno do Centro de Ciências Sociais Aplicadas (CCSA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980. Aprovado pela Res. CONSUNI 01/2025. O site do CCSA publica o regimento de 2025 e o anterior, de 1980.
 
 **Ato de aprovação:** Res. CONSUNI 01/2025 (UFPB-CONSUNI-RES-01-2025). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

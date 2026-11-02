@@ -7,7 +7,7 @@ data: "2019-10-01"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-20-2019: "
-ementa: "Regimento interno da Pró-Reitoria de Graduação (PRG). Aprovado pela Res. CONSUNI 20/2019."
+ementa: "Regimento interno da Pró-Reitoria de Graduação (PRG). Aprovado pela Res. CONSUNI 20/2019. Aprovado pela Res. CONSUNI 20/2019."
 ato_de_aprovacao: UFPB-CONSUNI-RES-20-2019
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=1658757&key=2512fb6a31969a3cf7f4ae2f0dd3afe1
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2019/UFPB-CONSUNI-RES-20-2019__1658757.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — PRG
 
-**Ementa:** Regimento interno da Pró-Reitoria de Graduação (PRG). Aprovado pela Res. CONSUNI 20/2019.
+**Ementa:** Regimento interno da Pró-Reitoria de Graduação (PRG). Aprovado pela Res. CONSUNI 20/2019. Aprovado pela Res. CONSUNI 20/2019.
 
 **Ato de aprovação:** Res. CONSUNI 20/2019 (UFPB-CONSUNI-RES-20-2019). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

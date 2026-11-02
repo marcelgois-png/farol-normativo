@@ -222,11 +222,10 @@ Atualizada em 02/11/2026. Normas citadas no acervo e ainda sem texto, ordenadas 
 - BR-?-PORT-3284-2003 — citada por 1 resolução(ões) da UFPB
 - … e mais 106
 
-## Normas de unidades, pró-reitorias e reitoria da UFPB (49; 47 citadas por resoluções da UFPB)
+## Normas de unidades, pró-reitorias e reitoria da UFPB (48; 46 citadas por resoluções da UFPB)
 
 - UFPB-ESTATUTO-ANTERIOR-2002 — citada por 226 resolução(ões) da UFPB; não localizada
 - UFPB-PRG-PORT-25-2011 — citada por 6 resolução(ões) da UFPB
-- UFPB-CI-RES-2-2013 — citada por 5 resolução(ões) da UFPB
 - UFPB-ETS-ON-1-2014 — citada por 5 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
 - UFPB-PRG-PORT-16-2012 — citada por 5 resolução(ões) da UFPB
 - UFPB-PRPG-PORT-46-2017 — citada por 5 resolução(ões) da UFPB
@@ -264,7 +263,8 @@ Atualizada em 02/11/2026. Normas citadas no acervo e ainda sem texto, ordenadas 
 - UFPB-PRG-PORT-40-2016 — citada por 1 resolução(ões) da UFPB
 - UFPB-PRG-PORT-40-2017 — citada por 1 resolução(ões) da UFPB
 - UFPB-PROGEP-PORT-2192-2014 — citada por 1 resolução(ões) da UFPB
-- … e mais 9
+- UFPB-PROGEP-PORT-841-2021 — citada por 1 resolução(ões) da UFPB
+- … e mais 8
 
 ## Leis e decretos (2205; 18 citadas por resoluções da UFPB)
 

@@ -6,18 +6,18 @@
 
 | Item | Quantidade |
 |---|---|
-| Atos coletados com texto integral | **92** |
+| Atos coletados com texto integral | **93** |
 | — Leis e decretos (Portal da Legislação da Câmara dos Deputados; planalto não os publica) | 25 |
 | — Resoluções e pareceres do CNE (gov.br/mec) | 60 (36 pareceres, 24 resoluções) |
-| — Portarias de pró-reitorias (PRAPE 2, PRPG 5) | 7 |
+| — Portarias de pró-reitorias (PRAPE 2, PRPG 5) e Resolução CI 02/2013 (página HTML do site do CI) | 8 |
 | Regimentos de unidades localizados como anexo de resolução já no acervo (`textos/REGIMENTOS/`) | **17** de 34 |
-| Normas com texto integral no acervo (Rodadas 0 a 3) | 3.384 (eram 3.281) |
-| Nós / relações na base | 6.414 / 24.581 (eram 6.333 / 23.798) |
+| Normas com texto integral no acervo (Rodadas 0 a 3) | 3.385 (eram 3.281) |
+| Nós / relações na base | 6.414 / 24.582 (eram 6.333 / 23.798) |
 | Relações tiradas dos textos da Rodada 3 | 759 (ALTERA 12, REVOGA total 16, REVOGA parcial 2, REGULAMENTA 3, FUNDAMENTA-SE EM 169, REMETE A 557) + 17 relações regimento → ato de aprovação + 10 sugestões regimento → ato de estrutura |
 | Citações reidentificadas (número, ano ou câmara errados; IDs sem ano fundidos) | 129 arestas, 86 IDs antigos (`base/divergencias/reidentificacoes_r3.csv`) |
 | Nós removidos por reidentificação ou por não serem norma | 87 |
 | Situações de vigência atualizadas por texto lido nesta rodada | 15 |
-| Fila de coleta após a rodada | 3.030 normas sem texto (eram 3.058) |
+| Fila de coleta após a rodada | 3.029 normas sem texto (eram 3.058) |
 
 ## 1. Leis e decretos (58 citados)
 
@@ -42,13 +42,13 @@
 ## 4. Normas de unidades, pró-reitorias e reitoria (52)
 
 - **7 coletadas** nos sites das pró-reitorias: PRAPE 09/2019 (apoio a eventos; PDF parcialmente digitalizado, OCR nas páginas 1–9) e 02/2021 (CAAE); PRPG 02/2021, 06/2021, 08/2021 e 09/2021 (retificação da 08) e 02/2022, que formam a cadeia pandêmica da pós-graduação (02/2021 revoga a 54/2020; 06/2021 revoga a 02/2021; 08/2021 altera a 06/2021; 02/2022 revoga a 06/2021). A "Resolução PRPG 79/2013" citada é a Res. CONSEPE 79/2013 republicada pela PRPG (reidentificada).
-- **Não localizadas (45):** as portarias da PRG (13), da PROGEP (3) e da Reitoria (10) não estão nos sites (a PRG remete ao SIGRH; as portarias GR saem só no Boletim de Serviço/SIPAC); resoluções de centros e colegiados (CCGB/CCS, CAVN, CBCMD, CCD, CCHSA/COC, CSEB/CCAE) exigem visita a cada site. A Resolução CI 02/2013 está publicada como página HTML no site do CI e será gravada assim que o site for autorizado no navegador.
+- **Não localizadas (44):** as portarias da PRG (13), da PROGEP (3) e da Reitoria (10) não estão nos sites (a PRG remete ao SIGRH; as portarias GR saem só no Boletim de Serviço/SIPAC); resoluções de centros e colegiados (CCGB/CCS, CAVN, CBCMD, CCD, CCHSA/COC, CSEB/CCAE) exigem visita a cada site. A Resolução CI 02/2013 (consulta para coordenadores) foi coletada da página HTML do site do CI, que não publica PDF.
 
 ## 5. Conferência independente por amostra
 
 Um agente que não participou da coleta conferiu 30 itens lendo só a base e os textos: 10 reidentificações (todas compatíveis com o contexto citado), 8 relações estruturais (todas confirmadas no dispositivo citado, com a situação do destino atualizada), a regra dos pareceres (565 arestas com origem em parecer, nenhuma estrutural), 4 regimentos (ementa correta e texto idêntico ao da resolução, byte a byte) e 4 fichas (data e ementa iguais ao cabeçalho do texto). Nenhum erro de substância; quatro observações de completude foram aplicadas (situação de normas já alteradas passa a listar também a alteração lida nesta rodada; sugestões de estrutura nomeiam a resolução; nome da PRA corrigido; ressalva de transição do art. 42 da Res. CNE/CEB 2/2024 registrada na relação).
 
-## 6. O que ficou na fila (3.030)
+## 6. O que ficou na fila (3.029)
 
 - 272 resoluções dos conselhos superiores (pedido à SODS, inalterado);
 - 148 atos do MEC e autarquias; 50 do CNE/CFE/CONAES (dos quais 21 do CFE); 144 de outros órgãos; 147 sem órgão identificado;

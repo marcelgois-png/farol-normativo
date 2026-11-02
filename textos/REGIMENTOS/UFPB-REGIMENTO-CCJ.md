@@ -7,7 +7,7 @@ data: "2015-03-24"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-02-2015: "
-ementa: "Regimento interno do Centro de Ciências Jurídicas (CCJ) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 02/2015."
+ementa: "Regimento interno do Centro de Ciências Jurídicas (CCJ) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 02/2015. Aprovado pela Res. CONSUNI 02/2015."
 ato_de_aprovacao: UFPB-CONSUNI-RES-02-2015
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=95961&key=22f04b42e146965d8ae7356acd20febf
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2015/UFPB-CONSUNI-RES-02-2015__95961.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCJ
 
-**Ementa:** Regimento interno do Centro de Ciências Jurídicas (CCJ) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 02/2015.
+**Ementa:** Regimento interno do Centro de Ciências Jurídicas (CCJ) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 02/2015. Aprovado pela Res. CONSUNI 02/2015.
 
 **Ato de aprovação:** Res. CONSUNI 02/2015 (UFPB-CONSUNI-RES-02-2015). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

@@ -7,7 +7,7 @@ data: "2024-04-29"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-04-2024: "
-ementa: "Regimento interno do Centro de Comunicação, Turismo e Artes (CCTA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 04/2024."
+ementa: "Regimento interno do Centro de Comunicação, Turismo e Artes (CCTA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 04/2024. Aprovado pela Res. CONSUNI 04/2024."
 ato_de_aprovacao: UFPB-CONSUNI-RES-04-2024
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=6432218&key=8e46d1c823327397a764e02e1adcbf3a
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2024/UFPB-CONSUNI-RES-04-2024__6432218.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCTA
 
-**Ementa:** Regimento interno do Centro de Comunicação, Turismo e Artes (CCTA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 04/2024.
+**Ementa:** Regimento interno do Centro de Comunicação, Turismo e Artes (CCTA) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 04/2024. Aprovado pela Res. CONSUNI 04/2024.
 
 **Ato de aprovação:** Res. CONSUNI 04/2024 (UFPB-CONSUNI-RES-04-2024). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

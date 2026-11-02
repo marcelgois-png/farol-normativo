@@ -7,7 +7,7 @@ data: "2025-01-06"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-33-2025: "
-ementa: "Regimento interno da Superintendência de Comunicação Social (SCS). Aprovado pela Res. CONSUNI 33/2025."
+ementa: "Regimento interno da Superintendência de Comunicação Social (SCS). Aprovado pela Res. CONSUNI 33/2025. Aprovado pela Res. CONSUNI 33/2025."
 ato_de_aprovacao: UFPB-CONSUNI-RES-33-2025
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=8334029&key=c3e9fa290fe689581a11f286d9f6a59b
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2025/UFPB-CONSUNI-RES-33-2025__8334029.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — SCS
 
-**Ementa:** Regimento interno da Superintendência de Comunicação Social (SCS). Aprovado pela Res. CONSUNI 33/2025.
+**Ementa:** Regimento interno da Superintendência de Comunicação Social (SCS). Aprovado pela Res. CONSUNI 33/2025. Aprovado pela Res. CONSUNI 33/2025.
 
 **Ato de aprovação:** Res. CONSUNI 33/2025 (UFPB-CONSUNI-RES-33-2025). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

@@ -1,16 +1,9 @@
 {
- "arestas com destino reidentificado": 129,
- "arestas descartadas (citação não é norma)": 3,
- "nós removidos (citação reidentificada ou descartada)": 87,
  "nós marcados como fora do escopo federal ou não localizados": 23,
- "atos do CFE marcados como fonte não acessível": 21,
- "nós novos com texto (não estavam na base)": 13,
- "normas com texto integral incorporadas": 92,
+ "normas com texto integral incorporadas": 93,
  "citações de atos de unidades corrigidas à mão": 4,
- "relações novas tiradas dos textos da Rodada 3": 759,
+ "relações novas tiradas dos textos da Rodada 3": 1,
  "regimentos de unidades localizados no acervo (anexos de resoluções)": 17,
  "regimentos de unidades ainda não localizados": 17,
- "situações atualizadas por revogação lida na Rodada 3": 9,
- "situações complementadas por alteração lida na Rodada 3": 4,
- "situações atualizadas por alteração lida na Rodada 3": 2
+ "situações complementadas por alteração lida na Rodada 3": 2
 }

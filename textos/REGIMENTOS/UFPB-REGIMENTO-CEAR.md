@@ -7,7 +7,7 @@ data: "2012-10-17"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-28-2012: "
-ementa: "Regimento interno do Centro de Energias Alternativas e Renováveis (CEAR) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012."
+ementa: "Regimento interno do Centro de Energias Alternativas e Renováveis (CEAR) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012."
 ato_de_aprovacao: UFPB-CONSUNI-RES-28-2012
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=99686&key=9def7ba5f2d5efe9e8b5f206c159658c
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2012/UFPB-CONSUNI-RES-28-2012__99686.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CEAR
 
-**Ementa:** Regimento interno do Centro de Energias Alternativas e Renováveis (CEAR) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012.
+**Ementa:** Regimento interno do Centro de Energias Alternativas e Renováveis (CEAR) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012. Aprovado pela Res. CONSUNI 28/2012. O CONSEPE aprovou o mesmo regimento pela Res. CONSEPE 61/2012.
 
 **Ato de aprovação:** Res. CONSUNI 28/2012 (UFPB-CONSUNI-RES-28-2012). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

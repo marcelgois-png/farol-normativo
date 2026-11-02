@@ -7,7 +7,7 @@ data: "2014-06-10"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-14-2014: "
-ementa: "Regimento interno do Centro de Tecnologia (CT) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73)."
+ementa: "Regimento interno do Centro de Tecnologia (CT) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73). Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73)."
 ato_de_aprovacao: UFPB-CONSUNI-RES-14-2014
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=96215&key=3c8298567c7e3edb997d0fb6c9d881d2
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2014/UFPB-CONSUNI-RES-14-2014__96215.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CT
 
-**Ementa:** Regimento interno do Centro de Tecnologia (CT) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73).
+**Ementa:** Regimento interno do Centro de Tecnologia (CT) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73). Aprovado pela Res. CONSUNI 14/2014. Regimento anterior: Res. CONSUNI 01/2008; a Res. CONSUNI 26/2014 altera o art. 11 do regimento de 2008 (ver D73).
 
 **Ato de aprovação:** Res. CONSUNI 14/2014 (UFPB-CONSUNI-RES-14-2014). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

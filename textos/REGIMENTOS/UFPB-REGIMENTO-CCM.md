@@ -7,7 +7,7 @@ data: "2009-05-15"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-11-2009: "
-ementa: "Regimento interno do Centro de Ciências Médicas (CCM) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf)."
+ementa: "Regimento interno do Centro de Ciências Médicas (CCM) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf). Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf)."
 ato_de_aprovacao: UFPB-CONSUNI-RES-11-2009
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=225211&key=199d25e331254b633abf3bec83924d52
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2009/UFPB-CONSUNI-RES-11-2009__225211.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — CCM
 
-**Ementa:** Regimento interno do Centro de Ciências Médicas (CCM) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf).
+**Ementa:** Regimento interno do Centro de Ciências Médicas (CCM) — Campus I – João Pessoa. Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf). Aprovado pela Res. CONSUNI 11/2009. O site do CCM publica o mesmo regimento (regimentointernoccmres112009consuni.pdf).
 
 **Ato de aprovação:** Res. CONSUNI 11/2009 (UFPB-CONSUNI-RES-11-2009). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 

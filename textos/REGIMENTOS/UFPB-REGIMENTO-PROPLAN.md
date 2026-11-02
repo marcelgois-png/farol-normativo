@@ -7,7 +7,7 @@ data: "2017-11-09"
 nivel: N8
 situacao: "sem alteração ou revogação registrada"
 situacao_base: "situação herdada do ato de aprovação UFPB-CONSUNI-RES-16-2017: "
-ementa: "Regimento interno da Pró-Reitoria de Planejamento e Desenvolvimento (PROPLAN). Aprovado pela Res. CONSUNI 16/2017."
+ementa: "Regimento interno da Pró-Reitoria de Planejamento e Desenvolvimento (PROPLAN). Aprovado pela Res. CONSUNI 16/2017. Aprovado pela Res. CONSUNI 16/2017."
 ato_de_aprovacao: UFPB-CONSUNI-RES-16-2017
 fonte_oficial: https://sigrh.ufpb.br/sigrh/downloadArquivo?idArquivo=617214&key=b070660457dc6eef831c2c2f0bdbc273
 arquivo_local: "Downloads/Oraculovski/originais/CONSUNI/2017/UFPB-CONSUNI-RES-16-2017__617214.pdf"
@@ -18,7 +18,7 @@ data_coleta: 2026-11-02
 
 # Regimento — PROPLAN
 
-**Ementa:** Regimento interno da Pró-Reitoria de Planejamento e Desenvolvimento (PROPLAN). Aprovado pela Res. CONSUNI 16/2017.
+**Ementa:** Regimento interno da Pró-Reitoria de Planejamento e Desenvolvimento (PROPLAN). Aprovado pela Res. CONSUNI 16/2017. Aprovado pela Res. CONSUNI 16/2017.
 
 **Ato de aprovação:** Res. CONSUNI 16/2017 (UFPB-CONSUNI-RES-16-2017). O texto abaixo é o mesmo extraído do original dessa resolução; não foi editado à mão.
 
