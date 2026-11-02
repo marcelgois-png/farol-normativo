@@ -6,14 +6,14 @@ Data: 02/11/2026. Critério da rodada: **prioridade pelo número de citações**
 
 | | Antes (Rodada 4) | Depois (Rodada 5) |
 |---|---|---|
-| Normas na base | 6.401 | 7.773 |
+| Normas na base | 6.401 | 7.772 |
 | Normas com texto integral | 3.437 | **3.728** (+291) |
-| Relações | 24.855 | 30.212 (+5.361 tiradas dos textos) |
-| Relações estruturais (altera, revoga, regulamenta…) | 7.430 | 9.444 |
+| Relações | 24.855 | 30.203 (+5.359 tiradas dos textos da rodada; +84 revogações e −90 citações simples na reaplicação às rodadas anteriores) |
+| Relações estruturais (altera, revoga, regulamenta…) | 7.430 | 9.514 |
 | Fila de coleta (sem texto) | 2.964 | 2.833 |
 | — citadas por normas da UFPB | 590 | 587 |
 | — citadas por 2 ou mais normas | 499 | 678 |
-| Alteradoras só anotadas em texto compilado (fora da fila, D90) | — | 1.212 |
+| Alteradoras só anotadas em texto compilado (fora da fila, D90) | — | 1.211 |
 
 **Leitura dos números.** Dos 313 alvos do planalto, só 13 eram citados por resoluções da UFPB — e esses 13 são leis estaduais e municipais (feriados, polos UAB, Escola de Enfermagem), fora da fonte federal. O ganho da rodada foi completar a cadeia federal (Código de Processo Civil de 1973, Código de Processo Penal, LC 123/2006, ação civil pública, FUNDEB de 2007, leis de pessoal e de carreiras). As leis coletadas citam 981 normas que ainda não estavam no acervo, quase todas uma única vez e só por outras leis: elas entram no fim da fila. As 587 normas citadas pela UFPB que restam são resoluções dos conselhos (pedido à SODS), atos do MEC/CAPES anteriores a 2013, normas de unidades e atos de outros órgãos — escopo das Rodadas 6 e 7.
 
@@ -70,8 +70,16 @@ Apontou 6 problemas de substância, **todos corrigidos no script e reprocessados
 | Leis e decretos | 2.095 | 13 (estaduais e municipais) | planalto/Câmara; 493 citados 2+ vezes, todos só por normas federais |
 | Regimentos de unidades | 17 | (pedido da coordenação) | direções das unidades |
 
-## 7. Pendências para decisão
+## 7. Correções aprovadas pela coordenação (02/11/2026)
 
-1. Reaplicar as regras D92 e D93 aos textos federais das Rodadas 2–4 (mudaria relações já registradas; precisa de decisão por ser caso de teste).
-2. Corrigir a relação antiga REVOGA (total) Decreto 9.191/2017 → LC 95/1998 (Rodada 2, nota do Decreto 4.176/2002 mal ligada; D99).
-3. DLG 143/2002 e DLG 66/1990: texto no Senado Federal (legis.senado.leg.br), ainda não coletado.
+Feitas com `scripts/r5/correcoes_r5.py`, a partir das pendências 1 e 2 deste relatório; cada mudança está listada em `base/controles/correcoes_r5.tsv`.
+
+1. **Regras D92 e D93 reaplicadas aos textos federais das Rodadas 2–4** (432 textos do planalto, Câmara e DOU, 308 do CNE, 70 de outros órgãos e 4 da Paraíba; 225 têm artigo de revogação). Resultado: 84 revogações novas (52 totais, 32 parciais), 90 citações simples retiradas porque eram a própria revogação e 31 revogações totais corrigidas para parciais ("revoga dispositivos da…"). Situação de 57 normas atualizada pelo texto (39 revogadas, 15 revogadas parcialmente, 3 alteradas e revogadas parcialmente); nenhuma tinha decisão fundamentada em `decisoes_vigencia.json`. Na revisão da lista, a regra foi endurecida antes de aplicar: ficam de fora os itens que mantêm ou ressalvam normas ("mantidos em vigor as Leis 6.533 e 6.615", na Lei 9.610/1998; "não alteradas pelas Leis 9.131 e 9.192", no art. 92 da LDB) e os que tratam de acréscimo ("na parte em que acresce…"); a revogação total só vale quando o item nomeia apenas normas.
+2. **Relação errada retirada**: Decreto 9.191/2017 → LC 95/1998 (D99). A relação correta, Decreto 9.191 → Decreto 4.176/2002, já estava registrada.
+3. **Relações cronologicamente impossíveis** (D102): 8 relações em que a norma anterior "altera" ou "revoga" a posterior (ex.: Lei 5.540/1968 → LDB de 1996; Lei 10.667/2003 → MP 1.042/2021) — anotações de redação ligadas no sentido inverso — rebaixadas a REMETE A, sem efeito na vigência.
+4. **"Lei nº 13.241, de 1941"** na página do planalto da Lei 11.196/2005 é a Lei 13.241/2015 (D103).
+
+## 8. Pendências
+
+1. DLG 143/2002 e DLG 66/1990: texto no Senado Federal (legis.senado.leg.br), ainda não coletado.
+2. Os cabeçalhos dos textos `.md` das Rodadas 2–4 mostram a situação da época em que foram gerados; a situação atualizada está na base (`nos.csv`) e no site.

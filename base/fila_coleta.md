@@ -81,7 +81,7 @@ Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto,
 - BR-MEC-PORT-203-2009 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - BR-SERES-PORT-133-2012 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - BR-SERES-PORT-604-2013 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-343-2020 — citada por 1 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-343-2020 — citada por 1 resolução(ões) da UFPB e 9 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - BR-MEC-PORT-870-2008 — citada por 1 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - BR-MEC-PORT-314-1965 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - BR-MEC-PORT-330-2018 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total
@@ -268,7 +268,7 @@ Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto,
 - BR-LEI-6306-? — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 5)
 - BR-LEI-9317-1996 — citada por 0 resolução(ões) da UFPB e 18 norma(s) no total
 - BR-LEI-4502-1964 — citada por 0 resolução(ões) da UFPB e 16 norma(s) no total
-- BR-LEI-9657-1998 — citada por 0 resolução(ões) da UFPB e 13 norma(s) no total
+- BR-LEI-9657-1998 — citada por 0 resolução(ões) da UFPB e 14 norma(s) no total
 - BR-DL-288-1967 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
 - BR-LEI-10485-2002 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
 - BR-LEI-8387-1991 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total

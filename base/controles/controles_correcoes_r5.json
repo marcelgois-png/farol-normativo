@@ -1,0 +1,20 @@
+{
+ "controles": {
+  "B: arestas retiradas (D99)": 1,
+  "B: arestas reidentificadas (13.241/1941 → 2015)": 1,
+  "B: nós removidos": 1,
+  "A: textos com artigo de revogação": 225,
+  "A: relações novas REVOGA (parcial)": 32,
+  "A: relações novas REVOGA (total)": 52,
+  "A: REMETE A retiradas (a citação era a revogação)": 90,
+  "A: revogação já registrada": 67,
+  "A: conversões barradas pela hierarquia": 1,
+  "A: REVOGA (total) → parcial (D93)": 31,
+  "A: situações revogada → revogada parcialmente (D93)": 1,
+  "A: situações → revogada": 39,
+  "A: situações → revogada parcialmente": 15,
+  "A: situações → alterada e revogada parcialmente": 3,
+  "C: relações cronologicamente impossíveis rebaixadas (D102)": 8
+ },
+ "conflitos": []
+}
