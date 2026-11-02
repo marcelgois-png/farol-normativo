@@ -7,7 +7,7 @@ Entradas:
 Saída: saida/r3_nos.json, saida/r3_rel.json, saida/textos/<GRUPO>/<ID>.md
 """
 import csv, json, os, re, sys, unicodedata, collections, glob
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))  # scripts/extrator.py
 from extrator import extrai, datas
 csv.field_size_limit(10**9)
 

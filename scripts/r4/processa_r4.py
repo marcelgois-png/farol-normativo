@@ -1,7 +1,7 @@
 """Rodada 4: textos coletados (DOU/MEC, leis da Paraíba) -> nós, relações extraídas e textos JSON para o merge.
 Entradas: fichas_r4.json, txt/<GRUPO>/<ID>.txt, manifestos/*.tsv. Saída: saida/r4_nos.json, r4_rel.json, r4_txt.json"""
 import csv, json, os, re, sys, unicodedata, collections, glob
-sys.path.insert(0, "/home/claude/r3/scripts")
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))  # scripts/extrator.py
 from extrator import extrai
 csv.field_size_limit(10**9)
 REPO = "/home/claude/farol-normativo"; W = "/home/claude/r4"; HOJE = "2026-11-02"
