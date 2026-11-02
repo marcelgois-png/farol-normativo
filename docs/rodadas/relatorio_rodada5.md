@@ -6,40 +6,41 @@ Data: 02/11/2026. Critério da rodada: **prioridade pelo número de citações**
 
 | | Antes (Rodada 4) | Depois (Rodada 5) |
 |---|---|---|
-| Normas na base | 6.401 | 7.766 |
+| Normas na base | 6.401 | 7.773 |
 | Normas com texto integral | 3.437 | **3.728** (+291) |
-| Relações | 24.855 | 30.178 (+5.327 tiradas dos textos) |
-| Relações estruturais (altera, revoga, regulamenta…) | 7.430 | 9.451 |
-| Fila de coleta (sem texto) | 2.964 | 2.827 |
+| Relações | 24.855 | 30.212 (+5.361 tiradas dos textos) |
+| Relações estruturais (altera, revoga, regulamenta…) | 7.430 | 9.444 |
+| Fila de coleta (sem texto) | 2.964 | 2.833 |
 | — citadas por normas da UFPB | 590 | 587 |
-| — citadas por 2 ou mais normas | 499 | 688 |
-| Alteradoras só anotadas em texto compilado (fora da fila, D90) | — | 1.211 |
+| — citadas por 2 ou mais normas | 499 | 678 |
+| Alteradoras só anotadas em texto compilado (fora da fila, D90) | — | 1.212 |
 
-**Leitura dos números.** Dos 313 alvos do planalto, só 13 eram citados por resoluções da UFPB — e esses 13 são leis estaduais e municipais (feriados, polos UAB, Escola de Enfermagem), fora da fonte federal. O ganho da rodada foi completar a cadeia federal (Código de Processo Civil de 1973, Código de Processo Penal, LC 123/2006, ação civil pública, FUNDEB de 2007, leis de pessoal e de carreiras). As leis coletadas citam 975 normas que ainda não estavam no acervo, quase todas uma única vez e só por outras leis: elas entram no fim da fila. As 587 normas citadas pela UFPB que restam são resoluções dos conselhos (pedido à SODS), atos do MEC/CAPES anteriores a 2013, normas de unidades e atos de outros órgãos — escopo das Rodadas 6 e 7.
+**Leitura dos números.** Dos 313 alvos do planalto, só 13 eram citados por resoluções da UFPB — e esses 13 são leis estaduais e municipais (feriados, polos UAB, Escola de Enfermagem), fora da fonte federal. O ganho da rodada foi completar a cadeia federal (Código de Processo Civil de 1973, Código de Processo Penal, LC 123/2006, ação civil pública, FUNDEB de 2007, leis de pessoal e de carreiras). As leis coletadas citam 981 normas que ainda não estavam no acervo, quase todas uma única vez e só por outras leis: elas entram no fim da fila. As 587 normas citadas pela UFPB que restam são resoluções dos conselhos (pedido à SODS), atos do MEC/CAPES anteriores a 2013, normas de unidades e atos de outros órgãos — escopo das Rodadas 6 e 7.
 
 ## 1. Limpeza da fila (antes da coleta)
 
 - **D89** — 7 nós residuais de reidentificações da Rodada 2, sem nenhuma relação, removidos.
-- **D90** — 885 leis e decretos que só apareciam como alteradoras anotadas nos textos compilados do planalto ("Redação dada pela Lei…") saíram da fila com status próprio. Não são citados por norma alguma; o efeito deles já está no texto compilado do destino. Nesta rodada, mais 409 entraram nessa condição e 83 voltaram à fila porque passaram a ser citados.
+- **D90** — 885 leis e decretos que só apareciam como alteradoras anotadas nos textos compilados do planalto ("Redação dada pela Lei…") saíram da fila com status próprio. Não são citados por norma alguma; o efeito deles já está no texto compilado do destino. Nesta rodada, mais 410 entraram nessa condição e 83 voltaram à fila porque passaram a ser citados.
 - **D91** — padrão único de ID para instruções normativas (`BR-<ÓRGÃO>-IN-<n>-<ano>`) e Ministério do Planejamento sempre `BR-MPOG`; 20 renomeações e fusões (`reidentificacoes_r5.csv`).
 
 ## 2. Coleta
 
 - **291 normas com texto**: 265 do planalto (73 na versão compilada) e 26 da Câmara dos Deputados — atos de 1931 a 2011 que o planalto não publica (Decreto 20.158/1931 do ensino comercial, DL 421/1938 do ensino superior, Lei 1.711/1952, antigo Estatuto dos Funcionários, Lei 5.276/1967 dos nutricionistas, Lei 7.177/1983 de escolha de dirigentes de fundações, entre outros). Por tipo: 192 leis, 47 decretos, 28 decretos-lei, 10 medidas provisórias, 7 leis complementares, 6 emendas constitucionais, 1 lei delegada.
 - **Ficha conferida contra a epígrafe**: número e ano da epígrafe têm de bater com o ID; 3 páginas que não bateram foram descartadas e as citações reidentificadas (abaixo).
-- **Situação pela fonte oficial**: 44 normas da rodada registradas como revogadas pela nota da própria página (ex.: CPC/1973 pela Lei 13.105/2015; Decreto 6.571/2008 pelo Decreto 7.611/2011; Lei 11.494/2007, FUNDEB, pela Lei 14.113/2020) ou por estarem integralmente tachadas (D98). Medidas provisórias tachadas ficam sem situação, com a nota "convertida na Lei nº…" ou "sem eficácia".
+- **Situação pela fonte oficial**: 39 normas da rodada registradas como revogadas pela nota da própria página (ex.: CPC/1973 pela Lei 13.105/2015; Decreto 6.571/2008 pelo Decreto 7.611/2011) ou por estarem integralmente tachadas (D98); 2 como revogadas parcialmente, porque a nota ressalva artigos (Lei 5.988/1973, "excetuando-se o art. 17"; Lei 11.494/2007, FUNDEB, "ressalvando o art. 12"). A Lei 7.834/1989 (revogada e depois revigorada) e o DL 2.425/1988 (rejeitado pelo Congresso) ficam sem situação, com a nota para conferência (D101). Medidas provisórias tachadas ficam sem situação, com a nota "convertida na Lei nº…" ou "sem eficácia".
+- **Compilado conferido**: o link "texto compilado" só é usado se a epígrafe dele conferir com a norma; em 4 páginas ele apontava para outra lei e foi usada a página principal (D100).
 
 ## 3. Relações
 
-5.327 relações novas: 3.305 REMETE A, 1.310 ALTERA, 619 REVOGA (parcial), 87 REVOGA (total) e 6 REGULAMENTA. Agregadas por par de normas e tipo, com os dispositivos listados e o número de ocorrências, como na Rodada 2. As anotações dos textos compilados ("Redação dada pela Lei…", "Revogado pelo Decreto…") viram relações da alteradora para a norma coletada.
+5.361 relações novas: 3.346 REMETE A, 1.303 ALTERA, 612 REVOGA (parcial), 94 REVOGA (total) e 6 REGULAMENTA. Agregadas por par de normas e tipo, com os dispositivos listados e o número de ocorrências, como na Rodada 2. As anotações dos textos compilados ("Redação dada pela Lei…", "Revogado pelo Decreto…") viram relações da alteradora para a norma coletada.
 
 Duas regras novas, ambas aplicadas só aos textos desta rodada:
 
-- **D92 (era a pendência P2/D86)** — citação em item de artigo de revogação ("Revogam-se:", "Ficam revogados:") é REVOGA, não REMETE A: **parcial** quando o item nomeia artigo, parágrafo, inciso, anexo ou "dispositivos"; **total** quando nomeia só a norma. Ficam REMETE A as notas "(Vide…)", as ementas transcritas no item e a norma posterior à revogadora. O artigo de revogação termina no próximo artigo, no fecho ("Brasília, …") ou no primeiro anexo. Resultado: 222 revogações parciais e 35 totais que antes sairiam como simples citação.
+- **D92 (era a pendência P2/D86)** — citação em item de artigo de revogação ("Revogam-se:", "Ficam revogados:") é REVOGA, não REMETE A: **parcial** quando o item nomeia artigo, parágrafo, inciso, anexo ou "dispositivos"; **total** quando nomeia só a norma. Ficam REMETE A as notas "(Vide…)", as ementas transcritas no item e a norma posterior à revogadora. Também ficam REMETE A a lei alteradora mencionada no item ("com as alterações do Decreto-Lei nº 34", "acrescentado pelo art. 2º"). O artigo de revogação termina no próximo artigo, no fecho ("Brasília, …") ou no primeiro anexo; o dispositivo de destino é o do item inteiro ou a lista que segue "os seguintes dispositivos:". Resultado: 219 revogações parciais e 42 totais que antes sairiam como simples citação.
 - **D93** — "revoga dispositivos da Lei X" é revogação parcial (o extrator das Rodadas 1–4 a registrava como total): 26 correções.
 - **Revogação com efeito futuro** — a cláusula "Ficam revogados, a partir de 1º de janeiro de 2033:" grava a data de início de efeito. A LC 214/2025 (reforma tributária) programa 73 revogações para 2027 e 2033 (LC 116/2003, DL 406/1968, leis do PIS/Cofins…); elas ficam registradas como **revogação programada**, sem mudar a situação atual das normas.
 
-Efeito em normas que já estavam no acervo: 13 passaram a revogadas pelo texto lido nesta rodada (ex.: Lei 9.317/1996, SIMPLES, revogada pela LC 123/2006, art. 89, a partir de 1º/07/2007; Lei 4.611/1965 pela Lei 9.099/1995) e 32 receberam a nota de revogação programada.
+Efeito em normas que já estavam no acervo: 9 passaram a revogadas pelo texto lido nesta rodada (ex.: Lei 9.317/1996, SIMPLES, revogada pela LC 123/2006, art. 89, a partir de 1º/07/2007; Lei 4.611/1965 pela Lei 9.099/1995) e as demais afetadas pela LC 214/2025 receberam só a nota de revogação programada.
 
 ## 4. Citações reidentificadas (`scripts/r5/decisoes_r5.tsv`)
 
@@ -52,9 +53,11 @@ Efeito em normas que já estavam no acervo: 13 passaram a revogadas pelo texto l
 
 ## 5. Conferência independente
 
-(preenchida após a conferência)
+Um agente que não participou da coleta conferiu 59 itens por amostra, lendo só a base, os textos e os originais, e fez varreduras completas de 393 hashes, das 73 revogações programadas, das 235 relações da regra D92 e das 44 normas marcadas revogadas. Confirmados: números, datas, ementas e SHA-256 das fichas; as revogações programadas da LC 214/2025 (datas de 2027 e 2033 conferidas no caput dos arts. 542 e 543, nenhum destino marcado revogado); as 7 revogações aplicadas a normas antigas; as 11 reidentificações; a integridade (nenhuma relação órfã, nenhum ID antigo remanescente, nenhum ato inferior alterando superior).
 
-## 6. O que ficou na fila (2.827)
+Apontou 6 problemas de substância, **todos corrigidos no script e reprocessados antes da publicação**: (1) 4 textos "compilados" que eram de outra lei (Leis 12.998/2014, 13.324/2016, 4.771/1965 e 8.981/1995; 74 relações erradas) — D100; (2) a regra D92 tomava a lei alteradora como alvo ("com as alterações do DL 34", "introduzidas pela Lei 9.065"); (3) "Art. 6º Fica revogado o Decreto 8.977" saía como revogação parcial porque o "Art." do caput contava como dispositivo; (4) Lei 7.834/1989 revigorada; (5) Leis 5.988/1973 e 11.494/2007 com artigo ressalvado; (6) DL 2.425/1988 rejeitado pelo Congresso — D101. Observações de completude também aplicadas: dispositivo de destino completo nas listas ("os seguintes dispositivos:", "…todos da Lei"), prefixo espúrio "Anexo V" retirado do dispositivo de origem quando a citação está antes do fecho. Não aplicadas: datas de efeito escalonadas dentro de incisos já vencidas (ex.: Lei 9.532/1997, art. 82, II); alterações e suspensões listadas nas fichas da Câmara (ex.: Resolução do Senado 86/1986 sobre a Lei 6.686/1979); data e ementa dos DLG 66/1990 e 143/2002 (ainda sem texto); dispositivo de origem do Decreto 7.212/2010 (art. 60 em vez de 617, erro do extrator).
+
+## 6. O que ficou na fila (2.833)
 
 | Grupo | Sem texto | Citadas pela UFPB | Fonte provável |
 |---|---|---|---|
@@ -64,7 +67,7 @@ Efeito em normas que já estavam no acervo: 13 passaram a revogadas pelo texto l
 | Normas de unidades, pró-reitorias e reitoria | 60 | 58 | sites das unidades |
 | CNE/CFE/CONAES | 59 | 20 | portal do CNE, biblioteca do INEP |
 | Sem órgão identificado | 26 | 21 | identificação pelo contexto |
-| Leis e decretos | 2.089 | 13 (estaduais e municipais) | planalto/Câmara; 493 citados 2+ vezes, todos só por normas federais |
+| Leis e decretos | 2.095 | 13 (estaduais e municipais) | planalto/Câmara; 493 citados 2+ vezes, todos só por normas federais |
 | Regimentos de unidades | 17 | (pedido da coordenação) | direções das unidades |
 
 ## 7. Pendências para decisão

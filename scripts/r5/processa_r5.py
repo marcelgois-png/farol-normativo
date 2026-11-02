@@ -50,12 +50,14 @@ EPI_RE = re.compile(r"(?i)(LEI\s+COMPLEMENTAR|LEI\s+DELEGADA|DECRETO[\s-]*LEI|DE
                     r"\s*N\s*[º°oO.]*\s*([\d.]+(?:-[A-Z])?)\s*,?\s*(?:DE\s+)?(\d{1,2})[º°o]?\s*(?:DE\s+)?([A-ZÇa-zç]+)\s+(?:DE\s+)?(\d{4})\.?")
 PREAMB_RE = re.compile(r"(?:O\s+PRESIDENTE|A\s+PRESIDENTA|O\s+VICE[-\s]PRESIDENTE|AS\s+MESAS|As\s+Mesas|O\s+CONGRESSO|Fa[çc]o\s+saber|OS\s+MINISTROS|O\s+CHEFE\s+DO\s+GOVERNO|O\s+PRESIDENTE\s+DA\s+REP|Art\.?\s*1\s*[º°o.]?\s)")
 ATO = r"(?:MPv|Lei\s+Complementar|Lei\s+Delegada|Lei|Decreto[\s-]*Lei|Decreto\s+Legislativo|Decreto|Medida\s+Provis[óo]ria|Emenda\s+Constitucional)"
-NUM = r"n?\s*[º°o.]*\s*[\d.]+(?:-\d+)?(?:\s*,\s*de\s+[\d.]+(?:\s+de\s+[A-Za-zç]+\s+de\s+\d{4})?)?"
+NUM = r"n?\s*[º°o.]*\s*[\d.]+(?:-\d+)?(?:\s*,\s*(?:de\s+)?[\d.]+(?:\s+de\s+[A-Za-zç]+\s+de\s+\d{4})?)?"
+EXC = r"(?:excetuand\w*|ressalv\w*|salvo|exceto)[^()]{0,60}?(?:art\.\s*\d+[º°]?(?:\s+e\s+seus?\s+§§?\s*[\dº°]+(?:\s*(?:,|e)\s*[\dº°]+)*)?|§§?\s*[\dº°]+(?:\s*(?:,|e)\s*[\dº°]+)*)"
 NOTAS_RE = re.compile(r"(?i)\(?\s*(?:Texto\s+compilado|Texto\s+para\s+impress[ãa]o|Mensagem\s+de\s+veto|Mensagem\s+de\s+Veto\s+Total|\(?Vig[êe]ncia\)?(?:\s+encerrada)?|Regulamento|Produ[çc][ãa]o\s+de\s+efeitos?|"
                       r"Promulga[çc][ãa]o\s+partes?\s+vetadas?|Partes?\s+vetadas?|Exposi[çc][ãa]o\s+de\s+motivos|Convers[ãa]o\s+d[ao]\s+" + ATO + r"\s*" + NUM + r"|"
-                      r"Convertid[oa]\s+n[ao]\s+" + ATO + r"\s*" + NUM + r"|Revogad[oa]s?\s+(?:parcialmente\s+)?pel[oa]s?\s+" + ATO + r"\s*" + NUM + r"|"
+                      r"Convertid[oa]\s+n[ao]\s+" + ATO + r"\s*" + NUM + r"|Revogad[oa]s?\s+(?:parcialmente\s+)?pel[oa]s?\s+" + ATO + r"\s*" + NUM + r"(?:\s*,?\s*" + EXC + r")?|"
+                      r"Revigorad[oa]s?\s+pel[oa]s?\s+" + ATO + r"\s*" + NUM + r"|Rejeitad[oa]\s+pel[oa]\s+Ato\s+Declarat[óo]rio[^()]{0,40}?\d{4}|"
                       r"(?<=\()\s*(?:Vide|Retificad[oa]|Republicad[oa]|Atualiza[çc][ãa]o|Em\s+vigor|Efic[áa]cia|Ref\.?)[^()]{0,200}"
-                      r"|Vide\s+(?:" + ATO + r"|ADI|ADC|ADPF|art|Resolu[çc][ãa]o|Ato\s+Declarat[óo]rio|Portaria|Instru[çc][ãa]o\s+Normativa|Parecer)[^()]{0,40}?" + r"(?:\d{4}|\d+)(?=\s)"
+                      r"|Vide\s+(?:" + ATO + r"|ADI|ADC|ADPF|art|Resolu[çc][ãa]o|Ato\s+Declarat[óo]rio|Portaria|Instru[çc][ãa]o\s+Normativa|Parecer)[^()]{0,40}?" + r"\d+(?:\s*(?:,|e)\s*\d+)*(?:\s*,?\s*de\s+\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4})?(?:\s+do\s+Ato\s+das\s+Disposi[çc][õo]es\s+Constitucionais(?:\s+e)?\s+Transit[óo]rias)?(?=\s)"
                       r")\s*\)?")
 def dec(b):
     for enc in ("utf-8", "cp1252", "latin-1"):
@@ -115,11 +117,20 @@ def ficha_planalto(i, txt):
     em = re.sub(r"^(?:e|l)\s+(?=[A-ZÁÉÍÓÚ])", "", em)
     f["ementa"] = em[:700]
     f["notas"] = " ".join(notas)
+    f["cab"] = cab
     f["antes"] = t[:m.start()]
     return f
 
 def situacao_notas(i, notas, frac):
     s = notas
+    if re.search(r"(?i)Revigorad[oa]", s):
+        return "", "revogação seguida de revigoramento indicada na página do planalto (" + re.sub(r"\s+", " ", re.search(r"(?i)Revogad[^()]{0,120}Revigorad[^()]{0,80}|Revigorad[^()]{0,80}", s).group(0)).strip() + "); conferir"
+    rj = re.search(r"(?i)Rejeitad[oa]\s+pel[oa]\s+Ato\s+Declarat[óo]rio[^()]{0,40}?\d{4}", s)
+    if rj:
+        return "", f"{re.sub(r'\s+', ' ', rj.group(0)).strip()} — decreto-lei rejeitado pelo Congresso Nacional (nota da página do planalto)"
+    rp = re.search(r"(?i)Revogad[oa]\s+pel[oa]s?\s+(" + ATO + r"\s*" + NUM + r")\s*,?\s*(" + EXC + r")", s)
+    if rp:
+        return "revogada parcialmente", f"revogada por {re.sub(r'\s+', ' ', rp.group(1))}, {re.sub(r'\s+', ' ', rp.group(2)).strip()} (nota da página do planalto)"
     m = re.search(r"(?i)Revogad[oa]\s+pel[oa]s?\s+(" + ATO + r"\s*" + NUM + r")", s)
     if m and not re.search(r"(?i)Revogad[oa]s?\s+parcialmente", m.group(0)):
         return "revogada", f"revogada por {re.sub(r'\s+', ' ', m.group(1))} (nota da página do planalto)"
@@ -169,7 +180,7 @@ def spans_revogacao(t):
 
 ITEM_SEP = re.compile(r"[;:]|\n\s*(?=(?:[IVXLC]+|\d+)\s*[-–—]|[a-z]\)|Art\.?\s*\d|§)|\.\s+(?=[A-ZÁÉÍÓÚ])")
 DISP_ITEM = re.compile(r"(?i)§|\b(arts?\.?|artigos?|par[áa]grafos?|incisos?|al[íi]neas?|caput|dispositivos?|anexos?|itens?|tabelas?|cap[íi]tulos?|t[íi]tulos?|se[çc][ãa]o)\b")
-NAO_ITEM = re.compile(r"(?i)\(\s*vide|\bvide\b|\b(altera|alterad[oa]|disp[õo]e|institui|cria|regulament|nos\s+termos|de\s+que\s+trata|prevista?|conforme|com\s+a\s+reda[çc][ãa]o)\b")
+NAO_ITEM = re.compile(r"(?i)\(\s*vide|\bvide\b|com\s+as\s+altera[çc][õo]es|\b(?:acrescentad|renumerad|introduzid|inclu[íi]d|transformad|convertid)[oa]s?\b|reda[çc][ãa]o\s+dada|\b(altera|alterad[oa]|disp[õo]e|institui|cria|regulament|nos\s+termos|de\s+que\s+trata|prevista?|conforme|com\s+a\s+reda[çc][ãa]o)\b")
 
 def d86(T, x, ano_o):
     """Decide se a citação em artigo de revogação é REVOGA (total/parcial). Devolve (tipo, disp_destino) ou None."""
@@ -179,13 +190,22 @@ def d86(T, x, ano_o):
     pos = x["pos"]
     ini = max([mm.end() for mm in ITEM_SEP.finditer(T, max(0, pos - 400), pos)] + [max(0, pos - 400)])
     item = re.sub(r"\s+", " ", T[ini:pos]).strip()
+    # o caput do próprio artigo de revogação não é dispositivo do destino
+    item = re.sub(r"(?i)^Art\.?\s*\d+[º°o.]*\s*[-–—.]?\s*(?:Revogam[-\s]se|Ficam?\s+revogad[oa]s?|Revoga[-\s]se|S[ãa]o\s+revogad[oa]s|Fica\s+revogad[oa])\s*,?\s*", "", item)
     if NAO_ITEM.search(item) or len(item) > 220:
         return None
     if DISP_ITEM.search(item) or x["destino"] == "BR-CF-1988":
         dd = x.get("disp_destino") or "norma inteira"
-        if dd == "norma inteira":
-            dd = re.sub(r"(?i)^(?:[IVXLC]+\s*[-–—]\s*|[a-z]\)\s*)?(?:e\s+)?(?:o|a|os|as)\s+", "", item).strip(" ,;")
-            dd = re.sub(r"(?i)\s*(?:d[oa]s?|n[oa]s?)\s*$", "", dd)[:120] or "dispositivos listados"
+        limpo = re.sub(r"(?i)^(?:[IVXLC]+\s*[-–—]\s*|[a-z]\)\s*)?(?:e\s+)?(?:o|a|os|as)\s+", "", item).strip(" ,;")
+        limpo = re.sub(r"(?i)\s*(?:,?\s*tod[oa]s\s+)?(?:d[oa]s?|n[oa]s?)\s*$", "", limpo).strip(" ,;")
+        _fim = re.search(r"\d{4}\s*[,:;]?", T[pos:pos + 160])
+        if re.search(r"(?i)seguintes\s+dispositivos", limpo) and _fim:
+            dep = T[pos + _fim.end():pos + _fim.end() + 600]
+            fimlista = re.search(r"\n\s*[IVXLC]+\s*[-–—]|\n\s*Art\.", dep)
+            dep = re.sub(r"\s+", " ", dep[:fimlista.start()] if fimlista else dep[:250]).strip(" :;")
+            dd = ("seguintes dispositivos: " + dep)[:220]
+        elif dd == "norma inteira" or len(DISP_ITEM.findall(limpo)) > 1:
+            dd = limpo[:220] or "dispositivos listados"
         return ("REVOGA (parcial)", dd)
     return ("REVOGA (total)", "norma inteira")
 
@@ -219,13 +239,17 @@ for i in ids:
     if os.path.exists(pp):
         h_main = dec(open(pp, "rb").read())
         src = pc if os.path.exists(pc) else pp
+        if src == pc:
+            fc = ficha_planalto(i, html_texto(dec(open(pc, "rb").read()), True).replace("~~", " "))
+            if not fc["confere"]:
+                ALERTA["compilado de outra norma (usada a página principal)"].append([i, fc["epigrafe"]]); src = pp
         h = dec(open(src, "rb").read()) if src != pp else h_main
         txt = html_texto(h, True); sem = html_texto(h, False)
         f = ficha_planalto(i, html_texto(h_main, True).replace("~~", " "))
         if not f["confere"]:
             ALERTA["epígrafe não confere com o ID (descartado)"].append([i, f["epigrafe"]]); continue
         frac = fracao_tachada(h)
-        sit, sit_base = situacao_notas(i, f["notas"] + " " + f.get("antes", ""), fracao_tachada(h_main))
+        sit, sit_base = situacao_notas(i, f.get("cab", "") + " " + f.get("antes", ""), fracao_tachada(h_main))
         nome = os.path.basename(src); mf = man.get(nome, {}); mm = man.get(os.path.basename(pp), {})
         dominio = "planalto.gov.br"
         NOS[i] = dict(id=i, tipo=TIPO.get(tp, ""), orgao="Presidência da República" if tp in ("LEI", "LC", "DEC", "DL", "MP", "LDEL") else "Congresso Nacional",
@@ -266,6 +290,8 @@ for i in ids:
     rr, info = extrai(sem, i, "FED", inv | set(ids) | {i})
     T = prepara(sem)
     rv = spans_revogacao(T)
+    _f = re.search(r"(?m)^\s*(?:Bras[íi]lia\s*,|Rio\s+de\s+Janeiro\s*,)", T)
+    fecho = _f.start() if _f else len(T)
     ano_o = int(ano)
     for x in rr:
         parte = x.get("parte", "")
@@ -299,6 +325,8 @@ for i in ids:
                 continue
         elif x.get("destino") != i:
             continue
+        if x.get("pos") is not None and str(x.get("disp_origem", "")).startswith(("Anexo", "ANEXO")) and x["pos"] < fecho:
+            x["disp_origem"] = re.sub(r"^(?:Anexo|ANEXO)\s+[IVXLC\d]+(?:,\s*)?", "", x["disp_origem"]) or "norma inteira"
         junta_rel(i, x, dominio)
 
 os.makedirs(f"{W}/saida", exist_ok=True)

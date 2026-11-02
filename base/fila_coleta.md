@@ -251,7 +251,7 @@ Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto,
 - UFPB-GR-PORT-343-2020 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
 - … e mais 20
 
-## Leis e decretos (2089; 13 citadas por resoluções da UFPB)
+## Leis e decretos (2095; 13 citadas por resoluções da UFPB)
 
 - BR-DL-875-1953 — citada por 9 resolução(ões) da UFPB e 9 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
 - BR-LEI-170-2012 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
@@ -266,34 +266,34 @@ Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto,
 - BR-DL-1445-1976 — citada por 1 resolução(ões) da UFPB e 7 norma(s) no total
 - BR-DL-2140-1984 — citada por 1 resolução(ões) da UFPB e 3 norma(s) no total
 - BR-LEI-6306-? — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 5)
-- BR-LEI-9317-1996 — citada por 0 resolução(ões) da UFPB e 17 norma(s) no total
+- BR-LEI-9317-1996 — citada por 0 resolução(ões) da UFPB e 18 norma(s) no total
 - BR-LEI-4502-1964 — citada por 0 resolução(ões) da UFPB e 16 norma(s) no total
+- BR-LEI-9657-1998 — citada por 0 resolução(ões) da UFPB e 13 norma(s) no total
 - BR-DL-288-1967 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
 - BR-LEI-10485-2002 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
 - BR-LEI-8387-1991 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
-- BR-LEI-9657-1998 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
+- BR-LEI-8541-1992 — citada por 0 resolução(ões) da UFPB e 10 norma(s) no total
 - BR-LEI-8870-1994 — citada por 0 resolução(ões) da UFPB e 10 norma(s) no total
+- BR-DL-1593-1977 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-DL-37-1966 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-LEI-10871-2004 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
 - BR-LEI-13043-2014 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-LEI-7689-1988 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
 - BR-LEI-9393-1996 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
-- BR-DL-1593-1977 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
-- BR-DL-37-1966 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
 - BR-LC-7-1970 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
 - BR-LEI-10147-2000 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
 - BR-LEI-10336-2001 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
-- BR-LEI-7689-1988 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-10551-2002 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-10882-2004 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
 - BR-LEI-9065-1995 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-10410-2002 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
 - BR-LEI-11051-2004 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
 - BR-LEI-11101-2005 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-11776-2008 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
 - BR-LEI-12350-2010 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
 - BR-LEI-4131-1962 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-8028-1990 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-8541-1992 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-8829-1993 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-9012-1995 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-9648-1998 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-9779-1999 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- BR-LEI-9790-1999 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
-- … e mais 2049
+- BR-LEI-4506-1964 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- … e mais 2055
 
 ## Regimentos de unidades (pedido da coordenação em 02/11/2026) (17 sem texto próprio)
 
