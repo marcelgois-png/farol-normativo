@@ -26,10 +26,6 @@ jobs:
       - run: python -m pytest -q
       - run: python -m farol validar
       - run: python -m farol gerar
-      - uses: actions/configure-pages@v5
-        if: ${{ github.event.repository.private == false }}
-        with:
-          enablement: true   # ativa o GitHub Pages (fonte: GitHub Actions) se ainda não estiver ativo
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
