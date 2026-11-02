@@ -99,8 +99,8 @@ Tudo isso já aconteceu três vezes à mão (Rodadas 0, 1 e 2). O trabalho é tr
 
 | Marco | Conteúdo | Prazo |
 |---|---|---|
-| M1 | Repositório criado; base e textos migrados do computador; gerador lendo e validando a base | 2 semanas |
-| M2 | Site v0.1: ficha e texto de cada norma com links, busca, Teia integrada (todas as 3.884 normas, 3.112 textos) | +3 semanas |
+| M1 | Repositório criado; base e textos migrados do computador; gerador lendo e validando a base | concluído em 02/11/2026 (repositório local `farol-normativo`, aguardando criação no GitHub) |
+| M2 | Site v0.1 no ar: ficha e texto de cada norma com links, busca, Teia integrada (base completa da Rodada 2: 6.333 normas, 3.277 textos) — gerador já produz o site completo; falta publicar | +3 semanas |
 | M3 | Painéis internos (vigência, divergências, fila, rodadas) e endereços estáveis; revisão de OCR nas normas estruturais | +2 semanas |
 | M4 | Apresentação à SODS com o site no ar; pedido das 148 resoluções; definição das perguntas de referência | dezembro de 2026 |
 | M5 | Rodada 3 (resoluções da SODS, pareceres do CNE, portarias MEC/CAPES) pelo pipeline novo | janeiro de 2027 |
@@ -128,6 +128,8 @@ Tudo isso já aconteceu três vezes à mão (Rodadas 0, 1 e 2). O trabalho é tr
 5. Modelo de linguagem do oráculo e quem detém a chave (STI, CT ou SODS).
 6. Interlocutor na SODS para as perguntas de referência e para o pedido das 148 resoluções.
 
-## 11. Próximo passo
+## 11. Situação em 02/11/2026 e próximo passo
 
-Com o computador ligado (ou a pasta `Documents\Oraculovski` compactada): criar o repositório, migrar base e textos, e escrever o gerador até o M1. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.
+M1 concluído: a base completa da Rodada 2 (6.333 normas, 23.798 relações) e os 3.285 textos foram migrados de `Documents\Oraculovski` para o repositório `farol-normativo`, com o gerador (`python -m farol validar | gerar`), testes, `CLAUDE.md` com as regras do acervo e a ação de publicação no GitHub Pages. O gerador produz o site completo em cerca de 20 s: 6.333 fichas, 3.277 textos com 19.893 links de citação e 70.788 âncoras de artigo, Teia integrada, busca, quadro de vigência, divergências e fila. Cópia do repositório (git bundle) em `Documents\Oraculovski\_scripts\farol-normativo.bundle`.
+
+Próximo passo (M2): criar o repositório `farol-normativo` no GitHub, enviar o primeiro commit, ativar o Pages e conferir o site no ar; copiar os quatro textos da Rodada 0 para `textos/SODS/`. A Teia em artefato continua como demonstração até o site v0.1 estar no ar.
