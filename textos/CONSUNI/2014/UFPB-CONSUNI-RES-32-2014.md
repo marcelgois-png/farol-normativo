@@ -38,7 +38,7 @@ data_coleta: 2026-10-18
 
 - **FUNDAMENTA-SE EM** BR-DEC-3505-2000 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-DEC-7845-2012 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
-- **FUNDAMENTA-SE EM** BR-IN-MPOG-4-2010 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **FUNDAMENTA-SE EM** BR-SLTI-IN-4-2010 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** Resolução CONSUNI nº 07/2002 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 
 **Outras normas sobre esta:**

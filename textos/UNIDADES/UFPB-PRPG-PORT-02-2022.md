@@ -30,7 +30,7 @@ data_coleta: 2026-11-02
 
 - **REVOGA (total)** UFPB-PRPG-PORT-06-2021 (norma inteira) — nesta norma: art. 1º
 
-**Fundamenta-se em:** BR-IN-SGP-36-2022, BR-MS-PORT-913-2022, UFPB-GR-PORT-244-2022
+**Fundamenta-se em:** BR-SGP-IN-36-2022, BR-MS-PORT-913-2022, UFPB-GR-PORT-244-2022
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima).
 

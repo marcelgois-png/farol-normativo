@@ -38,7 +38,7 @@ data_coleta: 2026-10-18
 
 - **FUNDAMENTA-SE EM** BR-CNE-CP-PAR-2-2020 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-CNE-CP-RES-2-2021 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
-- **FUNDAMENTA-SE EM** BR-IN-SGP-90-2021 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **FUNDAMENTA-SE EM** BR-SGP-IN-90-2021 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-13979-2020 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-14040-2020 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-9394-1996 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
@@ -52,7 +52,7 @@ data_coleta: 2026-10-18
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-DLG-6-2020, BR-IN-SGP-90-2021, BR-LEI-14218-2021, UFPB-CONSEPE-RES-29-2020
+**Normas apenas citadas (REMETE A):** BR-DLG-6-2020, BR-SGP-IN-90-2021, BR-LEI-14218-2021, UFPB-CONSEPE-RES-29-2020
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

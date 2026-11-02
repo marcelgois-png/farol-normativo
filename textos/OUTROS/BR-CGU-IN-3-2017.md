@@ -27,7 +27,7 @@ data_coleta: 2026-10-20
 
 **Esta norma sobre outras:**
 
-- **REVOGA (total)** BR-IN-CGU-1-2001 (norma inteira) — nesta norma: art. 4º
+- **REVOGA (total)** BR-CGU-IN-1-2001 (norma inteira) — nesta norma: art. 4º
 
 **Fundamenta-se em:** BR-LEI-10180-2001
 

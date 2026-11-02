@@ -44,7 +44,7 @@ data_coleta: 2026-10-18
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-?-PORT-127-2011, BR-?-PORT-130-2011, BR-?-PORT-162-2015, BR-?-PORT-197-2013, BR-?-PORT-27-2014, BR-?-PORT-311-2013, BR-?-PORT-312-2013, BR-?-PORT-58-2015, BR-CF-1988, BR-CNE-CEB-RES-1-2004, BR-CNE-CEB-RES-1-2005, BR-DEC-5154-2004, BR-DEC-6095-2007, BR-DEC-946-1993, BR-IN-?-4-2010, BR-IN-?-9-2011, BR-LEI-8623-1993, BR-LEI-9394-1996, BR-MEC-PORTINTER-1082-2009
+**Normas apenas citadas (REMETE A):** BR-?-PORT-127-2011, BR-?-PORT-130-2011, BR-?-PORT-162-2015, BR-?-PORT-197-2013, BR-?-PORT-27-2014, BR-?-PORT-311-2013, BR-?-PORT-312-2013, BR-?-PORT-58-2015, BR-CF-1988, BR-CNE-CEB-RES-1-2004, BR-CNE-CEB-RES-1-2005, BR-DEC-5154-2004, BR-DEC-6095-2007, BR-DEC-946-1993, BR-?-IN-4-2010, BR-?-IN-9-2011, BR-LEI-8623-1993, BR-LEI-9394-1996, BR-MEC-PORTINTER-1082-2009
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

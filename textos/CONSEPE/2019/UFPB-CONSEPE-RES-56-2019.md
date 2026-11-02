@@ -47,7 +47,7 @@ data_coleta: 2026-10-18
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-CF-1988, BR-IN-?-2-2002, BR-IN-?-7-1999
+**Normas apenas citadas (REMETE A):** BR-CF-1988, BR-?-IN-2-2002, BR-IN-?-7-1999
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

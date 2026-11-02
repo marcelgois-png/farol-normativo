@@ -1,301 +1,296 @@
-# Farol Normativo · Fila de coleta (após a Rodada 4)
+# Farol Normativo · Fila de coleta (após a Rodada 5)
 
-Atualizada em 02/11/2026. Normas citadas no acervo e ainda sem texto, ordenadas pelo número de resoluções da UFPB que as citam. A lista completa está em `base/nos.csv` (status_coleta diferente de "texto integral"). Status "fonte oficial não acessível": o ato foi identificado, mas não há texto em fonte oficial alcançável. Status "norma estadual ou municipal, fora da fonte federal (Rodada 4)": a citação é a lei ou decreto de outro ente federativo (Paraíba, João Pessoa, Santa Rita, Rio Tinto, Mamanguape), cuja fonte oficial não foi coletada nesta rodada. Status "citada — não localizada em fonte oficial acessível (Rodada 4)": o ato foi procurado no portal oficial e não consta do índice (ex.: pareceres antigos do CNE; portarias do MEC e da CAPES anteriores a 2013, que o índice pesquisável do DOU não cobre; Lei estadual 875/1953 ausente do SAPL da ALPB).
+Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto, ordenadas pelo número de resoluções da UFPB que as citam. A lista completa está em `base/nos.csv` (status_coleta diferente de "texto integral"). Status "fonte oficial não acessível": o ato foi identificado, mas não há texto em fonte oficial alcançável. Status "norma estadual ou municipal, fora da fonte federal (Rodada 4)": a citação é a lei ou decreto de outro ente federativo (Paraíba, João Pessoa, Santa Rita, Rio Tinto, Mamanguape), cuja fonte oficial não foi coletada nesta rodada. Status "citada — não localizada em fonte oficial acessível (Rodada 4)": o ato foi procurado no portal oficial e não consta do índice (ex.: pareceres antigos do CNE; portarias do MEC e da CAPES anteriores a 2013, que o índice pesquisável do DOU não cobre; Lei estadual 875/1953 ausente do SAPL da ALPB). As 885 leis e decretos que só constam como alteradoras anotadas em textos consolidados do planalto (D90) ficaram fora desta fila; estão em `nos.csv` com status próprio.
 
 ## Resoluções dos conselhos superiores da UFPB sem texto (273; 266 citadas por resoluções da UFPB)
 
-- UFPB-CONSEPE-RES-36-1998 — citada por 15 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-09-1993 — citada por 11 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-40-1978 — citada por 11 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-261-1979 — citada por 9 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-09-1990 — citada por 8 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-21-1984 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-56-1997 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-04-1992 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-202-1977 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-47-1977 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CURADOR-RES-01-1995 — citada por 6 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-07-1997 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-15-1997 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-19-1994 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-57-1996 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-69-1997 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-85-1997 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-11-1993 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-13-1973 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-204-1977 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-44-1980 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-62-1980 — citada por 5 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-05-1997 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-09-1997 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-12-1983 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-16-1985 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-29-1997 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-46-1987 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-52-1998 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-71-1983 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-73-1997 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-90-1997 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-09-1993 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-108-1979 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-28-1975 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-45-1975 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSUNI-RES-65-1979 — citada por 4 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-01-1990 — citada por 3 resolução(ões) da UFPB; não localizada no SIGRH
-- UFPB-CONSEPE-RES-01-2021 — citada por 3 resolução(ões) da UFPB; arquivo do SIGRH contém o texto de outra norma
-- UFPB-CONSEPE-RES-04-1992 — citada por 3 resolução(ões) da UFPB; não localizada no SIGRH
+- UFPB-CONSEPE-RES-36-1998 — citada por 15 resolução(ões) da UFPB e 15 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-09-1993 — citada por 11 resolução(ões) da UFPB e 11 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-40-1978 — citada por 11 resolução(ões) da UFPB e 11 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-261-1979 — citada por 9 resolução(ões) da UFPB e 9 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-09-1990 — citada por 8 resolução(ões) da UFPB e 8 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-21-1984 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-56-1997 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-04-1992 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-202-1977 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-47-1977 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CURADOR-RES-01-1995 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-07-1997 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-15-1997 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-19-1994 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-69-1997 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-85-1997 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-11-1993 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-13-1973 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-204-1977 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-44-1980 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-62-1980 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-57-1996 — citada por 5 resolução(ões) da UFPB e 3 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-05-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-09-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-12-1983 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-16-1985 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-29-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-46-1987 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-52-1998 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-71-1983 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-73-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-90-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-09-1993 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-108-1979 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-28-1975 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-45-1975 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSUNI-RES-65-1979 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-01-1990 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; não localizada no SIGRH
+- UFPB-CONSEPE-RES-01-2021 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; arquivo do SIGRH contém o texto de outra norma
+- UFPB-CONSEPE-RES-04-1992 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; não localizada no SIGRH
 - … e mais 233
 
 ## MEC e autarquias (124; 81 citadas por resoluções da UFPB)
 
-- BR-CNPQ-PORT-85-2011 — citada por 93 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORTNORM-18-2012 — citada por 20 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-MS-PORTINTER-278-2011 — citada por 15 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-68-2004 — citada por 10 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-3198-2002 — citada por 8 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-SERES-IN-1-2014 — citada por 8 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-SERES-IN-1-2015 — citada por 8 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-301-1998 — citada por 7 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-2519-2005 — citada por 6 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-646-1997 — citada por 6 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORTNORM-21-2012 — citada por 6 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-120-2023 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-13-2006 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-174-2014 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-MS-PORTINTER-1224-2012 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-2562-2005 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-475-1987 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-968-1998 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-982-2013 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-3284-2003 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-4059-2004 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORTINTER-1082-2009 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORTNORM-40-2007 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-52-2002 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-MP-PORTINTER-224-2007 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-MP-PORTNORMINTER-22-2007 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-1094-2013 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-1612-2011 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-163-2001 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-1886-1994 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MEC-PORT-203-2009 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-SERES-PORT-133-2012 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-SERES-PORT-604-2013 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-IN-2-2017 — citada por 1 resolução(ões) da UFPB
-- BR-CAPES-PORT-156-2014 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-17-2009 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-191-2011 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-CAPES-PORT-55-2020 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-FNDE-RES-18-2010 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-FNDE-RES-26-2013 — citada por 1 resolução(ões) da UFPB
+- BR-CNPQ-PORT-85-2011 — citada por 93 resolução(ões) da UFPB e 93 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORTNORM-18-2012 — citada por 20 resolução(ões) da UFPB e 22 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-MS-PORTINTER-278-2011 — citada por 15 resolução(ões) da UFPB e 15 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CAPES-PORT-68-2004 — citada por 10 resolução(ões) da UFPB e 10 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-3198-2002 — citada por 8 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-SERES-IN-1-2014 — citada por 8 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-SERES-IN-1-2015 — citada por 8 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-301-1998 — citada por 7 resolução(ões) da UFPB e 7 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-646-1997 — citada por 6 resolução(ões) da UFPB e 7 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORTNORM-21-2012 — citada por 6 resolução(ões) da UFPB e 7 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-2519-2005 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CAPES-PORT-120-2023 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CAPES-PORT-13-2006 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CAPES-PORT-174-2014 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-MS-PORTINTER-1224-2012 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-2562-2005 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-968-1998 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-982-2013 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-475-1987 — citada por 4 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORTNORM-40-2007 — citada por 3 resolução(ões) da UFPB e 10 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-3284-2003 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-4059-2004 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORTINTER-1082-2009 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-1886-1994 — citada por 2 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CAPES-PORT-52-2002 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-MP-PORTINTER-224-2007 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-MP-PORTNORMINTER-22-2007 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-1094-2013 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-1612-2011 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-163-2001 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-203-2009 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-SERES-PORT-133-2012 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-SERES-PORT-604-2013 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-343-2020 — citada por 1 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-870-2008 — citada por 1 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-314-1965 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-330-2018 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-MEC-PORT-365-1958 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORT-381-2010 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MEC-PORTINTER-2101-2005 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
 - … e mais 84
 
-## CNE/CFE/CONAES (61; 20 citadas por resoluções da UFPB)
+## CNE/CFE/CONAES (59; 20 citadas por resoluções da UFPB)
 
-- BR-CFE-RES-12-1983 — citada por 31 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CONAES-RES-1-2010 — citada por 7 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 3)
-- BR-CFE-RES-2-1985 — citada por 2 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-PAR-540-1979 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-2-1969 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-2-1987 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-3-1969 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-3-1999 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-8-1984 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-9-1969 — citada por 1 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CNE-CES-PAR-192-1998 — citada por 1 resolução(ões) da UFPB
-- BR-CNE-CES-PAR-434-1997 — citada por 1 resolução(ões) da UFPB
-- BR-CNE-CES-PAR-436-2001 — citada por 1 resolução(ões) da UFPB
-- BR-CNE-CES-PAR-617-1999 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 3)
-- BR-CNE-CES-PAR-908-1998 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 3)
-- BR-CNE-CES-RES-214-2008 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 3)
-- BR-CNE-CES-RES-8-2004 — citada por 1 resolução(ões) da UFPB
-- BR-CNE-CP-PAR-277-2006 — citada por 1 resolução(ões) da UFPB
-- BR-CNE-CP-RES-266-2010 — citada por 1 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 3)
-- BR-CNE-RES-3-2001 — citada por 1 resolução(ões) da UFPB
-- BR-CFE-PAR-1339-1980 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-1-1972 — citada por 0 resolução(ões) da UFPB
-- BR-CFE-RES-1-1982 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-11-1984 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-2-1993 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-24-1973 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-3-1985 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-4-1969 — citada por 0 resolução(ões) da UFPB
-- BR-CFE-RES-4-1972 — citada por 0 resolução(ões) da UFPB
-- BR-CFE-RES-4-1989 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-5-1983 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-5-1986 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-6-1984 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-7-1984 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CFE-RES-9-1984 — citada por 0 resolução(ões) da UFPB; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
-- BR-CNE-CEB-PAR-2-2007 — citada por 0 resolução(ões) da UFPB
-- BR-CNE-CEB-PAR-22-1998 — citada por 0 resolução(ões) da UFPB
-- BR-CNE-CEB-PORT-3-2009 — citada por 0 resolução(ões) da UFPB
-- BR-CNE-CES-PAR-104-2002 — citada por 0 resolução(ões) da UFPB
-- BR-CNE-CES-PAR-1133-2001 — citada por 0 resolução(ões) da UFPB
-- … e mais 21
+- BR-CFE-RES-12-1983 — citada por 31 resolução(ões) da UFPB e 34 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CONAES-RES-1-2010 — citada por 7 resolução(ões) da UFPB e 8 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CFE-RES-2-1985 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-2-1969 — citada por 1 resolução(ões) da UFPB e 5 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CNE-CES-RES-8-2004 — citada por 1 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CFE-RES-8-1984 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CNE-CES-PAR-908-1998 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CFE-PAR-540-1979 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-2-1987 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-3-1969 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-3-1999 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-9-1969 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CNE-CES-PAR-192-1998 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CES-PAR-434-1997 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CES-PAR-436-2001 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CES-PAR-617-1999 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CNE-CES-RES-214-2008 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CNE-CP-PAR-277-2006 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CP-RES-266-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CNE-RES-3-2001 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CES-PAR-776-1997 — citada por 0 resolução(ões) da UFPB e 33 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 3)
+- BR-CFE-RES-3-1985 — citada por 0 resolução(ões) da UFPB e 5 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-2-1993 — citada por 0 resolução(ões) da UFPB e 4 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CNE-PAR-6-2005 — citada por 0 resolução(ões) da UFPB e 4 norma(s) no total
+- BR-CNE-PAR-15-1998 — citada por 0 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CNE-PAR-4-2008 — citada por 0 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CFE-RES-1-1972 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFE-RES-1-1982 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-11-1984 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-24-1973 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-4-1969 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFE-RES-4-1972 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFE-RES-4-1989 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-5-1983 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-5-1986 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-6-1984 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-7-1984 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CFE-RES-9-1984 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total; citada — fonte oficial não acessível (atos do extinto CFE; Rodada 3)
+- BR-CNE-CEB-PAR-2-2007 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CNE-CEB-PAR-22-1998 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- … e mais 19
 
-## Outros órgãos federais, conselhos profissionais e estaduais (177; 127 citadas por resoluções da UFPB)
+## Outros órgãos federais, conselhos profissionais e estaduais (177; 128 citadas por resoluções da UFPB)
 
-- BR-CFO-RES-185-1993 — citada por 5 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-CFN-RES-333-2004 — citada por 4 resolução(ões) da UFPB
-- BR-CFO-RES-209-1997 — citada por 4 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-CFF-RES-485-2008 — citada por 3 resolução(ões) da UFPB
-- BR-CFN-RES-600-2018 — citada por 3 resolução(ões) da UFPB
-- BR-CONFEA-RES-447-2000 — citada por 3 resolução(ões) da UFPB
-- BR-CONTER-RES-10-2011 — citada por 3 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-MPOG-SRH-PORT-1100-2006 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- PB-LEI-875-1953 — citada por 3 resolução(ões) da UFPB
-- BR-CFN-RES-227-1999 — citada por 2 resolução(ões) da UFPB
-- BR-CFN-RES-312-2003 — citada por 2 resolução(ões) da UFPB
-- BR-CNJ-RES-228-2016 — citada por 2 resolução(ões) da UFPB
-- BR-CNRMS-RES-2-2012 — citada por 2 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-CNRMS-RES-5-2014 — citada por 2 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-CONAMA-RES-237-1997 — citada por 2 resolução(ões) da UFPB
-- BR-CONFEA-RES-1010-2005 — citada por 2 resolução(ões) da UFPB
-- BR-IN-CGU-13-2020 — citada por 2 resolução(ões) da UFPB
-- BR-MS-PORT-453-1998 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-SETEC-PORT-24-2003 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-SRH-MP-PORT-222-2008 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- PB-CEE-RES-188-1998 — citada por 2 resolução(ões) da UFPB
-- BR-ANPD-RES-18-2024 — citada por 1 resolução(ões) da UFPB
-- BR-ANVISA-IN-60-2019 — citada por 1 resolução(ões) da UFPB
-- BR-ANVISA-RDC-RES-275-2002 — citada por 1 resolução(ões) da UFPB
-- BR-ANVISA-RES-336-1999 — citada por 1 resolução(ões) da UFPB
-- BR-CFBIO-RES-227-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-154-2008 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-175-2009 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-184-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-188-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-189-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-190-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-195-2010 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-197-2011 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-234-2013 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-239-2014 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-270-2016 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-277-2017 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-278-2017 — citada por 1 resolução(ões) da UFPB
-- BR-CFBM-RES-292-2018 — citada por 1 resolução(ões) da UFPB
+- BR-CFO-RES-185-1993 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-CFO-RES-209-1997 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-MPOG-CGU-IN-1-2016 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CFF-RES-485-2008 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CFN-RES-333-2004 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CFN-RES-600-2018 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CONFEA-RES-447-2000 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CONTER-RES-10-2011 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-MPOG-SRH-PORT-1100-2006 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- PB-LEI-875-1953 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-CNJ-RES-228-2016 — citada por 2 resolução(ões) da UFPB e 4 norma(s) no total
+- BR-CONAMA-RES-237-1997 — citada por 2 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-MPOG-MF-CGU-PORTINTER-507-2011 — citada por 2 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-CFN-RES-227-1999 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CFN-RES-312-2003 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CGU-IN-13-2020 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CNRMS-RES-2-2012 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-CNRMS-RES-5-2014 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-CONFEA-RES-1010-2005 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-MPOG-PORT-155-2002 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-MS-PORT-453-1998 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-SETEC-PORT-24-2003 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-SLTI-IN-4-2010 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-SRH-MP-PORT-222-2008 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- PB-CEE-RES-188-1998 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-CGU-IN-1-2001 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-MS-PORT-687-2006 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-SEGEP-IN-2-2018 — citada por 1 resolução(ões) da UFPB e 2 norma(s) no total
+- BR-ANPD-RES-18-2024 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-ANVISA-IN-60-2019 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-ANVISA-RDC-RES-275-2002 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-ANVISA-RES-336-1999 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBIO-RES-227-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-154-2008 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-175-2009 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-184-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-188-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-189-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-190-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-CFBM-RES-195-2010 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
 - … e mais 137
 
-## Órgão não identificado ou outra instituição (28; 21 citadas por resoluções da UFPB)
+## Órgão não identificado ou outra instituição (23; 21 citadas por resoluções da UFPB)
 
-- BR-?-PORT-280-2002 — citada por 3 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-?-RES-1-2021 — citada por 3 resolução(ões) da UFPB
-- BR-?-RES-57-2005 — citada por 3 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-IN-?-4-2010 — citada por 3 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-IN-?-9-2011 — citada por 2 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- BR-?-PORT-126-2024 — citada por 1 resolução(ões) da UFPB
-- BR-?-PORT-255-2025 — citada por 1 resolução(ões) da UFPB
-- BR-?-PORT-4-2018 — citada por 1 resolução(ões) da UFPB
-- BR-?-PORT-807-2013 — citada por 1 resolução(ões) da UFPB
-- BR-?-RES-1-2020 — citada por 1 resolução(ões) da UFPB
-- BR-?-RES-58-1976 — citada por 1 resolução(ões) da UFPB
-- BR-IN-?-2-2002 — citada por 1 resolução(ões) da UFPB
-- BR-IN-?-4-2014 — citada por 1 resolução(ões) da UFPB
-- BR-ON-?-4-2014 — citada por 1 resolução(ões) da UFPB
-- OUTRO-?-RES-51-2008 — citada por 1 resolução(ões) da UFPB
-- OUTRO-?-RES-82-2019 — citada por 1 resolução(ões) da UFPB
-- OUTRO-CEG-RES-21-2009 — citada por 1 resolução(ões) da UFPB
-- OUTRO-CESU-RES-118-1991 — citada por 1 resolução(ões) da UFPB
-- OUTRO-GMC-RES-47-2007 — citada por 1 resolução(ões) da UFPB
-- OUTRO-UFRN-CONSEPE-RES-232-2021 — citada por 1 resolução(ões) da UFPB
-- OUTRO-UNESP-RES-26-2003 — citada por 1 resolução(ões) da UFPB
-- BR-?-PORT-1243-2009 — citada por 0 resolução(ões) da UFPB
-- BR-?-PORT-33-1978 — citada por 0 resolução(ões) da UFPB
-- BR-?-RES-3-2002 — citada por 0 resolução(ões) da UFPB
-- BR-?-RES-3-2016 — citada por 0 resolução(ões) da UFPB
-- BR-?-RES-4-2009 — citada por 0 resolução(ões) da UFPB
-- BR-?-RES-5-2009 — citada por 0 resolução(ões) da UFPB
-- BR-?-RES-8-2008 — citada por 0 resolução(ões) da UFPB
+- BR-?-IN-4-2010 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-?-PORT-280-2002 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-?-RES-1-2021 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- BR-?-RES-57-2005 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-?-IN-9-2011 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- BR-?-IN-2-2002 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-IN-4-2014 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-126-2024 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-255-2025 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-4-2018 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-807-2013 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-RES-1-2020 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-RES-58-1976 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-ON-?-4-2014 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-?-RES-51-2008 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-?-RES-82-2019 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-CEG-RES-21-2009 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-CESU-RES-118-1991 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-GMC-RES-47-2007 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-UFRN-CONSEPE-RES-232-2021 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- OUTRO-UNESP-RES-26-2003 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-1243-2009 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
+- BR-?-PORT-33-1978 — citada por 0 resolução(ões) da UFPB e 1 norma(s) no total
 
 ## Normas de unidades, pró-reitorias e reitoria da UFPB (60; 58 citadas por resoluções da UFPB)
 
-- UFPB-ESTATUTO-ANTERIOR-2002 — citada por 226 resolução(ões) da UFPB; não localizada
-- UFPB-PRG-PORT-25-2011 — citada por 6 resolução(ões) da UFPB
-- UFPB-ETS-ON-1-2014 — citada por 5 resolução(ões) da UFPB; citada — fonte oficial não acessível (Rodada 2)
-- UFPB-PRG-PORT-16-2012 — citada por 5 resolução(ões) da UFPB
-- UFPB-PRPG-PORT-46-2017 — citada por 5 resolução(ões) da UFPB
-- UFPB-GR-PORT-323-2020 — citada por 4 resolução(ões) da UFPB
-- UFPB-PRG-PORT-04-2010 — citada por 3 resolução(ões) da UFPB
-- UFPB-CCGB-CCS-RES-1-2020 — citada por 2 resolução(ões) da UFPB
-- UFPB-CCHLA-RES-1-2019 — citada por 2 resolução(ões) da UFPB
-- UFPB-GR-PORT-170-2019 — citada por 2 resolução(ões) da UFPB
-- UFPB-GR-PORT-31-2026 — citada por 2 resolução(ões) da UFPB
-- UFPB-GR-PORT-806-2013 — citada por 2 resolução(ões) da UFPB
-- UFPB-PRG-PORT-36-2013 — citada por 2 resolução(ões) da UFPB
-- UFPB-CAVN-RES-11-2019 — citada por 1 resolução(ões) da UFPB
-- UFPB-CBCMD-RES-3-2013 — citada por 1 resolução(ões) da UFPB
-- UFPB-CBIOMED-PORT-5-2021 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCCA-PORT-2-2022 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCD-RES-1-2021 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCGB-CCS-RES-1-2017 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCGB-CCS-RES-1-2018 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCGB-CCS-RES-2-2018 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCHSA-COC-RES-1-2017 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCHSA-PORT-131-2013 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCHSA-PORT-145-2026 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCHSA-PORT-29-2001 — citada por 1 resolução(ões) da UFPB
-- UFPB-CCHSA-PORT-6-2000 — citada por 1 resolução(ões) da UFPB
-- UFPB-CP-CAVN-RES-2-2025 — citada por 1 resolução(ões) da UFPB
-- UFPB-CSEB-CCAE-RES-1-2009 — citada por 1 resolução(ões) da UFPB
-- UFPB-DANCA-RES-2-2014 — citada por 1 resolução(ões) da UFPB
-- UFPB-ETS-PORT-3-2020 — citada por 1 resolução(ões) da UFPB
-- UFPB-ETS-PORT-40-2022 — citada por 1 resolução(ões) da UFPB
-- UFPB-ETS-PORT-48-2023 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-02-2011 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-03-1968 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-154-2020 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-164-2019 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-21-2025 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-244-2022 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-298-2012 — citada por 1 resolução(ões) da UFPB
-- UFPB-GR-PORT-343-2020 — citada por 1 resolução(ões) da UFPB
+- UFPB-ESTATUTO-ANTERIOR-2002 — citada por 226 resolução(ões) da UFPB e 239 norma(s) no total; não localizada
+- UFPB-PRG-PORT-25-2011 — citada por 6 resolução(ões) da UFPB e 6 norma(s) no total
+- UFPB-ETS-ON-1-2014 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; citada — fonte oficial não acessível (Rodada 2)
+- UFPB-PRG-PORT-16-2012 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total
+- UFPB-PRPG-PORT-46-2017 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total
+- UFPB-GR-PORT-323-2020 — citada por 4 resolução(ões) da UFPB e 4 norma(s) no total
+- UFPB-PRG-PORT-04-2010 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total
+- UFPB-CCGB-CCS-RES-1-2020 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-CCHLA-RES-1-2019 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-GR-PORT-170-2019 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-GR-PORT-31-2026 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-GR-PORT-806-2013 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-PRG-PORT-36-2013 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total
+- UFPB-CAVN-RES-11-2019 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CBCMD-RES-3-2013 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CBIOMED-PORT-5-2021 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCCA-PORT-2-2022 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCD-RES-1-2021 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCGB-CCS-RES-1-2017 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCGB-CCS-RES-1-2018 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCGB-CCS-RES-2-2018 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCHSA-COC-RES-1-2017 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCHSA-PORT-131-2013 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCHSA-PORT-145-2026 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCHSA-PORT-29-2001 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CCHSA-PORT-6-2000 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CP-CAVN-RES-2-2025 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-CSEB-CCAE-RES-1-2009 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-DANCA-RES-2-2014 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-ETS-PORT-3-2020 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-ETS-PORT-40-2022 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-ETS-PORT-48-2023 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-02-2011 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-03-1968 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-154-2020 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-164-2019 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-21-2025 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-244-2022 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-298-2012 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
+- UFPB-GR-PORT-343-2020 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total
 - … e mais 20
 
-## Leis e decretos (2224; 17 citadas por resoluções da UFPB)
+## Leis e decretos (1335; 13 citadas por resoluções da UFPB)
 
-- BR-DL-875-1953 — citada por 9 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-170-2012 — citada por 5 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-MP-CGU-IN-1-2016 — citada por 4 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-LEI-1863-2017 — citada por 3 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-68-2012 — citada por 3 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-875-1953 — citada por 3 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-DEC-1633-2022 — citada por 2 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-1068-2019 — citada por 2 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-487-1987 — citada por 2 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-795-2011 — citada por 2 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-8805-1999 — citada por 2 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-MP-MF-CGU-PORTINTER-507-2011 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-MP-PORT-155-2002 — citada por 2 resolução(ões) da UFPB; citada — não localizada em fonte oficial acessível (Rodada 4)
-- BR-LEI-1445-1976 — citada por 1 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-2140-1984 — citada por 1 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-LEI-6306-? — citada por 1 resolução(ões) da UFPB; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
-- BR-MP-PORT-150-2016 — citada por 1 resolução(ões) da UFPB
-- BR-DEC-10014-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10024-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10046-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10086-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10087-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10130-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10142-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10148-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10177-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10178-2019 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10212-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10228-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10240-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10279-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10332-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10365-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10382-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10409-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10417-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10419-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10422-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10445-2020 — citada por 0 resolução(ões) da UFPB
-- BR-DEC-10468-2020 — citada por 0 resolução(ões) da UFPB
-- … e mais 2184
+- BR-DL-875-1953 — citada por 9 resolução(ões) da UFPB e 9 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-170-2012 — citada por 5 resolução(ões) da UFPB e 5 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-1863-2017 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-68-2012 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-875-1953 — citada por 3 resolução(ões) da UFPB e 3 norma(s) no total; citada — não localizada em fonte oficial acessível (Rodada 4)
+- BR-DEC-1633-2022 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-1068-2019 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-487-1987 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-795-2011 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-8805-1999 — citada por 2 resolução(ões) da UFPB e 2 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-1445-1976 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-2140-1984 — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-6306-? — citada por 1 resolução(ões) da UFPB e 1 norma(s) no total; citada — norma estadual ou municipal, fora da fonte federal (Rodada 3)
+- BR-LEI-11494-2007 — citada por 0 resolução(ões) da UFPB e 20 norma(s) no total
+- BR-LEI-5869-1973 — citada por 0 resolução(ões) da UFPB e 18 norma(s) no total
+- BR-LEI-7347-1985 — citada por 0 resolução(ões) da UFPB e 18 norma(s) no total
+- BR-LEI-10683-2003 — citada por 0 resolução(ões) da UFPB e 14 norma(s) no total
+- BR-LC-123-2006 — citada por 0 resolução(ões) da UFPB e 13 norma(s) no total
+- BR-LEI-11357-2006 — citada por 0 resolução(ões) da UFPB e 11 norma(s) no total
+- BR-LEI-10870-2004 — citada por 0 resolução(ões) da UFPB e 10 norma(s) no total
+- BR-LEI-6385-1976 — citada por 0 resolução(ões) da UFPB e 10 norma(s) no total
+- BR-LEI-7210-1984 — citada por 0 resolução(ões) da UFPB e 10 norma(s) no total
+- BR-LEI-11738-2008 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-LEI-5172-1966 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-LEI-9099-1995 — citada por 0 resolução(ões) da UFPB e 9 norma(s) no total
+- BR-DEC-70235-1972 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-11107-2005 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-11977-2009 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-LEI-6205-1975 — citada por 0 resolução(ões) da UFPB e 8 norma(s) no total
+- BR-DEC-5786-2006 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-EC-103-2019 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-10887-2004 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-11114-2005 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-13-1992 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-8216-1991 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-8405-1992 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-8460-1992 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-8981-1995 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-8987-1995 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- BR-LEI-9430-1996 — citada por 0 resolução(ões) da UFPB e 7 norma(s) no total
+- … e mais 1295
 
 ## Regimentos de unidades (pedido da coordenação em 02/11/2026) (17 sem texto próprio)
 

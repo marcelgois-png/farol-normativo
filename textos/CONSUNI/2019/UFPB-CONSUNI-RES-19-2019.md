@@ -42,7 +42,7 @@ data_coleta: 2026-10-18
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-IN-?-5-2017, BR-IN-SLTI-5-2014
+**Normas apenas citadas (REMETE A):** BR-IN-?-5-2017, BR-SLTI-IN-5-2014
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

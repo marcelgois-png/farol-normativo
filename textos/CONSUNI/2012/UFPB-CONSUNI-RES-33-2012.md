@@ -36,13 +36,13 @@ data_coleta: 2026-10-18
 
 **Esta norma sobre outras:**
 
-- **FUNDAMENTA-SE EM** BR-IN-SLTI-4-2010 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **FUNDAMENTA-SE EM** BR-SLTI-IN-4-2010 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 
 **Outras normas sobre esta:**
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-?-PORT-298-2012, BR-IN-?-4-2010
+**Normas apenas citadas (REMETE A):** BR-?-PORT-298-2012, BR-?-IN-4-2010
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

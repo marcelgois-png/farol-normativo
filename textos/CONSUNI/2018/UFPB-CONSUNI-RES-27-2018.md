@@ -47,7 +47,7 @@ data_coleta: 2026-10-18
 
 - **REVOGA (total)** Resolução CONSUNI nº 10/2021 (art. 4º). Fonte da relação: SIGRH, texto; confiança: alta.
 
-**Normas apenas citadas (REMETE A):** BR-CF-1988, BR-CGU-PORT-2737-2017, BR-DEC-1171-1994, BR-DEC-3591-2000, BR-DEC-4304-2002, BR-DEC-4440-2002, BR-IN-CGU-3-2017, BR-LC-64-1990, BR-LEI-10180-2001, BR-LEI-11091-2005, BR-LEI-8112-1990
+**Normas apenas citadas (REMETE A):** BR-CF-1988, BR-CGU-PORT-2737-2017, BR-DEC-1171-1994, BR-DEC-3591-2000, BR-DEC-4304-2002, BR-DEC-4440-2002, BR-CGU-IN-3-2017, BR-LC-64-1990, BR-LEI-10180-2001, BR-LEI-11091-2005, BR-LEI-8112-1990
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

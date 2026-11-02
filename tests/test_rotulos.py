@@ -7,7 +7,7 @@ def test_rotulos_basicos():
     assert rotulo("BR-DEC-9235-2017") == "Decreto 9.235/2017"
     assert rotulo("BR-CNE-CES-RES-2-2019") == "Res. CNE/CES 2/2019"
     assert rotulo("BR-MEC-PORT-3198-2002") == "Portaria MEC 3.198/2002"
-    assert rotulo("BR-IN-SLTI-4-2010") == "IN SLTI 4/2010"
+    assert rotulo("BR-SLTI-IN-4-2010") == "IN SLTI 4/2010"
     assert rotulo("BR-?-PORT-1-2024", orgao="?") == "Portaria ? 1/2024"
 
 

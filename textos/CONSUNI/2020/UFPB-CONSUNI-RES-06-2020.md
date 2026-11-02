@@ -47,7 +47,7 @@ data_coleta: 2026-10-18
 
 - nenhuma registrada
 
-**Normas apenas citadas (REMETE A):** BR-DEC-9094-2017, BR-DEC-9492-2018, BR-IN-CGU-18-2018, BR-LEI-13460-2017
+**Normas apenas citadas (REMETE A):** BR-DEC-9094-2017, BR-DEC-9492-2018, BR-CGU-IN-18-2018, BR-LEI-13460-2017
 
 > Transcrição para consulta. Não substitui a publicação oficial (link acima). Relações extraídas automaticamente do texto e das observações do SIGRH; ver a base do Oraculovski para trecho e confiança de cada relação.
 

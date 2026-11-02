@@ -41,7 +41,7 @@ data_coleta: 2026-10-18
 - **FUNDAMENTA-SE EM** BR-DEC-7423-2010 (§3º) — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-IN-?-1-2014 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: baixa.
 - **FUNDAMENTA-SE EM** BR-IN-?-1-2015 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: baixa.
-- **FUNDAMENTA-SE EM** BR-IN-?-4-2014 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: baixa.
+- **FUNDAMENTA-SE EM** BR-?-IN-4-2014 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: baixa.
 - **FUNDAMENTA-SE EM** BR-LEI-10973-2004 (art. 9º, §§ 1º) — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-8958-1994 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-9394-1996 (artigo 80) — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.

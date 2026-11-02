@@ -41,7 +41,7 @@ data_coleta: 2026-10-18
 - **FUNDAMENTA-SE EM** BR-CF-1988 (Art. 207, caput; Art. 37, caput) — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-DEC-1590-1995 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-DEC-1867-1996 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
-- **FUNDAMENTA-SE EM** BR-IN-SEGEP-2-2018 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
+- **FUNDAMENTA-SE EM** BR-SEGEP-IN-2-2018 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-3835-1960 — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **FUNDAMENTA-SE EM** BR-LEI-8112-1990 (Art. 19) — nesta norma: preâmbulo. Fonte da relação: texto; confiança: alta.
 - **REVOGA (total)** Resolução CONSUNI nº 05/2011 — nesta norma: art. 1º. Fonte da relação: texto; confiança: alta.
