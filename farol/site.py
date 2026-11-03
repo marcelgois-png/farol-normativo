@@ -276,7 +276,7 @@ class Gerador:
             bloco("Estatuto (N5)", "Res. CONSUNI 07/2002. Cada alteração anotada no texto consolidado foi conferida com a resolução alteradora.", ["N5"]),
             bloco("Regimentos comuns (N6)", "Previstos no art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).", ["N6"]),
             bloco("Em tramitação (NT)", "Sem força normativa. O Farol mostra o que a minuta prevê e deixa claro que ainda não vigora.", ["NT"]),
-            bloco("Regimentos de unidades (N8)", "Regimentos internos das pró-reitorias, superintendências e centros de ensino. Estão na fila de coleta: ainda sem texto, número ou data no acervo.", ["N8"]),
+            bloco("Regimentos de unidades (N8)", "Regimentos internos das pró-reitorias, superintendências e centros de ensino listados no site oficial da UFPB. Os que já têm texto vieram do anexo da resolução do conselho superior que os aprovou, com a situação herdada dela; os demais seguem na fila de coleta, sem número nem data até que o texto seja localizado.", ["N8"]),
         ]
         self._render("painel.html", "estrutura/index.html", "../", secao="estrutura", titulo="Estatuto e regimentos",
                      lead="As normas estruturais da UFPB, de onde partem as demais: o Estatuto, os três regimentos comuns e a minuta do novo Estatuto. No texto integral de cada uma, os artigos alterados, revogados ou superados trazem a anotação e o link para a norma que os alcança.",
@@ -286,7 +286,10 @@ class Gerador:
         def sub(m):
             i = m.group(1)
             return self._link(i) if i in self.base.normas else html.escape(i)
-        return _RE_ID.sub(sub, html.escape(s or ""))
+        h = _RE_ID.sub(sub, html.escape(s or ""))
+        # negrito e código herdados do registro em Markdown
+        h = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", h)
+        return re.sub(r"`([^`]+)`", r"<code>\1</code>", h)
 
     def _divergencias(self):
         """Tabela única das divergências, a partir de base/divergencias/catalogo.csv (scripts/catalogo_divergencias.py)."""
@@ -366,7 +369,7 @@ class Gerador:
                 lst.sort(key=lambda n: -b.grau_entrada(n.id))
                 texto = ""
             linhas = [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)),
-                       html.escape(n.ementa or n.obs) + (f' · <a href="{html.escape(n.fonte)}" target="_blank" rel="noopener">site da unidade ↗</a>' if n.id.startswith("UFPB-REGIMENTO-") and n.fonte else "")] for n in lst]
+                       self._ids_para_links_html(n.ementa or n.obs) + (f' · <a href="{html.escape(n.fonte)}" target="_blank" rel="noopener">site da unidade ↗</a>' if n.id.startswith("UFPB-REGIMENTO-") and n.fonte else "")] for n in lst]
             blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "texto": texto, "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"], "linhas": linhas})
         colunas = ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"]
         for nome, lst, txt in (("Fora da fila: alteram ou revogam norma citada pela UFPB", fora_vig,
@@ -376,13 +379,13 @@ class Gerador:
             if lst:
                 lst.sort(key=lambda n: -b.grau_entrada(n.id))
                 blocos.append({"id": re.sub(r"[^a-z]+", "-", nome.lower()), "titulo": nome, "texto": txt, "colunas": colunas,
-                               "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in lst]})
+                               "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), self._ids_para_links_html(n.ementa or n.obs)] for n in lst]})
         if alteradoras:
             alteradoras.sort(key=lambda n: n.id)
             blocos.append({"id": "alteradoras-anotadas", "titulo": "Fora da fila: alteradoras anotadas em textos compilados",
                            "texto": "Leis e decretos que só aparecem nas notas de redação dos textos compilados do planalto (\"Redação dada pela Lei…\", \"Revogado pelo Decreto…\"). Nenhuma norma do acervo os cita; o efeito deles já está no texto compilado da norma alterada. Ficam fora da fila por citação e são coletados só por demanda (divergência D90).",
                            "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"],
-                           "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in alteradoras]})
+                           "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), self._ids_para_links_html(n.ementa or n.obs)] for n in alteradoras]})
         resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem] + [(r, len(l)) for r, l in (("fora da fila: alteram ou revogam norma citada pela UFPB", fora_vig), ("fora da fila: citadas só por normas externas", fora_ext), ("fora da fila: alteradoras anotadas (D90)", alteradoras)) if l]
         self._render("painel.html", "fila/index.html", "../", secao="fila", titulo="Fila de coleta",
                      lead="Normas ainda sem texto no acervo que estão no escopo da coleta: as normas da UFPB, as normas externas citadas diretamente por elas e os regimentos de unidades pedidos pela coordenação. As demais normas sem texto aparecem no fim, fora da fila. A coluna de vigência mostra o que as normas já lidas dizem sobre cada uma; nada aqui afirma que uma norma não lida está em vigor. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",

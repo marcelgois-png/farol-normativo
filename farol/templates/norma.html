@@ -71,7 +71,7 @@
   {% if n.aviso_texto %}<div class="aviso">{{ n.aviso_texto|abbr_ocr }}</div>{% endif %}
   {% if n.situacao_chave == 'revogada' %}<div class="aviso rev"><b>Norma revogada.</b> {{ n.situacao_base|ids_para_links }} O texto abaixo é a redação publicada, mantida para consulta histórica.</div>
   {% elif n_notas %}<div class="aviso"><b>{{ n_notas }} artigo(s) com anotação de vigência.</b> Logo abaixo do caput, a anotação diz qual norma altera, revoga ou supera o artigo, com link para o texto dela.
-    {% if 'compilad' in versao or 'consolidad' in versao %}Este texto já é a versão {{ versao }}: a redação revogada ou substituída aparece tachada e a vigente, em seguida.{% else %}Este texto é a redação originalmente publicada: a redação nova está na norma alteradora, não aqui.{% endif %}</div>
+    {% if 'compilad' in versao or 'consolidad' in versao %}Este texto já vem consolidado da fonte oficial: a redação revogada ou substituída aparece tachada e a vigente, em seguida.{% else %}Este texto é a redação originalmente publicada: a redação nova está na norma alteradora, não aqui.{% endif %}</div>
   {% endif %}
   <p class="hint">Transcrição para consulta; não substitui a publicação oficial. {{ n_links }} citação(ões) ligada(s) à norma citada; {{ n_arts }} artigo(s) com âncora{% if n_notas %}; {{ n_notas }} com anotação de vigência{% endif %}.</p>
   <div class="corpo">
