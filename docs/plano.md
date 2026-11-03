@@ -146,4 +146,6 @@ Em 03/11/2026: botão de tema claro/escuro na barra de título (escolha guardada
 
 Também em 03/11/2026, a Teia foi reorganizada: barra de ferramentas enxuta (título "Teia de normas" e busca), painéis Controles e Ficha na cor da pastilha da abertura, abertos e recolhidos por abas laterais com rótulo, ficha recolhida ao entrar, cartão da norma de partida junto de "salvar mapa", "seus mapas" e "mapas de exemplo", filtros de relação reunidos em Filtros com "Limpar filtros", e a ordem Partida → Vizinhança → Filtros → Vista → Máquina do tempo → Sobre a base.
 
+Ainda em 03/11/2026: filtros de seleção múltipla (com "Todos" e "Nenhum") na busca, na busca avançada da Teia e nos controles de tema e órgão; resultados das normas mais novas para as mais antigas; o texto digitado passa para a busca avançada; palco da Teia sem o fundo de círculos.
+
 Próximo passo (M3): revisão de OCR das normas estruturais mais citadas, vista por artigo na Teia e aproveitamento dos links da página do Regimento Geral na fila; em paralelo, pedir à STI o endereço farol.ufpb.br.

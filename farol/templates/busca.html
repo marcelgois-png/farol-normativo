@@ -8,18 +8,20 @@
   <input type="search" id="q" placeholder="Buscar norma" aria-label="Buscar norma" autocomplete="off">
 </div>
 <div class="filtros">
-  <label>Órgão emissor<select id="fOrg"><option value="">qualquer</option></select></label>
-  <label>Nível<select id="fNiv"><option value="">qualquer</option></select></label>
+  <div class="campo"><span>Órgão emissor</span><div id="fOrg"></div></div>
+  <div class="campo"><span>Nível</span><div id="fNiv"></div></div>
   <label>Ano de<input type="number" id="fAno1" min="1900" max="2030" placeholder="1960"></label>
   <label>Ano até<input type="number" id="fAno2" min="1900" max="2030" placeholder="2026"></label>
-  <label>Situação<select id="fSit"><option value="">qualquer</option></select></label>
-  <label>Tema<select id="fTema"><option value="">qualquer</option></select></label>
-  <label>Coleta<select id="fCol"><option value="">qualquer</option><option value="texto">com texto no acervo</option><option value="fantasma">só citada (sem texto)</option></select></label>
-  <label>Ordenar por<select id="fOrd"><option value="rel">mais ligadas primeiro</option><option value="data">data (recentes primeiro)</option><option value="datao">data (antigas primeiro)</option><option value="nome">nome</option></select></label>
+  <div class="campo"><span>Situação</span><div id="fSit"></div></div>
+  <div class="campo"><span>Tema</span><div id="fTema"></div></div>
+  <div class="campo"><span>Coleta</span><div id="fCol"></div></div>
+  <label>Ordenar por<select id="fOrd"><option value="data">mais novas primeiro</option><option value="rel">mais ligadas primeiro</option><option value="datao">mais antigas primeiro</option><option value="nome">nome</option></select></label>
+  <div class="campo" style="justify-content:flex-end"><button class="btn" id="fLimpar" type="button">Limpar filtros</button></div>
 </div>
 <div class="cnt" id="cnt">Carregando o índice…</div>
 <div class="resultados" id="res"></div>
 {% endblock %}
 {% block scripts %}
+<script src="{{ raiz }}assets/multisel.js"></script>
 <script src="{{ raiz }}assets/busca.js"></script>
 {% endblock %}

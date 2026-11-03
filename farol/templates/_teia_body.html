@@ -9,14 +9,14 @@
       </div>
       <div class="advbox" id="advbox" hidden>
         <label class="full">Texto (número, ementa, nome)<input type="text" id="aTxt" placeholder="ex.: monitoria, 16/2015, LDB"></label>
-        <label>Órgão emissor<select id="aOrg"><option value="">qualquer</option></select></label>
-        <label>Nível<select id="aNiv"><option value="">qualquer</option></select></label>
+        <div class="campo"><span>Órgão emissor</span><div id="aOrg"></div></div>
+        <div class="campo"><span>Nível</span><div id="aNiv"></div></div>
         <label>Ano de<input type="number" id="aAno1" min="1900" max="2030" placeholder="1960"></label>
         <label>Ano até<input type="number" id="aAno2" min="1900" max="2030" placeholder="2026"></label>
-        <label>Situação<select id="aSit"><option value="">qualquer</option></select></label>
-        <label>Tema<select id="aTema"><option value="">qualquer</option></select></label>
-        <label>Coleta<select id="aCol"><option value="">qualquer</option><option value="texto">com texto no acervo</option><option value="fantasma">só na fila (fantasma)</option></select></label>
-        <label>Ordenar por<select id="aOrd"><option value="rel">mais ligadas primeiro</option><option value="data">data (recentes primeiro)</option><option value="datao">data (antigas primeiro)</option><option value="nome">nome</option></select></label>
+        <div class="campo"><span>Situação</span><div id="aSit"></div></div>
+        <div class="campo"><span>Tema</span><div id="aTema"></div></div>
+        <div class="campo"><span>Coleta</span><div id="aCol"></div></div>
+        <label>Ordenar por<select id="aOrd"><option value="data">mais novas primeiro</option><option value="rel">mais ligadas primeiro</option><option value="datao">mais antigas primeiro</option><option value="nome">nome</option></select></label>
         <div class="acts"><span class="hint" id="aCount"></span><button class="btn" id="aLimpar">Limpar</button><button class="btn primary" id="aBuscar">Buscar</button></div>
       </div>
       <div class="sugg" id="sugg" hidden></div>
@@ -142,8 +142,8 @@
             <p><b>Tema</b> é a classificação da ficha de cada norma (graduação, pós-graduação, pessoal docente, estrutura…). Uma norma pode ter vários temas; o filtro mostra só as que têm o tema escolhido. <b>Órgão emissor</b> é quem editou o ato (CONSEPE, CONSUNI, CNE/CES, União…). O número entre parênteses é a quantidade de normas no acervo. A norma de partida aparece sempre, mesmo fora do filtro.</p>
           </div>
           <div style="display:flex;flex-direction:column;gap:6px;margin-top:6px">
-            <select id="fTema" aria-label="Tema"><option value="">Todos os temas</option></select>
-            <select id="fOrgao" aria-label="Órgão emissor"><option value="">Todos os órgãos</option></select>
+            <div class="campo"><span class="hint">Tema</span><div id="fTema"></div></div>
+            <div class="campo"><span class="hint">Órgão emissor</span><div id="fOrgao"></div></div>
           </div>
         </details>
       </div>
@@ -191,6 +191,7 @@
     <button class="edge left" id="toggleLeft" aria-expanded="true" title="Mostrar ou recolher os controles"><span class="arr">‹</span><span class="rot">Controles</span></button>
   </div>
 </div>
+<script src="../assets/multisel.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script>
 fetch('../dados/teia.json').then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(function(D){
@@ -211,7 +212,8 @@ const y2d=y=>{const yy=Math.floor(y),m=Math.min(12,Math.max(1,Math.round((y-yy)*
 
 // estado
 const S={seed:null,dir:'both',depth:1,cit:false,sug:false,labels:true,view:'force',T:null,sel:null,
-  fN:new Set(LEVELS),fS:new Set(Object.keys(SIT)),fK:new Set(Object.keys(KIND)),tema:'',orgao:''};
+  fN:new Set(LEVELS),fS:new Set(Object.keys(SIT)),fK:new Set(Object.keys(KIND))};
+const MS={};
 const $=id=>document.getElementById(id);
 
 // cabeçalho
@@ -244,7 +246,7 @@ $('fTipo').innerHTML=Object.keys(KIND).filter(k=>k!=='D').map(k=>`<label class="
 // ajuda, marcar todos, ficha recolhível
 document.querySelectorAll('button.help').forEach(bt=>bt.addEventListener('click',ev=>{ev.preventDefault();ev.stopPropagation();const box=$(bt.dataset.help);box.hidden=!box.hidden;bt.setAttribute('aria-expanded',String(!box.hidden));const det=bt.closest('details');if(det&&!box.hidden)det.open=true;}));
 function setAll(container,set,keys,on,attr){set.clear();if(on)keys.forEach(k=>set.add(k));container.querySelectorAll('input').forEach(i=>i.checked=set.has(i.dataset[attr]));}
-$('limpar').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,true,'l');setAll($('fSit'),S.fS,Object.keys(SIT),true,'s');setOnlyVig(false);S.tema='';S.orgao='';$('fTema').value='';$('fOrgao').value='';S.cit=false;$('incCit').checked=false;S.sug=false;$('incSug').checked=false;render(true);};
+$('limpar').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,true,'l');setAll($('fSit'),S.fS,Object.keys(SIT),true,'s');setOnlyVig(false);MS.tema.reset();MS.orgao.reset();S.cit=false;$('incCit').checked=false;S.sug=false;$('incSug').checked=false;render(true);};
 $('nivTodos').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,true,'l');render();};
 $('nivNenhum').onclick=()=>{setAll($('fNivel'),S.fN,LEVELS,false,'l');render();};
 $('nivUfpb').onclick=()=>{setAll($('fNivel'),S.fN,['N5','N6','N7','N8','N9','N10','NT'],true,'l');render();};
@@ -260,10 +262,10 @@ $('toggleLeft').onclick=()=>setLeft($('app').classList.contains('noleft'));
 $('fTipo').addEventListener('change',ev=>{const k=ev.target.dataset.k;ev.target.checked?S.fK.add(k):S.fK.delete(k);$('onlyVig').checked=VIGK.every(x=>S.fK.has(x))&&[...S.fK].every(x=>VIGK.includes(x));render();});
 const temaCount=new Map(),orgCount=new Map();
 D.nodes.forEach(n=>{n.t.forEach(t=>temaCount.set(t,(temaCount.get(t)||0)+1));if(n.o)orgCount.set(n.o,(orgCount.get(n.o)||0)+1);});
-[...temaCount].sort((a,b)=>b[1]-a[1]).forEach(([t,c])=>$('fTema').insertAdjacentHTML('beforeend',`<option value="${t}">${t} (${c})</option>`));
-[...orgCount].sort((a,b)=>b[1]-a[1]).filter(([o,c])=>c>=3).forEach(([o,c])=>$('fOrgao').insertAdjacentHTML('beforeend',`<option value="${o}">${o} (${c})</option>`));
-$('fTema').addEventListener('change',e=>{S.tema=e.target.value;render();});
-$('fOrgao').addEventListener('change',e=>{S.orgao=e.target.value;render();});
+const opTema=[...temaCount].sort((a,b)=>b[1]-a[1]).map(([t,c])=>({v:t,l:t,n:c}));
+const opOrg=[...orgCount].sort((a,b)=>b[1]-a[1]).map(([o,c])=>({v:o,l:o,n:c}));
+MS.tema=MultiSel('fTema',{nome:'tema',plural:'temas',opcoes:opTema,inline:true,aoMudar:()=>render()});
+MS.orgao=MultiSel('fOrgao',{nome:'órgão',plural:'órgãos',opcoes:opOrg,inline:true,aoMudar:()=>render()});
 
 // controles
 function setSeg(id,v){[...$(id).querySelectorAll('button')].forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===v)));}
@@ -294,10 +296,12 @@ const q=$('q'),sugg=$('sugg');
 const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const IDX=D.nodes.map(n=>({n,k:norm(n.l+' '+n.id.replace(/-/g,' ')+' '+n.e+' '+n.o+' '+n.n+' '+n.t.join(' ')),yr:+n.dy||0}));
 const SITKEY={vigente:'vigente',alterada:'alterada',revogada:'revogada','nao localizada':'nao_localizada',fantasma:'nao_localizada','em tramitacao':'tramitacao',tramitacao:'tramitacao',conflito:'conflito',verificar:'verificar'};
-[...orgCount].sort((a,b)=>b[1]-a[1]).forEach(([o,c])=>$('aOrg').insertAdjacentHTML('beforeend',`<option value="${o}">${o} (${c})</option>`));
-LEVELS.forEach(l=>$('aNiv').insertAdjacentHTML('beforeend',`<option value="${l}">${l} · ${LVLNAME[l]}</option>`));
-Object.keys(SIT).forEach(k=>$('aSit').insertAdjacentHTML('beforeend',`<option value="${k}">${SIT[k]}</option>`));
-[...temaCount].sort((a,b)=>b[1]-a[1]).forEach(([t,c])=>$('aTema').insertAdjacentHTML('beforeend',`<option value="${t}">${t} (${c})</option>`));
+const nivCount=new Map(),sitCount=new Map();let nComTexto=0,nSemTexto=0;D.nodes.forEach(n=>{nivCount.set(n.nv,(nivCount.get(n.nv)||0)+1);sitCount.set(n.s,(sitCount.get(n.s)||0)+1);n.g?nSemTexto++:nComTexto++;});
+MS.aOrg=MultiSel('aOrg',{nome:'órgão',plural:'órgãos',opcoes:opOrg,aoMudar:()=>advSearch()});
+MS.aNiv=MultiSel('aNiv',{nome:'nível',plural:'níveis',opcoes:LEVELS.filter(l=>nivCount.get(l)).map(l=>({v:l,l:`${l} · ${LVLNAME[l]}`,n:nivCount.get(l)})),aoMudar:()=>advSearch()});
+MS.aSit=MultiSel('aSit',{nome:'situação',plural:'situações',rotuloTodos:'Todas as situações',opcoes:Object.keys(SIT).filter(k=>sitCount.get(k)).map(k=>({v:k,l:SIT[k],n:sitCount.get(k)})),aoMudar:()=>advSearch()});
+MS.aTema=MultiSel('aTema',{nome:'tema',plural:'temas',opcoes:opTema,aoMudar:()=>advSearch()});
+MS.aCol=MultiSel('aCol',{nome:'opção',plural:'opções',rotuloTodos:'Com e sem texto',opcoes:[{v:'texto',l:'com texto no acervo',n:nComTexto},{v:'fantasma',l:'só na fila (sem texto)',n:nSemTexto}],aoMudar:()=>advSearch()});
 // critérios: do texto livre (prefixos orgao: ano: nivel: tema: situacao: num:) e do painel avançado
 function parseQuery(txt){const c={toks:[],org:'',niv:'',ano1:0,ano2:0,sit:'',tema:'',num:''};
   norm(txt.trim()).split(/\s+/).filter(Boolean).forEach(t=>{const m=t.match(/^(orgao|org|ano|nivel|n|tema|situacao|sit|num|numero):(.+)$/);
@@ -315,21 +319,24 @@ function runSearch(c,limit){let hits=IDX.filter(x=>{const n=x.n;
     if(c.sit&&n.s!==c.sit)return false;
     if(c.tema&&!n.t.some(t=>norm(t).includes(norm(c.tema))))return false;
     if(c.num&&!norm(n.n).includes(c.num)&&!norm(n.l).includes(c.num))return false;
-    if(c.col==='texto'&&n.g)return false;if(c.col==='fantasma'&&!n.g)return false;return true;});
+    if(c.ms){if(!c.ms.aOrg.aceita(n.o||'?')||!c.ms.aNiv.aceita(n.nv)||!c.ms.aSit.aceita(n.s)||!c.ms.aTema.aceitaAlgum(n.t)||!c.ms.aCol.aceita(n.g?'fantasma':'texto'))return false;}
+    return true;});
   const deg=x=>degIn(x.n.id)+degOut(x.n.id);
-  if(c.ord==='data')hits.sort((a,b)=>(b.n.d||'').localeCompare(a.n.d||''));else if(c.ord==='datao')hits.sort((a,b)=>(a.n.d||'z').localeCompare(b.n.d||'z'));
-  else if(c.ord==='nome')hits.sort((a,b)=>a.n.l.localeCompare(b.n.l,'pt'));else hits.sort((a,b)=>(b.n.g?0:1)-(a.n.g?0:1)||deg(b)-deg(a));
+  if(c.ord==='rel')hits.sort((a,b)=>(b.n.g?0:1)-(a.n.g?0:1)||deg(b)-deg(a));
+  else if(c.ord==='datao')hits.sort((a,b)=>(a.n.d||'z').localeCompare(b.n.d||'z'));
+  else if(c.ord==='nome')hits.sort((a,b)=>a.n.l.localeCompare(b.n.l,'pt'));
+  else hits.sort((a,b)=>(b.n.d||'').localeCompare(a.n.d||'')||(b.n.g?0:1)-(a.n.g?0:1)||deg(b)-deg(a));  // mais novas primeiro
   return{total:hits.length,hits:hits.slice(0,limit)};}
 function showHits(r){const ab=$('advbox');sugg.style.top=ab.hidden?'':(ab.offsetTop+ab.offsetHeight+4)+'px';if(!r.total){sugg.innerHTML='<div class="cnt">Nenhuma norma encontrada no acervo com esses critérios</div>';sugg.hidden=false;return;}
   sugg.innerHTML=`<div class="cnt">${r.total.toLocaleString('pt-BR')} norma${r.total>1?'s':''} encontrada${r.total>1?'s':''}${r.total>r.hits.length?` · mostrando ${r.hits.length}`:''}</div>`+r.hits.map(x=>`<button data-id="${x.n.id}"><span class="l">${x.n.l}</span> <span class="hint">${x.n.nv} · ${x.n.o||'?'} · ${x.n.dy||'s/ data'} · ${SIT[x.n.s]}${x.n.g?' · fantasma':''}</span><span class="e">${x.n.e||'(sem ementa no acervo)'}</span></button>`).join('');sugg.hidden=false;}
 function search(txt){const t=txt.trim();if(t.length<2){sugg.hidden=true;return;}showHits(runSearch(parseQuery(t),20));}
-function advCriteria(){return{toks:norm($('aTxt').value.trim()).split(/\s+/).filter(Boolean),org:norm($('aOrg').value),niv:$('aNiv').value,ano1:+$('aAno1').value||0,ano2:+$('aAno2').value||0,sit:$('aSit').value,tema:$('aTema').value,num:'',col:$('aCol').value,ord:$('aOrd').value};}
+function advCriteria(){const c=parseQuery($('aTxt').value);c.ano1=+$('aAno1').value||c.ano1;c.ano2=+$('aAno2').value||c.ano2;c.ord=$('aOrd').value;c.ms=MS;return c;}
 function advSearch(){const r=runSearch(advCriteria(),40);$('aCount').textContent=`${r.total.toLocaleString('pt-BR')} resultado${r.total===1?'':'s'}`;showHits(r);}
-$('advBtn').onclick=()=>{const open=$('advbox').hidden;$('advbox').hidden=!open;$('advBtn').setAttribute('aria-pressed',String(open));if(open){sugg.hidden=true;$('aTxt').focus();}};
-['aOrg','aNiv','aSit','aTema','aCol','aOrd'].forEach(id=>$(id).addEventListener('change',advSearch));
+$('advBtn').onclick=()=>{const open=$('advbox').hidden;$('advbox').hidden=!open;$('advBtn').setAttribute('aria-pressed',String(open));if(open){sugg.hidden=true;if(q.value.trim())$('aTxt').value=q.value.trim();$('aTxt').focus();if($('aTxt').value.trim()||Object.keys(MS).some(k=>k.startsWith('a')&&!MS[k].todos()))advSearch();}};
+$('aOrd').addEventListener('change',advSearch);
 ['aTxt','aAno1','aAno2'].forEach(id=>$(id).addEventListener('input',advSearch));
 $('aBuscar').onclick=advSearch;
-$('aLimpar').onclick=()=>{['aTxt','aAno1','aAno2'].forEach(id=>$(id).value='');['aOrg','aNiv','aSit','aTema','aCol'].forEach(id=>$(id).value='');$('aOrd').value='rel';$('aCount').textContent='';sugg.hidden=true;};
+$('aLimpar').onclick=()=>{['aTxt','aAno1','aAno2'].forEach(id=>$(id).value='');['aOrg','aNiv','aSit','aTema','aCol'].forEach(id=>MS[id].reset());$('aOrd').value='data';$('aCount').textContent='';sugg.hidden=true;};
 q.addEventListener('input',()=>{$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');search(q.value);});
 q.addEventListener('focus',()=>{if(q.value.trim().length>=2)search(q.value);});
 q.addEventListener('keydown',e=>{if(e.key==='Enter'){const b=sugg.querySelector('button[data-id]');if(b)b.click();}if(e.key==='Escape'){sugg.hidden=true;$('advbox').hidden=true;$('advBtn').setAttribute('aria-pressed','false');}});
@@ -361,7 +368,7 @@ function sitAt(n,T){if(!T)return n.s;if(['nao_localizada','tramitacao','desconhe
 function neighbors(id,dir){const res=[];if(dir!=='fwd')(OUT.get(id)||[]).forEach(e=>res.push([e,e.t]));if(dir!=='back')(IN.get(id)||[]).forEach(e=>res.push([e,e.s]));return res;}
 function edgeOk(e){if(e.cit&&!S.cit)return false;if(!S.fK.has(e.k))return false;if(!activeAt(e,S.T))return false;return true;}
 function nodeOk(n){if(!S.fN.has(n.nv))return false;const s=sitAt(n,S.T);if(s===null)return false;if(!S.fS.has(s))return false;
-  if(S.tema&&!n.t.includes(S.tema))return false;if(S.orgao&&n.o!==S.orgao)return false;return true;}
+  if(!MS.tema.aceitaAlgum(n.t))return false;if(!MS.orgao.aceita(n.o))return false;return true;}
 const MAXN=400;
 function subgraph(){const seed=S.seed;if(!seed)return{nodes:[],links:[],cut:0};
   const nodes=new Map([[seed,0]]);let frontier=[seed];const links=new Map();let cut=0;
