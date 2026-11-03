@@ -27,7 +27,7 @@ O Farol Normativo fica em [https://marcelgois-png.github.io/farol-normativo/](ht
 
 A tabela segue a ordem em que os recursos costumam ser usados numa consulta: da busca à ficha e ao texto da norma, e daí à Teia e aos painéis de vigência, divergências e fila.
 
-<!-- larguras: 8 34 38 20 -->
+<!-- larguras: 10 34 36 20 -->
 
 | Ordem | Tutorial | Quando usar | Quem usa |
 |---|---|---|---|
