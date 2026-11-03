@@ -15,4 +15,10 @@
     <a href="{{ raiz }}fila/" {% if secao=='fila' %}class="on"{% endif %}>Fila</a>
     <a href="{{ raiz }}sobre/" {% if secao=='sobre' %}class="on"{% endif %}>Sobre</a>
   </nav>
+  <button class="tema" id="btnTema" type="button" aria-label="Alternar entre tema claro e escuro" title="Tema claro ou escuro">
+    <svg class="lua" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+    <svg class="sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.6M12 18.9v2.6M2.5 12h2.6M18.9 12h2.6M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>
+  </button>
 </div></header>
+<script>(function(){var b=document.getElementById('btnTema');if(!b)return;var h=document.documentElement;function atual(){var t=h.getAttribute('data-theme');if(t==='dark'||t==='light')return t;return window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}
+b.addEventListener('click',function(){var novo=atual()==='dark'?'light':'dark';h.setAttribute('data-theme',novo);try{localStorage.setItem('farol-tema',novo);}catch(e){}});})();</script>

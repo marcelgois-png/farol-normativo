@@ -142,4 +142,6 @@ Em 02/11/2026 o site recebeu a identidade visual da UFPB conforme o Manual de Id
 
 Ainda em 02/11/2026: barra de título fixa, tabelas com rolagem própria e ordenação por coluna, botão de busca avançada na abertura, links das normas em nova aba, explicação de OCR ao passar o mouse, coluna de vigência registrada na fila e entrada na fila dos 34 regimentos de unidades (8 pró-reitorias, 9 superintendências e 17 centros de ensino, conforme o site oficial da UFPB), a localizar nos sites das unidades, na SODS e no SIGRH.
 
+Em 03/11/2026: botão de tema claro/escuro na barra de título (escolha guardada no navegador; sem escolha, segue o sistema), pastilhas da abertura nas cores e gradientes do manual e a seção "Comece por aqui" explicada como conjunto de exemplos.
+
 Próximo passo (M3): revisão de OCR das normas estruturais mais citadas, vista por artigo na Teia e aproveitamento dos links da página do Regimento Geral na fila; em paralelo, pedir à STI o endereço farol.ufpb.br.

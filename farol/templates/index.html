@@ -25,43 +25,43 @@
 
 <h2>O que o Farol faz</h2>
 <div class="fn-grid">
-  <a class="fn" href="{{ raiz }}busca/">
+  <a class="fn c1" href="{{ raiz }}busca/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></span>
     <h3>Buscar normas</h3>
     <p>Por número, ano, órgão, nível, tema, situação ou palavras da ementa. Cada resultado abre a ficha e o texto integral.</p>
     <span class="go">Abrir a busca →</span>
   </a>
-  <a class="fn" href="{{ raiz }}teia/">
+  <a class="fn c2" href="{{ raiz }}teia/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.2"/><circle cx="19" cy="6" r="2.2"/><circle cx="12" cy="18" r="2.2"/><circle cx="12" cy="10" r="2.2"/><path d="M7 6.8 9.9 9M17 6.8 14.1 9M12 12.2v3.6"/></svg></span>
     <h3>Teia de citações</h3>
     <p>O mapa interativo: escolha uma norma de partida e veja quem a altera, revoga, supera ou se funda nela, com máquina do tempo.</p>
     <span class="go">Abrir a Teia →</span>
   </a>
-  <a class="fn" href="{{ raiz }}estrutura/">
+  <a class="fn c3" href="{{ raiz }}estrutura/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4z"/><path d="M20 4h-6a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h7z"/></svg></span>
     <h3>Estatuto e regimentos</h3>
     <p>As normas estruturais da UFPB: Estatuto, Regimento Geral, regimentos comuns e a minuta do novo Estatuto em tramitação.</p>
     <span class="go">Ver as normas estruturais →</span>
   </a>
-  <a class="fn" href="{{ raiz }}vigencia/">
+  <a class="fn c4" href="{{ raiz }}vigencia/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span>
     <h3>Quadro de vigência</h3>
     <p>O que está vigente, alterado ou revogado, e com base em quê. Conferido no texto das normas posteriores, não só no registro do SIGRH.</p>
     <span class="go">Ver o quadro →</span>
   </a>
-  <a class="fn" href="{{ raiz }}divergencias/">
+  <a class="fn c5" href="{{ raiz }}divergencias/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 7h14M5 7l-3 7a3.5 3.5 0 0 0 6 0zM19 7l-3 7a3.5 3.5 0 0 0 6 0zM8 21h8"/></svg></span>
     <h3>Divergências e decisões</h3>
     <p>Conflitos de vigência, fundamentos em norma revogada, números citados errados e as decisões fundamentadas. Registra e explica; não resolve.</p>
     <span class="go">Ver o registro →</span>
   </a>
-  <a class="fn" href="{{ raiz }}fila/">
+  <a class="fn c6" href="{{ raiz }}fila/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 13V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8M4 13h4l2 3h4l2-3h4M4 13v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6"/></svg></span>
     <h3>Fila de coleta</h3>
     <p>Normas citadas por outras e ainda sem texto no acervo, entre elas as resoluções pedidas à SODS. Aparecem tracejadas na Teia.</p>
     <span class="go">Ver a fila →</span>
   </a>
-  <a class="fn" href="{{ raiz }}sobre/">
+  <a class="fn c7" href="{{ raiz }}sobre/">
     <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v5M12 8h.01"/></svg></span>
     <h3>Método e rodadas</h3>
     <p>Como o acervo é construído, a hierarquia, os tipos de relação, as regras de vigência e os relatórios de cada rodada de coleta.</p>
@@ -76,7 +76,8 @@
   </div>
 </div>
 
-<h2>Comece por aqui</h2>
+<h2>Comece por aqui: oito exemplos</h2>
+<p class="lead" style="margin-top:-2px">Normas de partida para ver como o Farol funciona. Abra uma delas: a ficha mostra a situação de vigência e quem a altera ou revoga; o texto integral traz as citações em link e, sob cada artigo alcançado, a anotação com a norma que o alcança; "Ver na Teia" desenha a vizinhança dela. São só exemplos — a busca e a Teia alcançam todo o acervo.</p>
 <div class="grid">
 {% for n in destaques %}
   <div class="card"><h3><a href="{{ raiz }}norma/{{ n.id|slug }}/" style="text-decoration:none">{{ n.rotulo }}</a></h3>
