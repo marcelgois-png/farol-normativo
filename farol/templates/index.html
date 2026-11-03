@@ -17,6 +17,7 @@
     <span class="chip"><b>{{ meta.nos|br }}</b> normas no acervo</span>
     <span class="chip"><b>{{ meta.com_texto|br }}</b> com texto integral</span>
     <span class="chip"><b>{{ meta.fantasmas|br }}</b> na fila, ainda sem texto</span>
+    {% if meta.fora_fila %}<span class="chip"><b>{{ meta.fora_fila|br }}</b> alteradoras só anotadas, fora da fila</span>{% endif %}
     <span class="chip"><b>{{ meta.arestas|br }}</b> relações normativas</span>
     <span class="chip"><b>{{ meta.citacoes|br }}</b> citações simples</span>
   </div>

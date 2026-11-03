@@ -47,7 +47,7 @@ def dados_teia(b: Base) -> dict:
     res = b.resumo()
     meta = {
         "nos": res["normas"], "arestas": len(edges), "citacoes": len(cit),
-        "com_texto": res["com_texto"], "fantasmas": res["fantasmas"],
+        "com_texto": res["com_texto"], "fantasmas": res["fantasmas"], "fora_fila": res["fora_fila"],
         "por_nivel": res["por_nivel"], "por_situacao": res["por_situacao"],
         "por_tipo": Counter(e["k"] for e in edges), "data_base": "2026-11-02", "rodada": "Rodada 5",
     }
