@@ -8,7 +8,7 @@ expediente) e acrescenta três marcadores próprios dos tutoriais:
 
 Uso: python scripts/tutorial/ajuda_html.py imagens.json saida/
   imagens.json: {"farol01-01-inicio": "https://ajuda.ct.ufpb.br/uploads/images/gallery/…", …}
-  (sem o arquivo, as imagens ficam como marcador, para conferência)
+  (sem o arquivo, a URL de cada imagem fica como %%IMG:nome%%, trocada na publicação pela URL da galeria)
 """
 import html
 import json
@@ -83,9 +83,7 @@ def md2ajuda(md, exped_vals, imagens, pags):
 
     def imagem(m):
         nome, alt = m.group(1), m.group(2)
-        url = imagens.get(nome)
-        if not url:
-            return guarda(f'<p style="text-align: center;">[imagem {html.escape(nome)}]</p>')
+        url = imagens.get(nome) or f'%%IMG:{nome}%%'   # marcador trocado pela URL da galeria na publicação
         a = html.escape(alt, quote=True)
         return guarda(f'<p style="text-align: center;"><a href="{url}" target="_blank"><img src="{url}" alt="{a}" '
                       f'style="max-width: 100%; border: 1px solid #dddddd;"></a></p>')

@@ -1,0 +1,137 @@
+{
+ "FAROL00": {
+  "nome": "FAROL00 - Apresentação",
+  "slug": "farol00-apresentacao",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol00-apresentacao",
+  "imagens": [],
+  "bytes": 11610
+ },
+ "FAROL01": {
+  "nome": "FAROL01R00 - Farol Normativo - Primeiro Acesso, Página Inicial e Navegação",
+  "slug": "farol01r00-farol-normativo-primeiro-acesso-pagina-inicial-e-navegacao",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol01r00-farol-normativo-primeiro-acesso-pagina-inicial-e-navegacao",
+  "imagens": [
+   "farol01-01-inicio",
+   "farol01-02-funcoes",
+   "farol01-03-exemplos",
+   "farol01-04-tema-escuro",
+   "farol01-07-celular",
+   "farol01-05-sobre",
+   "farol01-06-rodape"
+  ],
+  "bytes": 9364
+ },
+ "FAROL02": {
+  "nome": "FAROL02R00 - Farol Normativo - Busca de Normas",
+  "slug": "farol02r00-farol-normativo-busca-de-normas",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol02r00-farol-normativo-busca-de-normas",
+  "imagens": [
+   "farol02-01-busca-inicio",
+   "farol02-02-resultados",
+   "farol02-03-prefixos",
+   "farol02-04-filtro-aberto",
+   "farol02-05-filtro-aplicado"
+  ],
+  "bytes": 7574
+ },
+ "FAROL03": {
+  "nome": "FAROL03R00 - Farol Normativo - Ficha da Norma",
+  "slug": "farol03r00-farol-normativo-ficha-da-norma",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol03r00-farol-normativo-ficha-da-norma",
+  "imagens": [
+   "farol03-01-ficha-topo",
+   "farol03-02-ocr",
+   "farol03-03-relacoes",
+   "farol03-04-dispositivos",
+   "farol03-05-irmas"
+  ],
+  "bytes": 9111
+ },
+ "FAROL04": {
+  "nome": "FAROL04R00 - Farol Normativo - Texto Integral e Anotações de Vigência",
+  "slug": "farol04r00-farol-normativo-texto-integral-e-anotacoes-de-vigencia",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol04r00-farol-normativo-texto-integral-e-anotacoes-de-vigencia",
+  "imagens": [
+   "farol04-01-barra",
+   "farol04-02-anotacao",
+   "farol04-03-ir-ao-art",
+   "farol04-04-citacoes"
+  ],
+  "bytes": 7346
+ },
+ "FAROL05": {
+  "nome": "FAROL05R00 - Farol Normativo - Teia de Normas: Norma de Partida, Vizinhança e Ficha",
+  "slug": "farol05r00-farol-normativo-teia-de-normas-norma-de-partida-vizinhanca-e-ficha",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol05r00-farol-normativo-teia-de-normas-norma-de-partida-vizinhanca-e-ficha",
+  "imagens": [
+   "farol05-01-abertura",
+   "farol05-02-busca",
+   "farol05-03-partida",
+   "farol05-04-ficha",
+   "farol05-05-vizinhanca",
+   "farol05-06-exemplos",
+   "farol05-07-celular"
+  ],
+  "bytes": 10197
+ },
+ "FAROL06": {
+  "nome": "FAROL06R00 - Farol Normativo - Teia de Normas: Filtros, Vista, Máquina do Tempo e Mapas",
+  "slug": "farol06r00-farol-normativo-teia-de-normas-filtros-vista-maquina-do-tempo-e-mapas",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol06r00-farol-normativo-teia-de-normas-filtros-vista-maquina-do-tempo-e-mapas",
+  "imagens": [
+   "farol06-01-filtros",
+   "farol06-02-situacao",
+   "farol06-03-cronologica",
+   "farol06-04-maquina",
+   "farol06-05-salvar",
+   "farol06-06-avancada"
+  ],
+  "bytes": 9299
+ },
+ "FAROL07": {
+  "nome": "FAROL07R00 - Farol Normativo - Estatuto e Regimentos",
+  "slug": "farol07r00-farol-normativo-estatuto-e-regimentos",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol07r00-farol-normativo-estatuto-e-regimentos",
+  "imagens": [
+   "farol07-01-topo",
+   "farol07-02-regimentos",
+   "farol07-03-unidades"
+  ],
+  "bytes": 7609
+ },
+ "FAROL08": {
+  "nome": "FAROL08R00 - Farol Normativo - Quadro de Vigência",
+  "slug": "farol08r00-farol-normativo-quadro-de-vigencia",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol08r00-farol-normativo-quadro-de-vigencia",
+  "imagens": [
+   "farol08-01-topo",
+   "farol08-02-filtro",
+   "farol08-03-ordenar"
+  ],
+  "bytes": 7517
+ },
+ "FAROL09": {
+  "nome": "FAROL09R00 - Farol Normativo - Divergências e Decisões",
+  "slug": "farol09r00-farol-normativo-divergencias-e-decisoes",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol09r00-farol-normativo-divergencias-e-decisoes",
+  "imagens": [
+   "farol09-01-topo",
+   "farol09-02-filtro",
+   "farol09-03-norma",
+   "farol09-04-legenda",
+   "farol09-05-categorias"
+  ],
+  "bytes": 7892
+ },
+ "FAROL10": {
+  "nome": "FAROL10R00 - Farol Normativo - Fila de Coleta",
+  "slug": "farol10r00-farol-normativo-fila-de-coleta",
+  "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol10r00-farol-normativo-fila-de-coleta",
+  "imagens": [
+   "farol10-01-topo",
+   "farol10-02-vigencia",
+   "farol10-03-fora"
+  ],
+  "bytes": 6796
+ }
+}
