@@ -6,7 +6,7 @@
 {% if resumo %}<div class="chips">{% for k, v in resumo %}<span class="chip"><b>{{ v|br }}</b> {{ k }}</span>{% endfor %}</div>{% endif %}
 {% for bloco in blocos %}
 <h2 id="{{ bloco.id }}">{{ bloco.titulo }} {% if bloco.linhas is defined %}<span class="hint">({{ bloco.linhas|length|br }})</span>{% endif %}</h2>
-{% if bloco.texto %}<p class="hint" style="max-width:80ch">{{ bloco.texto }}</p>{% endif %}
+{% if bloco.texto %}<p class="hint">{{ bloco.texto }}</p>{% endif %}
 {% if bloco.html %}{{ bloco.html|safe }}{% endif %}
 {% if bloco.linhas is defined and bloco.linhas %}
 <div class="tabela"><table{% if bloco.larguras %} class="fixa"{% endif %}>
