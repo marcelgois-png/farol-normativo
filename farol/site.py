@@ -290,17 +290,8 @@ class Gerador:
 
     def _divergencias(self):
         """Tabela única das divergências, a partir de base/divergencias/catalogo.csv (scripts/catalogo_divergencias.py)."""
-        import importlib.util
-
         b = self.base
-        spec = importlib.util.spec_from_file_location("catalogo_divergencias", self.raiz / "scripts" / "catalogo_divergencias.py")
-        cat = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(cat)
-        p = self.raiz / "base" / "divergencias" / "catalogo.csv"
-        if not p.exists():
-            cat.gerar()
-        with open(p, encoding="utf-8", newline="") as f:
-            rows = list(csv.DictReader(f))
+        cat, rows = self._catalogo_divergencias()
         linhas = []
         for r in rows:
             g = int(r["gravidade"])
@@ -318,16 +309,7 @@ class Gerador:
         por_cat = Counter(r["categoria"] for r in rows)
         por_g = Counter(int(r["gravidade"]) for r in rows)
         resumo = [(f"divergências", len(rows))] + [(f"{c} · {cat.CATEGORIAS[c].split(' — ')[0]}", por_cat[c]) for c in sorted(por_cat)] + [(f"gravidade {g} · {cat.NOME_GRAVIDADE[g]}", por_g[g]) for g in sorted(por_g, reverse=True)]
-        legenda = '<div class="card md"><h3>Como ler a tabela</h3>'
-        legenda += "<p><b>Número</b>: subtipo + sequência (ex.: A1-003), estável entre versões do acervo. <b>Registro</b>: o caso D original (D01–D104), que serve de caso de teste do acervo. "
-        legenda += "<b>Gravidade</b> é a classificação do Farol para orientar a leitura, atribuída por regra a cada subtipo: 1 mínima (não afeta a aplicação da norma), 2 baixa (erro ou lacuna que não muda o sentido), "
-        legenda += "3 média (afeta identificação, fundamento ou efeito no tempo), 4 grave (incerteza sobre a vigência de dispositivos ou fonte oficial desatualizada), 5 muito grave (incerteza sobre a vigência da norma inteira ou texto errado na fonte oficial). "
-        legenda += "Nada aqui decide o mérito: o Farol registra e explica; a leitura que prevalece cabe à Procuradoria Federal junto à UFPB e aos conselhos.</p><dl class=\"kv\">"
-        for c in sorted(cat.CATEGORIAS):
-            legenda += f"<dt><b>{c}</b></dt><dd><b>{html.escape(cat.CATEGORIAS[c])}</b><br>" + "<br>".join(f'<span class="k">{st}</span> {html.escape(nome)} <span class="hint">· gravidade {cat.GRAVIDADE[st]}</span>' for st, nome in cat.SUBTIPOS.items() if st[0] == c) + "</dd>"
-        legenda += "</dl></div>"
-        blocos = [{"id": "legenda", "titulo": "Categorias e gravidade", "html": legenda},
-                  {"id": "catalogo", "titulo": "Catálogo de divergências", "texto": "Uma linha por divergência, de todas as rodadas e conferências. Clique no título de uma coluna para ordenar; use o campo acima da tabela para filtrar por número, categoria, norma ou palavra.",
+        blocos = [{"id": "catalogo", "titulo": "Catálogo de divergências", "texto": "Uma linha por divergência, de todas as rodadas e conferências. Clique no título de uma coluna para ordenar; use o campo acima da tabela para filtrar por número, categoria, norma ou palavra. O significado das categorias, dos subtipos e dos graus de gravidade está em Sobre › Divergências.",
                    "colunas": ["Nº", "Categoria e subtipo", "Gravidade", "Norma", "Outra norma", "O que se observa", "Encaminhamento ou decisão", "Fonte · registro"],
                    "larguras": ["6%", "15%", "10%", "11%", "10%", "22%", "16%", "10%"], "linhas": linhas}]
         self._render("painel.html", "divergencias/index.html", "../", secao="divergencias", titulo="Divergências e decisões",
@@ -427,10 +409,64 @@ class Gerador:
                 partes.append(f'<span class="k {CHAVE_RELACAO[t]}">{html.escape(t)}</span> {rotulo_tipo[t]} ' + ", ".join(por_tipo[t]))
         return "<br>".join(partes)
 
+    def _catalogo_divergencias(self):
+        """Módulo do catálogo de divergências e suas linhas (gera o catálogo se não existir)."""
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location("catalogo_divergencias", self.raiz / "scripts" / "catalogo_divergencias.py")
+        cat = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(cat)
+        p = self.raiz / "base" / "divergencias" / "catalogo.csv"
+        if not p.exists():
+            cat.gerar()
+        with open(p, encoding="utf-8", newline="") as f:
+            rows = list(csv.DictReader(f))
+        return cat, rows
+
     def _sobre(self):
         b = self.base
         por = Counter(n.nivel for n in b.normas.values())
         niveis = [(nv, NOME_NIVEL[nv], por.get(nv, 0)) for nv in NIVEIS if por.get(nv)]
+        # situações, como nos filtros da Teia: chave, nome, definição e quantidade
+        por_sit = Counter(n.situacao_chave for n in b.normas.values())
+        DEF_SIT = {
+            "vigente": "Sem alteração ou revogação registrada no acervo. Não é garantia de vigência: significa que nenhuma norma já lida a alterou ou revogou.",
+            "alterada": "Teve dispositivos alterados, revogados em parte ou superados por norma superior. O restante continua em vigor; os artigos alcançados trazem anotação no texto.",
+            "revogada": "Revogação expressa e integral, declarada no texto de uma norma posterior. O texto fica no acervo para consulta histórica.",
+            "nao_localizada": "Citada por outras normas, mas sem texto no acervo: é a fila de coleta. Nada se afirma sobre sua vigência.",
+            "tramitacao": "Aprovada em uma instância e pendente em outra (minuta do novo Estatuto). Não vigora; serve só para sinalizar a mudança em discussão.",
+            "conflito": "Os próprios textos oficiais se contradizem sobre a norma estar em vigor (ver Divergências). O Farol registra as duas leituras e não escolhe.",
+            "verificar": "O arquivo publicado no SIGRH contém o texto de outra norma; sem o texto certo não se confere a vigência.",
+            "desconhecida": "Norma ainda sem conferência de vigência.",
+        }
+        situacoes = [(k, NOME_SITUACAO[k], DEF_SIT[k], por_sit.get(k, 0)) for k in ("vigente", "alterada", "revogada", "nao_localizada", "tramitacao", "conflito", "verificar", "desconhecida") if por_sit.get(k)]
+        # tipos de relação, com a mesma simbologia das setas da Teia
+        por_tipo = Counter(r.tipo for r in b.relacoes if not r.sugestao and r.origem in b.normas and r.destino in b.normas)
+        n_sug = sum(1 for r in b.relacoes if r.sugestao)
+        DEF_REL = {
+            "FUNDAMENTA-SE EM": ("F", "A norma de origem invoca a de destino como base legal (considerandos, preâmbulo, \"tendo em vista\")."),
+            "REGULAMENTA": ("G", "A origem detalha ou operacionaliza a norma de destino."),
+            "ALTERA": ("A", "A origem modifica dispositivos da norma de destino (nova redação, inclusão, supressão)."),
+            "REVOGA (total)": ("R", "A origem retira a vigência da norma de destino por inteiro."),
+            "REVOGA (parcial)": ("P", "A origem retira a vigência de dispositivos da norma de destino."),
+            "SUPERA": ("S", "Norma superior posterior torna sem efeito dispositivo de norma inferior, sem revogação expressa (ex.: Lei 8.112/1990 sobre o Regimento Geral)."),
+            "REMETE A": ("M", "Citação simples, para procedimento ou definição. São muitas; na Teia ficam desligadas por padrão."),
+            "DELEGA COMPETÊNCIA": ("D", "A origem atribui a outro órgão a edição de norma ou a decisão sobre a matéria."),
+            "PROPÕE SUBSTITUIR": ("X", "Relação entre norma em tramitação e a vigente que ela substituiria; não muda a vigência."),
+        }
+        relacoes = [(t, DEF_REL[t][0], DEF_REL[t][1], por_tipo.get(t, 0)) for t in DEF_REL]
+        cat, rows = self._catalogo_divergencias()
+        por_cat = Counter(r["categoria"] for r in rows)
+        por_sub = Counter(r["subtipo"] for r in rows)
+        por_g = Counter(int(r["gravidade"]) for r in rows)
+        categorias = [(c, cat.CATEGORIAS[c], por_cat.get(c, 0), [(st, nome, cat.GRAVIDADE[st], por_sub.get(st, 0)) for st, nome in cat.SUBTIPOS.items() if st[0] == c]) for c in sorted(cat.CATEGORIAS)]
+        DEF_G = {1: "não afeta a aplicação da norma (rótulo, convenção de data, organização do acervo)",
+                 2: "erro ou lacuna que não muda o sentido nem a vigência (cadastro do SIGRH diferente do texto, erro material, norma citada ainda sem texto)",
+                 3: "afeta a identificação da norma citada, o fundamento ou o efeito no tempo",
+                 4: "incerteza sobre a vigência de dispositivos, fundamento já revogado quando a norma foi editada ou página oficial desatualizada",
+                 5: "incerteza sobre a vigência da norma inteira ou texto errado na própria fonte oficial"}
+        gravidades = [(g, cat.NOME_GRAVIDADE[g], DEF_G[g], por_g.get(g, 0)) for g in (1, 2, 3, 4, 5)]
+        total_div = len(rows)
         rodadas = []
         pasta = self.raiz / "docs" / "rodadas"
         if pasta.exists():
@@ -443,4 +479,5 @@ class Gerador:
                 self._raiz_rel = "../"
                 self._escrever(rel, self.env.get_template("painel.html").render(raiz="../", meta=self.meta, secao="sobre", titulo=titulo, lead="", resumo=None, blocos=[{"id": "doc", "titulo": "", "html": '<div class="card md">' + htm + "</div>"}]))
                 rodadas.append({"arquivo": f"{p.stem}.html", "titulo": titulo})
-        self._render("sobre.html", "sobre/index.html", "../", secao="sobre", niveis=niveis, rodadas=rodadas)
+        self._render("sobre.html", "sobre/index.html", "../", secao="sobre", niveis=niveis, rodadas=rodadas, situacoes=situacoes, relacoes=relacoes, n_sug=n_sug,
+                     categorias=categorias, gravidades=gravidades, total_div=total_div, resumo=b.resumo())

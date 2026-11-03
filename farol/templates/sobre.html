@@ -1,27 +1,126 @@
 {% extends "base.html" %}
 {% block title %}Sobre · Farol Normativo UFPB{% endblock %}
+{% block head %}
+<style>
+/* símbolos da Teia reproduzidos com os mesmos tokens de cor (claro e escuro) */
+.simb{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px;margin:12px 0}
+.simb .it{display:grid;grid-template-columns:auto minmax(0,1fr);gap:12px;align-items:start;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.simb .it b{display:block;margin-bottom:2px}
+.simb .it .d{color:var(--muted);font-size:13.5px}
+.simb .it .n{color:var(--muted);font-size:12.5px;font-variant-numeric:tabular-nums}
+.simb svg{display:block;flex:none}
+.no{width:44px;height:44px}
+.no circle{stroke:var(--panel);stroke-width:1.5}
+.no.vigente circle{fill:var(--vig)}.no.alterada circle{fill:var(--alt)}.no.revogada circle{fill:var(--rev)}
+.no.nao_localizada circle,.no.desconhecida circle{fill:var(--panel);stroke:var(--nl);stroke-dasharray:3 2}
+.no.tramitacao circle{fill:var(--nt)}.no.conflito circle,.no.verificar circle{fill:var(--cf)}
+.no.seed circle{fill:var(--vig);stroke:var(--ufpb-amarelo);stroke-width:3.5}
+.no.federal circle{fill:var(--vig);stroke:var(--fg);stroke-width:1.5}
+.no.futuro circle{fill:var(--bg);stroke:var(--accent);stroke-dasharray:4 3;opacity:.8}
+.no.sug circle{fill:var(--panel2);stroke:var(--faint);stroke-dasharray:2 2}
+.lk{width:96px;height:28px}
+.lk path{fill:none;stroke-width:2}
+.lk .A{stroke:var(--eA)}.lk .R{stroke:var(--eR);stroke-width:2.2}.lk .P{stroke:var(--eR);stroke-dasharray:5 3}.lk .S{stroke:var(--eS)}
+.lk .F{stroke:var(--eF);stroke-width:1.2}.lk .G{stroke:var(--eF);stroke-width:2.4}.lk .M{stroke:var(--eM);stroke-dasharray:2 3;stroke-width:1.2}
+.lk .X{stroke:var(--nt);stroke-dasharray:6 4}.lk .D{stroke:var(--eF);stroke-width:1.6}
+.lk .sg{stroke:var(--eF);stroke-dasharray:1 4;stroke-linecap:round}
+.lk .pt{fill:var(--eF)}.lk .ptA{fill:var(--eA)}.lk .ptR{fill:var(--eR)}.lk .ptS{fill:var(--eS)}.lk .ptM{fill:var(--eM)}.lk .ptX{fill:var(--nt)}
+.sobre h2{margin-top:36px}
+.sobre .tabela{margin-top:10px}
+.sobre .kv dd{margin-bottom:6px}
+.escala{display:flex;flex-direction:column;gap:8px;margin:12px 0}
+.escala .it{display:grid;grid-template-columns:150px minmax(0,1fr) auto;gap:12px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.escala .it .d{color:var(--muted);font-size:13.5px}
+.escala .it .n{color:var(--muted);font-size:12.5px;white-space:nowrap}
+@media (max-width:640px){.escala .it{grid-template-columns:1fr}}
+.cats .card{margin-bottom:12px}
+.cats .card h3{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.cats .card h3 .n{font:400 13px var(--body);color:var(--muted)}
+.cats ul{list-style:none;padding:0;margin:8px 0 0;display:flex;flex-direction:column;gap:6px}
+.cats li{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px;align-items:baseline;font-size:14px}
+.cats li .n{color:var(--muted);font-size:12.5px;white-space:nowrap}
+.ex{display:inline-block;padding:0 4px}
+</style>
+{% endblock %}
 {% block conteudo %}
+<div class="sobre">
 <h1>Sobre o Farol</h1>
-<p class="lead">O Farol Normativo UFPB é um sistema de consulta ao ecossistema normativo da Universidade Federal da Paraíba: o acervo das normas internas e externas que orientam as decisões da universidade, o mapa das relações entre elas e, em etapa posterior, um assistente que explica como cada assunto é regido. Nasceu do projeto Oraculovski.</p>
+<p class="lead">O Farol Normativo UFPB é um sistema de consulta ao ecossistema normativo da Universidade Federal da Paraíba: o acervo das normas internas e externas que orientam as decisões da universidade, o mapa das relações entre elas (a Teia de normas), a ficha e o texto de cada norma, o quadro de vigência e o registro das divergências. Em etapa posterior, um assistente de perguntas (o Oráculo) explicará como cada assunto é regido. O Farol orienta e não decide: não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes. Nasceu do projeto Oraculovski.</p>
 
-<h2>Como o acervo é construído</h2>
-<p>Por expansão por citação: começou pelo Estatuto e pelos três regimentos comuns (site da SODS), depois todas as resoluções dos conselhos superiores publicadas no SIGRH, lidas na íntegra; cada norma citada que ainda não estava no acervo entrou numa fila e foi coletada na rodada seguinte (leis e decretos no planalto.gov.br, atos do CNE no gov.br/mec, atos de outros órgãos nas fontes oficiais). Normas citadas e não obtidas ficam registradas como "citadas, sem texto" e aparecem tracejadas na Teia.</p>
+<div class="chips">
+  <span class="chip"><b>{{ resumo.normas|br }}</b> normas</span>
+  <span class="chip"><b>{{ resumo.com_texto|br }}</b> com texto integral</span>
+  <span class="chip"><b>{{ resumo.fantasmas|br }}</b> sem texto</span>
+  <span class="chip"><b>{{ total_div|br }}</b> divergências registradas</span>
+</div>
 
-<h2>Hierarquia</h2>
-<p>O nível vem do órgão que editou o ato. Norma inferior não contraria norma superior; um conflito aparente é registrado e explicado, não resolvido pelo sistema.</p>
-<div class="tabela"><table><thead><tr><th>Nível</th><th>O que é</th><th>Normas</th></tr></thead><tbody>
-{% for nv, nome, qtd in niveis %}<tr><td><b>{{ nv }}</b></td><td>{{ nome }}</td><td class="num">{{ qtd|br }}</td></tr>{% endfor %}
+<h2 id="acervo">Como o acervo é construído</h2>
+<p>Por <b>expansão por citação</b>. A Rodada 0 começou pelo Estatuto e pelos três regimentos comuns, lidos no site da SODS; a Rodada 1 trouxe todas as resoluções dos conselhos superiores publicadas no SIGRH, lidas na íntegra; cada norma citada que ainda não estava no acervo entrou numa fila e foi coletada nas rodadas seguintes (leis e decretos no planalto.gov.br e na Câmara, atos do CNE e do MEC no gov.br e no DOU, leis da Paraíba, regimentos nos sites das unidades). Só entra texto de fonte oficial; cada original tem o hash registrado. Normas citadas e ainda não obtidas ficam na <a href="{{ raiz }}fila/">fila de coleta</a> e aparecem tracejadas na Teia. Nenhum texto é editado à mão: o que está no acervo é extração do original (camada de texto do PDF, OCR ou HTML oficial), e a ficha diz qual método foi usado.</p>
+
+<h2 id="niveis">Níveis hierárquicos</h2>
+<p>O nível vem do <b>órgão que editou o ato</b>. Norma inferior não contraria norma superior; um conflito aparente é registrado e explicado, nunca resolvido pelo sistema. Na Teia, cada nível é um filtro; na vista cronológico-hierárquica, cada nível é uma faixa. As normas federais (N1 a N4) têm anel escuro no nó.</p>
+<div class="tabela"><table class="fixa"><colgroup><col style="width:12%"><col style="width:58%"><col style="width:15%"><col style="width:15%"></colgroup>
+<thead><tr><th>Nível</th><th>O que é</th><th>Símbolo</th><th>Normas</th></tr></thead><tbody>
+{% for nv, nome, qtd in niveis %}<tr><td><span class="pill lvl">{{ nv }}</span></td><td><b>{{ nome }}</b>{% if nv == 'N1' %} — Constituição Federal e emendas constitucionais.{% elif nv == 'N2' %} — leis, leis complementares, decretos-lei e medidas provisórias.{% elif nv == 'N3' %} — decretos federais.{% elif nv == 'N4' %} — atos do MEC, resoluções e pareceres do CNE, CAPES, CGU, outros órgãos federais e conselhos profissionais.{% elif nv == 'N5' %} — Res. CONSUNI 07/2002, homologada pela Portaria MEC 3.198/2002.{% elif nv == 'N6' %} — Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79), previstos no art. 107 do Estatuto.{% elif nv == 'N7' %} — resoluções do CONSUNI, do CONSEPE e do Conselho Curador.{% elif nv == 'N8' %} — regimentos de centros, pró-reitorias, superintendências e órgãos suplementares.{% elif nv == 'N9' %} — conselhos de centro, departamentos, colegiados de curso e programas de pós-graduação.{% elif nv == 'N10' %} — portarias e atos da Reitoria e das pró-reitorias.{% elif nv == 'NT' %} — em tramitação, sem força normativa.{% elif nv == 'MA' %} — material de apoio, não normativo.{% elif nv == '?' %} — órgão emissor ainda não identificado na citação.{% endif %}</td>
+<td>{% if nv in ('N1','N2','N3','N4') %}<svg class="no federal" viewBox="0 0 44 44" aria-label="nó com anel escuro"><circle cx="22" cy="22" r="13"/></svg>{% elif nv == 'NT' %}<svg class="no tramitacao" viewBox="0 0 44 44"><circle cx="22" cy="22" r="13"/></svg>{% else %}<svg class="no vigente" viewBox="0 0 44 44"><circle cx="22" cy="22" r="13"/></svg>{% endif %}</td>
+<td class="num">{{ qtd|br }}</td></tr>{% endfor %}
 </tbody></table></div>
 
-<h2>Relações</h2>
-<p>Cada relação liga a norma de origem à de destino e registra dispositivo, trecho, data de efeito, fonte e confiança. Os tipos: <b>FUNDAMENTA-SE EM</b> (invoca como base legal), <b>REGULAMENTA</b>, <b>ALTERA</b>, <b>REVOGA</b> total ou parcial, <b>SUPERA</b> (norma superior posterior torna sem efeito dispositivo de norma inferior, sem revogação expressa), <b>REMETE A</b> (citação simples), <b>DELEGA COMPETÊNCIA</b> e <b>PROPÕE SUBSTITUIR</b> (norma em tramitação). Relações inferidas (co-citação, acoplamento, alvo provável) aparecem sempre como sugestão.</p>
+<h2 id="situacao">Situação de vigência</h2>
+<p>A situação de cada norma é <b>conferida no texto das normas posteriores</b>, não apenas no registro do SIGRH. A cor do nó na Teia e o selo na ficha são os mesmos. Com a máquina do tempo, a situação é recalculada para a data escolhida.</p>
+<div class="simb">
+{% for k, nome, defin, qtd in situacoes %}
+  <div class="it"><svg class="no {{ k }}" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg>
+    <div><b><span class="pill {{ k }}">{{ nome }}</span></b><div class="d">{{ defin }}</div><div class="n">{{ qtd|br }} normas</div></div></div>
+{% endfor %}
+</div>
+<p class="hint">Regras aplicadas: o texto prevalece sobre o registro do SIGRH; norma inferior não altera nem revoga norma superior; arquivo trocado no SIGRH não gera relação; revogação expressa prevalece sobre alteração posterior (LINDB, art. 2º, § 3º); revogação contradita por atos posteriores ou de assunto distinto vira conflito registrado. As decisões fundamentadas estão no catálogo de divergências (subtipo A5).</p>
 
-<h2>Vigência</h2>
-<p>A situação de cada norma é conferida no texto das normas posteriores, não apenas no registro do SIGRH. Regras aplicadas: o texto prevalece sobre o registro; norma inferior não altera nem revoga norma superior; arquivo trocado no SIGRH não gera relação; revogação expressa prevalece sobre alteração posterior (LINDB, art. 2º, § 3º); revogação contradita por atos posteriores fica registrada como conflito. As decisões fundamentadas estão no registro de divergências.</p>
+<h2 id="relacoes">Tipos de relação</h2>
+<p>Cada relação liga a norma de <b>origem</b> à de <b>destino</b> (a seta aponta para o destino) e registra o dispositivo de cada lado, o trecho literal, a data de início de efeito, a fonte e a confiança. Os rótulos são sempre estes; na Teia, cada tipo tem uma seta própria e é um filtro.</p>
+<div class="simb">
+{% for tipo, ch, defin, qtd in relacoes %}
+  <div class="it"><svg class="lk" viewBox="0 0 96 28" aria-hidden="true"><path class="{{ ch }}" d="M4 14 H78"/><path class="pt{{ 'A' if ch=='A' else 'R' if ch in ('R','P') else 'S' if ch=='S' else 'M' if ch=='M' else 'X' if ch=='X' else '' }}" d="M78 8 L90 14 L78 20 Z"/></svg>
+    <div><b><span class="k {{ ch }}">{{ tipo }}</span></b><div class="d">{{ defin }}</div><div class="n">{{ qtd|br }} relações</div></div></div>
+{% endfor %}
+  <div class="it"><svg class="lk" viewBox="0 0 96 28" aria-hidden="true"><path class="sg" d="M4 14 H78"/><path class="pt" d="M78 8 L90 14 L78 20 Z"/></svg>
+    <div><b><span class="k sug">sugestão</span></b><div class="d">Relação inferida, nunca normativa: normas irmãs (citadas pelas mesmas normas), paralelas (citam as mesmas bases sem se citarem) ou alvo provável de citação ambígua. Pontilhado fino; não entra na vigência.</div><div class="n">{{ n_sug|br }} sugestões</div></div></div>
+</div>
 
-<h2>Rodadas</h2>
+<h2 id="teia">Outros símbolos da Teia</h2>
+<div class="simb">
+  <div class="it"><svg class="no seed" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg><div><b>Norma de partida</b><div class="d">Anel amarelo: a norma no centro do mapa. Qualquer norma vira partida pela busca, com duplo clique no nó ou por "Tornar partida" na ficha.</div></div></div>
+  <div class="it"><svg class="no federal" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg><div><b>Norma federal</b><div class="d">Anel escuro: níveis N1 a N4 (Constituição, leis, decretos, MEC e órgãos federais).</div></div></div>
+  <div class="it"><svg class="no nao_localizada" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg><div><b>Nó fantasma</b><div class="d">Tracejado cinza: norma citada e ainda sem texto no acervo (fila de coleta).</div></div></div>
+  <div class="it"><svg class="no futuro" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg><div><b>Ainda não existia</b><div class="d">Tracejado azul, na máquina do tempo: norma da vizinhança posterior à data escolhida.</div></div></div>
+  <div class="it"><svg class="no sug" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="13"/></svg><div><b>Sugestão</b><div class="d">Pontilhado claro: norma irmã ou paralela trazida pelo filtro "Mostrar sugestões"; não tem relação normativa com a partida.</div></div></div>
+  <div class="it"><svg class="no vigente" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="8"/><circle cx="22" cy="22" r="17" fill="none" stroke="var(--vig)" stroke-dasharray="2 2"/></svg><div><b>Tamanho do nó</b><div class="d">Cresce com o número de normas que apontam para ela: quanto mais citada, maior o círculo.</div></div></div>
+</div>
+
+<h2 id="texto">Sinais no texto integral</h2>
+<p>No texto de cada norma, as <b>citações em link</b> levam à norma citada (e ao artigo, quando identificado); cada artigo tem âncora própria (<code>#art-12</code>), citável em ofícios e pareceres. Sob o caput de um artigo alcançado por relação ALTERA, REVOGA ou SUPERA aparece a <b>anotação de vigência</b>, com a norma que o alcança, a data de efeito, a fonte e o trecho registrado. O texto é a redação publicada na fonte oficial; nos textos já consolidados (páginas da SODS, textos compilados do planalto), a redação revogada aparece <s>tachada</s> e a vigente em seguida. O selo <span class="pill ocr">texto por OCR ⓘ</span> avisa que o texto foi lido da imagem de um PDF digitalizado e pode trazer números e letras trocados: confira no PDF oficial antes de citar.</p>
+
+<h2 id="divergencias">Divergências: categorias e gravidade</h2>
+<p>Tudo o que o acervo encontra de contraditório, errado ou incerto vai para o <a href="{{ raiz }}divergencias/">catálogo de divergências</a>, uma linha por caso. Cada divergência recebe <b>categoria</b> (A a F), <b>subtipo</b> (A1, A2…), <b>gravidade</b> (1 a 5) e um <b>número</b> estável no formato subtipo-sequência (ex.: A1-003); os casos D01–D104 do registro original ficam na coluna de registro e servem de casos de teste do acervo. Categoria e gravidade são classificação do Farol para orientar a leitura, atribuídas por regra a cada subtipo, não decisão sobre o mérito: a leitura que prevalece cabe à Procuradoria Federal junto à UFPB e aos conselhos.</p>
+<h3>Gravidade</h3>
+<div class="escala">
+{% for g, nome, defin, qtd in gravidades %}
+  <div class="it"><span class="pill g{{ g }}">{{ g }} · {{ nome }}</span><span class="d">{{ defin }}</span><span class="n">{{ qtd|br }} casos</span></div>
+{% endfor %}
+</div>
+<h3>Categorias e subtipos</h3>
+<div class="cats">
+{% for c, nome, qtd, subs in categorias %}
+  <div class="card"><h3><span class="pill lvl">{{ c }}</span> {{ nome }} <span class="n">{{ qtd|br }} casos</span></h3>
+    <ul>{% for st, snome, g, sq in subs %}<li><span class="k">{{ st }}</span><span>{{ snome }} <span class="hint">· gravidade <span class="pill g{{ g }}" style="padding:0 7px;font-size:11.5px">{{ g }}</span></span></span><span class="n">{{ sq|br }}</span></li>{% endfor %}</ul></div>
+{% endfor %}
+</div>
+
+<h2 id="rodadas">Rodadas de coleta</h2>
+<p>Cada rodada tem relatório com as normas coletadas, as relações novas, o que ficou na fila e a conferência independente por amostra.</p>
 <ul>{% for r in rodadas %}<li><a href="{{ raiz }}sobre/{{ r.arquivo }}">{{ r.titulo }}</a></li>{% endfor %}</ul>
 
-<h2>Limites</h2>
-<p>Textos obtidos por OCR podem ter números trocados; o método de cada texto está na ficha, e o PDF oficial deve ser conferido para citação formal. Parte das relações tem dispositivo genérico ("norma inteira"). Resoluções anteriores a 1992 estão quase ausentes do SIGRH. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes.</p>
+<h2 id="limites">Limites</h2>
+<p>Textos obtidos por OCR podem ter números trocados; o método de cada texto está na ficha, e o PDF oficial deve ser conferido para citação formal. Parte das relações tem dispositivo genérico ("norma inteira"). Resoluções anteriores a 1992 estão quase ausentes do SIGRH; 148 resoluções dos conselhos superiores citadas e não localizadas foram pedidas à SODS. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes; em caso de divergência, prevalece o texto oficial publicado.</p>
+</div>
 {% endblock %}
