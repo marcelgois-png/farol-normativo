@@ -86,6 +86,10 @@ h3{font:600 17px/1.25 var(--display);margin:18px 0 8px}
 .pill.nao_localizada,.pill.desconhecida{background:var(--panel2);color:var(--muted);border:1px dashed var(--nl)}
 .pill.tramitacao{background:var(--nt);color:#0f1727}.pill.conflito,.pill.verificar{background:var(--cf);color:#1a0d00}
 .pill.lvl{background:var(--accent-soft);color:var(--fg)}
+.pill.g1{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}.pill.g2{background:var(--ufpb-azul-claro);color:#0f1727}.pill.g3{background:var(--ufpb-amarelo-escuro);color:#1a1200}.pill.g4{background:var(--ufpb-laranja);color:#1a0d00}.pill.g5{background:#2a2a2a;color:#fff}
+.tfiltro{display:flex;gap:8px;align-items:center;margin:8px 0;flex-wrap:wrap}
+.tfiltro input{flex:1 1 260px;max-width:520px;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+.tfiltro .cnt{margin:0}
 .pill.ocr{background:var(--panel2);color:var(--muted);border:1px solid var(--line);cursor:help}
 abbr{text-decoration:underline dotted;text-underline-offset:3px;cursor:help}
 /* dica ao passar o mouse (ou tocar/focar): texto em data-tip */

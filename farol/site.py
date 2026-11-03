@@ -289,28 +289,52 @@ class Gerador:
         return _RE_ID.sub(sub, html.escape(s or ""))
 
     def _divergencias(self):
-        b = self.base
-        blocos = []
-        dec = b.decisoes
-        linhas = [[html.escape(d.get("divergencia", "")), self._link(d["norma"]), html.escape(d.get("situacao", "")), self._ids_para_links_html(d.get("situacao_base", "")), html.escape(d.get("fundamento", ""))] for d in dec.get("situacao", [])]
-        blocos.append({"id": "decisoes", "titulo": "Decisões de vigência fundamentadas", "texto": dec.get("descricao", ""), "colunas": ["Div.", "Norma", "Situação decidida", "Base", "Fundamento"], "linhas": linhas})
-        sug = [[self._link(s["origem"]), html.escape(s.get("tipo", "")), self._link(s["destino"]), html.escape(s.get("natureza", "")), html.escape(s.get("obs", ""))] for s in dec.get("sugestoes", [])]
-        blocos.append({"id": "sugestoes", "titulo": "Sugestões de alvo provável (não aplicadas à vigência)", "colunas": ["Origem", "Tipo", "Destino provável", "Natureza", "Obs."], "linhas": sug})
-        p = self.raiz / "base" / "divergencias" / "divergencias_r2.csv"
-        if p.exists():
-            with open(p, encoding="utf-8", newline="") as f:
-                rows = list(csv.DictReader(f))
-            linhas = [[html.escape(r["tipo"]), self._link(r["norma"]), html.escape(r["descricao"]), self._link(r["relacionada"]) if r.get("relacionada") in b.normas else html.escape(r.get("relacionada", ""))] for r in rows]
-            blocos.append({"id": "r2", "titulo": "Divergências da Rodada 2 (atos do CNE)", "colunas": ["Tipo", "Norma", "Descrição", "Relacionada"], "linhas": linhas})
-        p = self.raiz / "base" / "divergencias" / "registro_divergencias.md"
-        if p.exists():
-            import markdown
+        """Tabela única das divergências, a partir de base/divergencias/catalogo.csv (scripts/catalogo_divergencias.py)."""
+        import importlib.util
 
-            md = p.read_text(encoding="utf-8")
-            blocos.append({"id": "registro", "titulo": "Registro de divergências (Rodadas 0 e 1)", "html": '<div class="card md">' + _tabelas_md(markdown.markdown(self._ids_para_links_html_md(md), extensions=["tables"])) + "</div>"})
+        b = self.base
+        spec = importlib.util.spec_from_file_location("catalogo_divergencias", self.raiz / "scripts" / "catalogo_divergencias.py")
+        cat = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(cat)
+        p = self.raiz / "base" / "divergencias" / "catalogo.csv"
+        if not p.exists():
+            cat.gerar()
+        with open(p, encoding="utf-8", newline="") as f:
+            rows = list(csv.DictReader(f))
+        linhas = []
+        for r in rows:
+            g = int(r["gravidade"])
+            obs = (f"<b>{html.escape(r['onde'])}</b> — " if r["onde"] and r["onde"] != r["norma"] else "") + self._ids_para_links_html(r["observacao"])
+            linhas.append([
+                f'<span class="mono">{html.escape(r["numero"])}</span>',
+                f'<span class="k">{r["subtipo"]}</span> <span class="hint">{html.escape(cat.SUBTIPOS[r["subtipo"]])}</span>',
+                f'<span class="pill g{g}">{g} · {cat.NOME_GRAVIDADE[g]}</span>',
+                self._link(r["norma"]) if r["norma"] in b.normas else html.escape(r["norma"] or "—"),
+                self._link(r["outra"]) if r["outra"] in b.normas else html.escape(r["outra"] or "—"),
+                obs,
+                self._ids_para_links_html(r["encaminhamento"]) or "—",
+                html.escape(r["fonte"]) + (f' · <b>{html.escape(r["registro"])}</b>' if r["registro"] else ""),
+            ])
+        por_cat = Counter(r["categoria"] for r in rows)
+        por_g = Counter(int(r["gravidade"]) for r in rows)
+        resumo = [(f"divergências", len(rows))] + [(f"{c} · {cat.CATEGORIAS[c].split(' — ')[0]}", por_cat[c]) for c in sorted(por_cat)] + [(f"gravidade {g} · {cat.NOME_GRAVIDADE[g]}", por_g[g]) for g in sorted(por_g, reverse=True)]
+        legenda = '<div class="card md"><h3>Como ler a tabela</h3>'
+        legenda += "<p><b>Número</b>: subtipo + sequência (ex.: A1-003), estável entre versões do acervo. <b>Registro</b>: o caso D original (D01–D104), que serve de caso de teste do acervo. "
+        legenda += "<b>Gravidade</b> é a classificação do Farol para orientar a leitura, atribuída por regra a cada subtipo: 1 mínima (não afeta a aplicação da norma), 2 baixa (erro ou lacuna que não muda o sentido), "
+        legenda += "3 média (afeta identificação, fundamento ou efeito no tempo), 4 grave (incerteza sobre a vigência de dispositivos ou fonte oficial desatualizada), 5 muito grave (incerteza sobre a vigência da norma inteira ou texto errado na fonte oficial). "
+        legenda += "Nada aqui decide o mérito: o Farol registra e explica; a leitura que prevalece cabe à Procuradoria Federal junto à UFPB e aos conselhos.</p><dl class=\"kv\">"
+        for c in sorted(cat.CATEGORIAS):
+            legenda += f"<dt><b>{c}</b></dt><dd><b>{html.escape(cat.CATEGORIAS[c])}</b><br>" + "<br>".join(f'<span class="k">{st}</span> {html.escape(nome)} <span class="hint">· gravidade {cat.GRAVIDADE[st]}</span>' for st, nome in cat.SUBTIPOS.items() if st[0] == c) + "</dd>"
+        legenda += "</dl></div>"
+        blocos = [{"id": "legenda", "titulo": "Categorias e gravidade", "html": legenda},
+                  {"id": "catalogo", "titulo": "Catálogo de divergências", "texto": "Uma linha por divergência, de todas as rodadas e conferências. Clique no título de uma coluna para ordenar; use o campo acima da tabela para filtrar por número, categoria, norma ou palavra.",
+                   "colunas": ["Nº", "Categoria e subtipo", "Gravidade", "Norma", "Outra norma", "O que se observa", "Encaminhamento ou decisão", "Fonte · registro"],
+                   "larguras": ["6%", "15%", "10%", "11%", "10%", "22%", "16%", "10%"], "linhas": linhas}]
         self._render("painel.html", "divergencias/index.html", "../", secao="divergencias", titulo="Divergências e decisões",
-                     lead="Conflitos de vigência, fundamentos em norma revogada, números citados que não correspondem ao assunto e decisões tomadas pela leitura direta dos textos. Nada aqui resolve o conflito: registra e explica.",
-                     resumo=None, blocos=blocos)
+                     lead="Tudo o que o acervo encontrou de contraditório, errado ou incerto nas normas e nas fontes oficiais, numa tabela única: conflitos de vigência, fundamentos em norma revogada, "
+                          "citações com número errado, documentos trocados no SIGRH, erros materiais e as decisões de leitura tomadas pelo Farol. Cada divergência tem número, categoria, gravidade e encaminhamento. "
+                          "Nada aqui resolve o conflito: registra e explica.",
+                     resumo=resumo, blocos=blocos)
 
     def _ids_para_links_html_md(self, md: str) -> str:
         def sub(m):

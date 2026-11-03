@@ -49,5 +49,20 @@
     });
   }
 
-  document.querySelectorAll('table').forEach(preparar);
+  /* tabelas longas ganham um campo de filtro: esconde as linhas que não contêm o texto */
+  function filtro(tabela) {
+    var tbody = tabela.tBodies[0]; if (!tbody || tbody.rows.length < 30) return;
+    var caixa = tabela.closest('.tabela') || tabela;
+    var bar = document.createElement('div'); bar.className = 'tfiltro';
+    bar.innerHTML = '<input type="search" placeholder="Filtrar linhas desta tabela… (ex.: A1, CONSEPE 29/2020, revogada)" aria-label="Filtrar linhas"><span class="cnt hint"></span>';
+    caixa.parentElement.insertBefore(bar, caixa);
+    var inp = bar.querySelector('input'), cnt = bar.querySelector('.cnt'), total = tbody.rows.length;
+    function norm(s) { return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); }
+    inp.addEventListener('input', function () {
+      var k = norm(inp.value.trim()), n = 0;
+      Array.prototype.forEach.call(tbody.rows, function (tr) { var ok = !k || norm(tr.textContent).indexOf(k) >= 0; tr.hidden = !ok; if (ok) n++; });
+      cnt.textContent = k ? n.toLocaleString('pt-BR') + ' de ' + total.toLocaleString('pt-BR') + ' linhas' : '';
+    });
+  }
+  document.querySelectorAll('table').forEach(function (t) { preparar(t); filtro(t); });
 })();
