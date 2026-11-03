@@ -16,7 +16,7 @@ def dados_teia(b: Base) -> dict:
         nodes.append({
             "id": n.id, "l": n.rotulo, "o": n.orgao, "n": n.numero, "d": n.data_norm,
             "dy": n.ano, "nv": n.nivel, "s": n.situacao_chave, "sr": n.situacao,
-            "sb": n.situacao_base[:300], "st": n.status_coleta, "t": n.temas,
+            "sb": n.situacao_base[:300] + ("…" if len(n.situacao_base) > 300 else ""), "st": n.status_coleta, "t": n.temas,
             "e": (n.ementa or n.ementa_sigrh)[:260], "u": n.fonte, "g": 1 if n.fantasma else 0,
         })
     edges = []

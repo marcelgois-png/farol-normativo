@@ -1,4 +1,4 @@
-<title>Teia · Farol Normativo UFPB</title>
+<title>Teia de normas · Farol Normativo UFPB</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="theme-color" content="#1e3766">
 <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
@@ -14,13 +14,15 @@ body{font-size:15px;line-height:1.45;display:flex;flex-direction:column;min-heig
 
 /* barra de ferramentas da Teia (abaixo da barra de título do Farol) */
 .barra{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:var(--panel);border-bottom:1px solid var(--line);padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-.titulo{display:flex;align-items:baseline;gap:10px;min-width:0}
-.titulo h1{font:700 20px/1.1 var(--display);margin:0;letter-spacing:-.01em;color:var(--ink-title)}
-.titulo small{color:var(--muted);font-size:12.5px}
+h1.titulo{font:700 20px/1.1 var(--display);margin:0;letter-spacing:-.01em;color:var(--ink-title);white-space:nowrap}
 .stats{display:flex;gap:6px;flex-wrap:wrap}
+/* painéis laterais na cor da pastilha "Teia de normas" da abertura (azul claro → branco) */
+:root{--side-bg:linear-gradient(170deg,#b9d8f1 0%,#e1eef9 38%,#eef5fc 100%);--side-fg:#15223a}
+:root[data-theme="dark"]{--side-bg:linear-gradient(170deg,#24406f 0%,#1a2a48 40%,#162036 100%)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--side-bg:linear-gradient(170deg,#24406f 0%,#1a2a48 40%,#162036 100%)}}
 .chip{display:inline-flex;align-items:center;gap:6px;padding:3px 9px;border:1px solid var(--line);border-radius:999px;font-size:12.5px;color:var(--muted);background:var(--panel2);font-variant-numeric:tabular-nums;white-space:nowrap}
 .chip b{color:var(--fg);font-weight:600}
-.search{position:relative;flex:1 1 300px;max-width:620px;min-width:0}
+.search{position:relative;flex:1 1 300px;max-width:780px;min-width:0}
 .sbox{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:8px;background:var(--panel2);padding:0 6px 0 10px}
 .sbox:focus-within{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 .sbox .ico{flex:none;width:16px;height:16px;fill:none;stroke:var(--faint);stroke-width:2;display:block}
@@ -44,8 +46,13 @@ body{font-size:15px;line-height:1.45;display:flex;flex-direction:column;min-heig
 
 /* corpo */
 .main{display:grid;grid-template-columns:290px minmax(0,1fr) 360px;min-height:0;height:100%}
-.side{background:var(--panel);border-right:1px solid var(--line);overflow:auto;padding:12px 14px 24px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.side{background:var(--side-bg);border-right:1px solid var(--line);overflow:auto;padding:12px 14px 24px;display:flex;flex-direction:column;gap:14px;min-width:0}
 .side.right{border-right:0;border-left:1px solid var(--line)}
+.side .sec{background:color-mix(in srgb,var(--panel) 72%,transparent);border:1px solid color-mix(in srgb,var(--line) 70%,transparent);border-radius:12px;padding:10px 12px}
+.side.right{gap:12px}
+.seedbox{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:9px 11px;display:flex;flex-direction:column;gap:5px}
+.seedbox .sn{font:600 14.5px/1.3 var(--display);color:var(--ink-title)}
+.seedbox a.btn{text-decoration:none}
 .sec h2{font:600 12px/1 var(--cond);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;flex:1}
 .sec{display:flex;flex-direction:column;gap:6px}
 .row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
@@ -80,10 +87,16 @@ button.help{width:18px;height:18px;border-radius:50%;border:1px solid var(--line
 button.help:hover{border-color:var(--accent)}
 .helpbox{font-size:12.5px;color:var(--muted);line-height:1.45;border-left:3px solid var(--accent-soft);padding:4px 10px;margin:8px 0 2px}
 .helpbox p{margin:0 0 6px}.helpbox ul{margin:0 0 6px;padding-left:16px}.helpbox li{margin-bottom:3px}.helpbox b{color:var(--fg)}
-.edge{position:absolute;top:50%;transform:translateY(-50%);width:22px;height:64px;border:1px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer;font-size:20px;padding:0;z-index:5;box-shadow:var(--shadow)}
+/* abas laterais com o nome do painel: mostram e recolhem Controles e Ficha */
+.edge{position:absolute;top:50%;transform:translateY(-50%);width:28px;display:flex;flex-direction:column;align-items:center;gap:8px;padding:10px 0;border:1px solid var(--line);background:linear-gradient(180deg,#b9d8f1,#e1eef9);color:#1e3766;cursor:pointer;z-index:5;box-shadow:var(--shadow)}
+.edge .arr{font-size:18px;line-height:1}
+.edge .rot{writing-mode:vertical-rl;font:600 11.5px var(--cond);letter-spacing:.1em;text-transform:uppercase}
+.edge.left .rot{transform:rotate(180deg)}
 .edge.right{right:360px;border-right:0;border-radius:8px 0 0 8px}
 .edge.left{left:290px;border-left:0;border-radius:0 8px 8px 0}
-.edge:hover{color:var(--accent)}
+.edge:hover{background:linear-gradient(180deg,#a9cfef,#d6e8f7)}
+:root[data-theme="dark"] .edge{background:linear-gradient(180deg,#2c4c82,#1f3560);color:#e8edf6}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .edge{background:linear-gradient(180deg,#2c4c82,#1f3560);color:#e8edf6}}
 .app.noficha .edge.right{right:0}
 .app.noleft .edge.left{left:0}
 .main{position:relative}
@@ -93,8 +106,6 @@ button.help:hover{border-color:var(--accent)}
 .app.noficha.noleft .main{grid-template-columns:0 minmax(0,1fr) 0}
 .app.noficha .side.right{display:none}
 .app.noleft .side.left{display:none}
-.panels{display:flex;gap:6px}
-.panels .btn[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent)}
 .tm{font-variant-numeric:tabular-nums;font-weight:600}
 
 /* grafo */
@@ -168,7 +179,7 @@ summary{cursor:pointer;font-weight:600;font-size:13.5px}
 .coll .it button.x{background:none;border:0;color:var(--muted);cursor:pointer}
 
 @media (max-width:1000px){
-  .edge,.panels{display:none}
+  .edge{display:none}
   .barra{min-width:0}
   .main{grid-template-columns:1fr}
   .app.noficha .main,.app.noleft .main,.app.noficha.noleft .main{grid-template-columns:1fr}
@@ -182,7 +193,7 @@ summary{cursor:pointer;font-weight:600;font-size:13.5px}
   .tabs{display:flex}
   .legend{display:none}
 }
-@media (max-width:600px){.titulo small,.stats{display:none}.barra{gap:8px}}
+@media (max-width:600px){.barra{gap:8px}h1.titulo{font-size:18px}}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .seg button[aria-pressed="true"],:root:not([data-theme="light"]) .tabs button[aria-pressed="true"]{color:#0f1727}}
 :root[data-theme="dark"] .seg button[aria-pressed="true"],:root[data-theme="dark"] .tabs button[aria-pressed="true"]{color:#0f1727}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}

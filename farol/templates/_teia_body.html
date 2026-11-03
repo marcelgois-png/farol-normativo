@@ -1,13 +1,10 @@
-<div class="app" id="app" data-tab="grafo">
+<div class="app noficha" id="app" data-tab="grafo">
   <div class="barra">
-    <div class="titulo">
-      <h1>Teia</h1>
-      <small>Mapa de citações normativas · atualizado em <span id="mData0"></span></small>
-    </div>
+    <h1 class="titulo">Teia de normas</h1>
     <div class="search">
       <div class="sbox">
         <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-        <input id="q" type="text" placeholder="Buscar: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019 · tema:extensão" autocomplete="off" aria-label="Buscar norma">
+        <input id="q" type="text" placeholder="Norma de partida: 29/2020 · estágio · consepe 2015 · orgao:cne ano:2019" autocomplete="off" aria-label="Buscar norma de partida">
         <button class="adv" id="advBtn" aria-pressed="false" title="Busca por vários critérios">Avançada ▾</button>
       </div>
       <div class="advbox" id="advbox" hidden>
@@ -24,8 +21,6 @@
       </div>
       <div class="sugg" id="sugg" hidden></div>
     </div>
-    <div class="stats" id="stats"></div>
-    <div class="panels"><button class="btn" id="btnLeft" aria-pressed="true" title="Mostrar ou esconder os controles">☰ Controles</button><button class="btn" id="btnRight" aria-pressed="true" title="Mostrar ou esconder a ficha">Ficha ▭</button></div>
     <div class="tabs" role="tablist">
       <button id="tabC" aria-pressed="false">Controles</button>
       <button id="tabG" aria-pressed="true">Teia</button>
@@ -38,13 +33,20 @@
       <div class="sec">
         <div class="row"><h2 style="margin:0">Norma de partida</h2><button class="help" data-help="hSem" aria-label="Explicar">?</button></div>
         <div class="helpbox" id="hSem" hidden>
-          <p>A Teia não desenha as 3.884 normas de uma vez. Ela mostra a vizinhança de <b>uma norma de partida</b>, que fica no centro com anel azul. Qualquer norma vira partida: pela busca no topo, com duplo clique num nó ou pelo botão "Tornar partida" na ficha.</p>
+          <p>A Teia não desenha todas as normas de uma vez. Ela mostra a vizinhança de <b>uma norma de partida</b>, que fica no centro com anel amarelo. Qualquer norma vira partida: pela busca no topo, com duplo clique num nó ou pelo botão "Tornar partida" na ficha.</p>
+          <p>Um <b>mapa</b> guarda a norma de partida com direção, profundidade, filtros de relação e data da máquina do tempo. Os <b>mapas de exemplo</b> vêm prontos com a página; os <b>seus mapas</b> ficam guardados só neste navegador.</p>
+        </div>
+        <div class="seedbox" id="seedBox"><span class="hint">Nenhuma norma de partida. Use a busca acima ou um mapa de exemplo.</span></div>
+        <div class="row"><input type="text" id="collName" placeholder="Nome para salvar este mapa" aria-label="Nome do mapa" style="flex:1;min-width:0"><button class="btn" id="collSave" title="Guarda partida, direção, profundidade, filtros de relação e data">Salvar mapa</button></div>
+        <details open><summary>Seus mapas</summary><div class="coll" id="collList" style="margin-top:6px"></div></details>
+        <details open><summary>Mapas de exemplo</summary><div id="presets" style="display:flex;flex-direction:column;gap:5px;margin-top:6px"></div></details>
+      </div>
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Vizinhança</h2><button class="help" data-help="hViz" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hViz" hidden>
           <ul>
             <li><b>Direção</b>: "O que ela cita ou afeta" mostra as normas para as quais a partida aponta (em que se funda, o que altera ou revoga); "Quem a cita ou afeta" mostra as que apontam para ela; "Ambas" junta as duas.</li>
             <li><b>Profundidade</b>: 1 salto é só a vizinhança direta; 2 e 3 saltos incluem as vizinhas das vizinhas, isto é, a cadeia normativa mais longa (resolução → Estatuto → LDB).</li>
-            <li><b>Só relações que mudam vigência</b> esconde as citações de fundamento e deixa só ALTERA, REVOGA, SUPERA e PROPÕE SUBSTITUIR.</li>
-            <li><b>Citações simples</b> (REMETE A) são muitas; ligue-as quando quiser ver quem apenas menciona a norma.</li>
-            <li><b>Sugestões</b> acrescenta normas irmãs e paralelas, em pontilhado, que não têm relação normativa com a partida.</li>
           </ul>
         </div>
         <div class="row">
@@ -63,38 +65,21 @@
             <button data-v="3" aria-pressed="false">3</button>
           </div>
         </div>
-        <label class="ck"><input type="checkbox" id="onlyVig"> Só relações que mudam vigência (ALTERA, REVOGA, SUPERA, PROPÕE SUBSTITUIR)</label>
-        <label class="ck"><input type="checkbox" id="incCit"> Incluir citações simples (REMETE A)</label>
-        <label class="ck"><input type="checkbox" id="incSug"> Mostrar sugestões: normas irmãs e paralelas</label>
-        <label class="ck"><input type="checkbox" id="showLabels" checked> Rótulos em todos os nós (até 80 nós)</label>
-      </div>
-      <div class="sec">
-        <h2>Vista</h2>
-        <div class="seg" id="view">
-          <button data-v="force" aria-pressed="true">Rede</button>
-          <button data-v="time" aria-pressed="false">Cronológico-hierárquica</button>
-        </div>
-      </div>
-      <div class="sec">
-        <div class="row"><h2 style="margin:0">Máquina do tempo</h2><button class="help" data-help="hTm" aria-label="Explicar">?</button></div>
-        <div class="helpbox" id="hTm" hidden>
-          <p>Mostra o ecossistema como vigorava numa data. Normas e relações posteriores à data somem; a situação de cada norma é recalculada só com as alterações e revogações com efeito até ali. Normas da vizinhança que ainda não existiam aparecem tracejadas em azul.</p>
-          <ul>
-            <li><b>Play</b> anima mês a mês, a partir da data escolhida ou de um ano antes da norma mais antiga do recorte, até hoje.</li>
-            <li><b>Pausa</b> congela na data atual; <b>Parar</b> e <b>Hoje</b> voltam para a situação presente.</li>
-            <li><b>Velocidade</b> define quantos segundos dura cada ano.</li>
-          </ul>
-        </div>
-        <div class="row" style="justify-content:space-between"><span class="hint">Ecossistema como vigorava em</span><span class="tm" id="tmLabel">hoje</span></div>
-        <input type="range" id="tm" min="1960" max="2026.9" step="0.0833" value="2026.9" aria-label="Data de referência">
-        <div class="row"><button class="btn" id="tmPlay" aria-label="Reproduzir">▶ Play</button><button class="btn" id="tmPause" aria-label="Pausar">❚❚ Pausa</button><button class="btn" id="tmStop" aria-label="Parar">■ Parar</button><button class="btn" id="tmHoje">Hoje</button></div>
-        <div class="row"><span class="hint">Velocidade</span><select id="tmVel" aria-label="Velocidade"><option value="60">1 ano a cada 1 s</option><option value="120" selected>1 ano a cada 2 s</option><option value="300">1 ano a cada 5 s</option></select></div>
-
       </div>
       <div class="sec">
         <div class="row"><h2 style="margin:0">Filtros</h2><button class="help" data-help="hFil" aria-label="Explicar">?</button></div>
-        <div class="helpbox" id="hFil" hidden><p>Os filtros escondem nós e setas da vizinhança da norma de partida; a partida aparece sempre. Eles se somam: um nó precisa passar por nível, situação, tema e órgão para aparecer, e uma seta precisa ter o tipo marcado. "Limpar filtros" volta ao estado inicial (tudo marcado, sem tema nem órgão, sem citações simples nem sugestões).</p></div>
+        <div class="helpbox" id="hFil" hidden>
+          <p>Os filtros escondem nós e setas da vizinhança da norma de partida; a partida aparece sempre. Eles se somam: um nó precisa passar por nível, situação, tema e órgão para aparecer, e uma seta precisa ter o tipo marcado. "Limpar filtros" volta ao estado inicial (tudo marcado, sem tema nem órgão, sem citações simples nem sugestões).</p>
+          <ul>
+            <li><b>Só relações que mudam vigência</b> esconde as citações de fundamento e deixa só ALTERA, REVOGA, SUPERA e PROPÕE SUBSTITUIR.</li>
+            <li><b>Citações simples</b> (REMETE A) são muitas; ligue-as quando quiser ver quem apenas menciona a norma.</li>
+            <li><b>Sugestões</b> acrescenta normas irmãs e paralelas, em pontilhado, que não têm relação normativa com a partida.</li>
+          </ul>
+        </div>
         <button class="btn" id="limpar">Limpar filtros</button>
+        <label class="ck"><input type="checkbox" id="onlyVig"> Só relações que mudam vigência (ALTERA, REVOGA, SUPERA, PROPÕE SUBSTITUIR)</label>
+        <label class="ck"><input type="checkbox" id="incCit"> Incluir citações simples (REMETE A)</label>
+        <label class="ck"><input type="checkbox" id="incSug"> Mostrar sugestões: normas irmãs e paralelas</label>
         <details open><summary>Nível hierárquico <button class="help" data-help="hNivel" aria-label="Explicar">?</button></summary>
           <div class="helpbox" id="hNivel" hidden>
             <p>O nível vem do <b>órgão que editou o ato</b>, seguindo a hierarquia do projeto: norma inferior não contraria norma superior.</p>
@@ -105,8 +90,8 @@
               <li><b>N4</b> Atos do MEC e de órgãos federais: resoluções e pareceres do CNE, portarias MEC, CAPES, CGU, Ministério da Saúde, conselhos profissionais (CFM, Cofen, Confea…).</li>
               <li><b>N5</b> Estatuto da UFPB (Res. CONSUNI 07/2002, homologado pela Portaria MEC 3.198/2002).</li>
               <li><b>N6</b> Regimentos comuns do art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).</li>
-              <li><b>N7</b> Resoluções do CONSUNI, do CONSEPE e do Conselho Curador. Um regimento de centro aprovado por resolução do CONSUNI fica aqui, porque o ato é do CONSUNI.</li>
-              <li><b>N8</b> Regimentos de centros e órgãos suplementares editados pela própria unidade (ainda sem exemplar no acervo).</li>
+              <li><b>N7</b> Resoluções do CONSUNI, do CONSEPE e do Conselho Curador.</li>
+              <li><b>N8</b> Regimentos de centros, pró-reitorias, superintendências e órgãos suplementares.</li>
               <li><b>N9</b> Normas de conselhos de centro, departamentos, colegiados de curso e PPGs.</li>
               <li><b>N10</b> Portarias e atos da Reitoria e das pró-reitorias.</li>
               <li><b>NT</b> Em tramitação, sem força normativa (minuta do novo Estatuto).</li>
@@ -154,7 +139,7 @@
         </details>
         <details><summary>Tema e órgão emissor <button class="help" data-help="hTema" aria-label="Explicar">?</button></summary>
           <div class="helpbox" id="hTema" hidden>
-            <p><b>Tema</b> é a classificação da ficha de cada norma (graduação, pós-graduação, pessoal docente, estrutura…). Uma norma pode ter vários temas; o filtro mostra só as que têm o tema escolhido. <b>Órgão emissor</b> é quem editou o ato (CONSEPE, CONSUNI, CNE/CES, União…). O número entre parênteses é a quantidade de normas no acervo. A norma semente aparece sempre, mesmo fora do filtro.</p>
+            <p><b>Tema</b> é a classificação da ficha de cada norma (graduação, pós-graduação, pessoal docente, estrutura…). Uma norma pode ter vários temas; o filtro mostra só as que têm o tema escolhido. <b>Órgão emissor</b> é quem editou o ato (CONSEPE, CONSUNI, CNE/CES, União…). O número entre parênteses é a quantidade de normas no acervo. A norma de partida aparece sempre, mesmo fora do filtro.</p>
           </div>
           <div style="display:flex;flex-direction:column;gap:6px;margin-top:6px">
             <select id="fTema" aria-label="Tema"><option value="">Todos os temas</option></select>
@@ -163,23 +148,38 @@
         </details>
       </div>
       <div class="sec">
-        <div class="row"><h2 style="margin:0">Mapas salvos</h2><button class="help" data-help="hMap" aria-label="Explicar">?</button></div>
-        <div class="helpbox" id="hMap" hidden><p>Um mapa salvo guarda a norma de partida com direção, profundidade, filtros de relação e data da máquina do tempo. Os <b>casos para a apresentação</b> vêm prontos com a página: cada um ilustra algo que a Teia revela e o SIGRH não mostra. Os <b>seus mapas</b> ficam guardados só neste navegador.</p></div>
-        <details open><summary>Casos para a apresentação</summary><div id="presets" style="display:flex;flex-direction:column;gap:5px;margin-top:6px"></div></details>
-        <details open><summary>Seus mapas</summary>
-          <div class="row" style="margin-top:6px"><input type="text" id="collName" placeholder="Nome do mapa" aria-label="Nome do mapa" style="flex:1;min-width:0"><button class="btn" id="collSave">Salvar o mapa atual</button></div>
-          <div class="coll" id="collList" style="margin-top:6px"></div>
-        </details>
+        <h2>Vista</h2>
+        <div class="seg" id="view">
+          <button data-v="force" aria-pressed="true">Rede</button>
+          <button data-v="time" aria-pressed="false">Cronológico-hierárquica</button>
+        </div>
+        <label class="ck"><input type="checkbox" id="showLabels" checked> Rótulos em todos os nós (até 80 nós)</label>
+      </div>
+      <div class="sec">
+        <div class="row"><h2 style="margin:0">Máquina do tempo</h2><button class="help" data-help="hTm" aria-label="Explicar">?</button></div>
+        <div class="helpbox" id="hTm" hidden>
+          <p>Mostra o ecossistema como vigorava numa data. Normas e relações posteriores à data somem; a situação de cada norma é recalculada só com as alterações e revogações com efeito até ali. Normas da vizinhança que ainda não existiam aparecem tracejadas em azul.</p>
+          <ul>
+            <li><b>Play</b> anima mês a mês, a partir da data escolhida ou de um ano antes da norma mais antiga do recorte, até hoje.</li>
+            <li><b>Pausa</b> congela na data atual; <b>Parar</b> e <b>Hoje</b> voltam para a situação presente.</li>
+            <li><b>Velocidade</b> define quantos segundos dura cada ano.</li>
+          </ul>
+        </div>
+        <div class="row" style="justify-content:space-between"><span class="hint">Ecossistema como vigorava em</span><span class="tm" id="tmLabel">hoje</span></div>
+        <input type="range" id="tm" min="1960" max="2026.9" step="0.0833" value="2026.9" aria-label="Data de referência">
+        <div class="row"><button class="btn" id="tmPlay" aria-label="Reproduzir">▶ Play</button><button class="btn" id="tmPause" aria-label="Pausar">❚❚ Pausa</button><button class="btn" id="tmStop" aria-label="Parar">■ Parar</button><button class="btn" id="tmHoje">Hoje</button></div>
+        <div class="row"><span class="hint">Velocidade</span><select id="tmVel" aria-label="Velocidade"><option value="60">1 ano a cada 1 s</option><option value="120" selected>1 ano a cada 2 s</option><option value="300">1 ano a cada 5 s</option></select></div>
       </div>
       <div class="sec">
         <h2>Sobre a base</h2>
-        <p class="hint" style="margin:0">Dados da base do Farol (nós, arestas e citações, atualizados em <span id="mData"></span>). O mapa só exibe o que está no acervo; irmãs e paralelas são sugestões, não relações normativas. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes.</p>
+        <div class="stats" id="stats"></div>
+        <p class="hint" style="margin:0">Base do Farol atualizada em <span id="mData"></span>. O mapa só exibe o que está no acervo; irmãs e paralelas são sugestões, não relações normativas. O Farol orienta e não substitui parecer da Procuradoria Federal junto à UFPB nem a deliberação dos órgãos competentes.</p>
       </div>
     </aside>
 
     <section class="stage" id="stage">
       <svg id="svg" role="img" aria-label="Grafo de citações normativas"></svg>
-      <div class="hud"><div class="card" id="hud"><h3>Escolha uma norma de partida</h3><div class="m">Use a busca ou os mapas salvos à esquerda.</div></div><div class="warn" id="warn" hidden></div></div>
+      <div class="hud"><div class="card" id="hud"><h3>Escolha uma norma de partida</h3><div class="m">Use a busca no topo ou um mapa de exemplo nos controles.</div></div><div class="warn" id="warn" hidden></div></div>
       <div class="zoomc"><button id="zIn" aria-label="Aproximar">+</button><button id="zOut" aria-label="Afastar">−</button><button id="zFit" aria-label="Enquadrar" title="Enquadrar">⤢</button></div>
       <div class="legend" id="legend">Simbologia: ver os filtros <b>Situação</b>, <b>Tipo de relação</b> e <b>Nível</b></div>
     </section>
@@ -187,8 +187,8 @@
     <aside class="side right ficha" id="ficha">
       <p class="empty">Clique num nó para ver a ficha: ementa, situação, nível, dispositivos relacionados e link oficial.</p>
     </aside>
-    <button class="edge right" id="toggleFicha" aria-label="Recolher ou abrir a ficha" title="Recolher/abrir ficha">›</button>
-    <button class="edge left" id="toggleLeft" aria-label="Recolher ou abrir os controles" title="Recolher/abrir controles">‹</button>
+    <button class="edge right" id="toggleFicha" aria-expanded="false" title="Mostrar ou recolher a ficha"><span class="arr">‹</span><span class="rot">Ficha</span></button>
+    <button class="edge left" id="toggleLeft" aria-expanded="true" title="Mostrar ou recolher os controles"><span class="arr">‹</span><span class="rot">Controles</span></button>
   </div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
@@ -215,7 +215,7 @@ const S={seed:null,dir:'both',depth:1,cit:false,sug:false,labels:true,view:'forc
 const $=id=>document.getElementById(id);
 
 // cabeçalho
-$('mData0').textContent=pt(D.meta.data_base); $('mData').textContent=pt(D.meta.data_base);
+$('mData').textContent=pt(D.meta.data_base);
 const m=D.meta;
 $('stats').innerHTML=[`<b>${m.nos.toLocaleString('pt-BR')}</b> normas`,`<b>${m.com_texto.toLocaleString('pt-BR')}</b> com texto`,`<b>${m.fantasmas.toLocaleString('pt-BR')}</b> na fila`,`<b>${m.arestas.toLocaleString('pt-BR')}</b> relações`,`<b>${m.citacoes.toLocaleString('pt-BR')}</b> citações`].map(s=>`<span class="chip">${s}</span>`).join('');
 
@@ -253,12 +253,10 @@ $('sitNenhum').onclick=()=>{setAll($('fSit'),S.fS,Object.keys(SIT),false,'s');re
 $('tipTodos').onclick=()=>{setOnlyVig(false);render(true);};
 $('tipNenhum').onclick=()=>{setAll($('fTipo'),S.fK,[],false,'k');$('onlyVig').checked=false;render(true);};
 function relayoutSoon(){requestAnimationFrame(()=>setTimeout(()=>{if(cur)render(S.view==='force');},150));}
-function setFicha(open){$('app').classList.toggle('noficha',!open);$('toggleFicha').textContent=open?'›':'‹';$('btnRight').setAttribute('aria-pressed',String(open));relayoutSoon();}
-function setLeft(open){$('app').classList.toggle('noleft',!open);$('toggleLeft').textContent=open?'‹':'›';$('btnLeft').setAttribute('aria-pressed',String(open));relayoutSoon();}
+function setFicha(open){$('app').classList.toggle('noficha',!open);$('toggleFicha').querySelector('.arr').textContent=open?'›':'‹';$('toggleFicha').setAttribute('aria-expanded',String(open));relayoutSoon();}
+function setLeft(open){$('app').classList.toggle('noleft',!open);$('toggleLeft').querySelector('.arr').textContent=open?'‹':'›';$('toggleLeft').setAttribute('aria-expanded',String(open));relayoutSoon();}
 $('toggleFicha').onclick=()=>setFicha($('app').classList.contains('noficha'));
-$('btnRight').onclick=$('toggleFicha').onclick;
 $('toggleLeft').onclick=()=>setLeft($('app').classList.contains('noleft'));
-$('btnLeft').onclick=$('toggleLeft').onclick;
 $('fTipo').addEventListener('change',ev=>{const k=ev.target.dataset.k;ev.target.checked?S.fK.add(k):S.fK.delete(k);$('onlyVig').checked=VIGK.every(x=>S.fK.has(x))&&[...S.fK].every(x=>VIGK.includes(x));render();});
 const temaCount=new Map(),orgCount=new Map();
 D.nodes.forEach(n=>{n.t.forEach(t=>temaCount.set(t,(temaCount.get(t)||0)+1));if(n.o)orgCount.set(n.o,(orgCount.get(n.o)||0)+1);});
@@ -402,6 +400,7 @@ function render(relayout){if(!S.seed){return;}
   g.nodes.forEach(d=>{const p=prev.get(d.id);if(p){d.x=p.x;d.y=p.y;}});cur=g;
   $('warn').hidden=!g.cut;$('warn').textContent=g.cut?`${g.cut} normas não exibidas (limite de ${MAXN} nós). Reduza a profundidade ou use os filtros.`:'';
   const seedN=NODES.get(S.seed);const nStruct=g.links.filter(l=>!l.e.cit).length,nCit=g.links.filter(l=>l.e.cit&&!l.sug).length;
+  seedBox();
   $('hud').innerHTML=`<h3>${seedN.l}</h3><div class="m">${g.nodes.length-1} normas ligadas · ${nStruct} relações${S.cit?` · ${nCit} citações`:''} · ${S.depth} salto${S.depth>1?'s':''}${S.T?` · em ${pt(S.T)}`:''}</div>`;
   const {w,h}=size();
   const lk=gL.selectAll('path.lk').data(g.links,d=>d.e.i);lk.exit().remove();
@@ -454,7 +453,10 @@ function arc(d){const s=d.source,t=d.target;if(!s||!t||s.x===undefined)return ''
   if(s===t)return `M${s.x},${s.y}c20,-30 50,0 0,20`;return `M${s.x},${s.y}A${dr*1.3},${dr*1.3} 0 0,1 ${ex},${ey}`;}
 function isAdj(a,b){return (OUT.get(a)||[]).some(e=>e.t===b)||(IN.get(a)||[]).some(e=>e.s===b);}
 svg.on('click',()=>{S.sel=null;render(false);});
-function setSeed(id){if(!NODES.has(id))return;S.seed=id;S.sel=id;render(true);ficha(id);try{history.replaceState(null,'','#'+id);}catch(e){}}
+function seedBox(){const n=NODES.get(S.seed);if(!n){return;}const s=sitAt(n,S.T)||n.s;
+  $('seedBox').innerHTML=`<b class="sn">${n.l}</b><span class="row" style="gap:6px"><span class="pill ${s}">${SIT[s]}</span><span class="pill lvl">${n.nv}</span></span><span class="hint">${n.e?n.e.slice(0,140)+(n.e.length>140?'…':''):'sem ementa no acervo'}</span><span class="row" style="gap:6px;margin-top:2px"><button class="btn mini" id="seedFicha">Ver ficha</button><a class="btn mini" href="../norma/${n.id.replace(/\?/g,'_')}/" target="_blank" rel="noopener">Texto e ficha completa ↗</a></span>`;
+  $('seedFicha').onclick=()=>select(S.seed);}
+function setSeed(id){if(!NODES.has(id))return;S.seed=id;S.sel=id;render(true);ficha(id);seedBox();try{history.replaceState(null,'','#'+id);}catch(e){}}
 function select(id){S.sel=id;render(false);ficha(id);if(window.innerWidth<=1000)showTab('ficha');else if($('app').classList.contains('noficha'))setFicha(true);}
 
 // ficha
