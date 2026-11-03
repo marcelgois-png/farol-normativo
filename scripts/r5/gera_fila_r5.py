@@ -6,7 +6,7 @@ N = {r["id"]: r for r in csv.DictReader(open(f"{REPO}/base/nos.csv", encoding="u
 A = list(csv.DictReader(open(f"{REPO}/base/arestas.csv", encoding="utf-8")))
 cit = collections.Counter(a["destino"] for a in A if a["origem"].startswith("UFPB-") and a["destino"] in N)
 cit_tot = collections.Counter(a["destino"] for a in A if a["destino"] in N and not N.get(a["origem"],{}).get("status_coleta","").startswith(("citada","não","na fila","arquivo","alteradora")))
-sem = [n for n in N.values() if not n["status_coleta"].startswith("texto") and not n["status_coleta"].startswith("alteradora anotada")]
+sem = [n for n in N.values() if not n["status_coleta"].startswith("texto") and not n["status_coleta"].startswith(("alteradora anotada", "fora do escopo"))]
 def grupo(i):
     if re.match(r"UFPB-(CONSEPE|CONSUNI|CURADOR)-", i): return "Resoluções dos conselhos superiores da UFPB sem texto"
     if i.startswith("UFPB-REGIMENTO-"): return "Regimentos de unidades (pedido da coordenação em 02/11/2026)"
@@ -23,7 +23,7 @@ ordem = ["Resoluções dos conselhos superiores da UFPB sem texto", "MEC e autar
 out = ["# Farol Normativo · Fila de coleta (após a Rodada 5)", "",
        "Atualizada em 02/11/2026 (Rodada 5). Normas citadas no acervo e ainda sem texto, ordenadas pelo número de resoluções da UFPB que as citam. A lista completa está em `base/nos.csv` (status_coleta diferente de \"texto integral\"). "
        "Status \"fonte oficial não acessível\": o ato foi identificado, mas não há texto em fonte oficial alcançável. Status \"norma estadual ou municipal, fora da fonte federal (Rodada 4)\": a citação é a lei ou decreto de outro ente federativo (Paraíba, João Pessoa, Santa Rita, Rio Tinto, Mamanguape), cuja fonte oficial não foi coletada nesta rodada. "
-       "Status \"citada — não localizada em fonte oficial acessível (Rodada 4)\": o ato foi procurado no portal oficial e não consta do índice (ex.: pareceres antigos do CNE; portarias do MEC e da CAPES anteriores a 2013, que o índice pesquisável do DOU não cobre; Lei estadual 875/1953 ausente do SAPL da ALPB). As 885 leis e decretos que só constam como alteradoras anotadas em textos consolidados do planalto (D90) ficaram fora desta fila; estão em `nos.csv` com status próprio.", ""]
+       "Status \"citada — não localizada em fonte oficial acessível (Rodada 4)\": o ato foi procurado no portal oficial e não consta do índice (ex.: pareceres antigos do CNE; portarias do MEC e da CAPES anteriores a 2013, que o índice pesquisável do DOU não cobre; Lei estadual 875/1953 ausente do SAPL da ALPB). Escopo (D104, decisão da coordenação de 02/11/2026): a fila contém só as normas da UFPB e as normas externas citadas diretamente por elas. Ficam fora, com status próprio em `nos.csv`, as alteradoras só anotadas em textos compilados (D90), os atos que só alteram ou revogam norma citada pela UFPB (coleta por demanda) e as normas citadas só por normas externas.", ""]
 for g in ordem:
     lst = G.get(g, [])
     if not lst: continue

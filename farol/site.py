@@ -302,11 +302,16 @@ class Gerador:
         b = self.base
         grupos: dict[str, list[Norma]] = {}
         alteradoras: list[Norma] = []
+        fora_vig: list[Norma] = []
+        fora_ext: list[Norma] = []
         for n in b.normas.values():
             if not n.fantasma:
                 continue
             if n.status_coleta.startswith("alteradora anotada"):
                 alteradoras.append(n)   # D90: só aparecem como alteradoras anotadas em texto compilado; fora da fila
+                continue
+            if n.status_coleta.startswith("fora do escopo"):
+                (fora_vig if "vigência" in n.status_coleta else fora_ext).append(n)   # D104
                 continue
             if n.id.startswith("UFPB-CONS") or n.id.startswith("UFPB-CURADOR"):
                 g = "Resoluções dos conselhos superiores (pedido à SODS)"
@@ -335,15 +340,24 @@ class Gerador:
             linhas = [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)),
                        html.escape(n.ementa or n.obs) + (f' · <a href="{html.escape(n.fonte)}" target="_blank" rel="noopener">site da unidade ↗</a>' if n.id.startswith("UFPB-REGIMENTO-") and n.fonte else "")] for n in lst]
             blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "texto": texto, "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"], "linhas": linhas})
+        colunas = ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"]
+        for nome, lst, txt in (("Fora da fila: alteram ou revogam norma citada pela UFPB", fora_vig,
+                                "Atos externos que não são citados por norma da UFPB, mas alteram ou revogam uma norma que ela cita. Importam para saber se a norma citada continua em vigor; são coletados por demanda (D104)."),
+                               ("Fora da fila: citadas só por normas externas", fora_ext,
+                                "Normas citadas apenas por leis, decretos e atos externos já coletados (expansão em cadeia), sem ligação direta com norma da UFPB. Continuam no mapa como nós sem texto; voltam à fila se uma norma da UFPB passar a citá-las (D104).")):
+            if lst:
+                lst.sort(key=lambda n: -b.grau_entrada(n.id))
+                blocos.append({"id": re.sub(r"[^a-z]+", "-", nome.lower()), "titulo": nome, "texto": txt, "colunas": colunas,
+                               "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in lst]})
         if alteradoras:
             alteradoras.sort(key=lambda n: n.id)
             blocos.append({"id": "alteradoras-anotadas", "titulo": "Fora da fila: alteradoras anotadas em textos compilados",
                            "texto": "Leis e decretos que só aparecem nas notas de redação dos textos compilados do planalto (\"Redação dada pela Lei…\", \"Revogado pelo Decreto…\"). Nenhuma norma do acervo os cita; o efeito deles já está no texto compilado da norma alterada. Ficam fora da fila por citação e são coletados só por demanda (divergência D90).",
                            "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"],
                            "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in alteradoras]})
-        resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem] + ([("fora da fila: alteradoras anotadas (D90)", len(alteradoras))] if alteradoras else [])
+        resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem] + [(r, len(l)) for r, l in (("fora da fila: alteram ou revogam norma citada pela UFPB", fora_vig), ("fora da fila: citadas só por normas externas", fora_ext), ("fora da fila: alteradoras anotadas (D90)", alteradoras)) if l]
         self._render("painel.html", "fila/index.html", "../", secao="fila", titulo="Fila de coleta",
-                     lead="Normas ainda sem texto no acervo: as citadas por outras normas (aparecem tracejadas na Teia) e os regimentos de unidades pedidos pela coordenação. A coluna de vigência mostra o que as normas já lidas dizem sobre cada uma; nada aqui afirma que uma norma não lida está em vigor. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",
+                     lead="Normas ainda sem texto no acervo que estão no escopo da coleta: as normas da UFPB, as normas externas citadas diretamente por elas e os regimentos de unidades pedidos pela coordenação. As demais normas sem texto aparecem no fim, fora da fila. A coluna de vigência mostra o que as normas já lidas dizem sobre cada uma; nada aqui afirma que uma norma não lida está em vigor. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",
                      resumo=resumo, blocos=blocos)
 
     def _vigencia_registrada(self, n: Norma) -> str:

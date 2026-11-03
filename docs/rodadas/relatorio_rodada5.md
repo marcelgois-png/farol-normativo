@@ -79,7 +79,11 @@ Feitas com `scripts/r5/correcoes_r5.py`, a partir das pendências 1 e 2 deste re
 3. **Relações cronologicamente impossíveis** (D102): 8 relações em que a norma anterior "altera" ou "revoga" a posterior (ex.: Lei 5.540/1968 → LDB de 1996; Lei 10.667/2003 → MP 1.042/2021) — anotações de redação ligadas no sentido inverso — rebaixadas a REMETE A, sem efeito na vigência.
 4. **"Lei nº 13.241, de 1941"** na página do planalto da Lei 11.196/2005 é a Lei 13.241/2015 (D103).
 
-## 8. Pendências
+## 8. Escopo da fila (D104, decisão da coordenação de 02/11/2026)
+
+A fila passa a conter só as normas da UFPB e as normas externas citadas diretamente por elas: **613 normas** (350 da UFPB, entre resoluções dos conselhos, normas de unidades e regimentos, e 263 externas). Das 2.833 normas sem texto ao fim da rodada, 1.973 eram citadas só por outras normas externas (expansão em cadeia das leis federais) e 247 só alteram ou revogam uma norma citada pela UFPB; essas saem da fila com status próprio ("fora do escopo"), continuam no mapa como nós sem texto e voltam à fila se uma norma da UFPB passar a citá-las (`scripts/escopo.py`, rodado após cada integração). As 247 da cadeia de vigência ficam disponíveis para coleta por demanda.
+
+## 9. Pendências
 
 1. DLG 143/2002 e DLG 66/1990: texto no Senado Federal (legis.senado.leg.br), ainda não coletado.
 2. Os cabeçalhos dos textos `.md` das Rodadas 2–4 mostram a situação da época em que foram gerados; a situação atualizada está na base (`nos.csv`) e no site.

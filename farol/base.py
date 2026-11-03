@@ -233,8 +233,8 @@ class Base:
             "normas": len(self.normas),
             "com_texto": sum(1 for n in self.normas.values() if n.texto_path is not None),
             # fila de coleta: sem texto, exceto as alteradoras só anotadas em textos compilados (D90), que ficam fora da fila
-            "fantasmas": sum(1 for n in self.normas.values() if n.fantasma and not n.status_coleta.startswith("alteradora anotada")),
-            "fora_fila": sum(1 for n in self.normas.values() if n.fantasma and n.status_coleta.startswith("alteradora anotada")),
+            "fantasmas": sum(1 for n in self.normas.values() if n.fantasma and not n.status_coleta.startswith(("alteradora anotada", "fora do escopo"))),
+            "fora_fila": sum(1 for n in self.normas.values() if n.fantasma and n.status_coleta.startswith(("alteradora anotada", "fora do escopo"))),
             "relacoes": len(self.relacoes),
             "relacoes_estruturais": sum(1 for r in self.relacoes if not r.citacao_simples),
             "citacoes_simples": sum(1 for r in self.relacoes if r.citacao_simples),
