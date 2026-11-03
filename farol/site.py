@@ -301,8 +301,12 @@ class Gerador:
     def _fila(self):
         b = self.base
         grupos: dict[str, list[Norma]] = {}
+        alteradoras: list[Norma] = []
         for n in b.normas.values():
             if not n.fantasma:
+                continue
+            if n.status_coleta.startswith("alteradora anotada"):
+                alteradoras.append(n)   # D90: só aparecem como alteradoras anotadas em texto compilado; fora da fila
                 continue
             if n.id.startswith("UFPB-CONS") or n.id.startswith("UFPB-CURADOR"):
                 g = "Resoluções dos conselhos superiores (pedido à SODS)"
@@ -331,7 +335,13 @@ class Gerador:
             linhas = [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)),
                        html.escape(n.ementa or n.obs) + (f' · <a href="{html.escape(n.fonte)}" target="_blank" rel="noopener">site da unidade ↗</a>' if n.id.startswith("UFPB-REGIMENTO-") and n.fonte else "")] for n in lst]
             blocos.append({"id": re.sub(r"[^a-z]+", "-", g.lower()), "titulo": g, "texto": texto, "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"], "linhas": linhas})
-        resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem]
+        if alteradoras:
+            alteradoras.sort(key=lambda n: n.id)
+            blocos.append({"id": "alteradoras-anotadas", "titulo": "Fora da fila: alteradoras anotadas em textos compilados",
+                           "texto": "Leis e decretos que só aparecem nas notas de redação dos textos compilados do planalto (\"Redação dada pela Lei…\", \"Revogado pelo Decreto…\"). Nenhuma norma do acervo os cita; o efeito deles já está no texto compilado da norma alterada. Ficam fora da fila por citação e são coletados só por demanda (divergência D90).",
+                           "colunas": ["Norma", "Situação da coleta", "Vigência registrada no acervo", "Citada por", "Descrição / observação"],
+                           "linhas": [[self._link(n.id), html.escape(n.status_coleta), self._vigencia_registrada(n), _br(b.grau_entrada(n.id)), html.escape(n.ementa or n.obs)] for n in alteradoras]})
+        resumo = [("na fila, sem texto", sum(len(v) for v in grupos.values()))] + [(g, len(v)) for g, v in ordem] + ([("fora da fila: alteradoras anotadas (D90)", len(alteradoras))] if alteradoras else [])
         self._render("painel.html", "fila/index.html", "../", secao="fila", titulo="Fila de coleta",
                      lead="Normas ainda sem texto no acervo: as citadas por outras normas (aparecem tracejadas na Teia) e os regimentos de unidades pedidos pela coordenação. A coluna de vigência mostra o que as normas já lidas dizem sobre cada uma; nada aqui afirma que uma norma não lida está em vigor. A lista das resoluções dos conselhos superiores é o pedido feito à SODS.",
                      resumo=resumo, blocos=blocos)
