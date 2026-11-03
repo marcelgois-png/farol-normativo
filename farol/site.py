@@ -26,6 +26,11 @@ _RE_ID = re.compile(r"\b((?:UFPB|BR|PB|OUTRO)-[A-Z0-9?\-]+-[0-9A-Z]+-(?:\d{4}|\?
 _RE_DISP_RESTO = re.compile(r"\bart(?:igo)?s?\.?\s*|\d+\s*[ºo°]?(?:-[A-Za-z]\b)?|\b(?:e|a|ou|até)\b|[;,]", re.I)
 
 
+def _tabelas_md(htm: str) -> str:
+    """Tabelas vindas do Markdown ganham a caixa de rolagem com cabeçalho fixo (.tabela)."""
+    return htm.replace("<table>", '<div class="tabela"><table>').replace("</table>", "</table></div>")
+
+
 def _br(v) -> str:
     try:
         return f"{int(v):,}".replace(",", ".")
@@ -302,7 +307,7 @@ class Gerador:
             import markdown
 
             md = p.read_text(encoding="utf-8")
-            blocos.append({"id": "registro", "titulo": "Registro de divergências (Rodadas 0 e 1)", "html": '<div class="card md">' + markdown.markdown(self._ids_para_links_html_md(md), extensions=["tables"]) + "</div>"})
+            blocos.append({"id": "registro", "titulo": "Registro de divergências (Rodadas 0 e 1)", "html": '<div class="card md">' + _tabelas_md(markdown.markdown(self._ids_para_links_html_md(md), extensions=["tables"])) + "</div>"})
         self._render("painel.html", "divergencias/index.html", "../", secao="divergencias", titulo="Divergências e decisões",
                      lead="Conflitos de vigência, fundamentos em norma revogada, números citados que não correspondem ao assunto e decisões tomadas pela leitura direta dos textos. Nada aqui resolve o conflito: registra e explica.",
                      resumo=None, blocos=blocos)
@@ -408,7 +413,7 @@ class Gerador:
             import markdown
 
             for p in sorted(pasta.glob("*.md")):
-                htm = markdown.markdown(self._ids_para_links_html_md(p.read_text(encoding="utf-8")), extensions=["tables"])
+                htm = _tabelas_md(markdown.markdown(self._ids_para_links_html_md(p.read_text(encoding="utf-8")), extensions=["tables"]))
                 titulo = re.sub(r"^#\s*(Oraculovski\s*·\s*)?", "", p.read_text(encoding="utf-8").split("\n", 1)[0])
                 rel = f"sobre/{p.stem}.html"
                 self._raiz_rel = "../"
