@@ -148,4 +148,6 @@ Também em 03/11/2026, a Teia foi reorganizada: barra de ferramentas enxuta (tí
 
 Ainda em 03/11/2026: filtros de seleção múltipla (com "Todos" e "Nenhum") na busca, na busca avançada da Teia e nos controles de tema e órgão; resultados das normas mais novas para as mais antigas; o texto digitado passa para a busca avançada; palco da Teia sem o fundo de círculos.
 
+Ainda em 03/11/2026, o livro **Tutoriais do Farol Normativo** foi publicado no Ajuda CT (https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo, estante Direção de Centro): Apresentação e dez tutoriais (FAROL01 a FAROL10 — primeiro acesso, busca, ficha, texto integral, Teia em duas partes, Estatuto e regimentos, vigência, divergências e fila de coleta), no modelo dos tutoriais do Ajuda (seções I a IX, 48 telas do site, fluxograma draw.io editável e expediente da Direção do CT). Fontes em `docs/tutorial/` e `scripts/tutorial/`; cópia em `Documents\Oraculovski\Tutoriais Ajuda CT`. Mudança visível na interface pede revisão da página correspondente (R01, R02…).
+
 Próximo passo (M3): revisão de OCR das normas estruturais mais citadas, vista por artigo na Teia e aproveitamento dos links da página do Regimento Geral na fila; em paralelo, pedir à STI o endereço farol.ufpb.br.

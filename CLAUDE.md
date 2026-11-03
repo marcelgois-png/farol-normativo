@@ -10,7 +10,7 @@ Leia `docs/plano.md` antes de propor mudanças de rumo. Este arquivo tem as regr
 - `textos/` — um Markdown por norma com texto integral, em `textos/<ÓRGÃO>/<ano>/<ID>.md` (UFPB), `textos/<GRUPO>/<ID>.md` (federais, CNE, PB para leis da Paraíba, outros) ou `textos/SODS/<ID>.md` (textos consolidados das páginas da SODS, gerados por `python -m farol sods` a partir de `base/sods/`). Cabeçalho YAML com id, datas, nível, situação, fonte oficial, método de extração e aviso de OCR; depois um resumo e a seção `## Texto integral` (ou `## Texto`).
 - `farol/` — o gerador (Python). `base.py` lê e valida; `texto.py` converte o Markdown em HTML com âncoras e links; `grafo.py` deriva dados da Teia, sugestões, dispositivos e as anotações de vigência por artigo (`notas_por_artigo`); `site.py` monta as páginas; `templates/` e `static/` (CSS com os tokens da identidade UFPB, marca `ufpb-lockup.png`, brasão `ufpb-brasao.png`, `favicon.svg`).
 - `site/` — saída gerada; não é versionada. Publicada no GitHub Pages pela ação em `.github/workflows/`.
-- `docs/` — plano, relatórios das rodadas e material para a SODS.
+- `docs/` — plano, relatórios das rodadas, material para a SODS e `tutorial/` (fontes do livro "Tutoriais do Farol Normativo" no Ajuda CT: Markdown FAROL00–FAROL10, telas em `img/`, fluxogramas `.drawio`; conversor e fluxogramas em `scripts/tutorial/`).
 - `tests/` — testes do gerador (pytest).
 
 ## Comandos
@@ -53,6 +53,7 @@ python -m http.server 8000 --directory site   # para abrir o site localmente
 - Divergências: a página mostra uma tabela única gerada de `base/divergencias/catalogo.csv`, produzido por `python scripts/catalogo_divergencias.py` a partir do registro em Markdown (casos D), de `decisoes_vigencia.json` e dos CSV das conferências. Cada divergência tem categoria A–F, subtipo (A1…F2), gravidade 1–5 atribuída por regra do subtipo e número estável `<subtipo>-<sequência>`; os casos D originais ficam na coluna registro. Depois de alterar qualquer fonte de divergências, rodar o script (os números já atribuídos são preservados) e versionar o catálogo. Tabelas longas (≥30 linhas) ganham campo de filtro de linhas (`tabelas.js`). A legenda (categorias, subtipos, gravidade) fica na página Sobre, que também explica níveis, situações, tipos de relação e símbolos da Teia com os mesmos tokens de cor.
 - Tema claro/escuro: botão na barra de título (`_cabecalho.html`) grava `farol-tema` no localStorage; `_tema_head.html` aplica a escolha antes da pintura em todas as páginas. O CSS trata `[data-theme="dark"]`, `[data-theme="light"]` e, sem escolha, `prefers-color-scheme`.
 - Mudança em template ou CSS: gerar com `--limite-textos 20`, abrir no navegador, só então gerar o site inteiro.
+- Mudança visível na interface (rótulo, botão, painel, ordem dos controles): conferir o passo e a tela do tutorial em `docs/tutorial/` (telas capturadas do site gerado localmente) e publicar a revisão da página no Ajuda CT (R01, R02…, com Data da Revisão no expediente). Os IDs das páginas, dos desenhos e das imagens estão em `docs/tutorial/html/publicacao.json` e `imagens.json`.
 - Textos de OCR podem ter números trocados; links de citação no texto vêm da coluna `citacao` da base e só são criados quando a citação aponta para uma única norma.
 
 ## Pendências conhecidas
