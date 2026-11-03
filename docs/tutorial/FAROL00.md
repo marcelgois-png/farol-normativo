@@ -27,6 +27,8 @@ O Farol Normativo fica em [https://marcelgois-png.github.io/farol-normativo/](ht
 
 A tabela segue a ordem em que os recursos costumam ser usados numa consulta: da busca à ficha e ao texto da norma, e daí à Teia e aos painéis de vigência, divergências e fila.
 
+<!-- larguras: 8 34 38 20 -->
+
 | Ordem | Tutorial | Quando usar | Quem usa |
 |---|---|---|---|
 | 1 | [FAROL01 – Primeiro Acesso, Página Inicial e Navegação](ajuda:FAROL01) | Primeira vez no Farol; conhecer o menu, os exemplos, o tema claro ou escuro e o guia de símbolos. | Todos |
@@ -44,15 +46,17 @@ A tabela segue a ordem em que os recursos costumam ser usados numa consulta: da 
 
 As regras abaixo valem para todo o Farol e explicam o que aparece, e o que não aparece, nas telas.
 
+<!-- larguras: 24 62 14 -->
+
 | Regra | O que significa na consulta | Tutorial |
 |---|---|---|
-| Só fonte oficial | Cada norma traz o link para o texto oficial (SODS, SIGRH, sig-arq, planalto.gov.br, DOU, MEC). Resumo de terceiros não é fonte. | FAROL03 |
-| O texto não é editado à mão | O texto integral vem da extração do original (camada de texto do PDF, OCR ou página oficial). Texto obtido por OCR pode ter números trocados: confira no PDF oficial antes de citar. | FAROL04 |
-| Nada é inventado | Norma citada que não está no acervo aparece como "não localizada" e entra na fila de coleta; o Farol não supõe número, artigo nem data. | FAROL10 |
-| Hierarquia de N1 a N10 | O nível vem do órgão que editou o ato: da Constituição (N1) às portarias da Reitoria e das pró-reitorias (N10). NT indica norma em tramitação, sem força normativa. | FAROL01 |
-| Vigência conferida no texto | A situação vem do texto das normas posteriores, não só do registro do SIGRH. Norma inferior não altera nem revoga a superior; a revogação expressa prevalece sobre alteração posterior. | FAROL08 |
-| Conflito é registrado, não resolvido | Leituras contraditórias ficam registradas como divergência, com as duas leituras e as fontes. A decisão cabe à Procuradoria Federal junto à UFPB ou ao conselho competente. | FAROL09 |
-| Sugestão não é relação normativa | Normas irmãs e paralelas aparecem como sugestão, em pontilhado, e nunca entram no cálculo da vigência. | FAROL05 |
+| Só fonte oficial | Cada norma traz o link para o texto oficial (SODS, SIGRH, sig-arq, planalto.gov.br, DOU, MEC). Resumo de terceiros não é fonte. | [FAROL03](ajuda:FAROL03) |
+| O texto não é editado à mão | O texto integral vem da extração do original (camada de texto do PDF, OCR ou página oficial). Texto obtido por OCR pode ter números trocados: confira no PDF oficial antes de citar. | [FAROL04](ajuda:FAROL04) |
+| Nada é inventado | Norma citada que não está no acervo aparece como "não localizada" e entra na fila de coleta; o Farol não supõe número, artigo nem data. | [FAROL10](ajuda:FAROL10) |
+| Hierarquia de N1 a N10 | O nível vem do órgão que editou o ato: da Constituição (N1) às portarias da Reitoria e das pró-reitorias (N10). NT indica norma em tramitação, sem força normativa. | [FAROL01](ajuda:FAROL01) |
+| Vigência conferida no texto | A situação vem do texto das normas posteriores, não só do registro do SIGRH. Norma inferior não altera nem revoga a superior; a revogação expressa prevalece sobre alteração posterior. | [FAROL08](ajuda:FAROL08) |
+| Conflito é registrado, não resolvido | Leituras contraditórias ficam registradas como divergência, com as duas leituras e as fontes. A decisão cabe à Procuradoria Federal junto à UFPB ou ao conselho competente. | [FAROL09](ajuda:FAROL09) |
+| Sugestão não é relação normativa | Normas irmãs e paralelas aparecem como sugestão, em pontilhado, e nunca entram no cálculo da vigência. | [FAROL05](ajuda:FAROL05) |
 
 ## VII. Mapa de uma consulta no Farol
 

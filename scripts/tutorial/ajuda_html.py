@@ -104,6 +104,18 @@ def md2ajuda(md, exped_vals, imagens, pags):
                lambda m: '<tbody><tr>' + re.sub(r'<th[^>]*>(.*?)</th>', r'<td><p><strong>\1</strong></p></td>', m.group(1), flags=re.S) + '</tr>',
                h, flags=re.S)
     h = re.sub(r'<td>(?!<p>)(.*?)</td>', r'<td><p>\1</p></td>', h, flags=re.S)
+
+    # <!-- larguras: 8 32 40 20 --> antes da tabela fixa a largura (%) das colunas na primeira linha
+    def larguras(m):
+        ws = m.group(1).split()
+        tabela = m.group(2)
+        i = tabela.index('<tr>')
+        j = tabela.index('</tr>', i)
+        linha = tabela[i:j]
+        for w in ws:
+            linha = linha.replace('<td>', f'<td style="width: {w}%;">', 1)
+        return tabela[:i] + linha + tabela[j:]
+    h = re.sub(r'<!-- larguras: ([\d. ]+) -->\s*(<table.*?</table>)', larguras, h, flags=re.S)
     h = re.sub(r'<a href="(https?://[^"]+)">', r'<a href="\1" target="_blank">', h)
     h = re.sub(r'>\n+<', '><', h).replace('\n', ' ').strip()
     return h.replace('{{EXPEDIENTE}}', expediente(exped_vals))

@@ -1,0 +1,63 @@
+{
+ "livro": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo",
+ "livro_id": 102,
+ "estante": "https://ajuda.ct.ufpb.br/shelves/direcao-de-centro",
+ "publicado_em": "2026-11-03",
+ "paginas": {
+  "FAROL00": {
+   "id": 963,
+   "drawio": 1997,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol00-apresentacao"
+  },
+  "FAROL01": {
+   "id": 964,
+   "drawio": 2005,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol01r00-farol-normativo-primeiro-acesso-pagina-inicial-e-navegacao"
+  },
+  "FAROL02": {
+   "id": 965,
+   "drawio": 2011,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol02r00-farol-normativo-busca-de-normas"
+  },
+  "FAROL03": {
+   "id": 966,
+   "drawio": 2017,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol03r00-farol-normativo-ficha-da-norma"
+  },
+  "FAROL04": {
+   "id": 967,
+   "drawio": 2022,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol04r00-farol-normativo-texto-integral-e-anotacoes-de-vigencia"
+  },
+  "FAROL05": {
+   "id": 968,
+   "drawio": 2030,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol05r00-farol-normativo-teia-de-normas-norma-de-partida-vizinhanca-e-ficha"
+  },
+  "FAROL06": {
+   "id": 969,
+   "drawio": 2037,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol06r00-farol-normativo-teia-de-normas-filtros-vista-maquina-do-tempo-e-mapas"
+  },
+  "FAROL07": {
+   "id": 970,
+   "drawio": 2041,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol07r00-farol-normativo-estatuto-e-regimentos"
+  },
+  "FAROL08": {
+   "id": 971,
+   "drawio": 2045,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol08r00-farol-normativo-quadro-de-vigencia"
+  },
+  "FAROL09": {
+   "id": 972,
+   "drawio": 2051,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol09r00-farol-normativo-divergencias-e-decisoes"
+  },
+  "FAROL10": {
+   "id": 973,
+   "drawio": 2055,
+   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol10r00-farol-normativo-fila-de-coleta"
+  }
+ }
+}

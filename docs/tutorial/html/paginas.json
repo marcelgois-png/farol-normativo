@@ -4,7 +4,7 @@
   "slug": "farol00-apresentacao",
   "url": "https://ajuda.ct.ufpb.br/books/tutoriais-do-farol-normativo/page/farol00-apresentacao",
   "imagens": [],
-  "bytes": 11610
+  "bytes": 12809
  },
  "FAROL01": {
   "nome": "FAROL01R00 - Farol Normativo - Primeiro Acesso, Página Inicial e Navegação",
@@ -19,7 +19,7 @@
    "farol01-05-sobre",
    "farol01-06-rodape"
   ],
-  "bytes": 9364
+  "bytes": 10330
  },
  "FAROL02": {
   "nome": "FAROL02R00 - Farol Normativo - Busca de Normas",
@@ -32,7 +32,7 @@
    "farol02-04-filtro-aberto",
    "farol02-05-filtro-aplicado"
   ],
-  "bytes": 7574
+  "bytes": 8264
  },
  "FAROL03": {
   "nome": "FAROL03R00 - Farol Normativo - Ficha da Norma",
@@ -45,7 +45,7 @@
    "farol03-04-dispositivos",
    "farol03-05-irmas"
   ],
-  "bytes": 9111
+  "bytes": 9801
  },
  "FAROL04": {
   "nome": "FAROL04R00 - Farol Normativo - Texto Integral e Anotações de Vigência",
@@ -57,7 +57,7 @@
    "farol04-03-ir-ao-art",
    "farol04-04-citacoes"
   ],
-  "bytes": 7346
+  "bytes": 7898
  },
  "FAROL05": {
   "nome": "FAROL05R00 - Farol Normativo - Teia de Normas: Norma de Partida, Vizinhança e Ficha",
@@ -72,7 +72,7 @@
    "farol05-06-exemplos",
    "farol05-07-celular"
   ],
-  "bytes": 10197
+  "bytes": 11163
  },
  "FAROL06": {
   "nome": "FAROL06R00 - Farol Normativo - Teia de Normas: Filtros, Vista, Máquina do Tempo e Mapas",
@@ -86,7 +86,7 @@
    "farol06-05-salvar",
    "farol06-06-avancada"
   ],
-  "bytes": 9299
+  "bytes": 10127
  },
  "FAROL07": {
   "nome": "FAROL07R00 - Farol Normativo - Estatuto e Regimentos",
@@ -97,7 +97,7 @@
    "farol07-02-regimentos",
    "farol07-03-unidades"
   ],
-  "bytes": 7609
+  "bytes": 8023
  },
  "FAROL08": {
   "nome": "FAROL08R00 - Farol Normativo - Quadro de Vigência",
@@ -108,7 +108,7 @@
    "farol08-02-filtro",
    "farol08-03-ordenar"
   ],
-  "bytes": 7517
+  "bytes": 7931
  },
  "FAROL09": {
   "nome": "FAROL09R00 - Farol Normativo - Divergências e Decisões",
@@ -121,7 +121,7 @@
    "farol09-04-legenda",
    "farol09-05-categorias"
   ],
-  "bytes": 7892
+  "bytes": 8582
  },
  "FAROL10": {
   "nome": "FAROL10R00 - Farol Normativo - Fila de Coleta",
@@ -132,6 +132,6 @@
    "farol10-02-vigencia",
    "farol10-03-fora"
   ],
-  "bytes": 6796
+  "bytes": 7210
  }
 }
