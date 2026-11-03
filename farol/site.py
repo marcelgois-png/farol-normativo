@@ -214,17 +214,33 @@ class Gerador:
         blocos = []
         # normas da UFPB com alteração ou revogação, por situação
         for chave, titulo, texto in [
-            ("conflito", "Conflitos de vigência", "Leituras contraditórias registradas como divergência; o acervo não escolhe a leitura."),
-            ("verificar", "A verificar", "O arquivo do SIGRH contém o texto de outra norma."),
-            ("revogada", "Normas revogadas", "Revogação expressa e integral por norma posterior, conferida no texto da revogadora."),
-            ("alterada", "Normas alteradas ou revogadas em parte", "Inclui dispositivos superados por norma superior."),
+            ("conflito", "Conflitos de vigência",
+             "Casos em que os próprios textos oficiais se contradizem sobre a norma estar ou não em vigor. Os quatro registrados são de três tipos: "
+             "(1) uma resolução posterior declara a norma revogada, mas outra resolução do mesmo processo, ou do mesmo Conselho em data posterior, "
+             "continua a alterá-la ou a tratá-la como vigente; (2) a revogação, lida ao pé da letra, atinge a norma inteira, mas o contexto do ato revogador "
+             "mostra que o alvo eram só alguns dispositivos; (3) a revogação cita um número que, pelo assunto, parece ser de outra norma (erro material provável). "
+             "Em cada caso há duas leituras possíveis: a literal (revogada) e a do contexto (em vigor, ou revogada só em parte). O Farol registra as duas, "
+             "com a fonte de cada uma, e não decide qual prevalece: essa escolha cabe à Procuradoria Federal junto à UFPB ou ao Conselho que editou os atos. "
+             "A coluna Base mostra os atos envolvidos; o registro completo está em Divergências."),
+            ("verificar", "A verificar",
+             "O arquivo publicado no SIGRH para estas normas contém o texto de outra norma; sem o texto correto não é possível conferir a vigência. "
+             "A situação permanece em aberto até que a SODS forneça o arquivo certo."),
+            ("revogada", "Normas revogadas",
+             "Revogação expressa e integral, declarada no texto de uma norma posterior (\"fica revogada a Resolução nº…\") e conferida nesse texto, "
+             "não apenas no registro do SIGRH. A norma deixou de valer inteira; o texto fica no acervo para consulta histórica."),
+            ("alterada", "Normas alteradas ou revogadas em parte",
+             "Parte dos dispositivos foi alterada ou revogada por norma posterior, ou perdeu efeito porque uma norma superior passou a dispor de outro modo "
+             "(SUPERA, sem revogação expressa). O restante continua em vigor. No texto integral de cada uma, os artigos alcançados trazem a anotação com a norma que os alcança."),
         ]:
             linhas = []
             for n in sorted((x for x in b.normas.values() if x.situacao_chave == chave and not x.federal), key=lambda x: (x.orgao, x.ano, x.numero)):
                 linhas.append([self._link(n.id), html.escape(n.orgao), html.escape(n.ano), html.escape(n.situacao), self._ids_para_links_html(n.situacao_base)])
             blocos.append({"id": chave, "titulo": titulo + " (UFPB)", "texto": texto, "colunas": ["Norma", "Órgão", "Ano", "Situação", "Base"], "linhas": linhas})
         self._render("painel.html", "vigencia/index.html", "../", secao="vigencia", titulo="Quadro de vigência",
-                     lead="Situação de cada norma conforme o texto das normas posteriores. As normas federais seguem a anotação do texto compilado do planalto e das notas oficiais do CNE.",
+                     lead="Situação de cada norma conforme o texto das normas posteriores: vigente (sem alteração ou revogação registrada), alterada ou revogada em parte, revogada, "
+                          "em tramitação, a verificar ou em conflito de vigência. O texto prevalece sobre o registro do SIGRH; norma inferior não altera nem revoga superior; "
+                          "revogação expressa prevalece sobre alteração posterior (LINDB, art. 2º, § 3º). As normas federais seguem a anotação do texto compilado do planalto e das notas oficiais do CNE. "
+                          "Os quadros abaixo listam só as normas da UFPB.",
                      resumo=resumo, blocos=blocos)
 
     def _estrutura(self):
@@ -249,7 +265,8 @@ class Gerador:
                 vig = (f"{len(alt)} relação(ões) de alteração, revogação ou superação; {len(arts)} artigo(s) alcançado(s)" if alt else "nenhuma registrada")
                 linhas.append([self._link(n.id) + f'<br><span class="hint">{html.escape(descr.get(n.id, n.ementa or n.ementa_sigrh)[:300])}</span>',
                                f'<span class="pill lvl">{n.nivel}</span>', situ, html.escape(vig), texto_col])
-            return {"id": niveis[0].lower(), "titulo": titulo, "texto": texto, "colunas": ["Norma", "Nível", "Situação", "Vigência registrada", "Texto"], "linhas": linhas}
+            return {"id": niveis[0].lower(), "titulo": titulo, "texto": texto, "colunas": ["Norma", "Nível", "Situação", "Vigência registrada", "Texto"],
+                    "larguras": ["34%", "8%", "15%", "23%", "20%"], "linhas": linhas}
         blocos = [
             bloco("Estatuto (N5)", "Res. CONSUNI 07/2002. Cada alteração anotada no texto consolidado foi conferida com a resolução alteradora.", ["N5"]),
             bloco("Regimentos comuns (N6)", "Previstos no art. 107 do Estatuto: Regimento Geral, Regimento dos Órgãos Deliberativos (Res. 279/78) e Regimento da Reitoria (Res. 257/79).", ["N6"]),

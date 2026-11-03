@@ -9,7 +9,8 @@
 {% if bloco.texto %}<p class="hint" style="max-width:80ch">{{ bloco.texto }}</p>{% endif %}
 {% if bloco.html %}{{ bloco.html|safe }}{% endif %}
 {% if bloco.linhas is defined and bloco.linhas %}
-<div class="tabela"><table>
+<div class="tabela"><table{% if bloco.larguras %} class="fixa"{% endif %}>
+{% if bloco.larguras %}<colgroup>{% for w in bloco.larguras %}<col style="width:{{ w }}">{% endfor %}</colgroup>{% endif %}
 <thead><tr>{% for c in bloco.colunas %}<th>{{ c }}</th>{% endfor %}</tr></thead>
 <tbody>
 {% for l in bloco.linhas %}<tr>{% for c in l %}<td>{{ c|safe }}</td>{% endfor %}</tr>{% endfor %}
